@@ -1,0 +1,5 @@
+api/app/__pycache__/
+api/app/*.pyc
+solver/build_output/
+*.egg-info/
+frontend/
