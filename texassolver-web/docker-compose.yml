@@ -1,0 +1,39 @@
+services:
+  solver-api:
+    build:
+      context: ./solver
+      dockerfile: Dockerfile
+    container_name: texassolver-api
+    restart: unless-stopped
+    volumes:
+      # Persist job results across container restarts
+      - solver-jobs:/app/jobs
+    ports:
+      # Expose API directly for development; in production Nginx proxies it
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: texassolver-ui
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      solver-api:
+        condition: service_healthy
+    environment:
+      # Nginx uses this to proxy /api/* to the backend
+      - API_URL=http://solver-api:8000
+
+volumes:
+  solver-jobs:

@@ -1,0 +1,225 @@
+@import "tailwindcss";
+
+/* ─── Theme Definitions ─────────────────────────────────────────────────────── */
+
+:root,
+[data-theme="dark"] {
+  --bg-base:      #0d1117;
+  --bg-surface:   #161b22;
+  --bg-elevated:  #21262d;
+  --bg-hover:     #30363d;
+  --border:       #30363d;
+  --border-subtle:#21262d;
+  --text-primary: #e6edf3;
+  --text-secondary:#8b949e;
+  --text-muted:   #484f58;
+  --accent:       #10b981;
+  --accent-hover: #059669;
+  --accent-dim:   rgba(16,185,129,0.15);
+  --accent-text:  #6ee7b7;
+  --danger:       #f85149;
+  --warning:      #d29922;
+  --info:         #388bfd;
+  --range-empty:  #21262d;
+  --range-low:    rgba(16,185,129,0.25);
+  --range-mid:    rgba(16,185,129,0.55);
+  --range-full:   #10b981;
+  --card-spade:   #e6edf3;
+  --card-heart:   #f85149;
+  --card-diamond: #f85149;
+  --card-club:    #e6edf3;
+  --shadow:       0 4px 24px rgba(0,0,0,0.6);
+  --shadow-sm:    0 1px 8px rgba(0,0,0,0.4);
+  --radius:       0.75rem;
+}
+
+[data-theme="midnight"] {
+  --bg-base:      #080816;
+  --bg-surface:   #0f0f2d;
+  --bg-elevated:  #1a1a42;
+  --bg-hover:     #252560;
+  --border:       #2d2d70;
+  --border-subtle:#1a1a42;
+  --text-primary: #e8e8ff;
+  --text-secondary:#9090c0;
+  --text-muted:   #50507a;
+  --accent:       #818cf8;
+  --accent-hover: #6366f1;
+  --accent-dim:   rgba(129,140,248,0.15);
+  --accent-text:  #c7d2fe;
+  --danger:       #f87171;
+  --warning:      #fbbf24;
+  --info:         #60a5fa;
+  --range-empty:  #1a1a42;
+  --range-low:    rgba(129,140,248,0.25);
+  --range-mid:    rgba(129,140,248,0.55);
+  --range-full:   #818cf8;
+  --card-spade:   #e8e8ff;
+  --card-heart:   #f87171;
+  --card-diamond: #f87171;
+  --card-club:    #e8e8ff;
+  --shadow:       0 4px 24px rgba(0,0,30,0.8);
+  --shadow-sm:    0 1px 8px rgba(0,0,20,0.5);
+  --radius:       0.75rem;
+}
+
+[data-theme="ocean"] {
+  --bg-base:      #060d1a;
+  --bg-surface:   #0a1628;
+  --bg-elevated:  #0f2040;
+  --bg-hover:     #163060;
+  --border:       #1e3a5f;
+  --border-subtle:#0f2040;
+  --text-primary: #cce8ff;
+  --text-secondary:#6ba3c8;
+  --text-muted:   #2e5a7a;
+  --accent:       #22d3ee;
+  --accent-hover: #06b6d4;
+  --accent-dim:   rgba(34,211,238,0.15);
+  --accent-text:  #a5f3fc;
+  --danger:       #f87171;
+  --warning:      #fbbf24;
+  --info:         #38bdf8;
+  --range-empty:  #0f2040;
+  --range-low:    rgba(34,211,238,0.2);
+  --range-mid:    rgba(34,211,238,0.5);
+  --range-full:   #22d3ee;
+  --card-spade:   #cce8ff;
+  --card-heart:   #f87171;
+  --card-diamond: #f87171;
+  --card-club:    #cce8ff;
+  --shadow:       0 4px 24px rgba(0,10,30,0.8);
+  --shadow-sm:    0 1px 8px rgba(0,10,30,0.5);
+  --radius:       0.75rem;
+}
+
+[data-theme="poker"] {
+  --bg-base:      #0b1a0e;
+  --bg-surface:   #112216;
+  --bg-elevated:  #1a3320;
+  --bg-hover:     #244a2e;
+  --border:       #2d5e38;
+  --border-subtle:#1a3320;
+  --text-primary: #e8f5e9;
+  --text-secondary:#81c784;
+  --text-muted:   #3a6b40;
+  --accent:       #f59e0b;
+  --accent-hover: #d97706;
+  --accent-dim:   rgba(245,158,11,0.15);
+  --accent-text:  #fcd34d;
+  --danger:       #ef5350;
+  --warning:      #ff8f00;
+  --info:         #42a5f5;
+  --range-empty:  #1a3320;
+  --range-low:    rgba(245,158,11,0.2);
+  --range-mid:    rgba(245,158,11,0.5);
+  --range-full:   #f59e0b;
+  --card-spade:   #e8f5e9;
+  --card-heart:   #ef5350;
+  --card-diamond: #ef5350;
+  --card-club:    #e8f5e9;
+  --shadow:       0 4px 24px rgba(0,10,4,0.8);
+  --shadow-sm:    0 1px 8px rgba(0,10,4,0.5);
+  --radius:       0.75rem;
+}
+
+[data-theme="light"] {
+  --bg-base:      #f8fafc;
+  --bg-surface:   #ffffff;
+  --bg-elevated:  #f1f5f9;
+  --bg-hover:     #e2e8f0;
+  --border:       #e2e8f0;
+  --border-subtle:#f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary:#475569;
+  --text-muted:   #94a3b8;
+  --accent:       #0ea5e9;
+  --accent-hover: #0284c7;
+  --accent-dim:   rgba(14,165,233,0.1);
+  --accent-text:  #0369a1;
+  --danger:       #ef4444;
+  --warning:      #f59e0b;
+  --info:         #3b82f6;
+  --range-empty:  #f1f5f9;
+  --range-low:    rgba(14,165,233,0.2);
+  --range-mid:    rgba(14,165,233,0.5);
+  --range-full:   #0ea5e9;
+  --card-spade:   #1e293b;
+  --card-heart:   #ef4444;
+  --card-diamond: #ef4444;
+  --card-club:    #1e293b;
+  --shadow:       0 4px 24px rgba(0,0,0,0.1);
+  --shadow-sm:    0 1px 8px rgba(0,0,0,0.06);
+  --radius:       0.75rem;
+}
+
+/* ─── Base styles ────────────────────────────────────────────────────────────── */
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html { font-size: 14px; }
+
+body {
+  margin: 0;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.25s ease, color 0.15s ease;
+  min-height: 100vh;
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* ─── Theme transition ───────────────────────────────────────────────────────── */
+.theme-transition * {
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.15s ease !important;
+}
+
+/* ─── Range matrix cells ─────────────────────────────────────────────────────── */
+.range-cell {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid var(--bg-base);
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  font-weight: 600;
+  transition: filter 0.1s;
+  background: var(--range-empty);
+  color: var(--text-muted);
+  aspect-ratio: 1;
+}
+.range-cell:hover { filter: brightness(1.3); z-index: 2; }
+.range-cell.active { color: var(--bg-base); }
+
+/* ─── Card component ─────────────────────────────────────────────────────────── */
+.playing-card {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s;
+  user-select: none;
+}
+.playing-card:hover { border-color: var(--accent); background: var(--bg-hover); }
+.playing-card.selected {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent);
+}
+.playing-card.disabled { opacity: 0.3; cursor: not-allowed; pointer-events: none; }
