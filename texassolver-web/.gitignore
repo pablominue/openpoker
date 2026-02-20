@@ -6,3 +6,4 @@ solver/build_output/
 solver/install/
 *.json.bak
 .env
+../hand_samples/
