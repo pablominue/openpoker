@@ -1,0 +1,1262 @@
+﻿PokerStars Zoom Hand #259425870075:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:05:23 CET [2026/01/23 4:05:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pixussss (€5 in chips) 
+Seat 2: nicalomano (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: hernandS&G (€7.50 in chips) 
+Seat 5: QuinteFul377 (€4.81 in chips) 
+Seat 6: MDKristian (€11.31 in chips) 
+nicalomano: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 6s]
+hernandS&G: folds 
+QuinteFul377: raises €0.05 to €0.10
+MDKristian: folds 
+pixussss: folds 
+nicalomano: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.05) returned to QuinteFul377
+QuinteFul377 collected €0.12 from pot
+QuinteFul377: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pixussss (button) folded before Flop (didn't bet)
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: hernandS&G folded before Flop (didn't bet)
+Seat 5: QuinteFul377 collected (€0.12)
+Seat 6: MDKristian folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425870967:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:05:35 CET [2026/01/23 4:05:35 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kykyrak (€4.69 in chips) 
+Seat 2: pipinoelbreve9 (€5 in chips) 
+Seat 3: hernandS&G (€7.50 in chips) 
+Seat 4: Matao351393 (€6.12 in chips) 
+Seat 5: nicalomano (€5 in chips) 
+Seat 6: leobcn9 (€5 in chips) 
+pipinoelbreve9: posts small blind €0.02
+hernandS&G: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 5h]
+Matao351393: folds 
+nicalomano: raises €0.07 to €0.12
+leobcn9: folds 
+kykyrak: folds 
+pipinoelbreve9: folds 
+hernandS&G: calls €0.07
+*** FLOP *** [3s Ad Ac]
+hernandS&G: checks 
+nicalomano: checks 
+*** TURN *** [3s Ad Ac] [6c]
+hernandS&G: checks 
+nicalomano: checks 
+*** RIVER *** [3s Ad Ac 6c] [4c]
+hernandS&G: checks 
+nicalomano: checks 
+*** SHOW DOWN ***
+hernandS&G: shows [Kh Qh] (a pair of Aces)
+nicalomano: shows [2c 2d] (two pair, Aces and Deuces)
+nicalomano collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [3s Ad Ac 6c 4c]
+Seat 1: kykyrak (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: hernandS&G (big blind) showed [Kh Qh] and lost with a pair of Aces
+Seat 4: Matao351393 folded before Flop (didn't bet)
+Seat 5: nicalomano showed [2c 2d] and won (€0.25) with two pair, Aces and Deuces
+Seat 6: leobcn9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425871348:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:05:40 CET [2026/01/23 4:05:40 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: whiterain2020 (€5.75 in chips) 
+Seat 3: leobcn9 (€5 in chips) 
+Seat 4: Galiler (€6.85 in chips) 
+Seat 5: ShinjiTNK22 (€7.80 in chips) 
+Seat 6: kykyrak (€4.69 in chips) 
+whiterain2020: posts small blind €0.02
+leobcn9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 4s]
+Galiler: raises €0.08 to €0.13
+ShinjiTNK22: calls €0.13
+kykyrak: folds 
+pipinoelbreve9: raises €0.47 to €0.60
+whiterain2020: folds 
+leobcn9: folds 
+Galiler: folds 
+ShinjiTNK22: folds 
+Uncalled bet (€0.47) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.46 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.46 | Rake €0 
+Seat 1: pipinoelbreve9 (button) collected (€0.46)
+Seat 2: whiterain2020 (small blind) folded before Flop
+Seat 3: leobcn9 (big blind) folded before Flop
+Seat 4: Galiler folded before Flop
+Seat 5: ShinjiTNK22 folded before Flop
+Seat 6: kykyrak folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425874179:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:06:19 CET [2026/01/23 4:06:19 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nicalomano (€5.14 in chips) 
+Seat 2: MDKristian (€5 in chips) 
+Seat 3: hernandS&G (€8.79 in chips) 
+Seat 4: AFRAGIL79 (€3.08 in chips) 
+Seat 5: whiterain2020 (€7.13 in chips) 
+Seat 6: pipinoelbreve9 (€5.33 in chips) 
+MDKristian: posts small blind €0.02
+hernandS&G: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d 6s]
+AFRAGIL79: folds 
+whiterain2020: folds 
+pipinoelbreve9: folds 
+nicalomano: folds 
+MDKristian: folds 
+Uncalled bet (€0.03) returned to hernandS&G
+hernandS&G collected €0.04 from pot
+hernandS&G: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: nicalomano (button) folded before Flop (didn't bet)
+Seat 2: MDKristian (small blind) folded before Flop
+Seat 3: hernandS&G (big blind) collected (€0.04)
+Seat 4: AFRAGIL79 folded before Flop (didn't bet)
+Seat 5: whiterain2020 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425874448:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:06:22 CET [2026/01/23 4:06:22 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Matao351393 (€5.75 in chips) 
+Seat 2: Evan_x2m (€1.25 in chips) 
+Seat 3: pipinoelbreve9 (€5.33 in chips) 
+Seat 4: kykyrak (€5.38 in chips) 
+Seat 5: nicalomano (€5.14 in chips) 
+Seat 6: MDKristian (€5 in chips) 
+Evan_x2m: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 9d]
+kykyrak: folds 
+nicalomano: folds 
+MDKristian: folds 
+Matao351393: raises €0.07 to €0.12
+Evan_x2m: calls €0.10
+pipinoelbreve9: folds 
+*** FLOP *** [Ts Qc 5s]
+Evan_x2m: bets €0.28
+Matao351393: calls €0.28
+*** TURN *** [Ts Qc 5s] [2h]
+Evan_x2m: bets €0.41
+Matao351393: calls €0.41
+*** RIVER *** [Ts Qc 5s 2h] [3c]
+Evan_x2m: checks 
+Matao351393: bets €4.94 and is all-in
+Evan_x2m: folds 
+Uncalled bet (€4.94) returned to Matao351393
+Matao351393 collected €1.59 from pot
+Matao351393: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.67 | Rake €0.08 
+Board [Ts Qc 5s 2h 3c]
+Seat 1: Matao351393 (button) collected (€1.59)
+Seat 2: Evan_x2m (small blind) folded on the River
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: kykyrak folded before Flop (didn't bet)
+Seat 5: nicalomano folded before Flop (didn't bet)
+Seat 6: MDKristian folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425876017:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:06:43 CET [2026/01/23 4:06:43 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: leobcn9 (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5.28 in chips) 
+Seat 3: MDKristian (€11.51 in chips) 
+Seat 4: lk9294 (€12.40 in chips) 
+Seat 5: hernandS&G (€8.79 in chips) 
+pipinoelbreve9: posts small blind €0.02
+MDKristian: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Jh]
+lk9294: calls €0.05
+hernandS&G: folds 
+leobcn9: folds 
+pipinoelbreve9: raises €0.20 to €0.25
+MDKristian: folds 
+lk9294: calls €0.20
+*** FLOP *** [3h 9d Js]
+pipinoelbreve9: bets €0.17
+lk9294: calls €0.17
+*** TURN *** [3h 9d Js] [Ks]
+pipinoelbreve9: bets €0.56
+lk9294: folds 
+Uncalled bet (€0.56) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.85 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.89 | Rake €0.04 
+Board [3h 9d Js Ks]
+Seat 1: leobcn9 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.85)
+Seat 3: MDKristian (big blind) folded before Flop
+Seat 4: lk9294 folded on the Turn
+Seat 5: hernandS&G folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425880932:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:07:51 CET [2026/01/23 4:07:51 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: STEAKssss (€5 in chips) 
+Seat 2: whiterain2020 (€10.65 in chips) 
+Seat 3: leobcn9 (€5.07 in chips) 
+Seat 4: pedrofmb95 (€4.17 in chips) 
+Seat 5: pipinoelbreve9 (€5.71 in chips) 
+Seat 6: Galiler (€5 in chips) 
+whiterain2020: posts small blind €0.02
+leobcn9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Qs]
+pedrofmb95: raises €0.12 to €0.17
+pipinoelbreve9: folds 
+Galiler: folds 
+STEAKssss: folds 
+whiterain2020: folds 
+leobcn9: folds 
+Uncalled bet (€0.12) returned to pedrofmb95
+pedrofmb95 collected €0.12 from pot
+pedrofmb95: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: STEAKssss (button) folded before Flop (didn't bet)
+Seat 2: whiterain2020 (small blind) folded before Flop
+Seat 3: leobcn9 (big blind) folded before Flop
+Seat 4: pedrofmb95 collected (€0.12)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Galiler folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425881449:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:07:58 CET [2026/01/23 4:07:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.71 in chips) 
+Seat 2: whiterain2020 (€7.08 in chips) 
+Seat 3: Galiler (€5 in chips) 
+Seat 4: MDKristian (€11.56 in chips) 
+Seat 5: leobcn9 (€5.02 in chips) 
+Seat 6: ShinjiTNK22 (€5.10 in chips) 
+whiterain2020: posts small blind €0.02
+Galiler: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 9h]
+MDKristian: folds 
+leobcn9: folds 
+ShinjiTNK22: folds 
+pipinoelbreve9: folds 
+whiterain2020: raises €0.10 to €0.15
+Galiler: folds 
+Uncalled bet (€0.10) returned to whiterain2020
+whiterain2020 collected €0.10 from pot
+whiterain2020: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: whiterain2020 (small blind) collected (€0.10)
+Seat 3: Galiler (big blind) folded before Flop
+Seat 4: MDKristian folded before Flop (didn't bet)
+Seat 5: leobcn9 folded before Flop (didn't bet)
+Seat 6: ShinjiTNK22 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425880348:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:07:42 CET [2026/01/23 4:07:42 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: MDKristian (€5 in chips) 
+Seat 2: ShinjiTNK22 (€7.33 in chips) 
+Seat 3: brbosadb (€4.93 in chips) 
+Seat 4: Matao351393 (€6.24 in chips) 
+Seat 5: nicalomano (€5.07 in chips) 
+Seat 6: pipinoelbreve9 (€5.71 in chips) 
+ShinjiTNK22: posts small blind €0.02
+brbosadb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 6c]
+Matao351393: folds 
+nicalomano: folds 
+pipinoelbreve9: folds 
+MDKristian: raises €0.06 to €0.11
+ShinjiTNK22: calls €0.09
+brbosadb: calls €0.06
+*** FLOP *** [8h 2c 4s]
+ShinjiTNK22: checks 
+brbosadb: bets €0.16
+MDKristian: calls €0.16
+ShinjiTNK22: folds 
+*** TURN *** [8h 2c 4s] [4d]
+brbosadb: bets €0.36
+MDKristian: folds 
+Uncalled bet (€0.36) returned to brbosadb
+brbosadb collected €0.62 from pot
+brbosadb: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [8h 2c 4s 4d]
+Seat 1: MDKristian (button) folded on the Turn
+Seat 2: ShinjiTNK22 (small blind) folded on the Flop
+Seat 3: brbosadb (big blind) collected (€0.62)
+Seat 4: Matao351393 folded before Flop (didn't bet)
+Seat 5: nicalomano folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425881714:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:01 CET [2026/01/23 4:08:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Crazy_Dude2490 (€5.57 in chips) 
+Seat 2: whiterain2020 (€5.71 in chips) 
+Seat 3: pedrofmb95 (€4.24 in chips) 
+Seat 4: pipinoelbreve9 (€5.71 in chips) 
+Seat 5: ShinjiTNK22 (€5.10 in chips) 
+Seat 6: leobcn9 (€5.02 in chips) 
+whiterain2020: posts small blind €0.02
+pedrofmb95: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d 6s]
+pipinoelbreve9: folds 
+ShinjiTNK22: raises €0.07 to €0.12
+leobcn9: folds 
+Crazy_Dude2490: folds 
+whiterain2020: folds 
+pedrofmb95: calls €0.07
+*** FLOP *** [3h 4s 3c]
+pedrofmb95: checks 
+ShinjiTNK22: checks 
+*** TURN *** [3h 4s 3c] [Jc]
+pedrofmb95: bets €0.13
+ShinjiTNK22: folds 
+Uncalled bet (€0.13) returned to pedrofmb95
+pedrofmb95 collected €0.25 from pot
+pedrofmb95: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [3h 4s 3c Jc]
+Seat 1: Crazy_Dude2490 (button) folded before Flop (didn't bet)
+Seat 2: whiterain2020 (small blind) folded before Flop
+Seat 3: pedrofmb95 (big blind) collected (€0.25)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: ShinjiTNK22 folded on the Turn
+Seat 6: leobcn9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425882428:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:11 CET [2026/01/23 4:08:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pixussss (€5.61 in chips) 
+Seat 2: Galiler (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5.71 in chips) 
+Seat 4: ShinjiTNK22 (€7.22 in chips) 
+Seat 5: tiotios (€5.26 in chips) 
+Seat 6: STEAKssss (€5 in chips) 
+Galiler: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Td]
+ShinjiTNK22: raises €0.10 to €0.15
+tiotios: calls €0.15
+STEAKssss: folds 
+pixussss: folds 
+Galiler: raises €0.45 to €0.60
+pipinoelbreve9: folds 
+ShinjiTNK22: folds 
+tiotios: folds 
+Uncalled bet (€0.45) returned to Galiler
+Galiler collected €0.50 from pot
+Galiler: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0 
+Seat 1: pixussss (button) folded before Flop (didn't bet)
+Seat 2: Galiler (small blind) collected (€0.50)
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: ShinjiTNK22 folded before Flop
+Seat 5: tiotios folded before Flop
+Seat 6: STEAKssss folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425884377:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:38 CET [2026/01/23 4:08:38 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: PutesyFabes (€2.20 in chips) 
+Seat 2: pipinoelbreve9 (€5.66 in chips) 
+Seat 3: tiotios (€5 in chips) 
+Seat 4: Galiler (€12.36 in chips) 
+Seat 5: Matao351393 (€6.01 in chips) 
+Seat 6: brbosadb (€5.26 in chips) 
+pipinoelbreve9: posts small blind €0.02
+tiotios: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 9d]
+Galiler: folds 
+Matao351393: folds 
+brbosadb: folds 
+PutesyFabes has timed out
+PutesyFabes: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.03) returned to tiotios
+tiotios collected €0.04 from pot
+tiotios: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: PutesyFabes (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: tiotios (big blind) collected (€0.04)
+Seat 4: Galiler folded before Flop (didn't bet)
+Seat 5: Matao351393 folded before Flop (didn't bet)
+Seat 6: brbosadb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425884748:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:43 CET [2026/01/23 4:08:43 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: STEAKssss (€5 in chips) 
+Seat 2: leobcn9 (€5.99 in chips) 
+Seat 3: Galiler (€12.36 in chips) 
+Seat 4: MDKristian (€5.86 in chips) 
+Seat 5: Matao351393 (€6.33 in chips) 
+Seat 6: pipinoelbreve9 (€5.64 in chips) 
+leobcn9: posts small blind €0.02
+Galiler: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d Jc]
+MDKristian: folds 
+Matao351393: folds 
+pipinoelbreve9: folds 
+STEAKssss: raises €0.07 to €0.12
+leobcn9: raises €0.33 to €0.45
+Galiler: folds 
+STEAKssss: calls €0.33
+*** FLOP *** [Qc 9c 6h]
+leobcn9: bets €0.30
+STEAKssss: folds 
+Uncalled bet (€0.30) returned to leobcn9
+leobcn9 collected €0.90 from pot
+leobcn9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.05 
+Board [Qc 9c 6h]
+Seat 1: STEAKssss (button) folded on the Flop
+Seat 2: leobcn9 (small blind) collected (€0.90)
+Seat 3: Galiler (big blind) folded before Flop
+Seat 4: MDKristian folded before Flop (didn't bet)
+Seat 5: Matao351393 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425884031:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:33 CET [2026/01/23 4:08:33 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: whiterain2020 (€5.26 in chips) 
+Seat 2: Evan_x2m (€1.01 in chips) 
+Seat 3: nicoclvogmmz (€1.34 in chips) 
+Seat 4: Galiler (€12.36 in chips) 
+Seat 5: pipinoelbreve9 (€5.66 in chips) 
+Seat 6: tiotios (€5.07 in chips) 
+Evan_x2m: posts small blind €0.02
+nicoclvogmmz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 7h]
+Galiler: folds 
+pipinoelbreve9: folds 
+tiotios: raises €0.10 to €0.15
+whiterain2020: folds 
+Evan_x2m: folds 
+nicoclvogmmz: calls €0.10
+*** FLOP *** [8h Ah Js]
+nicoclvogmmz: checks 
+tiotios: checks 
+*** TURN *** [8h Ah Js] [Kd]
+nicoclvogmmz: bets €0.15
+tiotios: folds 
+Uncalled bet (€0.15) returned to nicoclvogmmz
+nicoclvogmmz collected €0.30 from pot
+nicoclvogmmz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [8h Ah Js Kd]
+Seat 1: whiterain2020 (button) folded before Flop (didn't bet)
+Seat 2: Evan_x2m (small blind) folded before Flop
+Seat 3: nicoclvogmmz (big blind) collected (€0.30)
+Seat 4: Galiler folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: tiotios folded on the Turn
+
+
+
+PokerStars Zoom Hand #259425885019:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:08:46 CET [2026/01/23 4:08:46 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.64 in chips) 
+Seat 2: Matao351393 (€6.01 in chips) 
+Seat 3: Evan_x2m (€0.99 in chips) 
+Seat 4: MDKristian (€5.86 in chips) 
+Seat 5: Fergonin (€5.60 in chips) 
+Seat 6: AFRAGIL79 (€6.88 in chips) 
+Matao351393: posts small blind €0.02
+Evan_x2m: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 5d]
+MDKristian: folds 
+Fergonin: raises €0.07 to €0.12
+AFRAGIL79: raises €0.23 to €0.35
+pipinoelbreve9: folds 
+Matao351393: folds 
+Evan_x2m: raises €0.64 to €0.99 and is all-in
+Fergonin: folds 
+AFRAGIL79: folds 
+Uncalled bet (€0.64) returned to Evan_x2m
+Evan_x2m collected €0.84 from pot
+Evan_x2m: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.84 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: Matao351393 (small blind) folded before Flop
+Seat 3: Evan_x2m (big blind) collected (€0.84)
+Seat 4: MDKristian folded before Flop (didn't bet)
+Seat 5: Fergonin folded before Flop
+Seat 6: AFRAGIL79 folded before Flop
+
+
+
+PokerStars Zoom Hand #259425886472:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:09:06 CET [2026/01/23 4:09:06 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: lk9294 (€8.07 in chips) 
+Seat 2: Matao351393 (€6.28 in chips) 
+Seat 3: MDKristian (€9.96 in chips) 
+Seat 4: brbosadb (€5.26 in chips) 
+Seat 5: pipinoelbreve9 (€5.64 in chips) 
+Seat 6: tiotios (€5.04 in chips) 
+Matao351393: posts small blind €0.02
+MDKristian: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Ah]
+brbosadb: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+tiotios: folds 
+lk9294: calls €0.12
+Matao351393: folds 
+MDKristian: folds 
+*** FLOP *** [Ks Qc Kc]
+pipinoelbreve9: bets €0.10
+lk9294: calls €0.10
+*** TURN *** [Ks Qc Kc] [Qh]
+pipinoelbreve9: checks 
+lk9294: checks 
+*** RIVER *** [Ks Qc Kc Qh] [7d]
+pipinoelbreve9: checks 
+lk9294: bets €0.24
+pipinoelbreve9: calls €0.24
+*** SHOW DOWN ***
+lk9294: shows [Qs Jc] (a full house, Queens full of Kings)
+pipinoelbreve9: mucks hand 
+lk9294 collected €0.94 from pot
+*** SUMMARY ***
+Total pot €0.99 | Rake €0.05 
+Board [Ks Qc Kc Qh 7d]
+Seat 1: lk9294 (button) showed [Qs Jc] and won (€0.94) with a full house, Queens full of Kings
+Seat 2: Matao351393 (small blind) folded before Flop
+Seat 3: MDKristian (big blind) folded before Flop
+Seat 4: brbosadb folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 mucked [Ts Ah]
+Seat 6: tiotios folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425890021:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:09:54 CET [2026/01/23 4:09:54 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: brbosadb (€5.26 in chips) 
+Seat 2: Aznar09 (€5.02 in chips) 
+Seat 3: hernandS&G (€8.97 in chips) 
+Seat 4: pipinoelbreve9 (€5.18 in chips) 
+Seat 5: MDKristian (€9.89 in chips) 
+Seat 6: Fergonin (€5.43 in chips) 
+Aznar09: posts small blind €0.02
+hernandS&G: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Ah]
+pipinoelbreve9: raises €0.07 to €0.12
+MDKristian: folds 
+Fergonin: folds 
+brbosadb: calls €0.12
+Aznar09: folds 
+hernandS&G: calls €0.07
+*** FLOP *** [5c 9c Td]
+hernandS&G: checks 
+pipinoelbreve9: checks 
+brbosadb: bets €0.18
+hernandS&G: folds 
+pipinoelbreve9: calls €0.18
+*** TURN *** [5c 9c Td] [As]
+pipinoelbreve9: bets €0.46
+brbosadb: folds 
+Uncalled bet (€0.46) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.70 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.74 | Rake €0.04 
+Board [5c 9c Td As]
+Seat 1: brbosadb (button) folded on the Turn
+Seat 2: Aznar09 (small blind) folded before Flop
+Seat 3: hernandS&G (big blind) folded on the Flop
+Seat 4: pipinoelbreve9 collected (€0.70)
+Seat 5: MDKristian folded before Flop (didn't bet)
+Seat 6: Fergonin folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425894682:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:10:55 CET [2026/01/23 4:10:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: MDKristian (€10 in chips) 
+Seat 2: Galiler (€6.79 in chips) 
+Seat 3: pipinoelbreve9 (€5.58 in chips) 
+Seat 4: brbosadb (€5.26 in chips) 
+Seat 5: nicalomano (€6.05 in chips) 
+Seat 6: whiterain2020 (€10.85 in chips) 
+Galiler: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Jh]
+brbosadb: folds 
+nicalomano: raises €0.07 to €0.12
+whiterain2020: folds 
+MDKristian: folds 
+Galiler: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.07) returned to nicalomano
+nicalomano collected €0.12 from pot
+nicalomano: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: MDKristian (button) folded before Flop (didn't bet)
+Seat 2: Galiler (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: brbosadb folded before Flop (didn't bet)
+Seat 5: nicalomano collected (€0.12)
+Seat 6: whiterain2020 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425896140:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:11:15 CET [2026/01/23 4:11:15 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: hernandS&G (€8.73 in chips) 
+Seat 2: pipinoelbreve9 (€5.53 in chips) 
+Seat 3: MDKristian (€11.90 in chips) 
+Seat 4: whiterain2020 (€7.90 in chips) 
+Seat 5: Fergonin (€5.41 in chips) 
+Seat 6: PutesyFabes (€1.97 in chips) 
+pipinoelbreve9: posts small blind €0.02
+MDKristian: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Ah]
+whiterain2020: folds 
+Fergonin: folds 
+PutesyFabes: folds 
+hernandS&G: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+MDKristian: calls €0.07
+*** FLOP *** [As 4d Td]
+pipinoelbreve9: bets €0.08
+MDKristian: calls €0.08
+*** TURN *** [As 4d Td] [7c]
+pipinoelbreve9: bets €0.19
+MDKristian: folds 
+Uncalled bet (€0.19) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.38 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.40 | Rake €0.02 
+Board [As 4d Td 7c]
+Seat 1: hernandS&G (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.38)
+Seat 3: MDKristian (big blind) folded on the Turn
+Seat 4: whiterain2020 folded before Flop (didn't bet)
+Seat 5: Fergonin folded before Flop (didn't bet)
+Seat 6: PutesyFabes folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425899772:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:12:02 CET [2026/01/23 4:12:02 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: tiotios (€4.78 in chips) 
+Seat 2: Galiler (€12.18 in chips) 
+Seat 3: Fergonin (€5.34 in chips) 
+Seat 4: pixussss (€14.97 in chips) 
+Seat 5: nicalomano (€5.25 in chips) 
+Seat 6: pipinoelbreve9 (€5.71 in chips) 
+Galiler: posts small blind €0.02
+Fergonin: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 4c]
+pixussss: raises €0.07 to €0.12
+nicalomano: folds 
+pipinoelbreve9: folds 
+tiotios: folds 
+Galiler: folds 
+Fergonin: folds 
+Uncalled bet (€0.07) returned to pixussss
+pixussss collected €0.12 from pot
+pixussss: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tiotios (button) folded before Flop (didn't bet)
+Seat 2: Galiler (small blind) folded before Flop
+Seat 3: Fergonin (big blind) folded before Flop
+Seat 4: pixussss collected (€0.12)
+Seat 5: nicalomano folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425900695:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:12:14 CET [2026/01/23 4:12:14 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: whiterain2020 (€7.90 in chips) 
+Seat 2: AFRAGIL79 (€7.43 in chips) 
+Seat 3: pixussss (€15.04 in chips) 
+Seat 4: pipinoelbreve9 (€5.71 in chips) 
+Seat 5: MDKristian (€5.12 in chips) 
+Seat 6: Galiler (€12.16 in chips) 
+AFRAGIL79: posts small blind €0.02
+pixussss: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Qd]
+pipinoelbreve9: folds 
+MDKristian: folds 
+Galiler: folds 
+whiterain2020: folds 
+AFRAGIL79: raises €0.05 to €0.10
+pixussss: folds 
+Uncalled bet (€0.05) returned to AFRAGIL79
+AFRAGIL79 collected €0.10 from pot
+AFRAGIL79: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: whiterain2020 (button) folded before Flop (didn't bet)
+Seat 2: AFRAGIL79 (small blind) collected (€0.10)
+Seat 3: pixussss (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: MDKristian folded before Flop (didn't bet)
+Seat 6: Galiler folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425899359:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:11:57 CET [2026/01/23 4:11:57 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.71 in chips) 
+Seat 2: tiotios (€4.80 in chips) 
+Seat 3: MDKristian (€7.99 in chips) 
+Seat 4: pixussss (€5.17 in chips) 
+Seat 5: Galiler (€12.18 in chips) 
+Seat 6: Matao351393 (€5.61 in chips) 
+tiotios: posts small blind €0.02
+MDKristian: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Kc]
+pixussss: folds 
+Galiler: folds 
+Matao351393: raises €0.07 to €0.12
+pipinoelbreve9: folds 
+tiotios: folds 
+MDKristian: calls €0.07
+*** FLOP *** [2h 3c Kh]
+MDKristian: checks 
+Matao351393: bets €0.08
+MDKristian: calls €0.08
+*** TURN *** [2h 3c Kh] [6d]
+MDKristian: bets €0.30
+Matao351393: folds 
+Uncalled bet (€0.30) returned to MDKristian
+MDKristian collected €0.40 from pot
+MDKristian: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.42 | Rake €0.02 
+Board [2h 3c Kh 6d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: tiotios (small blind) folded before Flop
+Seat 3: MDKristian (big blind) collected (€0.40)
+Seat 4: pixussss folded before Flop (didn't bet)
+Seat 5: Galiler folded before Flop (didn't bet)
+Seat 6: Matao351393 folded on the Turn
+
+
+
+PokerStars Zoom Hand #259425901219:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:12:21 CET [2026/01/23 4:12:21 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: MDKristian (€5.12 in chips) 
+Seat 2: AFRAGIL79 (€2.59 in chips) 
+Seat 3: pipinoelbreve9 (€5.71 in chips) 
+Seat 4: Galiler (€12.16 in chips) 
+Seat 5: nicalomano (€5 in chips) 
+Seat 6: pixussss (€5.12 in chips) 
+AFRAGIL79: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 6h]
+Galiler: raises €0.08 to €0.13
+nicalomano: folds 
+pixussss: folds 
+MDKristian: folds 
+AFRAGIL79: folds 
+pipinoelbreve9: calls €0.08
+*** FLOP *** [Qc 4d 3s]
+pipinoelbreve9: checks 
+Galiler: bets €0.14
+pipinoelbreve9: calls €0.14
+*** TURN *** [Qc 4d 3s] [3c]
+pipinoelbreve9: checks 
+Galiler: checks 
+*** RIVER *** [Qc 4d 3s 3c] [8d]
+pipinoelbreve9: bets €0.27
+Galiler: folds 
+Uncalled bet (€0.27) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.53 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.56 | Rake €0.03 
+Board [Qc 4d 3s 3c 8d]
+Seat 1: MDKristian (button) folded before Flop (didn't bet)
+Seat 2: AFRAGIL79 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.53)
+Seat 4: Galiler folded on the River
+Seat 5: nicalomano folded before Flop (didn't bet)
+Seat 6: pixussss folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425900217:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:12:07 CET [2026/01/23 4:12:07 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: rrcckk (€7.33 in chips) 
+Seat 2: nicalomano (€5.25 in chips) 
+Seat 3: tiotios (€5.18 in chips) 
+Seat 4: brbosadb (€5.03 in chips) 
+Seat 5: pipinoelbreve9 (€5.71 in chips) 
+Seat 6: hernandS&G (€8.66 in chips) 
+nicalomano: posts small blind €0.02
+tiotios: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 9h]
+brbosadb: raises €0.10 to €0.15
+pipinoelbreve9: folds 
+hernandS&G: calls €0.15
+rrcckk: calls €0.15
+nicalomano: raises €0.59 to €0.74
+tiotios: folds 
+brbosadb: folds 
+hernandS&G: folds 
+rrcckk: calls €0.59
+*** FLOP *** [Jc Jh 9s]
+nicalomano: bets €0.64
+rrcckk: calls €0.64
+*** TURN *** [Jc Jh 9s] [3h]
+nicalomano: bets €1.44
+rrcckk: folds 
+Uncalled bet (€1.44) returned to nicalomano
+nicalomano collected €2.95 from pot
+nicalomano: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.11 | Rake €0.16 
+Board [Jc Jh 9s 3h]
+Seat 1: rrcckk (button) folded on the Turn
+Seat 2: nicalomano (small blind) collected (€2.95)
+Seat 3: tiotios (big blind) folded before Flop
+Seat 4: brbosadb folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: hernandS&G folded before Flop
+
+
+
+PokerStars Zoom Hand #259425905582:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:13:17 CET [2026/01/23 4:13:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ShinjiTNK22 (€6.77 in chips) 
+Seat 2: cacharro2294 (€4.23 in chips) 
+Seat 3: hernandS&G (€8.51 in chips) 
+Seat 4: MDKristian (€11.70 in chips) 
+Seat 5: pipinoelbreve9 (€5.97 in chips) 
+Seat 6: Evan_x2m (€1.87 in chips) 
+cacharro2294: posts small blind €0.02
+hernandS&G: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Kc]
+MDKristian: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+Evan_x2m: folds 
+ShinjiTNK22: folds 
+cacharro2294: calls €0.10
+hernandS&G: folds 
+*** FLOP *** [7h Qs 7s]
+cacharro2294: checks 
+pipinoelbreve9: bets €0.09
+cacharro2294: folds 
+Uncalled bet (€0.09) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.28 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.01 
+Board [7h Qs 7s]
+Seat 1: ShinjiTNK22 (button) folded before Flop (didn't bet)
+Seat 2: cacharro2294 (small blind) folded on the Flop
+Seat 3: hernandS&G (big blind) folded before Flop
+Seat 4: MDKristian folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (€0.28)
+Seat 6: Evan_x2m folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425908191:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:13:51 CET [2026/01/23 4:13:51 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: tiotios (€8.03 in chips) 
+Seat 2: pipinoelbreve9 (€6.13 in chips) 
+Seat 3: Clainjoseph (€16.04 in chips) 
+Seat 4: nicalomano (€5 in chips) 
+Seat 5: whiterain2020 (€5.05 in chips) 
+Seat 6: nicoclvogmmz (€1.83 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Clainjoseph: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Kh]
+nicalomano: folds 
+whiterain2020: folds 
+nicoclvogmmz: calls €0.05
+tiotios: folds 
+pipinoelbreve9: calls €0.03
+Clainjoseph: checks 
+*** FLOP *** [Ac 2d Ah]
+pipinoelbreve9: checks 
+Clainjoseph: checks 
+nicoclvogmmz: checks 
+*** TURN *** [Ac 2d Ah] [8c]
+pipinoelbreve9: checks 
+Clainjoseph: checks 
+nicoclvogmmz: checks 
+*** RIVER *** [Ac 2d Ah 8c] [Qc]
+pipinoelbreve9: checks 
+Clainjoseph: checks 
+nicoclvogmmz: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [7s Kh] (a pair of Aces)
+Clainjoseph: shows [8h 9h] (two pair, Aces and Eights)
+nicoclvogmmz: mucks hand 
+Clainjoseph collected €0.14 from pot
+*** SUMMARY ***
+Total pot €0.15 | Rake €0.01 
+Board [Ac 2d Ah 8c Qc]
+Seat 1: tiotios (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [7s Kh] and lost with a pair of Aces
+Seat 3: Clainjoseph (big blind) showed [8h 9h] and won (€0.14) with two pair, Aces and Eights
+Seat 4: nicalomano folded before Flop (didn't bet)
+Seat 5: whiterain2020 folded before Flop (didn't bet)
+Seat 6: nicoclvogmmz mucked [Jh Kd]
+
+
+
+PokerStars Zoom Hand #259425911675:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:14:37 CET [2026/01/23 4:14:37 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pedrofmb95 (€4.25 in chips) 
+Seat 2: Aznar09 (€5.21 in chips) 
+Seat 3: pipinoelbreve9 (€6.08 in chips) 
+Seat 4: Galiler (€11.61 in chips) 
+Seat 5: MDKristian (€5 in chips) 
+Seat 6: neirdanaej (€6.08 in chips) 
+Aznar09: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 5h]
+Galiler: folds 
+MDKristian: folds 
+neirdanaej: raises €0.07 to €0.12
+pedrofmb95: calls €0.12
+Aznar09: calls €0.10
+pipinoelbreve9: calls €0.07
+*** FLOP *** [Ks 7d 2d]
+Aznar09: checks 
+pipinoelbreve9: checks 
+neirdanaej: checks 
+pedrofmb95: checks 
+*** TURN *** [Ks 7d 2d] [9d]
+Aznar09: checks 
+pipinoelbreve9: checks 
+neirdanaej: checks 
+pedrofmb95: bets €0.23
+Aznar09: folds 
+pipinoelbreve9: folds 
+neirdanaej: folds 
+Uncalled bet (€0.23) returned to pedrofmb95
+pedrofmb95 collected €0.46 from pot
+pedrofmb95: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.48 | Rake €0.02 
+Board [Ks 7d 2d 9d]
+Seat 1: pedrofmb95 (button) collected (€0.46)
+Seat 2: Aznar09 (small blind) folded on the Turn
+Seat 3: pipinoelbreve9 (big blind) folded on the Turn
+Seat 4: Galiler folded before Flop (didn't bet)
+Seat 5: MDKristian folded before Flop (didn't bet)
+Seat 6: neirdanaej folded on the Turn
+
+
+
+PokerStars Zoom Hand #259425916616:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:15:41 CET [2026/01/23 4:15:41 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: tiotios (€5.10 in chips) 
+Seat 2: kykyrak (€6.22 in chips) 
+Seat 3: pat1605 (€4.24 in chips) 
+Seat 4: brbosadb (€4.76 in chips) 
+Seat 5: hernandS&G (€6.58 in chips) 
+Seat 6: pipinoelbreve9 (€5.96 in chips) 
+kykyrak: posts small blind €0.02
+pat1605: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Jd]
+brbosadb: folds 
+hernandS&G: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+tiotios: folds 
+kykyrak: folds 
+pat1605: calls €0.07
+*** FLOP *** [2h 7c 5c]
+pat1605: checks 
+pipinoelbreve9: checks 
+*** TURN *** [2h 7c 5c] [6s]
+pat1605: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [2h 7c 5c 6s] [5h]
+pat1605: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+pat1605: shows [Qd Ks] (a pair of Fives)
+pipinoelbreve9: mucks hand 
+pat1605 collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [2h 7c 5c 6s 5h]
+Seat 1: tiotios (button) folded before Flop (didn't bet)
+Seat 2: kykyrak (small blind) folded before Flop
+Seat 3: pat1605 (big blind) showed [Qd Ks] and won (€0.25) with a pair of Fives
+Seat 4: brbosadb folded before Flop (didn't bet)
+Seat 5: hernandS&G folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 mucked [Kh Jd]
+
+
+
+PokerStars Zoom Hand #259425919470:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:16:18 CET [2026/01/23 4:16:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.84 in chips) 
+Seat 2: brbosadb (€4.78 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: MDKristian (€9.80 in chips) 
+Seat 5: pat1605 (€4.37 in chips) 
+brbosadb: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Kh]
+MDKristian: folds 
+pat1605: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+brbosadb: folds 
+nicalomano: calls €0.07
+*** FLOP *** [2h 8h 9d]
+nicalomano: checks 
+pipinoelbreve9: bets €0.08
+nicalomano: folds 
+Uncalled bet (€0.08) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [2h 8h 9d]
+Seat 1: pipinoelbreve9 (button) collected (€0.25)
+Seat 2: brbosadb (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded on the Flop
+Seat 4: MDKristian folded before Flop (didn't bet)
+Seat 5: pat1605 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425920942:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:16:36 CET [2026/01/23 4:16:36 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Crazy_Dude2490 (€6.24 in chips) 
+Seat 2: dragonfly2467 (€5 in chips) 
+Seat 3: nicalomano (€5.55 in chips) 
+Seat 4: pipinoelbreve9 (€5.97 in chips) 
+Seat 5: tiotios (€7.50 in chips) 
+Seat 6: MDKristian (€6.08 in chips) 
+dragonfly2467: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Kc]
+pipinoelbreve9: raises €0.07 to €0.12
+tiotios: calls €0.12
+MDKristian: folds 
+Crazy_Dude2490: calls €0.12
+dragonfly2467: folds 
+nicalomano: folds 
+*** FLOP *** [8s 3d Jh]
+pipinoelbreve9: bets €0.14
+tiotios: folds 
+Crazy_Dude2490: folds 
+Uncalled bet (€0.14) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.41 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.43 | Rake €0.02 
+Board [8s 3d Jh]
+Seat 1: Crazy_Dude2490 (button) folded on the Flop
+Seat 2: dragonfly2467 (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.41)
+Seat 5: tiotios folded on the Flop
+Seat 6: MDKristian folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425922785:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:17:00 CET [2026/01/23 4:17:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: NCabral_SCP (€2.40 in chips) 
+Seat 2: pipinoelbreve9 (€6.26 in chips) 
+Seat 3: nicoclvogmmz (€1.48 in chips) 
+Seat 4: tiotios (€7.38 in chips) 
+Seat 5: MDKristian (€9.71 in chips) 
+Seat 6: Evan_x2m (€1.34 in chips) 
+pipinoelbreve9: posts small blind €0.02
+nicoclvogmmz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 5c]
+tiotios: folds 
+MDKristian: folds 
+Evan_x2m: folds 
+NCabral_SCP: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+nicoclvogmmz: folds 
+Uncalled bet (€0.07) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: NCabral_SCP (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.10)
+Seat 3: nicoclvogmmz (big blind) folded before Flop
+Seat 4: tiotios folded before Flop (didn't bet)
+Seat 5: MDKristian folded before Flop (didn't bet)
+Seat 6: Evan_x2m folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425924194:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:17:18 CET [2026/01/23 4:17:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ShinjiTNK22 (€6.83 in chips) 
+Seat 2: NCabral_SCP (€2.40 in chips) 
+Seat 3: AFRAGIL79 (€2.04 in chips) 
+Seat 4: nicalomano (€5.13 in chips) 
+Seat 5: pipinoelbreve9 (€6.31 in chips) 
+NCabral_SCP: posts small blind €0.02
+AFRAGIL79: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh Js]
+nicalomano: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+ShinjiTNK22: folds 
+NCabral_SCP: folds 
+AFRAGIL79: folds 
+Uncalled bet (€0.07) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: ShinjiTNK22 (button) folded before Flop (didn't bet)
+Seat 2: NCabral_SCP (small blind) folded before Flop
+Seat 3: AFRAGIL79 (big blind) folded before Flop
+Seat 4: nicalomano folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #259425925199:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:17:31 CET [2026/01/23 4:17:31 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: tiotios (€6.72 in chips) 
+Seat 2: nicalomano (€6.67 in chips) 
+Seat 3: kykyrak (€4.69 in chips) 
+Seat 4: pipinoelbreve9 (€6.38 in chips) 
+Seat 5: dragonfly2467 (€5 in chips) 
+nicalomano: posts small blind €0.02
+kykyrak: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js Th]
+pipinoelbreve9: raises €0.07 to €0.12
+dragonfly2467: folds 
+tiotios: folds 
+nicalomano: folds 
+kykyrak: calls €0.07
+*** FLOP *** [9d 7c 5h]
+kykyrak: checks 
+pipinoelbreve9: bets €0.13
+kykyrak: folds 
+Uncalled bet (€0.13) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [9d 7c 5h]
+Seat 1: tiotios (button) folded before Flop (didn't bet)
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: kykyrak (big blind) folded on the Flop
+Seat 4: pipinoelbreve9 collected (€0.25)
+Seat 5: dragonfly2467 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #259425926579:  Hold'em No Limit (€0.02/€0.05) - 2026/01/23 10:17:49 CET [2026/01/23 4:17:49 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€6.51 in chips) 
+Seat 2: nicoclvogmmz (€1.43 in chips) 
+Seat 3: Aznar09 (€4.80 in chips) 
+Seat 4: ShinjiTNK22 (€6.81 in chips) 
+Seat 5: dragonfly2467 (€5 in chips) 
+Seat 6: MDKristian (€9.66 in chips) 
+nicoclvogmmz: posts small blind €0.02
+Aznar09: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Jd]
+ShinjiTNK22: folds 
+dragonfly2467: folds 
+MDKristian: folds 
+pipinoelbreve9: raises €0.07 to €0.12
+nicoclvogmmz: folds 
+Aznar09: calls €0.07
+*** FLOP *** [2c Kc Kd]
+Aznar09: checks 
+pipinoelbreve9: bets €0.08
+Aznar09: folds 
+Uncalled bet (€0.08) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [2c Kc Kd]
+Seat 1: pipinoelbreve9 (button) collected (€0.25)
+Seat 2: nicoclvogmmz (small blind) folded before Flop
+Seat 3: Aznar09 (big blind) folded on the Flop
+Seat 4: ShinjiTNK22 folded before Flop (didn't bet)
+Seat 5: dragonfly2467 folded before Flop (didn't bet)
+Seat 6: MDKristian folded before Flop (didn't bet)
+
+
+

@@ -1,9 +1,0 @@
-node_modules/
-dist/
-__pycache__/
-*.pyc
-solver/build_output/
-solver/install/
-*.json.bak
-.env
-../hand_samples/
