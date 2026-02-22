@@ -223,3 +223,112 @@ body {
   box-shadow: 0 0 0 2px var(--accent);
 }
 .playing-card.disabled { opacity: 0.3; cursor: not-allowed; pointer-events: none; }
+
+/* ─── Form inputs ────────────────────────────────────────────────────────────── */
+input:focus-visible, textarea:focus-visible, select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+/* ─── Shared button reset ────────────────────────────────────────────────────── */
+button { font-family: inherit; }
+
+/* ─── Animations ─────────────────────────────────────────────────────────────── */
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── GTO Action Panel ───────────────────────────────────────────────────────── */
+.gto-action-panel {
+  flex: 1 1 140px;
+  min-width: 120px;
+  padding: 16px 14px;
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.15s;
+}
+
+/* ─── Hand history table ─────────────────────────────────────────────────────── */
+.hand-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.hand-table th {
+  text-align: left;
+  padding: 8px 12px;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border);
+}
+.hand-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+  vertical-align: middle;
+}
+.hand-table tr:hover td { background: var(--bg-hover); }
+
+/* ─── Stat cards ─────────────────────────────────────────────────────────────── */
+.stat-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.stat-card-label {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+.stat-card-value {
+  font-size: 28px;
+  font-weight: 900;
+  color: var(--text-primary);
+  line-height: 1.1;
+}
+
+/* ─── Trainer screens ────────────────────────────────────────────────────────── */
+.trainer-spot-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.trainer-spot-card:hover {
+  border-color: var(--accent);
+  background: var(--accent-dim);
+}
+.trainer-spot-card.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* ─── Page fade-in ───────────────────────────────────────────────────────────── */
+main > * { animation: fadeIn 0.2s ease; }

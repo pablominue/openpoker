@@ -14,7 +14,7 @@ from typing import Optional
 _RE_HEADER = re.compile(
     r"PokerStars(?:\s+Zoom)?\s+Hand\s+#(\d+):\s+Hold'em No Limit\s+"
     r"\([€$£]?([\d.]+)/[€$£]?([\d.]+)\)\s+-\s+"
-    r"(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2}:\d{2})",
+    r"(\d{4}/\d{2}/\d{2}\s+\d{1,2}:\d{2}:\d{2})",  # \d{1,2} handles single-digit hours (e.g. 0:14:44)
     re.IGNORECASE,
 )
 _RE_TABLE = re.compile(r"Table '([^']+)' (?:6-max )?Seat #(\d+) is the button")
@@ -29,7 +29,8 @@ _RE_ACTION = re.compile(
     re.MULTILINE,
 )
 _RE_POT = re.compile(r"Total pot [€$£]?([\d.]+).*?Rake [€$£]?([\d.]+)")
-_RE_COLLECT = re.compile(r"^([^\s]+) collected [€$£]?([\d.]+) from (?:main )?pot", re.MULTILINE)
+_RE_COLLECT = re.compile(r"^([^\s]+) collected [€$£]?([\d.]+) from (?:main |side )?pot", re.MULTILINE)
+_RE_UNCALLED = re.compile(r"Uncalled bet \([€$£]?([\d.]+)\) returned to ([^\s]+)", re.MULTILINE)
 _RE_TOURNAMENT = re.compile(r"Tournament", re.IGNORECASE)
 
 _STREET_MARKERS = {
@@ -193,21 +194,46 @@ def parse_hand(hand_text: str, hero_username: Optional[str]) -> Optional[dict]:
     hero_won = False
     went_to_showdown = "SHOW DOWN" in hand_text
 
-    # Amount hero invested
+    # Amount hero invested.
+    # For raises, PokerStars shows "raises $X to $Y" where Y is the TOTAL chips
+    # committed by this player on this street (cumulative). To avoid double-counting
+    # when hero raises multiple times, we track the running raise total per street
+    # and only add the incremental difference.
     invested = 0
     for street_acts in actions_json.values():
+        hero_street_raise_total = 0
         for act in street_acts:
-            if act["is_hero"] and act["action"] in ("calls", "bets", "raises"):
+            if not act["is_hero"]:
+                continue
+            if act["action"] in ("bets", "raises"):
+                new_total = act["amount"]
+                invested += new_total - hero_street_raise_total
+                hero_street_raise_total = new_total
+            elif act["action"] == "calls":
                 invested += act["amount"]
-    # Blind posting
-    if hero_position == "SB":
+
+    # Blind posting — only add if hero did NOT raise preflop.
+    # When hero raises preflop, the raise's "to" amount already includes the
+    # blind they posted, so adding it separately would double-count.
+    hero_preflop_raised = any(
+        act["is_hero"] and act["action"] in ("raises", "bets")
+        for act in preflop_actions
+    )
+    if hero_position == "SB" and not hero_preflop_raised:
         invested += sb_cents
-    elif hero_position == "BB":
+    elif hero_position == "BB" and not hero_preflop_raised:
         invested += bb_cents
 
-    # Amount hero collected
+    # Subtract uncalled bets returned to hero (e.g. when everyone folds to a raise).
+    for m in _RE_UNCALLED.finditer(hand_text):
+        if m.group(2) == hero:
+            invested -= _to_cents(m.group(1))
+
+    # Amount hero collected.
+    # "PlayerName collected $X from pot" appears in the action section BEFORE
+    # *** SUMMARY ***, so we must search the full hand text.
     collected = 0
-    for cm in _RE_COLLECT.finditer(summary_text):
+    for cm in _RE_COLLECT.finditer(hand_text):
         if cm.group(1) == hero:
             collected += _to_cents(cm.group(2))
             hero_won = True
@@ -240,6 +266,11 @@ def parse_hand(hand_text: str, hero_username: Optional[str]) -> Optional[dict]:
 
 def parse_file(content: str, hero_username: Optional[str]) -> list[dict]:
     """Parse an entire hand history file. Returns list of parsed hand dicts."""
+    # Normalize line endings (PokerStars exports use \r\n on Windows; without
+    # this, re.split(r"\n{2,}", ...) fails to split on \r\n\r\n separators,
+    # causing the entire file to be treated as a single hand and producing
+    # wildly incorrect hero_result values.
+    content = content.replace("\r\n", "\n").replace("\r", "\n")
     # Split on blank lines between hands (PokerStars uses double+ newlines)
     blocks = re.split(r"\n{2,}", content.strip())
     # Regroup: each hand starts with "PokerStars"

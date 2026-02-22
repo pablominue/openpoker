@@ -2,7 +2,6 @@
 
 import asyncio
 import json
-import os
 import uuid
 from pathlib import Path
 from typing import Optional
@@ -16,8 +15,11 @@ SOLVER_BIN = Path("/app/console_solver")
 # In-memory job store (sufficient for single-instance deployment)
 _jobs: dict[str, dict] = {}
 
-# Limit concurrent solves to avoid OOM on the host
-_semaphore = asyncio.Semaphore(2)
+# Limit concurrent solves to 1 — running multiple large trees simultaneously causes SIGSEGV
+_semaphore = asyncio.Semaphore(1)
+
+# 4MB line buffer — solver progress bars produce very long lines (no newline until iteration ends)
+_STREAM_LIMIT = 4 * 1024 * 1024
 
 logger = logging.getLogger("SOLVER")
 
@@ -64,12 +66,15 @@ async def run_solver(job_id: str) -> None:
                 "-i", str(cfg),
                 stdout=asyncio.subprocess.PIPE,
                 stderr=asyncio.subprocess.STDOUT,
-                cwd=str(job_dir(job_id)),
+                limit=_STREAM_LIMIT,
+                cwd=str(SOLVER_BIN.parent),  # must run from /app to find resources/
             )
 
             async for raw_line in proc.stdout:
                 line = raw_line.decode("utf-8", errors="replace").rstrip()
-                job["progress"].append(line)
+                # Only keep lines that contain useful info (iteration results, not progress bars)
+                if any(kw in line for kw in ("Iter:", "exploitability", "time used", "SOLVING", "START")):
+                    job["progress"].append(line)
 
             await proc.wait()
 
@@ -86,6 +91,25 @@ async def run_solver(job_id: str) -> None:
             logger.error(f"Error running solver for job {job_id}: {exc}")
             job["status"] = JobStatus.failed
             job["error"] = str(exc)
+
+
+async def run_solver_path(cfg_path: Path, result_file: Path, work_dir: Path) -> None:
+    """Run the solver binary for an arbitrary config path (used by trainer spot solving).
+    Output is discarded — result goes directly to result_file."""
+    async with _semaphore:
+        try:
+            proc = await asyncio.create_subprocess_exec(
+                str(SOLVER_BIN),
+                "-i", str(cfg_path),
+                stdout=asyncio.subprocess.DEVNULL,  # discard all output; avoids StreamReader overflow
+                stderr=asyncio.subprocess.DEVNULL,
+                cwd=str(SOLVER_BIN.parent),  # must run from /app to find resources/
+            )
+            await proc.wait()
+            if proc.returncode != 0:
+                raise RuntimeError(f"Solver exited with code {proc.returncode}")
+        except Exception:
+            raise
 
 
 def load_result(job_id: str) -> dict:

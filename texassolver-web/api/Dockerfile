@@ -50,6 +50,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy FastAPI application
 COPY api/app/ .
 
+# Copy alembic config for schema migrations
+COPY api/alembic.ini .
+COPY api/alembic/ alembic/
+
 # Jobs and results stored here (mount as volume in production)
 RUN mkdir -p /app/jobs /app/jobs/library
 

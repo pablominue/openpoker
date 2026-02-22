@@ -419,11 +419,24 @@ export default function SolvePage() {
                 </Card>
               )}
 
-              {/* ── Strategy viewer (only when solve is complete) ── */}
+              {/* ── Strategy viewer (only when solve is complete) — full-width ── */}
               {status === 'done' && (
-                <Card title="Strategy Explorer" subtitle="Navigate the GTO bet tree · hover hands for exact frequencies">
-                  <StrategyViewer jobId={jobId} />
-                </Card>
+                <div style={{
+                  background: 'var(--bg-surface)',
+                  border: '1px solid var(--border)',
+                  borderRadius: '14px',
+                  overflow: 'hidden',
+                }}>
+                  <div style={{ padding: '16px 20px 14px', borderBottom: '1px solid var(--border-subtle)' }}>
+                    <div style={{ fontWeight: 700, fontSize: '15px', color: 'var(--text-primary)' }}>Strategy Explorer</div>
+                    <div style={{ fontSize: '12px', color: 'var(--text-muted)', marginTop: '2px' }}>
+                      Navigate the GTO bet tree · hover hands for exact frequencies
+                    </div>
+                  </div>
+                  <div style={{ padding: '20px' }}>
+                    <StrategyViewer jobId={jobId} />
+                  </div>
+                </div>
               )}
             </>
           )}

@@ -2,11 +2,12 @@ import { useState, useEffect } from 'react';
 import { getJobResult } from '../../api/client';
 import type { SolverNode, SolverActionNode, NavStep } from '../../types/solver';
 import {
-  getActionEntries, aggregateActions, actionColor, nodeChildren,
+  getActionEntries, aggregateActions, nodeChildren, aggregateCells, combosForCell,
 } from '../../lib/strategyUtils';
 import { SUIT_SYMBOLS, SUIT_COLORS, type Suit } from '../../lib/poker';
 import HandStrategyMatrix from './HandStrategyMatrix';
 import ActionBreakdown from './ActionBreakdown';
+import GtoActionPanel from './GtoActionPanel';
 
 interface Props {
   jobId: string;
@@ -108,57 +109,60 @@ export default function StrategyViewer({ jobId }: Props) {
         </span>
       </div>
 
-      {/* ── Action node: strategy + actions ── */}
+      {/* ── Action node: GTO Wizard layout ── */}
       {isActionNode(currentNode) && (() => {
         const entries    = getActionEntries(currentNode);
         const aggregates = aggregateActions(currentNode, entries);
+        const grid       = aggregateCells(currentNode.strategy.strategy, entries.length);
+
+        // Combo count per action (sum across all cells)
+        const comboCounts: number[] = entries.map((_e, idx) => {
+          let count = 0;
+          for (let r = 0; r < 13; r++) {
+            for (let c = 0; c < 13; c++) {
+              const cell = grid[r][c];
+              if (cell && cell.dominantIdx === idx) {
+                count += combosForCell(currentNode.strategy.strategy, r, c).length;
+              }
+            }
+          }
+          return count;
+        });
 
         return (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
 
-            {/* Child action buttons */}
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
-              <div style={{ fontSize: '11px', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 700 }}>
-                Available Actions
+            {/* GTO Action Panels — top row like GTO Wizard */}
+            {Object.keys(currentNode.childrens).length > 0 ? (
+              <div>
+                <SectionLabel>Actions</SectionLabel>
+                <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                  {Object.entries(currentNode.childrens).map(([key, child]) => {
+                    const agg = aggregates.find(a => a.name === key);
+                    const idx = entries.findIndex(e => e.name === key);
+                    return (
+                      <GtoActionPanel
+                        key={key}
+                        actionName={key}
+                        gtoFreq={agg?.freq ?? 0}
+                        comboCount={idx >= 0 ? comboCounts[idx] : 0}
+                        onClick={() => navigateTo(key, child)}
+                        child={child}
+                      />
+                    );
+                  })}
+                </div>
               </div>
-              <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
-                {Object.entries(currentNode.childrens).map(([key, child]) => {
-                  const agg = aggregates.find(a => a.name === key);
-                  const color = actionColor(key);
-                  return (
-                    <button
-                      key={key}
-                      onClick={() => navigateTo(key, child)}
-                      style={{
-                        display: 'flex', alignItems: 'center', gap: '8px',
-                        padding: '8px 14px', borderRadius: '8px',
-                        border: `1px solid ${color}40`,
-                        background: `${color}14`,
-                        color: 'var(--text-primary)',
-                        cursor: 'pointer', fontSize: '12px', fontWeight: 600,
-                        transition: 'all 0.15s',
-                      }}
-                      onMouseEnter={e => { e.currentTarget.style.background = `${color}28`; e.currentTarget.style.borderColor = color; }}
-                      onMouseLeave={e => { e.currentTarget.style.background = `${color}14`; e.currentTarget.style.borderColor = `${color}40`; }}
-                    >
-                      <span style={{ width: 8, height: 8, borderRadius: '50%', background: color, display: 'inline-block' }} />
-                      {key}
-                      {agg && <span style={{ color, fontFamily: 'monospace', fontSize: '11px' }}>{(agg.freq * 100).toFixed(0)}%</span>}
-                    </button>
-                  );
-                })}
-                {Object.keys(currentNode.childrens).length === 0 && (
-                  <span style={{ fontSize: '12px', color: 'var(--text-muted)', fontStyle: 'italic' }}>
-                    Terminal node (no further children)
-                  </span>
-                )}
-              </div>
-            </div>
+            ) : (
+              <span style={{ fontSize: '12px', color: 'var(--text-muted)', fontStyle: 'italic' }}>
+                Terminal node (no further children)
+              </span>
+            )}
 
-            {/* Strategy body: matrix + breakdown side-by-side */}
-            <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '24px', alignItems: 'start' }}>
+            {/* Strategy body: matrix left (larger) + breakdown right */}
+            <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0,3fr) minmax(200px,2fr)', gap: '24px', alignItems: 'start' }}>
               {/* 13×13 strategy matrix */}
-              <div style={{ minWidth: 0 }}>
+              <div>
                 <SectionLabel>Hand Strategy Matrix</SectionLabel>
                 <div style={{ fontSize: '10px', color: 'var(--text-muted)', marginBottom: '8px' }}>
                   Colored by dominant action · hover for details
@@ -169,31 +173,14 @@ export default function StrategyViewer({ jobId }: Props) {
                 />
               </div>
 
-              {/* Right column: breakdown + legend */}
+              {/* Right column: range-wide breakdown */}
               <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-                {/* Action breakdown */}
                 <div>
                   <SectionLabel>Range-wide Frequency</SectionLabel>
                   <div style={{ fontSize: '10px', color: 'var(--text-muted)', marginBottom: '8px' }}>
                     Averaged across all combos in range
                   </div>
                   <ActionBreakdown aggregates={aggregates} />
-                </div>
-
-                {/* Color legend */}
-                <div>
-                  <SectionLabel>Action Legend</SectionLabel>
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: '5px', marginTop: '6px' }}>
-                    {entries.map((e, i) => (
-                      <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                        <div style={{ width: 12, height: 12, borderRadius: '3px', background: actionColor(e.name), flexShrink: 0 }} />
-                        <span style={{ fontSize: '12px', color: 'var(--text-secondary)', flex: 1 }}>{e.name}</span>
-                        <span style={{ fontSize: '11px', color: actionColor(e.name), fontFamily: 'monospace', fontWeight: 700 }}>
-                          {((aggregates[i]?.freq ?? 0) * 100).toFixed(1)}%
-                        </span>
-                      </div>
-                    ))}
-                  </div>
                 </div>
               </div>
             </div>

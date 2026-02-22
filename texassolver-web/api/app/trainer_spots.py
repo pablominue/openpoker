@@ -61,19 +61,19 @@ _SB_3BET = "AA,KK,QQ,JJ,TT:0.5,AKs,AKo,AQs:0.5"
 _BB_3BET_VS_CO = "AA,KK,QQ,JJ:0.5,AKs,AKo,AQs:0.5,KQs:0.5"
 _CO_CALL_3BET_VS_BB = "AA,KK,QQ,JJ,TT:0.5,AKs,AQs,AKo:0.5"
 
-# Standard bet sizes (pot%)
+# Simplified bet sizes — one size per action to keep tree small enough for Docker
 _STD_BET_SIZES = [
-    {"position": "ip", "street": "flop", "action": "bet", "sizes": [33, 67]},
-    {"position": "ip", "street": "flop", "action": "raise", "sizes": [60, 100]},
-    {"position": "ip", "street": "turn", "action": "bet", "sizes": [50, 100]},
-    {"position": "ip", "street": "turn", "action": "raise", "sizes": [75, 150]},
-    {"position": "ip", "street": "river", "action": "bet", "sizes": [50, 75, 125]},
-    {"position": "ip", "street": "river", "action": "raise", "sizes": [100]},
-    {"position": "oop", "street": "flop", "action": "bet", "sizes": [33, 67]},
-    {"position": "oop", "street": "flop", "action": "raise", "sizes": [60, 100]},
-    {"position": "oop", "street": "turn", "action": "bet", "sizes": [50, 100]},
-    {"position": "oop", "street": "turn", "action": "raise", "sizes": [75, 150]},
-    {"position": "oop", "street": "river", "action": "bet", "sizes": [50, 75, 125]},
+    {"position": "ip",  "street": "flop",  "action": "bet",   "sizes": [50]},
+    {"position": "ip",  "street": "flop",  "action": "raise", "sizes": [100]},
+    {"position": "ip",  "street": "turn",  "action": "bet",   "sizes": [75]},
+    {"position": "ip",  "street": "turn",  "action": "raise", "sizes": [100]},
+    {"position": "ip",  "street": "river", "action": "bet",   "sizes": [75]},
+    {"position": "ip",  "street": "river", "action": "raise", "sizes": [100]},
+    {"position": "oop", "street": "flop",  "action": "bet",   "sizes": [50]},
+    {"position": "oop", "street": "flop",  "action": "raise", "sizes": [100]},
+    {"position": "oop", "street": "turn",  "action": "bet",   "sizes": [75]},
+    {"position": "oop", "street": "turn",  "action": "raise", "sizes": [100]},
+    {"position": "oop", "street": "river", "action": "bet",   "sizes": [75]},
     {"position": "oop", "street": "river", "action": "raise", "sizes": [100]},
 ]
 
@@ -84,10 +84,10 @@ _THREE_BET_POT = 200
 _THREE_BET_STACK = 800
 
 _SOLVE_PARAMS = {
-    "accuracy": 0.5,
-    "max_iteration": 200,
+    "accuracy": 1.0,
+    "max_iteration": 150,
     "print_interval": 10,
-    "thread_num": 4,
+    "thread_num": 2,
     "use_isomorphism": True,
     "dump_rounds": 2,
     "allin_threshold": 0.67,
@@ -364,7 +364,9 @@ TRAINER_SPOTS: list[dict] = [
 
 
 async def seed_spots(db) -> None:
-    """Upsert all trainer spots into the database (idempotent)."""
+    """Upsert all trainer spots into the database.
+    New spots are inserted as pending. Existing spots that failed or whose
+    bet_sizes_json changed are reset to pending so they get re-solved."""
     from sqlalchemy import select
     from db.models import TrainerSpot
 
@@ -388,4 +390,10 @@ async def seed_spots(db) -> None:
                 solve_status="pending",
             )
             db.add(ts)
+        elif existing.solve_status == "failed":
+            # Retry failed spots (e.g. after a solver bug fix)
+            existing.bet_sizes_json = spot["bet_sizes"]
+            existing.solve_status = "pending"
+            existing.result_path = None
+            existing.solved_at = None
     await db.commit()
