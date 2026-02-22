@@ -365,7 +365,7 @@ TRAINER_SPOTS: list[dict] = [
 
 # Bump this when solve params change (e.g. dump_rounds) to force re-solving all spots.
 # Stored in TrainerSpot.job_id as a version tag for trainer library spots.
-_SOLVE_VERSION = "v3-2streets"
+_SOLVE_VERSION = "v4-2streets"
 
 
 async def seed_spots(db) -> None:

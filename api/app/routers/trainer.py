@@ -202,7 +202,11 @@ def _parse_range_to_combos(range_str: str, board_cards: set[str]) -> list[str]:
 def _navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
     node = root
     for step in node_path:
-        children = node.get("childrens") or node.get("deal_cards") or {}
+        ntype = node.get("node_type")
+        if ntype == "chance_node":
+            children = node.get("deal_cards") or {}
+        else:
+            children = node.get("childrens") or node.get("deal_cards") or {}
         node = children.get(step)
         if node is None:
             return None
