@@ -134,7 +134,7 @@ function formatHistoryStep(step: string): string {
 // ── Card components ─────────────────────────────────────────────────────────
 
 // White card for rendering ON the poker table felt
-function TableCard({ card, size = 'sm' }: { card: string; size?: 'sm' | 'md' }) {
+function TableCard({ card, size = 'sm', isNew = false }: { card: string; size?: 'sm' | 'md'; isNew?: boolean }) {
   if (card.length !== 2) return <span style={{ color: 'rgba(255,255,255,0.5)', fontSize: '12px' }}>{card}</span>;
   const rank = card[0];
   const suit = card[1] as Suit;
@@ -149,8 +149,10 @@ function TableCard({ card, size = 'sm' }: { card: string; size?: 'sm' | 'md' }) 
       display: 'inline-flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
       width: w, height: h, borderRadius: '6px',
       background: '#f5f5f5',
-      border: '1px solid rgba(0,0,0,0.12)',
-      boxShadow: '0 2px 6px rgba(0,0,0,0.35)',
+      border: isNew ? '1.5px solid rgba(255,215,0,0.85)' : '1px solid rgba(0,0,0,0.12)',
+      boxShadow: isNew
+        ? '0 0 10px 3px rgba(255,215,0,0.55), 0 2px 6px rgba(0,0,0,0.35)'
+        : '0 2px 6px rgba(0,0,0,0.35)',
       fontSize: size === 'md' ? '15px' : '12px', fontWeight: 800, lineHeight: 1, gap: '1px',
       flexShrink: 0,
     }}>
@@ -266,7 +268,7 @@ function PokerTable({ heroCombo, heroPosition, positionMatchup, board, pot, effe
       {/* Board + pot in center */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '7px' }}>
         <div style={{ display: 'flex', gap: '5px', flexWrap: 'wrap', justifyContent: 'center' }}>
-          {boardCards.map((c, i) => <TableCard key={i} card={c} />)}
+          {boardCards.map((c, i) => <TableCard key={i} card={c} isNew={i >= 3} />)}
         </div>
         <div style={{
           fontSize: '11px', fontWeight: 700, color: 'rgba(255,255,255,0.85)',
@@ -686,6 +688,7 @@ export default function TrainerPage() {
   const [villainMsg, setVillainMsg] = useState<string | null>(null);
   const [sidebarTab, setSidebarTab] = useState<SidebarTab>('range');
   const [nodeStrategy, setNodeStrategy] = useState<NodeStrategy | null>(null);
+  const [streetAnnouncement, setStreetAnnouncement] = useState<string | null>(null);
 
   // Fetch GTO strategy for the current node whenever the game state advances
   const nodePathKey = gameState ? gameState.node_path.join(',') : '';
@@ -731,6 +734,7 @@ export default function TrainerPage() {
       setDecisions([]);
       setVillainMsg(state.villain_action ? formatVillainAction(state.villain_action) : null);
       setNodeStrategy(null);
+      setStreetAnnouncement(null);
       setScreen('game');
     } catch (e: unknown) {
       setError(e instanceof Error ? e.message : String(e));
@@ -743,6 +747,8 @@ export default function TrainerPage() {
     if (!gameState) return;
     setLoading(true);
     setVillainMsg(null);
+    setStreetAnnouncement(null);
+    const prevStreet = gameState.street;
     try {
       const next = await submitAction(gameState.session_id, gameState.node_path, action, gameState.pot);
       const chosen = gameState.available_actions.find(a => a.name === action);
@@ -770,6 +776,17 @@ export default function TrainerPage() {
         }
         setScreen('result');
       } else {
+        // Detect street transition and announce the new card
+        if (next.street !== prevStreet) {
+          const cards = (next.action_history as string[])
+            .filter((s: string) => s.startsWith('[') && s.endsWith(']'))
+            .map((s: string) => s.slice(1, -1));
+          const newCard = cards.at(-1);
+          if (newCard) {
+            const label = next.street.charAt(0).toUpperCase() + next.street.slice(1);
+            setStreetAnnouncement(`${label}: ${newCard}`);
+          }
+        }
         setGameState(next);
       }
     } catch (e: unknown) {
@@ -884,6 +901,24 @@ export default function TrainerPage() {
         {/* Action history breadcrumb */}
         {gameState.action_history.length > 0 && (
           <ActionHistoryBar history={gameState.action_history} />
+        )}
+
+        {/* Street transition announcement */}
+        {streetAnnouncement && (
+          <div
+            onClick={() => setStreetAnnouncement(null)}
+            style={{
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px',
+              padding: '10px 18px', borderRadius: '10px', marginBottom: '4px',
+              background: 'rgba(210,153,34,0.12)', border: '1.5px solid rgba(210,153,34,0.55)',
+              cursor: 'pointer',
+            }}
+          >
+            <span style={{ fontSize: '14px', fontWeight: 900, color: '#d29922', letterSpacing: '0.03em' }}>
+              {streetAnnouncement}
+            </span>
+            <span style={{ fontSize: '10px', color: 'var(--text-muted)' }}>tap to dismiss</span>
+          </div>
         )}
 
         {/* Two-column layout: main (table + actions) | sidebar (range + stats) */}
