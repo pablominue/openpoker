@@ -1,6 +1,7 @@
 """Trainer endpoints: spot library, training sessions, GTO scoring."""
 
 import json
+import logging
 import random
 import re
 import uuid
@@ -11,6 +12,8 @@ from pathlib import Path
 from typing import Any, Optional
 
 from fastapi import APIRouter, Depends, HTTPException, Query
+
+logger = logging.getLogger("trainer")
 from pydantic import BaseModel
 from sqlalchemy import func, select
 from sqlalchemy.dialects.postgresql import insert as pg_insert
@@ -414,7 +417,13 @@ def _advance_to_hero(
                 break
 
         else:
-            # Unknown node type → treat as terminal
+            # Unknown node type (e.g. "showdown" from solver files built with dump_rounds<2)
+            # This means there is no turn/river data in the solver file.
+            logger.warning(
+                "_advance_to_hero: unsupported node_type=%r at path=%s — "
+                "spot likely solved with dump_rounds<2. Rebuild Docker to re-solve.",
+                ntype, node_path,
+            )
             next_node = None
             break
 
