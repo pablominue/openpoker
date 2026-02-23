@@ -234,9 +234,6 @@ def _navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
         ntype = node.get("node_type")
         if ntype == "chance_node":
             children = node.get("dealcards") or {}
-            if not children:
-                # Fallback: find turn cards from any path that has data
-                children = _find_any_deal_cards(root)
         else:
             children = node.get("childrens") or node.get("dealcards") or {}
         node = children.get(step)
@@ -381,13 +378,10 @@ def _advance_to_hero(
         if ntype == "chance_node":
             deal_cards = next_node.get("dealcards", {})
             if not deal_cards:
-                # Aggressive flop line (BET→CALL etc.) may lack turn data in
-                # older solver files. Fall back to any populated chance node
-                # in the tree so the session can continue past the flop.
-                deal_cards = _find_any_deal_cards(tree)
-                if not deal_cards:
-                    next_node = None
-                    break
+                # Empty dealcards means the solver's dump_rounds cutoff was reached
+                # (e.g. river when dump_rounds=2) — treat as terminal.
+                next_node = None
+                break
             # Exclude hero's hole cards — they can't appear on the board.
             hero_cards = {hero_combo[:2], hero_combo[2:]}
             valid_cards = {k: v for k, v in deal_cards.items() if k not in hero_cards}
