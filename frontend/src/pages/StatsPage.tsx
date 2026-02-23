@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import type { CSSProperties } from 'react';
-import { getStatsSummary, getStatsByPosition, getStatsTimeline, reprocessHands, StatsFilters } from '../api/hands';
+import { getStatsSummary, getStatsByPosition, getStatsTimeline, reprocessHands } from '../api/hands';
+import type { StatsFilters } from '../api/hands';
 import { usePlayer } from '../contexts/PlayerContext';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
@@ -107,11 +108,12 @@ function FilterPanel({ filters, onChange }: { filters: StatsFilters; onChange: (
 
 function TimelineTooltip({ active, payload, mode }: {
   active?: boolean;
-  payload?: Array<{ value: number; payload: TimelinePoint }>;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  payload?: readonly any[];
   mode: 'eur' | 'bb';
 }) {
   if (!active || !payload?.length) return null;
-  const pt = payload[0];
+  const pt = payload[0] as { value: number; payload: TimelinePoint };
   const cum = pt.value;
   const hand = mode === 'eur' ? pt.payload.result_cents / 100 : pt.payload.result_bb;
   return (
