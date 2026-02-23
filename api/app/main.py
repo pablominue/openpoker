@@ -94,6 +94,8 @@ async def _solve_one_spot(spot_id: object) -> None:
 
     if solved_ok:
         logger.info("Trainer spot ready: %s", spot_key)
+        from routers.trainer import clear_spot_cache
+        clear_spot_cache(spot_key)   # evict stale cached result
     else:
         logger.warning("Trainer spot failed: %s", spot_key)
 

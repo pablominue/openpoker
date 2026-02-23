@@ -4,6 +4,7 @@ import json
 import random
 import re
 import uuid
+from collections import deque
 from datetime import datetime, timezone
 from itertools import permutations
 from pathlib import Path
@@ -199,18 +200,51 @@ def _parse_range_to_combos(range_str: str, board_cards: set[str]) -> list[str]:
     return combos
 
 
+def _find_any_deal_cards(tree: dict, max_depth: int = 6) -> dict:
+    """BFS through action_node children to find the first populated chance_node deal_cards.
+
+    Used as a fallback when an aggressive flop line (e.g. BET→CALL) has no turn
+    data in older solver files (solved before dump_rounds=2 was enforced).
+    Only traverses childrens — stops at the first chance_node that has data, so
+    it returns the shallowest (turn) deal_cards rather than any river nodes.
+    """
+    queue: deque = deque([(tree, 0)])
+    while queue:
+        node, depth = queue.popleft()
+        if depth > max_depth:
+            continue
+        ntype = node.get("node_type")
+        if ntype == "chance_node":
+            dc = node.get("deal_cards") or {}
+            if dc:
+                return dc
+            continue  # don't recurse into empty chance nodes
+        for child in (node.get("childrens") or {}).values():
+            if isinstance(child, dict):
+                queue.append((child, depth + 1))
+    return {}
+
+
 def _navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
     node = root
     for step in node_path:
         ntype = node.get("node_type")
         if ntype == "chance_node":
             children = node.get("deal_cards") or {}
+            if not children:
+                # Fallback: find turn cards from any path that has data
+                children = _find_any_deal_cards(root)
         else:
             children = node.get("childrens") or node.get("deal_cards") or {}
         node = children.get(step)
         if node is None:
             return None
     return node
+
+
+def clear_spot_cache(spot_key: str) -> None:
+    """Invalidate cached result for a spot (call after re-solving)."""
+    _result_cache.pop(spot_key, None)
 
 
 def _get_action_entries(node: dict) -> list[dict]:
@@ -344,12 +378,23 @@ def _advance_to_hero(
         if ntype == "chance_node":
             deal_cards = next_node.get("deal_cards", {})
             if not deal_cards:
+                # Aggressive flop line (BET→CALL etc.) may lack turn data in
+                # older solver files. Fall back to any populated chance node
+                # in the tree so the session can continue past the flop.
+                deal_cards = _find_any_deal_cards(tree)
+                if not deal_cards:
+                    next_node = None
+                    break
+            # Exclude hero's hole cards — they can't appear on the board.
+            hero_cards = {hero_combo[:2], hero_combo[2:]}
+            valid_cards = {k: v for k, v in deal_cards.items() if k not in hero_cards}
+            if not valid_cards:
                 next_node = None
                 break
-            runout = random.choice(list(deal_cards.keys()))
+            runout = random.choice(list(valid_cards.keys()))
             node_path.append(runout)
             new_board_cards.append(runout)
-            next_node = deal_cards[runout]
+            next_node = valid_cards[runout]
 
         elif ntype == "action_node":
             if _is_villain_node(next_node, hero_position, hero_combo):

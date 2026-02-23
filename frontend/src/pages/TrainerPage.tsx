@@ -732,9 +732,12 @@ export default function TrainerPage() {
       const state = await startSession(selectedPlayer, spot_id);
       setGameState(state);
       setDecisions([]);
+      setScore(null);
+      setError(null);
       setVillainMsg(state.villain_action ? formatVillainAction(state.villain_action) : null);
       setNodeStrategy(null);
       setStreetAnnouncement(null);
+      setSidebarTab('range');
       setScreen('game');
     } catch (e: unknown) {
       setError(e instanceof Error ? e.message : String(e));
@@ -746,37 +749,43 @@ export default function TrainerPage() {
   const act = async (action: string) => {
     if (!gameState) return;
     setLoading(true);
+    setError(null);
     setVillainMsg(null);
     setStreetAnnouncement(null);
     const prevStreet = gameState.street;
+
+    // Capture decision data from current state before any async work
+    const localDecision: Decision = {
+      chosen_action: action,
+      gto_freq: gameState.available_actions.find(a => a.name === action)?.gto_freq ?? 0,
+      node_path: gameState.node_path,
+      all_actions: gameState.available_actions,
+      street: gameState.street,
+    };
+
     try {
       const next = await submitAction(gameState.session_id, gameState.node_path, action, gameState.pot);
-      const chosen = gameState.available_actions.find(a => a.name === action);
-      setDecisions(prev => [...prev, {
-        chosen_action: action,
-        gto_freq: chosen?.gto_freq ?? 0,
-        node_path: gameState.node_path,
-        all_actions: gameState.available_actions,
-        street: gameState.street,
-      }]);
 
       if (next.villain_action) setVillainMsg(formatVillainAction(next.villain_action));
 
       if (next.is_terminal) {
         const result = await completeSession(gameState.session_id);
         setScore(result.gto_score);
-        if (result.decisions?.length) {
-          setDecisions(result.decisions.map((d: Decision) => ({
-            chosen_action: d.chosen_action,
-            gto_freq: d.gto_freq,
-            node_path: d.node_path ?? [],
-            all_actions: d.all_actions ?? [],
-            street: d.street ?? 'flop',
-          })));
-        }
+        // Use authoritative DB decisions; fall back to local if DB returned nothing
+        const finalDecisions: Decision[] = result.decisions?.length
+          ? result.decisions.map((d: Decision) => ({
+              chosen_action: d.chosen_action,
+              gto_freq: d.gto_freq,
+              node_path: d.node_path ?? [],
+              all_actions: d.all_actions ?? [],
+              street: d.street ?? 'flop',
+            }))
+          : [...decisions, localDecision];
+        setDecisions(finalDecisions);
         setScreen('result');
       } else {
-        // Detect street transition and announce the new card
+        setDecisions(prev => [...prev, localDecision]);
+        // Announce new street when it changes
         if (next.street !== prevStreet) {
           const cards = (next.action_history as string[])
             .filter((s: string) => s.startsWith('[') && s.endsWith(']'))
@@ -790,7 +799,7 @@ export default function TrainerPage() {
         setGameState(next);
       }
     } catch (e: unknown) {
-      setError(String(e));
+      setError(e instanceof Error ? e.message : String(e));
     } finally {
       setLoading(false);
     }
