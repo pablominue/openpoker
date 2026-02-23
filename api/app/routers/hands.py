@@ -1,16 +1,20 @@
 """Hand history upload, retrieval and stats endpoints."""
 
 import asyncio
+import json
 import uuid
+from datetime import datetime
+from itertools import permutations
+from pathlib import Path
 from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException, UploadFile, File, Query
 from pydantic import BaseModel
-from sqlalchemy import cast, delete, distinct, func, select, Integer
+from sqlalchemy import case, cast, delete, distinct, func, select, Integer, and_
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from core.deps import get_db
-from db.models import Hand
+from db.models import Hand, TrainerSpot
 from parsers.pokerstars import parse_file, parse_hand
 
 router = APIRouter(prefix="/api/hands", tags=["hands"])
@@ -54,6 +58,10 @@ class StatsSummary(BaseModel):
     three_bet_pct: float
     wtsd_pct: float
     win_rate_bb_100: float
+    wssd_pct: float      # Won $ at Showdown
+    wwsf_pct: float      # Won When Saw Flop
+    af: float            # Aggression Factor (postflop bets+raises / calls)
+    cbet_pct: float      # C-bet %
 
 
 class PositionStats(BaseModel):
@@ -62,6 +70,210 @@ class PositionStats(BaseModel):
     vpip_pct: float
     pfr_pct: float
     win_rate_bb_100: float
+
+
+class TimelinePoint(BaseModel):
+    played_at: str
+    hand_id: str
+    result_cents: int
+    cumulative_cents: int
+    result_bb: float
+    cumulative_bb: float
+
+
+class GTODecision(BaseModel):
+    street: str
+    hero_action: str                      # "checks", "bets", etc.
+    matched_solver_action: Optional[str]  # "CHECK", "BET50", etc.
+    gto_actions: list[dict]               # [{name, gto_freq}]
+    hero_gto_freq: float
+    grade: str                            # best/correct/inaccuracy/wrong/blunder
+
+
+class GTOAnalysis(BaseModel):
+    matched_spot_key: Optional[str] = None
+    matched_spot_label: Optional[str] = None
+    hero_combo: Optional[str] = None
+    decisions: list[GTODecision] = []
+    note: Optional[str] = None
+
+
+# ── Filter helpers ─────────────────────────────────────────────────────────────
+
+def _apply_hand_filters(q, position=None, three_bet_pot=None, date_from=None, date_to=None):
+    if position:
+        q = q.where(Hand.hero_position == position.upper())
+    if three_bet_pot:
+        q = q.where(Hand.three_bet_opportunity == True)
+    if date_from:
+        try:
+            dt = datetime.fromisoformat(date_from)
+            q = q.where(Hand.played_at >= dt)
+        except ValueError:
+            pass
+    if date_to:
+        try:
+            dt = datetime.fromisoformat(date_to)
+            q = q.where(Hand.played_at <= dt)
+        except ValueError:
+            pass
+    return q
+
+
+# ── GTO Analysis utilities (adapted from trainer.py) ──────────────────────────
+
+_GTO_RESULT_CACHE: dict[str, dict] = {}
+_SUITS_GTO = ["c", "d", "h", "s"]
+
+# Maps hero_position → (position_matchup_key, hero_role)
+_POSITION_TO_MATCHUP: dict[str, tuple[str, str]] = {
+    "BTN": ("BTN_vs_BB", "ip"),
+    "CO":  ("CO_vs_BB",  "ip"),
+    "HJ":  ("HJ_vs_BB",  "ip"),
+    "SB":  ("SB_vs_BB",  "oop"),
+}
+
+
+def _load_gto_result(spot: TrainerSpot) -> Optional[dict]:
+    key = spot.spot_key
+    if key in _GTO_RESULT_CACHE:
+        return _GTO_RESULT_CACHE[key]
+    if not spot.result_path:
+        return None
+    path = Path(spot.result_path)
+    if not path.exists():
+        return None
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        _GTO_RESULT_CACHE[key] = data
+        return data
+    except Exception:
+        return None
+
+
+def _gto_navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
+    node = root
+    for step in node_path:
+        ntype = node.get("node_type")
+        if ntype == "chance_node":
+            children = node.get("dealcards") or {}
+        else:
+            children = node.get("childrens") or {}
+        node = children.get(step)
+        if node is None:
+            return None
+    return node
+
+
+def _gto_find_iso_combo(strategy: dict, combo: str) -> Optional[str]:
+    r1, s1, r2, s2 = combo[0], combo[1], combo[2], combo[3]
+    for perm in set(permutations(_SUITS_GTO)):
+        suit_map = dict(zip(_SUITS_GTO, perm))
+        candidate = r1 + suit_map[s1] + r2 + suit_map[s2]
+        if candidate in strategy:
+            return candidate
+    return None
+
+
+def _gto_get_action_entries(node: dict) -> list[dict]:
+    child_keys = list((node.get("childrens") or {}).keys())
+    strategy = node.get("strategy", {}).get("strategy", {})
+    if not strategy:
+        return [{"name": k, "index": i} for i, k in enumerate(child_keys)]
+    sample = next(iter(strategy.values()), [])
+    strat_len = len(sample)
+    if strat_len == len(child_keys) + 1:
+        return [{"name": "FOLD", "index": 0}] + [
+            {"name": k, "index": i + 1} for i, k in enumerate(child_keys)
+        ]
+    return [{"name": k, "index": i} for i, k in enumerate(child_keys)]
+
+
+def _gto_freq_for_combo(node: dict, hero_combo: str, action_name: str) -> float:
+    entries = _gto_get_action_entries(node)
+    strategy = node.get("strategy", {}).get("strategy", {})
+    if not strategy:
+        return 1.0 / max(len(entries), 1)
+    entry = next((e for e in entries if e["name"] == action_name), None)
+    if entry is None:
+        return 0.0
+    idx = entry["index"]
+    freqs = strategy.get(hero_combo)
+    if freqs is None:
+        iso = _gto_find_iso_combo(strategy, hero_combo)
+        freqs = strategy.get(iso) if iso else None
+    if freqs is None:
+        all_vals = [v[idx] for v in strategy.values() if len(v) > idx]
+        return sum(all_vals) / len(all_vals) if all_vals else 0.0
+    return freqs[idx] if idx < len(freqs) else 0.0
+
+
+def _gto_available_actions(node: dict, hero_combo: str) -> list[dict]:
+    entries = _gto_get_action_entries(node)
+    return [
+        {"name": e["name"], "gto_freq": round(_gto_freq_for_combo(node, hero_combo, e["name"]), 4)}
+        for e in entries
+    ]
+
+
+def _map_verb_to_solver(verb: str, children: list[str]) -> Optional[str]:
+    """Map a parser action verb to the closest solver tree action key."""
+    if verb == "checks":
+        return "CHECK" if "CHECK" in children else None
+    if verb == "calls":
+        return "CALL" if "CALL" in children else None
+    if verb == "folds":
+        return "FOLD" if "FOLD" in children else None
+    if verb in ("bets", "raises"):
+        prefix = "BET" if verb == "bets" else "RAISE"
+        matches = sorted(c for c in children if c.startswith(prefix))
+        return matches[0] if matches else None
+    return None
+
+
+def _grade_action(gto_freq: float) -> str:
+    if gto_freq >= 0.75:
+        return "best"
+    elif gto_freq >= 0.40:
+        return "correct"
+    elif gto_freq >= 0.15:
+        return "inaccuracy"
+    elif gto_freq >= 0.05:
+        return "wrong"
+    else:
+        return "blunder"
+
+
+def _compute_af_cbet(hands_data: list) -> tuple[float, float]:
+    """Compute Aggression Factor and C-bet % from (pfr, board, actions_json) rows."""
+    bets_raises = 0
+    calls = 0
+    cbets = 0
+    pfr_saw_flop = 0
+
+    for row in hands_data:
+        pfr, board, actions_json = row.pfr, row.board, row.actions_json
+        if not actions_json:
+            continue
+        for street in ("flop", "turn", "river"):
+            for act in (actions_json.get(street) or []):
+                if act.get("is_hero"):
+                    verb = act.get("action")
+                    if verb in ("bets", "raises"):
+                        bets_raises += 1
+                    elif verb == "calls":
+                        calls += 1
+        if pfr and board:
+            pfr_saw_flop += 1
+            flop_acts = actions_json.get("flop") or []
+            first_hero = next((a for a in flop_acts if a.get("is_hero")), None)
+            if first_hero and first_hero.get("action") in ("bets", "raises"):
+                cbets += 1
+
+    af = round(bets_raises / calls, 2) if calls > 0 else float(bets_raises)
+    cbet_pct = round(cbets / pfr_saw_flop * 100.0, 1) if pfr_saw_flop > 0 else 0.0
+    return af, cbet_pct
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -98,8 +310,7 @@ async def reprocess_hands(
     player_name: str = Query(..., description="Re-parse all stored raw hand texts with the current parser"),
     db: AsyncSession = Depends(get_db),
 ) -> dict:
-    """Re-parses every hand that has raw_text stored, updating hero_result and stats columns.
-    Use this after a parser bug-fix to correct existing data without re-uploading files."""
+    """Re-parses every hand that has raw_text stored, updating hero_result and stats columns."""
     result = await db.execute(
         select(Hand).where(Hand.player_name == player_name, Hand.raw_text.isnot(None))
     )
@@ -165,11 +376,19 @@ async def list_hands(
     page: int = Query(1, ge=1),
     per_page: int = Query(50, ge=1, le=200),
     position: Optional[str] = Query(None),
+    three_bet_pot: Optional[bool] = Query(None),
+    date_from: Optional[str] = Query(None),
+    date_to: Optional[str] = Query(None),
+    min_pot: Optional[int] = Query(None, description="Minimum total pot in cents"),
+    max_pot: Optional[int] = Query(None, description="Maximum total pot in cents"),
     db: AsyncSession = Depends(get_db),
 ) -> dict:
     q = select(Hand).where(Hand.player_name == player_name)
-    if position:
-        q = q.where(Hand.hero_position == position.upper())
+    q = _apply_hand_filters(q, position, three_bet_pot, date_from, date_to)
+    if min_pot is not None:
+        q = q.where(Hand.pot_total >= min_pot)
+    if max_pot is not None:
+        q = q.where(Hand.pot_total <= max_pot)
     q = q.order_by(Hand.played_at.desc())
 
     total_result = await db.execute(select(func.count()).select_from(q.subquery()))
@@ -190,9 +409,18 @@ async def list_hands(
 @router.get("/stats/summary", response_model=StatsSummary)
 async def stats_summary(
     player_name: str = Query(...),
+    position: Optional[str] = Query(None),
+    three_bet_pot: Optional[bool] = Query(None),
+    date_from: Optional[str] = Query(None),
+    date_to: Optional[str] = Query(None),
     db: AsyncSession = Depends(get_db),
 ) -> StatsSummary:
-    result = await db.execute(
+    # Build the filtered subquery to reuse across all aggregations
+    base_q = select(Hand.id).where(Hand.player_name == player_name)
+    base_q = _apply_hand_filters(base_q, position, three_bet_pot, date_from, date_to)
+    sub = base_q.subquery()
+
+    agg_result = await db.execute(
         select(
             func.count().label("total"),
             func.sum(cast(Hand.vpip, Integer)).label("vpip_sum"),
@@ -201,15 +429,36 @@ async def stats_summary(
             func.sum(cast(Hand.went_to_showdown, Integer)).label("wtsd_sum"),
             func.sum(Hand.hero_result).label("total_result"),
             func.sum(Hand.stakes_bb).label("total_bb"),
-        ).where(Hand.player_name == player_name)
+            func.sum(
+                case((and_(Hand.went_to_showdown == True, Hand.hero_won == True), 1), else_=0)
+            ).label("wssd_wins"),
+            func.sum(cast(Hand.went_to_showdown, Integer)).label("wssd_total"),
+            func.sum(
+                case((and_(Hand.board.isnot(None), Hand.hero_won == True), 1), else_=0)
+            ).label("wwsf_wins"),
+            func.sum(case((Hand.board.isnot(None), 1), else_=0)).label("wwsf_total"),
+        ).where(Hand.id.in_(sub))
     )
-    row = result.one()
+    row = agg_result.one()
     total = row.total or 0
+
     if total == 0:
-        return StatsSummary(total_hands=0, vpip_pct=0, pfr_pct=0, three_bet_pct=0, wtsd_pct=0, win_rate_bb_100=0)
+        return StatsSummary(
+            total_hands=0, vpip_pct=0, pfr_pct=0, three_bet_pct=0, wtsd_pct=0,
+            win_rate_bb_100=0, wssd_pct=0, wwsf_pct=0, af=0.0, cbet_pct=0.0,
+        )
 
     avg_bb = (row.total_bb or 0) / total
     win_rate = ((row.total_result or 0) / (avg_bb * total) * 100) if avg_bb > 0 else 0
+
+    wssd_pct = round((row.wssd_wins or 0) / row.wssd_total * 100, 1) if (row.wssd_total or 0) > 0 else 0.0
+    wwsf_pct = round((row.wwsf_wins or 0) / row.wwsf_total * 100, 1) if (row.wwsf_total or 0) > 0 else 0.0
+
+    # AF and C-bet% require scanning actions_json per hand
+    af_rows_result = await db.execute(
+        select(Hand.pfr, Hand.board, Hand.actions_json).where(Hand.id.in_(sub))
+    )
+    af, cbet_pct = _compute_af_cbet(list(af_rows_result.all()))
 
     return StatsSummary(
         total_hands=total,
@@ -218,14 +467,25 @@ async def stats_summary(
         three_bet_pct=round((row.tb_sum or 0) / total * 100, 1),
         wtsd_pct=round((row.wtsd_sum or 0) / total * 100, 1),
         win_rate_bb_100=round(win_rate, 2),
+        wssd_pct=wssd_pct,
+        wwsf_pct=wwsf_pct,
+        af=af,
+        cbet_pct=cbet_pct,
     )
 
 
 @router.get("/stats/by-position", response_model=list[PositionStats])
 async def stats_by_position(
     player_name: str = Query(...),
+    three_bet_pot: Optional[bool] = Query(None),
+    date_from: Optional[str] = Query(None),
+    date_to: Optional[str] = Query(None),
     db: AsyncSession = Depends(get_db),
 ) -> list[PositionStats]:
+    base_q = select(Hand.id).where(Hand.player_name == player_name, Hand.hero_position.isnot(None))
+    base_q = _apply_hand_filters(base_q, None, three_bet_pot, date_from, date_to)
+    sub = base_q.subquery()
+
     result = await db.execute(
         select(
             Hand.hero_position,
@@ -235,8 +495,7 @@ async def stats_by_position(
             func.sum(Hand.hero_result).label("total_result"),
             func.sum(Hand.stakes_bb).label("total_bb"),
         )
-        .where(Hand.player_name == player_name)
-        .where(Hand.hero_position.isnot(None))
+        .where(Hand.id.in_(sub))
         .group_by(Hand.hero_position)
         .order_by(Hand.hero_position)
     )
@@ -254,6 +513,168 @@ async def stats_by_position(
             win_rate_bb_100=round(win_rate, 2),
         ))
     return out
+
+
+@router.get("/stats/timeline", response_model=list[TimelinePoint])
+async def stats_timeline(
+    player_name: str = Query(...),
+    position: Optional[str] = Query(None),
+    three_bet_pot: Optional[bool] = Query(None),
+    date_from: Optional[str] = Query(None),
+    date_to: Optional[str] = Query(None),
+    db: AsyncSession = Depends(get_db),
+) -> list[TimelinePoint]:
+    q = select(Hand.id, Hand.played_at, Hand.hero_result, Hand.stakes_bb).where(
+        Hand.player_name == player_name
+    )
+    q = _apply_hand_filters(q, position, three_bet_pot, date_from, date_to)
+    q = q.order_by(Hand.played_at.asc())
+
+    result = await db.execute(q)
+    rows = result.all()
+
+    cumulative_cents = 0
+    cumulative_bb = 0.0
+    points = []
+    for row in rows:
+        result_bb = row.hero_result / row.stakes_bb if row.stakes_bb > 0 else 0.0
+        cumulative_cents += row.hero_result
+        cumulative_bb += result_bb
+        points.append(TimelinePoint(
+            played_at=row.played_at.isoformat(),
+            hand_id=str(row.id),
+            result_cents=row.hero_result,
+            cumulative_cents=cumulative_cents,
+            result_bb=round(result_bb, 2),
+            cumulative_bb=round(cumulative_bb, 2),
+        ))
+    return points
+
+
+@router.get("/{hand_id}/gto-analysis", response_model=GTOAnalysis)
+async def get_hand_gto_analysis(
+    hand_id: str,
+    player_name: str = Query(...),
+    db: AsyncSession = Depends(get_db),
+) -> GTOAnalysis:
+    """Return GTO analysis for a specific hand matched to the closest trainer spot."""
+    try:
+        uid = uuid.UUID(hand_id)
+    except ValueError:
+        raise HTTPException(status_code=400, detail="Invalid hand id")
+
+    result = await db.execute(
+        select(Hand).where(Hand.id == uid, Hand.player_name == player_name)
+    )
+    hand = result.scalar_one_or_none()
+    if not hand:
+        raise HTTPException(status_code=404, detail="Hand not found")
+
+    if not hand.hero_position or not hand.hero_hole_cards:
+        return GTOAnalysis(note="Hand missing position or hole cards — GTO analysis unavailable")
+
+    pos_upper = hand.hero_position.upper()
+    if pos_upper not in _POSITION_TO_MATCHUP:
+        return GTOAnalysis(
+            note=f"GTO analysis not available for {hand.hero_position} "
+                 f"(supported: BTN, CO, HJ, SB)"
+        )
+
+    matchup_key, hero_role = _POSITION_TO_MATCHUP[pos_upper]
+
+    spot_result = await db.execute(
+        select(TrainerSpot).where(
+            TrainerSpot.position_matchup == matchup_key,
+            TrainerSpot.solve_status == "ready",
+        ).order_by(TrainerSpot.spot_key).limit(1)
+    )
+    spot = spot_result.scalar_one_or_none()
+    if not spot:
+        return GTOAnalysis(note=f"No solved spot available for {matchup_key}")
+
+    tree = _load_gto_result(spot)
+    if not tree:
+        return GTOAnalysis(note="Solver result file not found — spot may need re-solving")
+
+    hero_combo = hand.hero_hole_cards
+    actions_json = hand.actions_json or {}
+    board = hand.board or ""
+
+    turn_card = board[6:8] if len(board) >= 8 else None
+    river_card = board[8:10] if len(board) >= 10 else None
+
+    decisions: list[GTODecision] = []
+    node_path: list[str] = []
+    note = f"Based on '{spot.label}' spot (board approximation)"
+
+    for street, street_card in [("flop", None), ("turn", turn_card), ("river", river_card)]:
+        street_actions = actions_json.get(street, [])
+        if not street_actions:
+            break
+
+        current_node = _gto_navigate_tree(tree, node_path)
+        if current_node is None:
+            break
+
+        # Traverse chance node when entering turn or river
+        if street_card and current_node.get("node_type") == "chance_node":
+            deal_cards = current_node.get("dealcards", {})
+            if not deal_cards:
+                break  # depth cutoff — no more solver data
+            hero_cards = {hero_combo[:2], hero_combo[2:]}
+            if street_card in deal_cards and street_card not in hero_cards:
+                node_path.append(street_card)
+            else:
+                available = [c for c in deal_cards if c not in hero_cards]
+                if not available:
+                    break
+                node_path.append(available[0])
+            current_node = _gto_navigate_tree(tree, node_path)
+            if current_node is None:
+                break
+
+        # Walk through this street's actions
+        action_idx = 0
+        while action_idx < len(street_actions) and current_node is not None:
+            ntype = current_node.get("node_type")
+            if ntype != "action_node":
+                break
+
+            action_data = street_actions[action_idx]
+            action_idx += 1
+
+            children = list((current_node.get("childrens") or {}).keys())
+            solver_action = _map_verb_to_solver(action_data["action"], children)
+
+            if action_data["is_hero"]:
+                gto_actions = _gto_available_actions(current_node, hero_combo)
+                hero_gto_freq = (
+                    _gto_freq_for_combo(current_node, hero_combo, solver_action)
+                    if solver_action else 0.0
+                )
+                decisions.append(GTODecision(
+                    street=street,
+                    hero_action=action_data["action"],
+                    matched_solver_action=solver_action,
+                    gto_actions=gto_actions,
+                    hero_gto_freq=round(hero_gto_freq, 4),
+                    grade=_grade_action(hero_gto_freq),
+                ))
+
+            # Navigate to next node
+            if solver_action and solver_action in children:
+                node_path.append(solver_action)
+                current_node = _gto_navigate_tree(tree, node_path)
+            else:
+                break
+
+    return GTOAnalysis(
+        matched_spot_key=spot.spot_key,
+        matched_spot_label=spot.label,
+        hero_combo=hero_combo,
+        decisions=decisions,
+        note=note,
+    )
 
 
 @router.get("/{hand_id}", response_model=HandDetail)
