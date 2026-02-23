@@ -203,8 +203,8 @@ export function parseExploitability(lines: string[]): ExploitPoint[] {
 
 // ─── Tree navigation helpers ──────────────────────────────────────────────────
 
-/** Safely get children of any node (unifies childrens + deal_cards). */
+/** Safely get children of any node (unifies childrens + dealcards). */
 export function nodeChildren(node: SolverNode): Record<string, SolverNode> {
   if (node.node_type === 'action_node') return node.childrens;
-  return { ...node.deal_cards, ...(node.childrens ?? {}) };
+  return { ...node.dealcards, ...(node.childrens ?? {}) };
 }

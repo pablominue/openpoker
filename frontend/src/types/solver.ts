@@ -59,10 +59,9 @@ export interface SolverActionNode {
 
 export interface SolverChanceNode {
   node_type: 'chance_node';
-  /** Turn/river card name → subtree. May be empty if not dumped. */
-  deal_cards: Record<string, SolverNode>;
+  /** Turn/river card name → subtree. TexasSolver uses "dealcards" (no underscore). */
+  dealcards: Record<string, SolverNode>;
   deal_number: number;
-  /** Same as deal_cards in some versions. */
   childrens?: Record<string, SolverNode>;
 }
 

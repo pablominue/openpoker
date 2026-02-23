@@ -218,7 +218,7 @@ def _find_any_deal_cards(tree: dict, max_depth: int = 6) -> dict:
             continue
         ntype = node.get("node_type")
         if ntype == "chance_node":
-            dc = node.get("deal_cards") or {}
+            dc = node.get("dealcards") or {}
             if dc:
                 return dc
             continue  # don't recurse into empty chance nodes
@@ -233,12 +233,12 @@ def _navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
     for step in node_path:
         ntype = node.get("node_type")
         if ntype == "chance_node":
-            children = node.get("deal_cards") or {}
+            children = node.get("dealcards") or {}
             if not children:
                 # Fallback: find turn cards from any path that has data
                 children = _find_any_deal_cards(root)
         else:
-            children = node.get("childrens") or node.get("deal_cards") or {}
+            children = node.get("childrens") or node.get("dealcards") or {}
         node = children.get(step)
         if node is None:
             return None
@@ -379,7 +379,7 @@ def _advance_to_hero(
         ntype = next_node.get("node_type")
 
         if ntype == "chance_node":
-            deal_cards = next_node.get("deal_cards", {})
+            deal_cards = next_node.get("dealcards", {})
             if not deal_cards:
                 # Aggressive flop line (BET→CALL etc.) may lack turn data in
                 # older solver files. Fall back to any populated chance node
