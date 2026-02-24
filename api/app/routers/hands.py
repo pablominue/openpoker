@@ -83,11 +83,13 @@ class TimelinePoint(BaseModel):
 
 class GTODecision(BaseModel):
     street: str
-    hero_action: str                      # "checks", "bets", etc.
-    matched_solver_action: Optional[str]  # "CHECK", "BET50", etc.
-    gto_actions: list[dict]               # [{name, gto_freq}]
+    hero_action: str                         # "checks", "bets", etc.
+    matched_solver_action: Optional[str]     # "CHECK", "BET50", etc.
+    gto_actions: list[dict]                  # [{name, gto_freq}]
     hero_gto_freq: float
-    grade: str                            # best/correct/inaccuracy/wrong/blunder
+    grade: str                               # best/correct/inaccuracy/wrong/blunder
+    range_strategy: Optional[dict] = None   # full ComboStrategy for this node {combo: [freq0, freq1, ...]}
+    action_entries: list[dict] = []          # [{name, index}] ordered action list
 
 
 class GTOAnalysis(BaseModel):
@@ -125,13 +127,55 @@ def _apply_hand_filters(q, position=None, three_bet_pot=None, date_from=None, da
 _GTO_RESULT_CACHE: dict[str, dict] = {}
 _SUITS_GTO = ["c", "d", "h", "s"]
 
-# Maps hero_position → (position_matchup_key, hero_role)
-_POSITION_TO_MATCHUP: dict[str, tuple[str, str]] = {
-    "BTN": ("BTN_vs_BB", "ip"),
-    "CO":  ("CO_vs_BB",  "ip"),
-    "HJ":  ("HJ_vs_BB",  "ip"),
-    "SB":  ("SB_vs_BB",  "oop"),
+# Postflop acting order: leftmost = acts first (most OOP), rightmost = acts last (most IP).
+# SB is OOP because it posts the small blind and acts before BB postflop.
+# BB acts before EP/HJ/CO/BTN postflop.
+_POSTFLOP_POSITION_ORDER = ["SB", "BB", "EP", "HJ", "CO", "BTN"]
+
+# Solved matchup keys available in the trainer spot library.
+# Maps (ip_position, oop_position) → matchup_key
+_SOLVED_MATCHUPS: dict[tuple[str, str], str] = {
+    ("BTN", "BB"): "BTN_vs_BB",
+    ("CO",  "BB"): "CO_vs_BB",
+    ("HJ",  "BB"): "HJ_vs_BB",
+    ("BB",  "SB"): "SB_vs_BB",   # BB is IP vs SB postflop
 }
+
+
+def _get_postflop_role(hero_pos: str, villain_pos: str) -> str:
+    """Return 'ip' if hero acts after villain postflop, 'oop' otherwise."""
+    order = _POSTFLOP_POSITION_ORDER
+    h = order.index(hero_pos) if hero_pos in order else -1
+    v = order.index(villain_pos) if villain_pos in order else -1
+    if h < 0 or v < 0:
+        return "unknown"
+    return "ip" if h > v else "oop"
+
+
+def _resolve_matchup(hero_pos: str) -> Optional[tuple[str, str]]:
+    """Return (matchup_key, hero_role) for the best available solved spot, or None.
+
+    IP/OOP is derived from postflop position order, not hardcoded.
+    BB defaults to BTN_vs_BB (most common SRP opponent) since the actual
+    villain's position is not stored per hand.
+    EP has no solved spots and returns None.
+    """
+    if hero_pos in ("BTN", "CO", "HJ"):
+        villain = "BB"
+        ip_pos, oop_pos = hero_pos, villain
+    elif hero_pos == "SB":
+        ip_pos, oop_pos = "BB", "SB"
+    elif hero_pos == "BB":
+        # Best approximation: assume BTN was the preflop raiser (most common SRP)
+        ip_pos, oop_pos = "BTN", "BB"
+    else:
+        return None  # EP or unknown — no solved spots available
+
+    key = _SOLVED_MATCHUPS.get((ip_pos, oop_pos))
+    if key is None:
+        return None
+    role = _get_postflop_role(hero_pos, oop_pos if hero_pos == ip_pos else ip_pos)
+    return key, role
 
 
 def _load_gto_result(spot: TrainerSpot) -> Optional[dict]:
@@ -574,13 +618,14 @@ async def get_hand_gto_analysis(
         return GTOAnalysis(note="Hand missing position or hole cards — GTO analysis unavailable")
 
     pos_upper = hand.hero_position.upper()
-    if pos_upper not in _POSITION_TO_MATCHUP:
+    resolved = _resolve_matchup(pos_upper)
+    if resolved is None:
         return GTOAnalysis(
             note=f"GTO analysis not available for {hand.hero_position} "
-                 f"(supported: BTN, CO, HJ, SB)"
+                 f"(no solved spot for this position)"
         )
 
-    matchup_key, hero_role = _POSITION_TO_MATCHUP[pos_upper]
+    matchup_key, hero_role = resolved
 
     spot_result = await db.execute(
         select(TrainerSpot).where(
@@ -648,6 +693,7 @@ async def get_hand_gto_analysis(
 
             if action_data["is_hero"]:
                 gto_actions = _gto_available_actions(current_node, hero_combo)
+                node_entries = _gto_get_action_entries(current_node)
                 hero_gto_freq = (
                     _gto_freq_for_combo(current_node, hero_combo, solver_action)
                     if solver_action else 0.0
@@ -659,6 +705,8 @@ async def get_hand_gto_analysis(
                     gto_actions=gto_actions,
                     hero_gto_freq=round(hero_gto_freq, 4),
                     grade=_grade_action(hero_gto_freq),
+                    range_strategy=current_node.get("strategy", {}).get("strategy") or None,
+                    action_entries=node_entries,
                 ))
 
             # Navigate to next node
