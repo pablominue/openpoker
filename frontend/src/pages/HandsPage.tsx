@@ -60,6 +60,22 @@ function CardsDisplay({ cards }: { cards: string }) {
   );
 }
 
+// ── GTO helpers ────────────────────────────────────────────────────────────────
+
+/**
+ * All trainer spots use ×10 chip scaling (pot=70 chips = 7bb, etc.).
+ * This converts raw solver action names to BB display labels.
+ * e.g. "BET 35.000000" → "BET 3.5bb"  |  "CHECK" → "CHECK"
+ */
+function fmtAction(name: string): string {
+  return name.replace(/([\d]+\.?[\d]*)/g, (_, n) => {
+    const chips = parseFloat(n);
+    const bb = chips / 10;
+    const bbStr = Number.isInteger(bb) ? String(bb) : bb.toFixed(1).replace(/\.0$/, '');
+    return `${bbStr}bb`;
+  });
+}
+
 // ── GTO Grade badge ────────────────────────────────────────────────────────────
 
 const GRADE_CONFIG: Record<string, { label: string; color: string; bg: string }> = {
@@ -101,7 +117,7 @@ function ActionBar({ actions, chosen }: {
               color: isChosen ? 'var(--accent-text)' : 'var(--text-secondary)',
               whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
             }}>
-              {a.name}
+              {fmtAction(a.name)}
             </span>
             <div style={{ flex: 1, height: 8, borderRadius: 4, background: 'var(--bg-hover)', overflow: 'hidden' }}>
               <div style={{
@@ -211,7 +227,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
                   total++;
                 }
                 return entries.map((e, idx) => ({
-                  name: e.name,
+                  name: fmtAction(e.name),
                   color: actionColor(e.name),
                   freq: total > 0 ? sums[idx] / total : 0,
                   index: e.index,
@@ -283,7 +299,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
                                   <div key={idx} style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '5px' }}>
                                     <div style={{ width: 8, height: 8, borderRadius: '2px', background: actionColor(e.name), flexShrink: 0 }} />
                                     <span style={{ flex: 1, fontSize: '12px', color: isChosen ? 'var(--text-primary)' : 'var(--text-secondary)', fontWeight: isChosen ? 700 : 400 }}>
-                                      {e.name}{isChosen ? ' ✓' : ''}
+                                      {fmtAction(e.name)}{isChosen ? ' ✓' : ''}
                                     </span>
                                     <span style={{ fontSize: '12px', fontWeight: 700, fontFamily: 'monospace', color: actionColor(e.name), minWidth: '38px', textAlign: 'right' }}>
                                       {(freq * 100).toFixed(1)}%
