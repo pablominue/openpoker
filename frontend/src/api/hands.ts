@@ -115,6 +115,8 @@ export interface GTODecision {
   gto_actions: GTOAction[];
   hero_gto_freq: number;
   grade: string; // best | correct | inaccuracy | wrong | blunder
+  range_strategy: Record<string, number[]> | null;
+  action_entries: Array<{ name: string; index: number }>;
 }
 
 export interface GTOAnalysisResult {

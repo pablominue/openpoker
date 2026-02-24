@@ -3,6 +3,10 @@ import type { CSSProperties } from 'react';
 import { uploadHands, getHands, deleteHand, getHandGTOAnalysis } from '../api/hands';
 import type { GTOAnalysisResult, GTODecision } from '../api/hands';
 import { usePlayer } from '../contexts/PlayerContext';
+import HandStrategyMatrix from '../components/StrategyViewer/HandStrategyMatrix';
+import ActionBreakdown from '../components/StrategyViewer/ActionBreakdown';
+import { actionColor } from '../lib/strategyUtils';
+import type { ActionEntry } from '../types/solver';
 
 interface Hand {
   id: string; hand_id_raw: string; played_at: string; stakes_bb: number;
@@ -139,7 +143,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
     <div
       onClick={onClose}
       style={{
-        position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.6)', zIndex: 1000,
+        position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.7)', zIndex: 1000,
         display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '20px',
       }}
     >
@@ -147,7 +151,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
         onClick={e => e.stopPropagation()}
         style={{
           background: 'var(--bg-base)', border: '1px solid var(--border)', borderRadius: '14px',
-          maxWidth: 580, width: '100%', maxHeight: '80vh', overflow: 'auto',
+          maxWidth: 900, width: '100%', maxHeight: '90vh', overflow: 'auto',
           padding: '24px',
         }}
       >
@@ -157,7 +161,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
             <div style={{ fontSize: '16px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '4px' }}>
               GTO Analysis
             </div>
-            <div style={{ fontSize: '12px', color: 'var(--text-muted)', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+            <div style={{ fontSize: '12px', color: 'var(--text-muted)', display: 'flex', gap: '8px', flexWrap: 'wrap', alignItems: 'center' }}>
               {hand.hero_position && <span style={{ fontWeight: 700, color: 'var(--accent-text)' }}>{hand.hero_position}</span>}
               {hand.hero_hole_cards && <CardsDisplay cards={hand.hero_hole_cards} />}
               {hand.board && <><span style={{ color: 'var(--border)' }}>|</span><CardsDisplay cards={hand.board} /></>}
@@ -192,28 +196,113 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
             )}
 
             {/* Decision cards */}
-            {analysis.decisions.map((d: GTODecision, i: number) => (
-              <div key={i} style={{
-                marginBottom: '12px', padding: '14px', borderRadius: '10px',
-                background: 'var(--bg-surface)', border: '1px solid var(--border)',
-              }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
-                  <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
-                    <span style={{ fontSize: '10px', fontWeight: 700, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-                      {streetLabel[d.street] ?? d.street}
-                    </span>
-                    <span style={{ fontSize: '13px', fontWeight: 700, color: 'var(--text-primary)' }}>
-                      {verbLabel[d.hero_action] ?? d.hero_action}
-                    </span>
-                    <span style={{ fontSize: '11px', color: 'var(--text-muted)' }}>
-                      ({Math.round(d.hero_gto_freq * 100)}% GTO)
-                    </span>
+            {analysis.decisions.map((d: GTODecision, i: number) => {
+              const entries: ActionEntry[] = d.action_entries;
+              const hasMatrix = d.range_strategy && entries.length > 0;
+
+              // Build aggregates for ActionBreakdown directly from range_strategy
+              const aggregates = hasMatrix ? (() => {
+                const strategy = d.range_strategy!;
+                const sums = new Array(entries.length).fill(0);
+                let total = 0;
+                for (const freqs of Object.values(strategy)) {
+                  if (freqs.length !== entries.length) continue;
+                  freqs.forEach((f, idx) => { sums[idx] += f; });
+                  total++;
+                }
+                return entries.map((e, idx) => ({
+                  name: e.name,
+                  color: actionColor(e.name),
+                  freq: total > 0 ? sums[idx] / total : 0,
+                  index: e.index,
+                }));
+              })() : [];
+
+              return (
+                <div key={i} style={{
+                  marginBottom: '16px', padding: '16px', borderRadius: '12px',
+                  background: 'var(--bg-surface)', border: '1px solid var(--border)',
+                }}>
+                  {/* Decision header */}
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                    <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+                      <span style={{ fontSize: '10px', fontWeight: 700, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                        {streetLabel[d.street] ?? d.street}
+                      </span>
+                      <span style={{ fontSize: '14px', fontWeight: 800, color: 'var(--text-primary)' }}>
+                        {verbLabel[d.hero_action] ?? d.hero_action}
+                      </span>
+                    </div>
+                    <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+                      <span style={{ fontSize: '11px', color: 'var(--text-muted)' }}>
+                        GTO freq: <span style={{ fontWeight: 700, color: d.hero_gto_freq >= 0.75 ? '#22c55e' : d.hero_gto_freq >= 0.40 ? 'var(--info)' : 'var(--danger)' }}>
+                          {Math.round(d.hero_gto_freq * 100)}%
+                        </span>
+                      </span>
+                      <GradeBadge grade={d.grade} />
+                    </div>
                   </div>
-                  <GradeBadge grade={d.grade} />
+
+                  {hasMatrix ? (
+                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 220px', gap: '16px', alignItems: 'start' }}>
+                      {/* Left: range matrix */}
+                      <div>
+                        <div style={{ fontSize: '10px', fontWeight: 700, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '6px' }}>
+                          Range strategy
+                        </div>
+                        <HandStrategyMatrix
+                          strategy={d.range_strategy!}
+                          entries={entries}
+                          highlightCombo={analysis.hero_combo ?? undefined}
+                        />
+                      </div>
+
+                      {/* Right: action breakdown + hero combo detail */}
+                      <div>
+                        <div style={{ fontSize: '10px', fontWeight: 700, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '8px' }}>
+                          Action frequencies
+                        </div>
+                        <ActionBreakdown aggregates={aggregates} />
+
+                        {/* Hero combo GTO breakdown */}
+                        {analysis.hero_combo && (
+                          <div style={{ marginTop: '16px' }}>
+                            <div style={{ fontSize: '10px', fontWeight: 700, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '8px' }}>
+                              Your hand ({analysis.hero_combo})
+                            </div>
+                            {(() => {
+                              const comboFreqs = d.range_strategy![analysis.hero_combo!];
+                              if (!comboFreqs) return (
+                                <div style={{ fontSize: '11px', color: 'var(--text-muted)', fontStyle: 'italic' }}>Combo not in range</div>
+                              );
+                              return entries.map((e, idx) => {
+                                const freq = comboFreqs[e.index] ?? 0;
+                                if (freq < 0.001) return null;
+                                const isChosen = e.name === d.matched_solver_action;
+                                return (
+                                  <div key={idx} style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '5px' }}>
+                                    <div style={{ width: 8, height: 8, borderRadius: '2px', background: actionColor(e.name), flexShrink: 0 }} />
+                                    <span style={{ flex: 1, fontSize: '12px', color: isChosen ? 'var(--text-primary)' : 'var(--text-secondary)', fontWeight: isChosen ? 700 : 400 }}>
+                                      {e.name}{isChosen ? ' ✓' : ''}
+                                    </span>
+                                    <span style={{ fontSize: '12px', fontWeight: 700, fontFamily: 'monospace', color: actionColor(e.name), minWidth: '38px', textAlign: 'right' }}>
+                                      {(freq * 100).toFixed(1)}%
+                                    </span>
+                                  </div>
+                                );
+                              });
+                            })()}
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  ) : (
+                    /* Fallback: simple action bar if no range data */
+                    <ActionBar actions={d.gto_actions} chosen={d.matched_solver_action} />
+                  )}
                 </div>
-                <ActionBar actions={d.gto_actions} chosen={d.matched_solver_action} />
-              </div>
-            ))}
+              );
+            })}
 
             {/* Summary score */}
             {analysis.decisions.length > 0 && (

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { RANKS, cellName } from '../../lib/poker';
 import {
-  aggregateCells, combosForCell, actionColor,
+  aggregateCells, combosForCell, actionColor, comboToCell,
   type CellAggregate,
 } from '../../lib/strategyUtils';
 import type { ComboStrategy, ActionEntry } from '../../types/solver';
@@ -9,6 +9,7 @@ import type { ComboStrategy, ActionEntry } from '../../types/solver';
 interface Props {
   strategy: ComboStrategy;
   entries: ActionEntry[];
+  highlightCombo?: string; // e.g. "AhKs" — draws a border on that cell
 }
 
 interface TooltipState {
@@ -28,10 +29,13 @@ function blendColor(cell: CellAggregate, entries: ActionEntry[]): string {
   return baseColor + Math.round(60 + dominance * 195).toString(16).padStart(2, '0');
 }
 
-export default function HandStrategyMatrix({ strategy, entries }: Props) {
+export default function HandStrategyMatrix({ strategy, entries, highlightCombo }: Props) {
   const [tooltip, setTooltip] = useState<TooltipState | null>(null);
 
   const grid = aggregateCells(strategy, entries.length);
+
+  // Pre-compute the cell [r,c] for the highlighted combo so we can mark it
+  const highlightCell = highlightCombo ? comboToCell(highlightCombo) : null;
 
   return (
     <div style={{ position: 'relative', userSelect: 'none' }}>
@@ -68,6 +72,7 @@ export default function HandStrategyMatrix({ strategy, entries }: Props) {
 
             const bg = blendColor(cell, entries);
             const domEntry = entries[cell.dominantIdx];
+            const isHero = highlightCell && highlightCell[0] === r && highlightCell[1] === c;
 
             return (
               <div
@@ -75,7 +80,8 @@ export default function HandStrategyMatrix({ strategy, entries }: Props) {
                 style={{
                   aspectRatio: '1', borderRadius: '3px',
                   background: bg,
-                  border: `1px solid ${bg}`,
+                  border: isHero ? '2px solid #fff' : `1px solid ${bg}`,
+                  boxShadow: isHero ? '0 0 0 1px #000, 0 0 6px 2px rgba(255,255,255,0.4)' : undefined,
                   cursor: 'crosshair',
                   position: 'relative',
                   overflow: 'hidden',
