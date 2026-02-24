@@ -120,6 +120,7 @@ export interface GTODecision {
 }
 
 export interface GTOAnalysisResult {
+  status: string; // "pending" | "solving" | "failed" | "ready"
   matched_spot_key: string | null;
   matched_spot_label: string | null;
   hero_combo: string | null;

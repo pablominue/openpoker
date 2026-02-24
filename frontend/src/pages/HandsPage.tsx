@@ -142,11 +142,25 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
   const [analysis, setAnalysis] = useState<GTOAnalysisResult | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const pollRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const fetchAnalysis = (isPolling = false) => {
+    if (!isPolling) setLoading(true);
+    getHandGTOAnalysis(hand.id, playerName)
+      .then(r => {
+        setAnalysis(r);
+        setLoading(false);
+        // If not ready yet, keep polling every 4 seconds
+        if (r.status !== 'ready' && r.status !== 'failed') {
+          pollRef.current = setTimeout(() => fetchAnalysis(true), 4000);
+        }
+      })
+      .catch(e => { setError(String(e)); setLoading(false); });
+  };
 
   useEffect(() => {
-    getHandGTOAnalysis(hand.id, playerName)
-      .then(r => { setAnalysis(r); setLoading(false); })
-      .catch(e => { setError(String(e)); setLoading(false); });
+    fetchAnalysis();
+    return () => { if (pollRef.current) clearTimeout(pollRef.current); };
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -186,10 +200,39 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
           <button onClick={onClose} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: '18px', padding: '0 4px' }}>✕</button>
         </div>
 
-        {loading && <div style={{ textAlign: 'center', padding: '32px', color: 'var(--text-muted)', fontSize: '13px' }}>Analyzing…</div>}
+        {loading && <div style={{ textAlign: 'center', padding: '32px', color: 'var(--text-muted)', fontSize: '13px' }}>Requesting solve…</div>}
         {error && <div style={{ padding: '12px', borderRadius: '8px', background: 'rgba(248,81,73,0.08)', color: 'var(--danger)', fontSize: '12px' }}>{error}</div>}
 
-        {analysis && (
+        {/* Solving spinner — shown while solver is running */}
+        {analysis && analysis.status !== 'ready' && analysis.status !== 'failed' && (
+          <div style={{
+            display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '16px',
+            padding: '48px 24px',
+          }}>
+            <div style={{
+              width: 40, height: 40, borderRadius: '50%',
+              border: '3px solid var(--border)',
+              borderTopColor: 'var(--accent)',
+              animation: 'spin 0.9s linear infinite',
+            }} />
+            <div style={{ fontSize: '13px', color: 'var(--text-secondary)', textAlign: 'center' }}>
+              <div style={{ fontWeight: 700, marginBottom: '4px' }}>Solving exact board…</div>
+              <div style={{ color: 'var(--text-muted)', fontSize: '12px' }}>
+                Running GTO solver on {analysis.matched_spot_label ?? 'your hand'}.<br />
+                This takes 1–3 minutes. Results are cached for future views.
+              </div>
+            </div>
+            <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+          </div>
+        )}
+
+        {analysis && analysis.status === 'failed' && (
+          <div style={{ padding: '12px', borderRadius: '8px', background: 'rgba(248,81,73,0.08)', color: 'var(--danger)', fontSize: '12px' }}>
+            Solver failed for this spot. Check server logs.
+          </div>
+        )}
+
+        {analysis && analysis.status === 'ready' && (
           <>
             {/* Spot label */}
             {analysis.matched_spot_label && (
@@ -270,6 +313,7 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
                           strategy={d.range_strategy!}
                           entries={entries}
                           highlightCombo={analysis.hero_combo ?? undefined}
+                          formatName={fmtAction}
                         />
                       </div>
 

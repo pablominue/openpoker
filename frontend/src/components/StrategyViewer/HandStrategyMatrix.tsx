@@ -9,7 +9,8 @@ import type { ComboStrategy, ActionEntry } from '../../types/solver';
 interface Props {
   strategy: ComboStrategy;
   entries: ActionEntry[];
-  highlightCombo?: string; // e.g. "AhKs" — draws a border on that cell
+  highlightCombo?: string;         // e.g. "AhKs" — draws a border on that cell
+  formatName?: (n: string) => string; // optional label formatter (e.g. for BB conversion)
 }
 
 interface TooltipState {
@@ -29,7 +30,8 @@ function blendColor(cell: CellAggregate, entries: ActionEntry[]): string {
   return baseColor + Math.round(60 + dominance * 195).toString(16).padStart(2, '0');
 }
 
-export default function HandStrategyMatrix({ strategy, entries, highlightCombo }: Props) {
+export default function HandStrategyMatrix({ strategy, entries, highlightCombo, formatName }: Props) {
+  const label = (name: string) => formatName ? formatName(name) : name;
   const [tooltip, setTooltip] = useState<TooltipState | null>(null);
 
   const grid = aggregateCells(strategy, entries.length);
@@ -163,7 +165,7 @@ export default function HandStrategyMatrix({ strategy, entries, highlightCombo }
               return (
                 <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '3px' }}>
                   <div style={{ width: 8, height: 8, borderRadius: '2px', background: actionColor(e.name), flexShrink: 0 }} />
-                  <span style={{ flex: 1, color: 'var(--text-secondary)' }}>{e.name}</span>
+                  <span style={{ flex: 1, color: 'var(--text-secondary)' }}>{label(e.name)}</span>
                   <span style={{ fontWeight: 700, color: 'var(--text-primary)', fontFamily: 'monospace' }}>
                     {(freq * 100).toFixed(1)}%
                   </span>

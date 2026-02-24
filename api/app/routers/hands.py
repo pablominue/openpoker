@@ -2,8 +2,9 @@
 
 import asyncio
 import json
+import logging
 import uuid
-from datetime import datetime
+from datetime import datetime, timezone
 from itertools import permutations
 from pathlib import Path
 from typing import Optional
@@ -13,9 +14,24 @@ from pydantic import BaseModel
 from sqlalchemy import case, cast, delete, distinct, func, select, Integer, and_
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from config_renderer import render_config
 from core.deps import get_db
+from db.base import AsyncSessionLocal
 from db.models import Hand, TrainerSpot
+from models import BetSizeConfig, SolveRequest
 from parsers.pokerstars import parse_file, parse_hand
+import solver as solver_service
+from trainer_spots import (
+    _BTN_OPEN, _BB_DEFEND_VS_BTN,
+    _CO_OPEN, _BB_DEFEND_VS_CO,
+    _HJ_OPEN, _BB_DEFEND_VS_HJ,
+    _SB_OPEN, _BB_DEFEND_VS_SB,
+    _STD_BET_SIZES,
+    _SRP_POT, _SRP_STACK, _THREE_BET_POT, _THREE_BET_STACK,
+)
+
+logger = logging.getLogger("HANDS")
+LIBRARY_DIR = Path("/app/jobs/library")
 
 router = APIRouter(prefix="/api/hands", tags=["hands"])
 
@@ -93,11 +109,80 @@ class GTODecision(BaseModel):
 
 
 class GTOAnalysis(BaseModel):
+    status: str = "ready"             # "pending" | "solving" | "failed" | "ready"
     matched_spot_key: Optional[str] = None
     matched_spot_label: Optional[str] = None
     hero_combo: Optional[str] = None
     decisions: list[GTODecision] = []
     note: Optional[str] = None
+
+
+# ── On-demand solve infrastructure ────────────────────────────────────────────
+
+# Maps matchup_key → (range_ip, range_oop)
+_POSITION_RANGES: dict[str, tuple[str, str]] = {
+    "BTN_vs_BB": (_BTN_OPEN,        _BB_DEFEND_VS_BTN),
+    "CO_vs_BB":  (_CO_OPEN,         _BB_DEFEND_VS_CO),
+    "HJ_vs_BB":  (_HJ_OPEN,         _BB_DEFEND_VS_HJ),
+    "SB_vs_BB":  (_BB_DEFEND_VS_SB, _SB_OPEN),   # BB is IP, SB is OOP
+}
+
+
+async def _solve_hand_spot(spot_id: object) -> None:
+    """Background coroutine: solve an on-demand hand analysis spot."""
+    async with AsyncSessionLocal() as db:
+        res = await db.execute(select(TrainerSpot).where(TrainerSpot.id == spot_id))
+        spot = res.scalar_one_or_none()
+        if not spot or spot.solve_status != "pending":
+            return
+        spot.solve_status = "solving"
+        await db.commit()
+        spot_key       = spot.spot_key
+        spot_board     = spot.board
+        spot_pot       = spot.pot
+        spot_stack     = spot.effective_stack
+        spot_range_ip  = spot.range_ip
+        spot_range_oop = spot.range_oop
+        spot_bet_sizes = spot.bet_sizes_json
+
+    spot_dir    = LIBRARY_DIR / spot_key
+    spot_dir.mkdir(parents=True, exist_ok=True)
+    result_file = str(spot_dir / "result.json")
+    cfg_path    = spot_dir / "config.txt"
+
+    bet_sizes = [BetSizeConfig(**bs) for bs in spot_bet_sizes]
+    req = SolveRequest(
+        pot=spot_pot, effective_stack=spot_stack,
+        board=spot_board, range_ip=spot_range_ip, range_oop=spot_range_oop,
+        bet_sizes=bet_sizes,
+        thread_num=2, accuracy=1.0, max_iteration=100,
+        dump_rounds=2, allin_threshold=0.67,
+    )
+    cfg_path.write_text(render_config(req, result_file))
+
+    try:
+        await solver_service.run_solver_path(
+            cfg_path=cfg_path, result_file=Path(result_file), work_dir=spot_dir,
+        )
+        solved_ok = Path(result_file).exists()
+    except Exception as exc:
+        logger.error("Hand spot %s solve failed: %s", spot_key, exc)
+        solved_ok = False
+
+    async with AsyncSessionLocal() as db:
+        res = await db.execute(select(TrainerSpot).where(TrainerSpot.id == spot_id))
+        spot = res.scalar_one_or_none()
+        if spot:
+            spot.solve_status = "ready" if solved_ok else "failed"
+            spot.result_path  = result_file if solved_ok else None
+            spot.solved_at    = datetime.now(timezone.utc) if solved_ok else None
+            await db.commit()
+
+    if solved_ok:
+        _GTO_RESULT_CACHE.pop(spot_key, None)
+        logger.info("On-demand hand spot solved: %s", spot_key)
+    else:
+        logger.warning("On-demand hand spot failed: %s", spot_key)
 
 
 # ── Filter helpers ─────────────────────────────────────────────────────────────
@@ -211,12 +296,15 @@ def _gto_navigate_tree(root: dict, node_path: list[str]) -> Optional[dict]:
 
 
 def _gto_find_iso_combo(strategy: dict, combo: str) -> Optional[str]:
+    """Find an isomorphic combo in the strategy (suit permutations + rank order swap)."""
     r1, s1, r2, s2 = combo[0], combo[1], combo[2], combo[3]
-    for perm in set(permutations(_SUITS_GTO)):
-        suit_map = dict(zip(_SUITS_GTO, perm))
-        candidate = r1 + suit_map[s1] + r2 + suit_map[s2]
-        if candidate in strategy:
-            return candidate
+    # Try both rank orderings (solver may store AcQc as "AcQc" while hero has "QcAc")
+    for (ra, sa, rb, sb) in [(r1, s1, r2, s2), (r2, s2, r1, s1)]:
+        for perm in set(permutations(_SUITS_GTO)):
+            suit_map = dict(zip(_SUITS_GTO, perm))
+            candidate = ra + suit_map[sa] + rb + suit_map[sb]
+            if candidate in strategy:
+                return candidate
     return None
 
 
@@ -601,7 +689,11 @@ async def get_hand_gto_analysis(
     player_name: str = Query(...),
     db: AsyncSession = Depends(get_db),
 ) -> GTOAnalysis:
-    """Return GTO analysis for a specific hand matched to the closest trainer spot."""
+    """Return GTO analysis for a specific hand using the exact board.
+
+    On first call: creates an on-demand TrainerSpot for this exact board + position
+    matchup and queues a background solve.  Subsequent calls return the result once ready.
+    """
     try:
         uid = uuid.UUID(hand_id)
     except ValueError:
@@ -615,42 +707,86 @@ async def get_hand_gto_analysis(
         raise HTTPException(status_code=404, detail="Hand not found")
 
     if not hand.hero_position or not hand.hero_hole_cards:
-        return GTOAnalysis(note="Hand missing position or hole cards — GTO analysis unavailable")
+        return GTOAnalysis(note="Hand missing position or hole cards")
+
+    if not hand.board or len(hand.board) < 6:
+        return GTOAnalysis(note="Hand missing board data — hand may not have reached the flop")
 
     pos_upper = hand.hero_position.upper()
     resolved = _resolve_matchup(pos_upper)
     if resolved is None:
         return GTOAnalysis(
-            note=f"GTO analysis not available for {hand.hero_position} "
-                 f"(no solved spot for this position)"
+            note=f"GTO analysis not available for {hand.hero_position} (no solved spot for this position)"
         )
 
     matchup_key, hero_role = resolved
+    ranges = _POSITION_RANGES.get(matchup_key)
+    if ranges is None:
+        return GTOAnalysis(note=f"No ranges configured for {matchup_key}")
 
-    spot_result = await db.execute(
-        select(TrainerSpot).where(
-            TrainerSpot.position_matchup == matchup_key,
-            TrainerSpot.solve_status == "ready",
-        ).order_by(TrainerSpot.spot_key).limit(1)
-    )
-    spot = spot_result.scalar_one_or_none()
-    if not spot:
-        return GTOAnalysis(note=f"No solved spot available for {matchup_key}")
+    # Determine pot type from preflop raise count
+    preflop_acts = (hand.actions_json or {}).get("preflop", [])
+    raise_count = sum(1 for a in preflop_acts if a.get("action") == "raises")
+    is_3bet = raise_count >= 2
+    pot_type = "3bet" if is_3bet else "srp"
+    pot    = _THREE_BET_POT if is_3bet else _SRP_POT
+    stack  = _THREE_BET_STACK if is_3bet else _SRP_STACK
+
+    # Exact flop board
+    flop_raw = hand.board[:6]   # e.g. "AcKhQd"
+    board_csv = f"{flop_raw[0:2]},{flop_raw[2:4]},{flop_raw[4:6]}"
+
+    # Unique spot key — reused across all hands with the same board+matchup+pot_type
+    spot_key = f"hd_{matchup_key}_{pot_type}_{flop_raw.lower()}"
+
+    # Look up or create the on-demand spot
+    spot_res = await db.execute(select(TrainerSpot).where(TrainerSpot.spot_key == spot_key))
+    spot = spot_res.scalar_one_or_none()
+
+    if spot is None:
+        range_ip, range_oop = ranges
+        spot = TrainerSpot(
+            spot_key=spot_key,
+            label=f"{matchup_key} · {board_csv} ({pot_type.upper()})",
+            position_matchup=matchup_key,
+            board_texture="on_demand",
+            board=board_csv,
+            range_ip=range_ip,
+            range_oop=range_oop,
+            pot=pot,
+            effective_stack=stack,
+            bet_sizes_json=_STD_BET_SIZES,
+            solve_status="pending",
+        )
+        db.add(spot)
+        await db.commit()
+        await db.refresh(spot)
+        asyncio.create_task(_solve_hand_spot(spot.id))
+        logger.info("Queued on-demand solve for spot %s", spot_key)
+
+    if spot.solve_status == "pending":
+        asyncio.create_task(_solve_hand_spot(spot.id))  # re-trigger if task died
+    if spot.solve_status != "ready":
+        return GTOAnalysis(
+            status=spot.solve_status,
+            matched_spot_key=spot_key,
+            matched_spot_label=spot.label,
+            note="Solving exact board — please wait a moment and refresh",
+        )
 
     tree = _load_gto_result(spot)
     if not tree:
-        return GTOAnalysis(note="Solver result file not found — spot may need re-solving")
+        return GTOAnalysis(note="Solver result file missing — spot may need re-solving")
 
-    hero_combo = hand.hero_hole_cards
+    hero_combo   = hand.hero_hole_cards
     actions_json = hand.actions_json or {}
-    board = hand.board or ""
+    board        = hand.board or ""
 
-    turn_card = board[6:8] if len(board) >= 8 else None
+    turn_card  = board[6:8]  if len(board) >= 8  else None
     river_card = board[8:10] if len(board) >= 10 else None
 
     decisions: list[GTODecision] = []
     node_path: list[str] = []
-    note = f"Based on '{spot.label}' spot (board approximation)"
 
     for street, street_card in [("flop", None), ("turn", turn_card), ("river", river_card)]:
         street_actions = actions_json.get(street, [])
@@ -665,7 +801,7 @@ async def get_hand_gto_analysis(
         if street_card and current_node.get("node_type") == "chance_node":
             deal_cards = current_node.get("dealcards", {})
             if not deal_cards:
-                break  # depth cutoff — no more solver data
+                break
             hero_cards = {hero_combo[:2], hero_combo[2:]}
             if street_card in deal_cards and street_card not in hero_cards:
                 node_path.append(street_card)
@@ -681,18 +817,16 @@ async def get_hand_gto_analysis(
         # Walk through this street's actions
         action_idx = 0
         while action_idx < len(street_actions) and current_node is not None:
-            ntype = current_node.get("node_type")
-            if ntype != "action_node":
+            if current_node.get("node_type") != "action_node":
                 break
 
-            action_data = street_actions[action_idx]
-            action_idx += 1
-
-            children = list((current_node.get("childrens") or {}).keys())
+            action_data  = street_actions[action_idx]
+            action_idx  += 1
+            children     = list((current_node.get("childrens") or {}).keys())
             solver_action = _map_verb_to_solver(action_data["action"], children)
 
             if action_data["is_hero"]:
-                gto_actions = _gto_available_actions(current_node, hero_combo)
+                gto_actions  = _gto_available_actions(current_node, hero_combo)
                 node_entries = _gto_get_action_entries(current_node)
                 hero_gto_freq = (
                     _gto_freq_for_combo(current_node, hero_combo, solver_action)
@@ -709,7 +843,6 @@ async def get_hand_gto_analysis(
                     action_entries=node_entries,
                 ))
 
-            # Navigate to next node
             if solver_action and solver_action in children:
                 node_path.append(solver_action)
                 current_node = _gto_navigate_tree(tree, node_path)
@@ -717,11 +850,12 @@ async def get_hand_gto_analysis(
                 break
 
     return GTOAnalysis(
+        status="ready",
         matched_spot_key=spot.spot_key,
         matched_spot_label=spot.label,
         hero_combo=hero_combo,
         decisions=decisions,
-        note=note,
+        note=None,
     )
 
 
