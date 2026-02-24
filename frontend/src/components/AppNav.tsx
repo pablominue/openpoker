@@ -54,7 +54,7 @@ export default function AppNav() {
       <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0 }}>
         <span style={{ fontSize: '20px', color: 'var(--accent)' }}>♠</span>
         <span style={{ fontWeight: 800, fontSize: '14px', color: 'var(--text-primary)', letterSpacing: '-0.01em' }}>
-          TexasSolver
+          OpenPoker
         </span>
       </div>
 
