@@ -113,6 +113,7 @@ class GTOAnalysis(BaseModel):
     matched_spot_key: Optional[str] = None
     matched_spot_label: Optional[str] = None
     hero_combo: Optional[str] = None
+    hero_iso_combo: Optional[str] = None   # canonical solver key (suit-permuted); for strategy lookup
     decisions: list[GTODecision] = []
     note: Optional[str] = None
 
@@ -156,7 +157,7 @@ async def _solve_hand_spot(spot_id: object) -> None:
         board=spot_board, range_ip=spot_range_ip, range_oop=spot_range_oop,
         bet_sizes=bet_sizes,
         thread_num=2, accuracy=1.0, max_iteration=100,
-        dump_rounds=2, allin_threshold=0.67,
+        dump_rounds=3, allin_threshold=0.67,  # 3 = flop+turn+river
     )
     cfg_path.write_text(render_config(req, result_file))
 
@@ -736,8 +737,9 @@ async def get_hand_gto_analysis(
     flop_raw = hand.board[:6]   # e.g. "AcKhQd"
     board_csv = f"{flop_raw[0:2]},{flop_raw[2:4]},{flop_raw[4:6]}"
 
-    # Unique spot key — reused across all hands with the same board+matchup+pot_type
-    spot_key = f"hd_{matchup_key}_{pot_type}_{flop_raw.lower()}"
+    # Unique spot key — reused across all hands with the same board+matchup+pot_type.
+    # "hd3" prefix means dump_rounds=3 (flop+turn+river); old "hd" spots used dump_rounds=2.
+    spot_key = f"hd3_{matchup_key}_{pot_type}_{flop_raw.lower()}"
 
     # Look up or create the on-demand spot
     spot_res = await db.execute(select(TrainerSpot).where(TrainerSpot.spot_key == spot_key))
@@ -801,6 +803,9 @@ async def get_hand_gto_analysis(
         if street_card and current_node.get("node_type") == "chance_node":
             deal_cards = current_node.get("dealcards", {})
             if not deal_cards:
+                # River data absent (old spot solved with dump_rounds=2) → skip river gracefully
+                if street == "river":
+                    continue
                 break
             hero_cards = {hero_combo[:2], hero_combo[2:]}
             if street_card in deal_cards and street_card not in hero_cards:
@@ -849,11 +854,21 @@ async def get_hand_gto_analysis(
             else:
                 break
 
+    # Find the canonical combo key used in the solver strategy (suit permutation may differ)
+    hero_iso_combo: Optional[str] = None
+    for dec in decisions:
+        if dec.range_strategy:
+            found = _gto_find_iso_combo(dec.range_strategy, hero_combo)
+            if found:
+                hero_iso_combo = found
+                break
+
     return GTOAnalysis(
         status="ready",
         matched_spot_key=spot.spot_key,
         matched_spot_label=spot.label,
         hero_combo=hero_combo,
+        hero_iso_combo=hero_iso_combo,
         decisions=decisions,
         note=None,
     )

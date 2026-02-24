@@ -124,6 +124,7 @@ export interface GTOAnalysisResult {
   matched_spot_key: string | null;
   matched_spot_label: string | null;
   hero_combo: string | null;
+  hero_iso_combo: string | null; // canonical solver key (suit-permuted form); use for strategy lookups
   decisions: GTODecision[];
   note: string | null;
 }

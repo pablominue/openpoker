@@ -331,7 +331,9 @@ function GTOModal({ hand, playerName, onClose }: { hand: Hand; playerName: strin
                               Your hand ({analysis.hero_combo})
                             </div>
                             {(() => {
-                              const comboFreqs = d.range_strategy![analysis.hero_combo!];
+                              // Use iso_combo (solver's canonical suit-permuted form) for lookup
+                              const lookupKey = analysis.hero_iso_combo ?? analysis.hero_combo!;
+                              const comboFreqs = d.range_strategy![lookupKey];
                               if (!comboFreqs) return (
                                 <div style={{ fontSize: '11px', color: 'var(--text-muted)', fontStyle: 'italic' }}>Combo not in range</div>
                               );
