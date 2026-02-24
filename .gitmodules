@@ -1,4 +1,4 @@
 [submodule "texassolver-web/solver"]
-	path = texassolver-web/solver
+	path = web/solver
 	url = https://github.com/bupticybee/TexasSolver.git
 	branch = console
