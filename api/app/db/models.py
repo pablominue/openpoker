@@ -79,6 +79,25 @@ class TrainingSession(Base):
     spot: Mapped["TrainerSpot"] = relationship(back_populates="sessions")
 
 
+class PlayerRange(Base):
+    """Player-defined preflop ranges for each scenario (open/3bet/call by position)."""
+
+    __tablename__ = "player_ranges"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    player_name: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    scenario_key: Mapped[str] = mapped_column(String(64), nullable=False)   # e.g. "open_BTN", "3bet_CO_vs_BTN"
+    scenario_label: Mapped[str] = mapped_column(String(128), nullable=False)
+    range_str: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
+    )
+
+    __table_args__ = (
+        UniqueConstraint("player_name", "scenario_key", name="uq_player_scenario"),
+    )
+
+
 class PlayerSpotStat(Base):
     """Aggregate performance statistics per player per spot+position."""
 

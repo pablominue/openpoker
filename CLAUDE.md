@@ -231,6 +231,22 @@ Shared spot library (public/private toggle)
 
 ### Recommended implementation order: 6A (table + matrix + EV grading) → 6B (browse) → 6C (analytics) → 6D (custom spots).
 
+### Phase 7 – Ranges ✅
+- [x] `PlayerRange` DB model (player_name + scenario_key + range_str, unique constraint)
+- [x] `GET /api/ranges` — fetch all ranges for a player (returns defaults for unset scenarios)
+- [x] `PUT /api/ranges/{scenario_key}` — save/update a range for a player
+- [x] `GET /api/ranges/deviation` — compare played hands to defined ranges (open/3bet/call adherence)
+- [x] `GET /api/ranges/villain/{villain_name}/stats` — parse raw hand history to extract villain positional VPIP/PFR/3-bet + estimated ranges
+- [x] `RangesPage` (`/ranges`) — left scenario tree (grouped: Opens, vs EP, vs HJ, vs CO, vs BTN, vs SB) + right RangeEditor panel; tabs for "My Ranges" and "Villain Ranges"
+- [x] Default GTO-approximate starting ranges pre-seeded in frontend (not DB) for all 35 scenarios
+- [x] Range Deviation section on StatsPage — per-scenario adherence table + summary score
+- [x] AppNav "Ranges" link + App.tsx route
+
+Scenario key convention:
+- Opens: `open_EP`, `open_HJ`, `open_CO`, `open_BTN`, `open_SB`
+- 3-bets: `3bet_{hero_pos}_vs_{raiser_pos}` (e.g. `3bet_BTN_vs_CO`)
+- Calls: `call_{hero_pos}_vs_{raiser_pos}` (e.g. `call_BB_vs_BTN`)
+
 
 ## Key Notes
 

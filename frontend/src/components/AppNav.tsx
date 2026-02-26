@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { to: '/trainer', label: 'Trainer' },
   { to: '/hands', label: 'Hands' },
   { to: '/stats', label: 'Stats' },
+  { to: '/ranges', label: 'Ranges' },
 ];
 
 export default function AppNav() {

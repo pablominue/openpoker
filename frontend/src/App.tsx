@@ -7,6 +7,7 @@ import SolvePage from './pages/SolvePage';
 import HandsPage from './pages/HandsPage';
 import StatsPage from './pages/StatsPage';
 import TrainerPage from './pages/TrainerPage';
+import RangesPage from './pages/RangesPage';
 import './index.css';
 
 const queryClient = new QueryClient();
@@ -23,6 +24,7 @@ export default function App() {
                 <Route path="/trainer" element={<TrainerPage />} />
                 <Route path="/hands" element={<HandsPage />} />
                 <Route path="/stats" element={<StatsPage />} />
+                <Route path="/ranges" element={<RangesPage />} />
               </Route>
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>

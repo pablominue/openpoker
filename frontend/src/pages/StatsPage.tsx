@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import type { CSSProperties } from 'react';
 import { getStatsSummary, getStatsByPosition, getStatsTimeline, reprocessHands } from '../api/hands';
 import type { StatsFilters } from '../api/hands';
+import { getDeviationStats } from '../api/ranges';
+import type { DeviationRow } from '../api/ranges';
 import { usePlayer } from '../contexts/PlayerContext';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
@@ -142,6 +144,8 @@ export default function StatsPage() {
   const [recalcState, setRecalcState] = useState<'idle' | 'running' | 'done'>('idle');
   const [recalcMsg, setRecalcMsg] = useState<string | null>(null);
   const [timelineMode, setTimelineMode] = useState<'eur' | 'bb'>('eur');
+  const [deviation, setDeviation] = useState<DeviationRow[]>([]);
+  const [deviationLoading, setDeviationLoading] = useState(false);
 
   const loadStats = async (player: string, f: StatsFilters) => {
     setLoading(true);
@@ -158,6 +162,13 @@ export default function StatsPage() {
       setSummary(s);
       setPosStats(p);
       setTimeline(t);
+
+      // Load range deviation separately (not filter-dependent)
+      setDeviationLoading(true);
+      getDeviationStats(player)
+        .then(d => setDeviation(d))
+        .catch(() => {})
+        .finally(() => setDeviationLoading(false));
     } catch (e) {
       setError(String(e));
     } finally {
@@ -371,8 +382,133 @@ export default function StatsPage() {
               No hands match the current filters. Upload your PokerStars hand history in the Hands tab.
             </div>
           )}
+
+          {/* Range Adherence Section */}
+          <RangeDeviationSection rows={deviation} loading={deviationLoading} />
         </>
       )}
+    </div>
+  );
+}
+
+// ── Range Deviation Section ─────────────────────────────────────────────────
+
+function RangeDeviationSection({ rows, loading }: { rows: DeviationRow[]; loading: boolean }) {
+  if (loading) {
+    return (
+      <div style={{ marginTop: 32 }}>
+        <SectionLabel>Range Adherence</SectionLabel>
+        <div style={{ padding: '20px', color: 'var(--text-muted)', fontSize: 13 }}>Computing range adherence…</div>
+      </div>
+    );
+  }
+  if (rows.length === 0) {
+    return (
+      <div style={{ marginTop: 32 }}>
+        <SectionLabel>Range Adherence</SectionLabel>
+        <div style={{
+          padding: '20px 24px', borderRadius: 10,
+          background: 'var(--bg-surface)', border: '1px solid var(--border)',
+          fontSize: 13, color: 'var(--text-muted)',
+        }}>
+          No range adherence data yet. Define your ranges in the{' '}
+          <a href="/ranges" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: 600 }}>Ranges</a>
+          {' '}page and upload hand history with known hole cards.
+        </div>
+      </div>
+    );
+  }
+
+  // Summary score
+  const totalPlayed = rows.reduce((s, r) => s + r.hands_played, 0);
+  const totalInRange = rows.reduce((s, r) => s + r.in_range_count, 0);
+  const overallPct = totalPlayed > 0 ? (totalInRange / totalPlayed) * 100 : 0;
+  const scoreColor = overallPct >= 80 ? '#22c55e' : overallPct >= 60 ? '#eab308' : '#ef4444';
+  const scoreLabel = overallPct >= 80 ? 'Good' : overallPct >= 60 ? 'Fair' : 'Needs Work';
+
+  return (
+    <div style={{ marginTop: 32, marginBottom: 32 }}>
+      <SectionLabel>
+        Range Adherence
+        <span style={{ marginLeft: 8, fontSize: 10, fontWeight: 400, color: 'var(--text-muted)', textTransform: 'none', letterSpacing: 0 }}>
+          — how often your hands match your defined preflop ranges
+        </span>
+      </SectionLabel>
+
+      {/* Summary card */}
+      <div style={{
+        display: 'flex', alignItems: 'center', gap: 20, flexWrap: 'wrap',
+        padding: '16px 20px', borderRadius: 10, marginBottom: 16,
+        background: 'var(--bg-surface)', border: '1px solid var(--border)',
+      }}>
+        <div style={{ textAlign: 'center', minWidth: 80 }}>
+          <div style={{ fontSize: 36, fontWeight: 800, color: scoreColor, lineHeight: 1 }}>
+            {overallPct.toFixed(0)}%
+          </div>
+          <div style={{ fontSize: 11, fontWeight: 700, color: scoreColor, marginTop: 2 }}>{scoreLabel}</div>
+          <div style={{ fontSize: 10, color: 'var(--text-muted)', marginTop: 1 }}>Overall</div>
+        </div>
+        <div style={{ width: 1, height: 50, background: 'var(--border)' }} />
+        <div style={{ display: 'flex', gap: 20, flexWrap: 'wrap' }}>
+          <MiniStat label="Scenarios tracked" value={String(rows.length)} />
+          <MiniStat label="Total hands" value={totalPlayed.toLocaleString()} />
+          <MiniStat label="In-range plays" value={totalInRange.toLocaleString()} />
+          <MiniStat label="Out-of-range plays" value={(totalPlayed - totalInRange).toLocaleString()} />
+        </div>
+        <div style={{ marginLeft: 'auto', fontSize: 11, color: 'var(--text-muted)', maxWidth: 220 }}>
+          Configure your ranges in the{' '}
+          <a href="/ranges" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: 600 }}>Ranges</a>
+          {' '}page. Higher adherence means your actual play matches your defined strategy.
+        </div>
+      </div>
+
+      {/* Detail table */}
+      <div style={{ overflowX: 'auto', borderRadius: 12, border: '1px solid var(--border)' }}>
+        <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 12 }}>
+          <thead>
+            <tr style={{ background: 'var(--bg-surface)', borderBottom: '1px solid var(--border)' }}>
+              {['Scenario', 'Hands Played', 'In Range', 'Out of Range', 'Adherence'].map(h => (
+                <th key={h} style={{ padding: '10px 14px', textAlign: h === 'Scenario' ? 'left' : 'center', fontWeight: 700, color: 'var(--text-muted)', fontSize: 10, textTransform: 'uppercase' }}>{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.sort((a, b) => b.hands_played - a.hands_played).map((row, i) => {
+              const pct = row.adherence_pct;
+              const color = pct >= 80 ? '#22c55e' : pct >= 60 ? '#eab308' : '#ef4444';
+              const outOfRange = row.hands_played - row.in_range_count;
+              return (
+                <tr key={row.scenario_key} style={{ borderBottom: '1px solid var(--border-subtle)', background: i % 2 === 0 ? 'var(--bg-base)' : 'var(--bg-surface)' }}>
+                  <td style={{ padding: '9px 14px', fontWeight: 600, color: 'var(--text-primary)' }}>{row.scenario_label}</td>
+                  <td style={{ padding: '9px 14px', textAlign: 'center', color: 'var(--text-secondary)' }}>{row.hands_played}</td>
+                  <td style={{ padding: '9px 14px', textAlign: 'center', color: '#22c55e', fontWeight: 600 }}>{row.in_range_count}</td>
+                  <td style={{ padding: '9px 14px', textAlign: 'center', color: outOfRange > 0 ? '#ef4444' : 'var(--text-muted)', fontWeight: outOfRange > 0 ? 600 : 400 }}>
+                    {outOfRange}
+                  </td>
+                  <td style={{ padding: '9px 14px', textAlign: 'center' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8 }}>
+                      {/* Progress bar */}
+                      <div style={{ width: 60, height: 6, borderRadius: 999, background: 'var(--bg-elevated)', overflow: 'hidden' }}>
+                        <div style={{ width: `${pct}%`, height: '100%', background: color, borderRadius: 999, transition: 'width 0.3s' }} />
+                      </div>
+                      <span style={{ fontSize: 11, fontWeight: 700, color }}>{pct.toFixed(0)}%</span>
+                    </div>
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
+function MiniStat({ label, value }: { label: string; value: string }) {
+  return (
+    <div>
+      <div style={{ fontSize: 10, color: 'var(--text-muted)', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em' }}>{label}</div>
+      <div style={{ fontSize: 16, fontWeight: 700, color: 'var(--text-primary)', marginTop: 2 }}>{value}</div>
     </div>
   );
 }
