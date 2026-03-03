@@ -1,0 +1,38 @@
+﻿PokerStars Hand #257918156817: Tournament #3932161784, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/28 12:28:49 CET [2025/09/28 6:28:49 ET]
+Table '3932161784 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: Kototesko (500 in chips) 
+Seat 3: Todioan (500 in chips) 
+Kototesko: posts small blind 10
+Todioan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Jd]
+pipinoelbreve9: raises 40 to 60
+Kototesko: calls 50
+Todioan: calls 40
+*** FLOP *** [2d 7s Qs]
+Kototesko: checks 
+Todioan: checks 
+pipinoelbreve9: bets 90
+Kototesko: calls 90
+Todioan: folds 
+*** TURN *** [2d 7s Qs] [Jc]
+Kototesko: checks 
+pipinoelbreve9: bets 200
+Kototesko: raises 150 to 350 and is all-in
+pipinoelbreve9: calls 150 and is all-in
+*** RIVER *** [2d 7s Qs Jc] [8h]
+*** SHOW DOWN ***
+Kototesko: shows [Qc Td] (a pair of Queens)
+pipinoelbreve9: shows [Ac Jd] (a pair of Jacks)
+Kototesko collected 1060 from pot
+pipinoelbreve9 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [2d 7s Qs Jc 8h]
+Seat 1: pipinoelbreve9 (button) showed [Ac Jd] and lost with a pair of Jacks
+Seat 2: Kototesko (small blind) showed [Qc Td] and won (1060) with a pair of Queens
+Seat 3: Todioan (big blind) folded on the Flop
+
+
+

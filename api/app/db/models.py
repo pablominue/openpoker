@@ -119,3 +119,52 @@ class PlayerSpotStat(Base):
     __table_args__ = (
         UniqueConstraint("player_name", "spot_key", "hero_position", name="uq_player_spot_position"),
     )
+
+
+class AIConversation(Base):
+    """AI chat conversation per player."""
+
+    __tablename__ = "ai_conversations"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    player_name: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    title: Mapped[str] = mapped_column(String(256), nullable=False, default="New conversation")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
+    )
+
+    messages: Mapped[list["AIMessage"]] = relationship(
+        back_populates="conversation", cascade="all, delete-orphan", order_by="AIMessage.created_at"
+    )
+
+
+class AIMessage(Base):
+    """Individual message within an AI conversation."""
+
+    __tablename__ = "ai_messages"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    conversation_id: Mapped[uuid.UUID] = mapped_column(
+        ForeignKey("ai_conversations.id", ondelete="CASCADE"), nullable=False, index=True
+    )
+    role: Mapped[str] = mapped_column(String(16), nullable=False)  # "user" | "assistant"
+    content: Mapped[str] = mapped_column(Text, nullable=False)
+    context_used: Mapped[Optional[dict]] = mapped_column(JSONB, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
+
+    conversation: Mapped["AIConversation"] = relationship(back_populates="messages")
+
+
+class AIDocument(Base):
+    """Custom document uploaded by player for RAG context."""
+
+    __tablename__ = "ai_documents"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    player_name: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    filename: Mapped[str] = mapped_column(String(256), nullable=False)
+    content_type: Mapped[str] = mapped_column(String(16), nullable=False)  # "pdf" | "text"
+    file_path: Mapped[str] = mapped_column(String(512), nullable=False)
+    chunk_count: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())

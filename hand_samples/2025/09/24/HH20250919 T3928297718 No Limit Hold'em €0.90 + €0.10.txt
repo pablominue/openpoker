@@ -1,0 +1,1889 @@
+﻿PokerStars Hand #257804509852: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (500/1000) - 2025/09/19 16:53:31 CET [2025/09/19 10:53:31 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (50000 in chips) 
+Seat 2: loule004 (86761 in chips) 
+Seat 3: wizoroy (83147 in chips) 
+Seat 4: IvanGouldJr (66724 in chips) 
+Seat 5: FLIB_POK (79610 in chips) 
+Seat 6: L' Emir Abel (80751 in chips) 
+pipinoelbreve9: posts the ante 125
+loule004: posts the ante 125
+wizoroy: posts the ante 125
+IvanGouldJr: posts the ante 125
+FLIB_POK: posts the ante 125
+L' Emir Abel: posts the ante 125
+FLIB_POK: posts small blind 500
+L' Emir Abel: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 2h]
+pipinoelbreve9: folds 
+loule004: calls 1000
+wizoroy: folds 
+IvanGouldJr: raises 1000 to 2000
+FLIB_POK: folds 
+L' Emir Abel: calls 1000
+loule004: calls 1000
+*** FLOP *** [Tc 8h Kc]
+L' Emir Abel: checks 
+loule004: checks 
+IvanGouldJr: checks 
+*** TURN *** [Tc 8h Kc] [Js]
+L' Emir Abel: checks 
+loule004: checks 
+IvanGouldJr: checks 
+*** RIVER *** [Tc 8h Kc Js] [5s]
+L' Emir Abel: bets 1000
+loule004: folds 
+IvanGouldJr: folds 
+Uncalled bet (1000) returned to L' Emir Abel
+L' Emir Abel collected 7250 from pot
+L' Emir Abel: doesn't show hand 
+*** SUMMARY ***
+Total pot 7250 | Rake 0 
+Board [Tc 8h Kc Js 5s]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded on the River
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (button) folded on the River
+Seat 5: FLIB_POK (small blind) folded before Flop
+Seat 6: L' Emir Abel (big blind) collected (7250)
+
+
+
+PokerStars Hand #257804517749: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (500/1000) - 2025/09/19 16:54:22 CET [2025/09/19 10:54:22 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (49875 in chips) 
+Seat 2: loule004 (84636 in chips) 
+Seat 3: wizoroy (83022 in chips) 
+Seat 4: IvanGouldJr (64599 in chips) 
+Seat 5: FLIB_POK (78985 in chips) 
+Seat 6: L' Emir Abel (85876 in chips) 
+pipinoelbreve9: posts the ante 125
+loule004: posts the ante 125
+wizoroy: posts the ante 125
+IvanGouldJr: posts the ante 125
+FLIB_POK: posts the ante 125
+L' Emir Abel: posts the ante 125
+L' Emir Abel: posts small blind 500
+pipinoelbreve9: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 2s]
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: folds 
+L' Emir Abel: raises 84751 to 85751 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (84751) returned to L' Emir Abel
+L' Emir Abel collected 2750 from pot
+L' Emir Abel: doesn't show hand 
+*** SUMMARY ***
+Total pot 2750 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+Seat 6: L' Emir Abel (small blind) collected (2750)
+
+
+
+PokerStars Hand #257804520737: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (500/1000) - 2025/09/19 16:54:41 CET [2025/09/19 10:54:41 ET]
+Table '3928297718 25' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (48750 in chips) 
+Seat 2: loule004 (84511 in chips) 
+Seat 3: wizoroy (82897 in chips) 
+Seat 4: IvanGouldJr (64474 in chips) 
+Seat 5: FLIB_POK (78860 in chips) 
+Seat 6: L' Emir Abel (87501 in chips) 
+pipinoelbreve9: posts the ante 125
+loule004: posts the ante 125
+wizoroy: posts the ante 125
+IvanGouldJr: posts the ante 125
+FLIB_POK: posts the ante 125
+L' Emir Abel: posts the ante 125
+pipinoelbreve9: posts small blind 500
+loule004: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Th]
+wizoroy: calls 1000
+IvanGouldJr: raises 3000 to 4000
+FLIB_POK: folds 
+L' Emir Abel: folds 
+pipinoelbreve9: folds 
+loule004: calls 3000
+wizoroy: calls 3000
+*** FLOP *** [Kh 5h Tc]
+loule004: checks 
+wizoroy: checks 
+IvanGouldJr: bets 4638
+loule004: calls 4638
+wizoroy: folds 
+*** TURN *** [Kh 5h Tc] [3h]
+loule004: checks 
+IvanGouldJr: checks 
+*** RIVER *** [Kh 5h Tc 3h] [2c]
+loule004: checks 
+IvanGouldJr: checks 
+*** SHOW DOWN ***
+loule004: shows [9c Qc] (high card King)
+IvanGouldJr: shows [8h 8c] (a pair of Eights)
+IvanGouldJr collected 22526 from pot
+*** SUMMARY ***
+Total pot 22526 | Rake 0 
+Board [Kh 5h Tc 3h 2c]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: loule004 (big blind) showed [9c Qc] and lost with high card King
+Seat 3: wizoroy folded on the Flop
+Seat 4: IvanGouldJr showed [8h 8c] and won (22526) with a pair of Eights
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: L' Emir Abel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804574075: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (500/1000) - 2025/09/19 17:01:36 CET [2025/09/19 11:01:36 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (48125 in chips) 
+Seat 2: loule004 (75748 in chips) 
+Seat 3: wizoroy (78772 in chips) 
+Seat 4: IvanGouldJr (78237 in chips) 
+Seat 5: FLIB_POK (78735 in chips) 
+Seat 6: L' Emir Abel (87376 in chips) 
+pipinoelbreve9: posts the ante 125
+loule004: posts the ante 125
+wizoroy: posts the ante 125
+IvanGouldJr: posts the ante 125
+FLIB_POK: posts the ante 125
+L' Emir Abel: posts the ante 125
+loule004: posts small blind 500
+wizoroy: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Td]
+IvanGouldJr: raises 1000 to 2000
+FLIB_POK: folds 
+L' Emir Abel: folds 
+pipinoelbreve9: calls 2000
+loule004: calls 1500
+wizoroy: calls 1000
+*** FLOP *** [3d 3h 4c]
+loule004: checks 
+wizoroy: checks 
+IvanGouldJr: checks 
+pipinoelbreve9: checks 
+*** TURN *** [3d 3h 4c] [Th]
+loule004: checks 
+wizoroy: checks 
+IvanGouldJr: checks 
+pipinoelbreve9: bets 7750
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: folds 
+Uncalled bet (7750) returned to pipinoelbreve9
+pipinoelbreve9 collected 8750 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 8750 | Rake 0 
+Board [3d 3h 4c Th]
+Seat 1: pipinoelbreve9 (button) collected (8750)
+Seat 2: loule004 (small blind) folded on the Turn
+Seat 3: wizoroy (big blind) folded on the Turn
+Seat 4: IvanGouldJr folded on the Turn
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: L' Emir Abel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804583061: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:02:33 CET [2025/09/19 11:02:33 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (54750 in chips) 
+Seat 2: loule004 (73623 in chips) 
+Seat 3: wizoroy (76647 in chips) 
+Seat 4: IvanGouldJr (76112 in chips) 
+Seat 5: FLIB_POK (78610 in chips) 
+Seat 6: L' Emir Abel (87251 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+L' Emir Abel: posts the ante 150
+wizoroy: posts small blind 600
+IvanGouldJr: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d Ks]
+FLIB_POK: folds 
+L' Emir Abel: calls 1200
+pipinoelbreve9: folds 
+loule004: calls 1200
+wizoroy: calls 600
+IvanGouldJr: raises 4800 to 6000
+L' Emir Abel: folds 
+loule004: calls 4800
+wizoroy: calls 4800
+*** FLOP *** [3c Kh Ah]
+wizoroy: checks 
+IvanGouldJr: bets 10050
+loule004: folds 
+wizoroy: folds 
+Uncalled bet (10050) returned to IvanGouldJr
+IvanGouldJr collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | Rake 0 
+Board [3c Kh Ah]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 (button) folded on the Flop
+Seat 3: wizoroy (small blind) folded on the Flop
+Seat 4: IvanGouldJr (big blind) collected (20100)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: L' Emir Abel folded before Flop
+
+
+
+PokerStars Hand #257804589205: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:03:12 CET [2025/09/19 11:03:12 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (54600 in chips) 
+Seat 2: loule004 (67473 in chips) 
+Seat 3: wizoroy (70497 in chips) 
+Seat 4: IvanGouldJr (90062 in chips) 
+Seat 5: FLIB_POK (78460 in chips) 
+Seat 6: L' Emir Abel (85901 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+L' Emir Abel: posts the ante 150
+IvanGouldJr: posts small blind 600
+FLIB_POK: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 5c]
+L' Emir Abel: calls 1200
+pipinoelbreve9: calls 1200
+loule004: folds 
+wizoroy: raises 2400 to 3600
+IvanGouldJr: folds 
+FLIB_POK: folds 
+L' Emir Abel: calls 2400
+pipinoelbreve9: calls 2400
+*** FLOP *** [9d Ts 6s]
+L' Emir Abel: checks 
+pipinoelbreve9: checks 
+wizoroy: bets 8400
+L' Emir Abel: folds 
+pipinoelbreve9: folds 
+Uncalled bet (8400) returned to wizoroy
+wizoroy collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | Rake 0 
+Board [9d Ts 6s]
+Seat 1: pipinoelbreve9 folded on the Flop
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy (button) collected (13500)
+Seat 4: IvanGouldJr (small blind) folded before Flop
+Seat 5: FLIB_POK (big blind) folded before Flop
+Seat 6: L' Emir Abel folded on the Flop
+
+
+
+PokerStars Hand #257804596184: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:03:57 CET [2025/09/19 11:03:57 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (50850 in chips) 
+Seat 2: loule004 (67323 in chips) 
+Seat 3: wizoroy (80247 in chips) 
+Seat 4: IvanGouldJr (89312 in chips) 
+Seat 5: FLIB_POK (77110 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+FLIB_POK: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Td]
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: raises 1200 to 2400
+FLIB_POK: folds 
+pipinoelbreve9: raises 6000 to 8400
+IvanGouldJr: calls 6000
+*** FLOP *** [2h Kh 8d]
+pipinoelbreve9: bets 9075
+IvanGouldJr: folds 
+Uncalled bet (9075) returned to pipinoelbreve9
+pipinoelbreve9 collected 18150 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 18150 | Rake 0 
+Board [2h Kh 8d]
+Seat 1: pipinoelbreve9 (big blind) collected (18150)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (button) folded on the Flop
+Seat 5: FLIB_POK (small blind) folded before Flop
+
+
+
+PokerStars Hand #257804602075: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:04:34 CET [2025/09/19 11:04:34 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (60450 in chips) 
+Seat 2: loule004 (67173 in chips) 
+Seat 3: wizoroy (80097 in chips) 
+Seat 4: IvanGouldJr (80762 in chips) 
+Seat 5: FLIB_POK (76360 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+pipinoelbreve9: posts small blind 600
+loule004: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Jd]
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: folds 
+pipinoelbreve9: raises 2400 to 3600
+loule004: calls 2400
+*** FLOP *** [6s 3d 2d]
+pipinoelbreve9: checks 
+loule004: checks 
+*** TURN *** [6s 3d 2d] [8s]
+pipinoelbreve9: checks 
+loule004: checks 
+*** RIVER *** [6s 3d 2d 8s] [Jc]
+pipinoelbreve9: bets 3975
+loule004: calls 3975
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks Jd] (a pair of Jacks)
+loule004: mucks hand 
+pipinoelbreve9 collected 15900 from pot
+*** SUMMARY ***
+Total pot 15900 | Rake 0 
+Board [6s 3d 2d 8s Jc]
+Seat 1: pipinoelbreve9 (small blind) showed [Ks Jd] and won (15900) with a pair of Jacks
+Seat 2: loule004 (big blind) mucked [7d 8c]
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804607087: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:05:06 CET [2025/09/19 11:05:06 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (68625 in chips) 
+Seat 2: loule004 (59448 in chips) 
+Seat 3: wizoroy (79947 in chips) 
+Seat 4: IvanGouldJr (80612 in chips) 
+Seat 5: FLIB_POK (76210 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+loule004: posts small blind 600
+wizoroy: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 8h]
+IvanGouldJr: folds 
+FLIB_POK: folds 
+pipinoelbreve9: folds 
+loule004: folds 
+Uncalled bet (600) returned to wizoroy
+wizoroy collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: loule004 (small blind) folded before Flop
+Seat 3: wizoroy (big blind) collected (1950)
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804609198: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:05:18 CET [2025/09/19 11:05:18 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (68475 in chips) 
+Seat 2: loule004 (58698 in chips) 
+Seat 3: wizoroy (81147 in chips) 
+Seat 4: IvanGouldJr (80462 in chips) 
+Seat 5: FLIB_POK (76060 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+wizoroy: posts small blind 600
+IvanGouldJr: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 5d]
+FLIB_POK: folds 
+pipinoelbreve9: folds 
+loule004: raises 1200 to 2400
+wizoroy: calls 1800
+IvanGouldJr: calls 1200
+*** FLOP *** [5c 5s 4s]
+wizoroy: bets 7200
+IvanGouldJr: folds 
+loule004: folds 
+Uncalled bet (7200) returned to wizoroy
+wizoroy collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | Rake 0 
+Board [5c 5s 4s]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 (button) folded on the Flop
+Seat 3: wizoroy (small blind) collected (7950)
+Seat 4: IvanGouldJr (big blind) folded on the Flop
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804612634: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:05:40 CET [2025/09/19 11:05:40 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (68325 in chips) 
+Seat 2: loule004 (56148 in chips) 
+Seat 3: wizoroy (86547 in chips) 
+Seat 4: IvanGouldJr (77912 in chips) 
+Seat 5: FLIB_POK (75910 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+IvanGouldJr: posts small blind 600
+FLIB_POK: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 4c]
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: raises 2400 to 3600
+FLIB_POK: calls 2400
+*** FLOP *** [8d Kh Ks]
+IvanGouldJr: checks 
+FLIB_POK: bets 2400
+IvanGouldJr: calls 2400
+*** TURN *** [8d Kh Ks] [3h]
+IvanGouldJr: checks 
+FLIB_POK: bets 6000
+IvanGouldJr: raises 8400 to 14400
+FLIB_POK: raises 55360 to 69760 and is all-in
+IvanGouldJr: folds 
+Uncalled bet (55360) returned to FLIB_POK
+FLIB_POK collected 41550 from pot
+FLIB_POK: doesn't show hand 
+*** SUMMARY ***
+Total pot 41550 | Rake 0 
+Board [8d Kh Ks 3h]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy (button) folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (small blind) folded on the Turn
+Seat 5: FLIB_POK (big blind) collected (41550)
+
+
+
+PokerStars Hand #257804618965: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:06:20 CET [2025/09/19 11:06:20 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (68175 in chips) 
+Seat 2: loule004 (55998 in chips) 
+Seat 3: wizoroy (86397 in chips) 
+Seat 4: IvanGouldJr (57362 in chips) 
+Seat 5: FLIB_POK (96910 in chips) 
+Seat 6: Mike561973 (50000 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+Mike561973: posts the ante 150
+FLIB_POK: posts small blind 600
+Mike561973: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 2d]
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: raises 1200 to 2400
+FLIB_POK: folds 
+Mike561973: calls 1200
+*** FLOP *** [3c 9s Qs]
+Mike561973: checks 
+IvanGouldJr: checks 
+*** TURN *** [3c 9s Qs] [5h]
+Mike561973: bets 3150
+IvanGouldJr: calls 3150
+*** RIVER *** [3c 9s Qs 5h] [Td]
+Mike561973: checks 
+IvanGouldJr: bets 6300
+Mike561973: calls 6300
+*** SHOW DOWN ***
+IvanGouldJr: shows [Ks Jd] (a straight, Nine to King)
+Mike561973: mucks hand 
+IvanGouldJr collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | Rake 0 
+Board [3c 9s Qs 5h Td]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (button) showed [Ks Jd] and won (25200) with a straight, Nine to King
+Seat 5: FLIB_POK (small blind) folded before Flop
+Seat 6: Mike561973 (big blind) mucked [Kd Qd]
+
+
+
+PokerStars Hand #257804624524: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:06:56 CET [2025/09/19 11:06:56 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (68025 in chips) 
+Seat 2: loule004 (55848 in chips) 
+Seat 3: wizoroy (86247 in chips) 
+Seat 4: IvanGouldJr (70562 in chips) 
+Seat 5: FLIB_POK (96160 in chips) 
+Seat 6: Mike561973 (38000 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+Mike561973: posts the ante 150
+Mike561973: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 2d]
+loule004: folds 
+wizoroy: calls 1200
+IvanGouldJr: calls 1200
+FLIB_POK: calls 1200
+Mike561973: calls 600
+pipinoelbreve9: checks 
+*** FLOP *** [Jh Ac Ts]
+Mike561973: bets 2400
+pipinoelbreve9: folds 
+wizoroy: folds 
+IvanGouldJr: calls 2400
+FLIB_POK: folds 
+*** TURN *** [Jh Ac Ts] [4d]
+Mike561973: bets 2400
+IvanGouldJr: raises 8250 to 10650
+Mike561973: folds 
+Uncalled bet (8250) returned to IvanGouldJr
+IvanGouldJr collected 16500 from pot
+*** SUMMARY ***
+Total pot 16500 | Rake 0 
+Board [Jh Ac Ts 4d]
+Seat 1: pipinoelbreve9 (big blind) folded on the Flop
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded on the Flop
+Seat 4: IvanGouldJr collected (16500)
+Seat 5: FLIB_POK (button) folded on the Flop
+Seat 6: Mike561973 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #257804635746: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:08:07 CET [2025/09/19 11:08:07 ET]
+Table '3928297718 25' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (66675 in chips) 
+Seat 2: loule004 (55698 in chips) 
+Seat 3: wizoroy (84897 in chips) 
+Seat 4: IvanGouldJr (80912 in chips) 
+Seat 5: FLIB_POK (94810 in chips) 
+Seat 6: Mike561973 (31850 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+Mike561973: posts the ante 150
+pipinoelbreve9: posts small blind 600
+loule004: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 4s]
+wizoroy: calls 1200
+IvanGouldJr: raises 2400 to 3600
+FLIB_POK: folds 
+Mike561973: calls 3600
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 2400
+*** FLOP *** [Qs 9d 6c]
+wizoroy: checks 
+IvanGouldJr: bets 4725
+Mike561973: raises 23375 to 28100 and is all-in
+wizoroy: folds 
+IvanGouldJr: calls 23375
+*** TURN *** [Qs 9d 6c] [2c]
+*** RIVER *** [Qs 9d 6c 2c] [5c]
+*** SHOW DOWN ***
+IvanGouldJr: shows [Js Ah] (high card Ace)
+Mike561973: shows [7s 8s] (a straight, Five to Nine)
+Mike561973 collected 69700 from pot
+*** SUMMARY ***
+Total pot 69700 | Rake 0 
+Board [Qs 9d 6c 2c 5c]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: loule004 (big blind) folded before Flop
+Seat 3: wizoroy folded on the Flop
+Seat 4: IvanGouldJr showed [Js Ah] and lost with high card Ace
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 (button) showed [7s 8s] and won (69700) with a straight, Five to Nine
+
+
+
+PokerStars Hand #257804643926: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/19 17:09:00 CET [2025/09/19 11:09:00 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (65925 in chips) 
+Seat 2: loule004 (54348 in chips) 
+Seat 3: wizoroy (81147 in chips) 
+Seat 4: IvanGouldJr (49062 in chips) 
+Seat 5: FLIB_POK (94660 in chips) 
+Seat 6: Mike561973 (69700 in chips) 
+pipinoelbreve9: posts the ante 150
+loule004: posts the ante 150
+wizoroy: posts the ante 150
+IvanGouldJr: posts the ante 150
+FLIB_POK: posts the ante 150
+Mike561973: posts the ante 150
+loule004: posts small blind 600
+wizoroy: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Jd]
+IvanGouldJr: raises 1200 to 2400
+FLIB_POK: calls 2400
+Mike561973: calls 2400
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 1200
+*** FLOP *** [3s 8d Tc]
+wizoroy: bets 2400
+IvanGouldJr: folds 
+FLIB_POK: calls 2400
+Mike561973: raises 3600 to 6000
+wizoroy: calls 3600
+FLIB_POK: folds 
+*** TURN *** [3s 8d Tc] [6h]
+wizoroy: checks 
+Mike561973: bets 12750
+wizoroy: folds 
+Uncalled bet (12750) returned to Mike561973
+Mike561973 collected 25500 from pot
+*** SUMMARY ***
+Total pot 25500 | Rake 0 
+Board [3s 8d Tc 6h]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: loule004 (small blind) folded before Flop
+Seat 3: wizoroy (big blind) folded on the Turn
+Seat 4: IvanGouldJr folded on the Flop
+Seat 5: FLIB_POK folded on the Flop
+Seat 6: Mike561973 collected (25500)
+
+
+
+PokerStars Hand #257804655031: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:10:09 CET [2025/09/19 11:10:09 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (65775 in chips) 
+Seat 2: loule004 (53598 in chips) 
+Seat 3: wizoroy (72597 in chips) 
+Seat 4: IvanGouldJr (46512 in chips) 
+Seat 5: FLIB_POK (89710 in chips) 
+Seat 6: Mike561973 (86650 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+wizoroy: posts small blind 700
+IvanGouldJr: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 8s]
+FLIB_POK: folds 
+Mike561973: folds 
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 700
+IvanGouldJr: checks 
+*** FLOP *** [Tc Js Kc]
+wizoroy: bets 2800
+IvanGouldJr: calls 2800
+*** TURN *** [Tc Js Kc] [Qh]
+wizoroy: bets 1400
+IvanGouldJr: raises 1400 to 2800
+wizoroy: calls 1400
+*** RIVER *** [Tc Js Kc Qh] [4c]
+wizoroy: checks 
+IvanGouldJr: bets 7525
+wizoroy: calls 7525
+*** SHOW DOWN ***
+IvanGouldJr: shows [5h As] (a straight, Ten to Ace)
+wizoroy: mucks hand 
+IvanGouldJr collected 30100 from pot
+*** SUMMARY ***
+Total pot 30100 | Rake 0 
+Board [Tc Js Kc Qh 4c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 (button) folded before Flop (didn't bet)
+Seat 3: wizoroy (small blind) mucked [3c Kd]
+Seat 4: IvanGouldJr (big blind) showed [5h As] and won (30100) with a straight, Ten to Ace
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804662037: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:10:52 CET [2025/09/19 11:10:52 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (65600 in chips) 
+Seat 2: loule004 (53423 in chips) 
+Seat 3: wizoroy (57897 in chips) 
+Seat 4: IvanGouldJr (61912 in chips) 
+Seat 5: FLIB_POK (89535 in chips) 
+Seat 6: Mike561973 (86475 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+IvanGouldJr: posts small blind 700
+FLIB_POK: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 9s]
+Mike561973: folds 
+pipinoelbreve9: folds 
+loule004: calls 1400
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: checks 
+*** FLOP *** [8h 4s 6s]
+FLIB_POK: checks 
+loule004: checks 
+*** TURN *** [8h 4s 6s] [Th]
+FLIB_POK: bets 2800
+loule004: calls 2800
+*** RIVER *** [8h 4s 6s Th] [2c]
+FLIB_POK: bets 12180
+loule004: folds 
+Uncalled bet (12180) returned to FLIB_POK
+FLIB_POK collected 10150 from pot
+FLIB_POK: doesn't show hand 
+*** SUMMARY ***
+Total pot 10150 | Rake 0 
+Board [8h 4s 6s Th 2c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded on the River
+Seat 3: wizoroy (button) folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (small blind) folded before Flop
+Seat 5: FLIB_POK (big blind) collected (10150)
+Seat 6: Mike561973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804669100: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:11:35 CET [2025/09/19 11:11:35 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (65425 in chips) 
+Seat 2: loule004 (49048 in chips) 
+Seat 3: wizoroy (57722 in chips) 
+Seat 4: IvanGouldJr (61037 in chips) 
+Seat 5: FLIB_POK (95310 in chips) 
+Seat 6: Mike561973 (86300 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+FLIB_POK: posts small blind 700
+Mike561973: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s Kd]
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 1400
+IvanGouldJr: folds 
+FLIB_POK: folds 
+Mike561973: checks 
+*** FLOP *** [Jc 5d 6s]
+Mike561973: bets 1400
+wizoroy: raises 2800 to 4200
+Mike561973: calls 2800
+*** TURN *** [Jc 5d 6s] [Ad]
+Mike561973: checks 
+wizoroy: bets 1400
+Mike561973: calls 1400
+*** RIVER *** [Jc 5d 6s Ad] [7c]
+Mike561973: checks 
+wizoroy: checks 
+*** SHOW DOWN ***
+Mike561973: shows [Ks 6h] (a pair of Sixes)
+wizoroy: shows [Jd 8c] (a pair of Jacks)
+wizoroy collected 15750 from pot
+*** SUMMARY ***
+Total pot 15750 | Rake 0 
+Board [Jc 5d 6s Ad 7c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy showed [Jd 8c] and won (15750) with a pair of Jacks
+Seat 4: IvanGouldJr (button) folded before Flop (didn't bet)
+Seat 5: FLIB_POK (small blind) folded before Flop
+Seat 6: Mike561973 (big blind) showed [Ks 6h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #257804676363: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:12:20 CET [2025/09/19 11:12:20 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (65250 in chips) 
+Seat 2: loule004 (48873 in chips) 
+Seat 3: wizoroy (66297 in chips) 
+Seat 4: IvanGouldJr (60862 in chips) 
+Seat 5: FLIB_POK (94435 in chips) 
+Seat 6: Mike561973 (79125 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+Mike561973: posts small blind 700
+pipinoelbreve9: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Kd]
+loule004: folds 
+wizoroy: calls 1400
+IvanGouldJr: raises 4200 to 5600
+FLIB_POK: folds 
+Mike561973: folds 
+pipinoelbreve9: folds 
+wizoroy: calls 4200
+*** FLOP *** [Th 9h 7s]
+wizoroy: checks 
+IvanGouldJr: bets 5023
+wizoroy: raises 5023 to 10046
+IvanGouldJr: calls 5023
+*** TURN *** [Th 9h 7s] [6h]
+wizoroy: bets 50476 and is all-in
+IvanGouldJr: folds 
+Uncalled bet (50476) returned to wizoroy
+wizoroy collected 34442 from pot
+*** SUMMARY ***
+Total pot 34442 | Rake 0 
+Board [Th 9h 7s 6h]
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy collected (34442)
+Seat 4: IvanGouldJr folded on the Turn
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+Seat 6: Mike561973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257804686240: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:13:21 CET [2025/09/19 11:13:21 ET]
+Table '3928297718 25' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (63675 in chips) 
+Seat 2: loule004 (48698 in chips) 
+Seat 3: wizoroy (84918 in chips) 
+Seat 4: IvanGouldJr (45041 in chips) 
+Seat 5: FLIB_POK (94260 in chips) 
+Seat 6: Mike561973 (78250 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+pipinoelbreve9: posts small blind 700
+loule004: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Qc]
+wizoroy: folds 
+IvanGouldJr: raises 1400 to 2800
+FLIB_POK: folds 
+Mike561973: folds 
+pipinoelbreve9: folds 
+loule004: calls 1400
+*** FLOP *** [Tc As 3d]
+loule004: checks 
+IvanGouldJr: bets 2573
+loule004: folds 
+Uncalled bet (2573) returned to IvanGouldJr
+IvanGouldJr collected 7350 from pot
+*** SUMMARY ***
+Total pot 7350 | Rake 0 
+Board [Tc As 3d]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: loule004 (big blind) folded on the Flop
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr collected (7350)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804689674: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:13:42 CET [2025/09/19 11:13:42 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (62800 in chips) 
+Seat 2: loule004 (45723 in chips) 
+Seat 3: wizoroy (84743 in chips) 
+Seat 4: IvanGouldJr (49416 in chips) 
+Seat 5: FLIB_POK (94085 in chips) 
+Seat 6: Mike561973 (78075 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+loule004: posts small blind 700
+wizoroy: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 2d]
+IvanGouldJr: folds 
+FLIB_POK: folds 
+Mike561973: folds 
+pipinoelbreve9: raises 2800 to 4200
+loule004: folds 
+wizoroy: calls 2800
+*** FLOP *** [Kh 5d 5h]
+wizoroy: checks 
+pipinoelbreve9: bets 5075
+wizoroy: folds 
+Uncalled bet (5075) returned to pipinoelbreve9
+pipinoelbreve9 collected 10150 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 10150 | Rake 0 
+Board [Kh 5d 5h]
+Seat 1: pipinoelbreve9 (button) collected (10150)
+Seat 2: loule004 (small blind) folded before Flop
+Seat 3: wizoroy (big blind) folded on the Flop
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804693312: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:14:05 CET [2025/09/19 11:14:05 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (68575 in chips) 
+Seat 2: loule004 (44848 in chips) 
+Seat 3: wizoroy (80368 in chips) 
+Seat 4: IvanGouldJr (49241 in chips) 
+Seat 5: FLIB_POK (93910 in chips) 
+Seat 6: Mike561973 (77900 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+wizoroy: posts small blind 700
+IvanGouldJr: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 4h]
+FLIB_POK: folds 
+Mike561973: raises 1400 to 2800
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: folds 
+Uncalled bet (1400) returned to Mike561973
+Mike561973 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 (button) folded before Flop (didn't bet)
+Seat 3: wizoroy (small blind) folded before Flop
+Seat 4: IvanGouldJr (big blind) folded before Flop
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 collected (4550)
+
+
+
+PokerStars Hand #257804696125: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:14:22 CET [2025/09/19 11:14:22 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (68400 in chips) 
+Seat 2: loule004 (44673 in chips) 
+Seat 3: wizoroy (79493 in chips) 
+Seat 4: IvanGouldJr (47666 in chips) 
+Seat 5: FLIB_POK (93735 in chips) 
+Seat 6: Mike561973 (80875 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+IvanGouldJr: posts small blind 700
+FLIB_POK: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 7h]
+Mike561973: calls 1400
+pipinoelbreve9: folds 
+loule004: calls 1400
+wizoroy: calls 1400
+IvanGouldJr: raises 5600 to 7000
+FLIB_POK: folds 
+Mike561973: folds 
+loule004: folds 
+wizoroy: calls 5600
+*** FLOP *** [8s Jh Ac]
+IvanGouldJr: bets 9625
+wizoroy: calls 9625
+*** TURN *** [8s Jh Ac] [Ks]
+IvanGouldJr: checks 
+wizoroy: bets 21000
+IvanGouldJr: folds 
+Uncalled bet (21000) returned to wizoroy
+wizoroy collected 38500 from pot
+*** SUMMARY ***
+Total pot 38500 | Rake 0 
+Board [8s Jh Ac Ks]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop
+Seat 3: wizoroy (button) collected (38500)
+Seat 4: IvanGouldJr (small blind) folded on the Turn
+Seat 5: FLIB_POK (big blind) folded before Flop
+Seat 6: Mike561973 folded before Flop
+
+
+
+PokerStars Hand #257804704110: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:15:12 CET [2025/09/19 11:15:12 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (68225 in chips) 
+Seat 2: loule004 (43098 in chips) 
+Seat 3: wizoroy (101193 in chips) 
+Seat 4: IvanGouldJr (30866 in chips) 
+Seat 5: FLIB_POK (92160 in chips) 
+Seat 6: Mike561973 (79300 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+FLIB_POK: posts small blind 700
+Mike561973: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Tc]
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 1400
+IvanGouldJr: folds 
+FLIB_POK: folds 
+Mike561973: checks 
+*** FLOP *** [Qc 4h 3c]
+Mike561973: checks 
+wizoroy: checks 
+*** TURN *** [Qc 4h 3c] [Qd]
+Mike561973: checks 
+wizoroy: checks 
+*** RIVER *** [Qc 4h 3c Qd] [6s]
+Mike561973: bets 2275
+wizoroy: folds 
+Uncalled bet (2275) returned to Mike561973
+Mike561973 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | Rake 0 
+Board [Qc 4h 3c Qd 6s]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded on the River
+Seat 4: IvanGouldJr (button) folded before Flop (didn't bet)
+Seat 5: FLIB_POK (small blind) folded before Flop
+Seat 6: Mike561973 (big blind) collected (4550)
+
+
+
+PokerStars Hand #257804711179: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:15:55 CET [2025/09/19 11:15:55 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (68050 in chips) 
+Seat 2: loule004 (42923 in chips) 
+Seat 3: wizoroy (99618 in chips) 
+Seat 4: IvanGouldJr (30691 in chips) 
+Seat 5: FLIB_POK (91285 in chips) 
+Seat 6: Mike561973 (82275 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+Mike561973: posts small blind 700
+pipinoelbreve9: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Kc]
+loule004: calls 1400
+wizoroy: raises 1400 to 2800
+IvanGouldJr: calls 2800
+FLIB_POK: folds 
+Mike561973: calls 2100
+pipinoelbreve9: calls 1400
+loule004: calls 1400
+*** FLOP *** [3d 3s Qc]
+Mike561973: checks 
+pipinoelbreve9: checks 
+loule004: checks 
+wizoroy: bets 4200
+IvanGouldJr: folds 
+Mike561973: folds 
+pipinoelbreve9: folds 
+loule004: folds 
+Uncalled bet (4200) returned to wizoroy
+wizoroy collected 15050 from pot
+*** SUMMARY ***
+Total pot 15050 | Rake 0 
+Board [3d 3s Qc]
+Seat 1: pipinoelbreve9 (big blind) folded on the Flop
+Seat 2: loule004 folded on the Flop
+Seat 3: wizoroy collected (15050)
+Seat 4: IvanGouldJr folded on the Flop
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+Seat 6: Mike561973 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257804718260: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:16:40 CET [2025/09/19 11:16:40 ET]
+Table '3928297718 25' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (65075 in chips) 
+Seat 2: loule004 (39948 in chips) 
+Seat 3: wizoroy (111693 in chips) 
+Seat 4: IvanGouldJr (27716 in chips) 
+Seat 5: FLIB_POK (91110 in chips) 
+Seat 6: Mike561973 (79300 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+pipinoelbreve9: posts small blind 700
+loule004: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 8s]
+wizoroy: calls 1400
+IvanGouldJr: raises 1400 to 2800
+FLIB_POK: folds 
+Mike561973: folds 
+pipinoelbreve9: calls 2100
+loule004: calls 1400
+wizoroy: calls 1400
+*** FLOP *** [Ac 9s 6c]
+pipinoelbreve9: checks 
+loule004: checks 
+wizoroy: checks 
+IvanGouldJr: bets 4288
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: folds 
+Uncalled bet (4288) returned to IvanGouldJr
+IvanGouldJr collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | Rake 0 
+Board [Ac 9s 6c]
+Seat 1: pipinoelbreve9 (small blind) folded on the Flop
+Seat 2: loule004 (big blind) folded on the Flop
+Seat 3: wizoroy folded on the Flop
+Seat 4: IvanGouldJr collected (12250)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804724801: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/19 17:17:20 CET [2025/09/19 11:17:20 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (62100 in chips) 
+Seat 2: loule004 (36973 in chips) 
+Seat 3: wizoroy (108718 in chips) 
+Seat 4: IvanGouldJr (36991 in chips) 
+Seat 5: FLIB_POK (90935 in chips) 
+Seat 6: Mike561973 (79125 in chips) 
+pipinoelbreve9: posts the ante 175
+loule004: posts the ante 175
+wizoroy: posts the ante 175
+IvanGouldJr: posts the ante 175
+FLIB_POK: posts the ante 175
+Mike561973: posts the ante 175
+loule004: posts small blind 700
+wizoroy: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 6d]
+IvanGouldJr: folds 
+FLIB_POK: folds 
+Mike561973: raises 1400 to 2800
+pipinoelbreve9: folds 
+loule004: calls 2100
+wizoroy: calls 1400
+*** FLOP *** [9h 2c Js]
+loule004: checks 
+wizoroy: checks 
+Mike561973: bets 2800
+loule004: calls 2800
+wizoroy: folds 
+*** TURN *** [9h 2c Js] [7c]
+loule004: checks 
+Mike561973: bets 2800
+loule004: raises 10325 to 13125
+Mike561973: calls 10325
+*** RIVER *** [9h 2c Js 7c] [Ts]
+loule004: bets 18073 and is all-in
+Mike561973: calls 18073
+*** SHOW DOWN ***
+loule004: shows [8s Th] (a straight, Seven to Jack)
+Mike561973: shows [Kc Tc] (a pair of Tens)
+loule004 collected 77446 from pot
+*** SUMMARY ***
+Total pot 77446 | Rake 0 
+Board [9h 2c Js 7c Ts]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: loule004 (small blind) showed [8s Th] and won (77446) with a straight, Seven to Jack
+Seat 3: wizoroy (big blind) folded on the Flop
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 showed [Kc Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #257804734704: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:18:20 CET [2025/09/19 11:18:20 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (61925 in chips) 
+Seat 2: loule004 (77446 in chips) 
+Seat 3: wizoroy (105743 in chips) 
+Seat 4: IvanGouldJr (36816 in chips) 
+Seat 5: FLIB_POK (90760 in chips) 
+Seat 6: Mike561973 (42152 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+Mike561973: posts the ante 200
+wizoroy: posts small blind 800
+IvanGouldJr: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Ts]
+FLIB_POK: folds 
+Mike561973: calls 1600
+pipinoelbreve9: folds 
+loule004: raises 3200 to 4800
+wizoroy: folds 
+IvanGouldJr: calls 3200
+Mike561973: calls 3200
+*** FLOP *** [Jc Th Qc]
+IvanGouldJr: checks 
+Mike561973: bets 3200
+loule004: raises 11400 to 14600
+IvanGouldJr: calls 14600
+Mike561973: calls 11400
+*** TURN *** [Jc Th Qc] [4s]
+IvanGouldJr: bets 17216 and is all-in
+Mike561973: calls 17216
+loule004: raises 17216 to 34432
+Mike561973: calls 5336 and is all-in
+Uncalled bet (11880) returned to loule004
+*** RIVER *** [Jc Th Qc 4s] [5c]
+*** SHOW DOWN ***
+Mike561973: shows [4c 8c] (a flush, Queen high)
+loule004: shows [Ac Qs] (a pair of Queens)
+Mike561973 collected 10672 from side pot
+IvanGouldJr: shows [9c Kc] (a flush, King high)
+IvanGouldJr collected 111848 from main pot
+*** SUMMARY ***
+Total pot 122520 Main pot 111848. Side pot 10672. | Rake 0 
+Board [Jc Th Qc 4s 5c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 (button) showed [Ac Qs] and lost with a pair of Queens
+Seat 3: wizoroy (small blind) folded before Flop
+Seat 4: IvanGouldJr (big blind) showed [9c Kc] and won (111848) with a flush, King high
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: Mike561973 showed [4c 8c] and won (10672) with a flush, Queen high
+
+
+
+PokerStars Hand #257804743195: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:19:12 CET [2025/09/19 11:19:12 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (61725 in chips) 
+Seat 2: loule004 (35294 in chips) 
+Seat 3: wizoroy (104743 in chips) 
+Seat 4: IvanGouldJr (111848 in chips) 
+Seat 5: FLIB_POK (90560 in chips) 
+Seat 6: Mike561973 (10672 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+Mike561973: posts the ante 200
+IvanGouldJr: posts small blind 800
+FLIB_POK: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h Td]
+Mike561973: calls 1600
+pipinoelbreve9: folds 
+loule004: calls 1600
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: checks 
+*** FLOP *** [8s Ah 7d]
+FLIB_POK: checks 
+Mike561973: bets 8872 and is all-in
+loule004: calls 8872
+FLIB_POK: folds 
+*** TURN *** [8s Ah 7d] [9s]
+*** RIVER *** [8s Ah 7d 9s] [Ks]
+*** SHOW DOWN ***
+Mike561973: shows [9d Kd] (two pair, Kings and Nines)
+loule004: shows [8d 8c] (three of a kind, Eights)
+loule004 collected 24544 from pot
+Mike561973 finished the tournament
+*** SUMMARY ***
+Total pot 24544 | Rake 0 
+Board [8s Ah 7d 9s Ks]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 showed [8d 8c] and won (24544) with three of a kind, Eights
+Seat 3: wizoroy (button) folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (small blind) folded before Flop
+Seat 5: FLIB_POK (big blind) folded on the Flop
+Seat 6: Mike561973 showed [9d Kd] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #257804748657: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:19:46 CET [2025/09/19 11:19:46 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (61525 in chips) 
+Seat 2: loule004 (49166 in chips) 
+Seat 3: wizoroy (104543 in chips) 
+Seat 4: IvanGouldJr (110848 in chips) 
+Seat 5: FLIB_POK (88760 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+FLIB_POK: posts small blind 800
+pipinoelbreve9: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 4d]
+loule004: calls 1600
+wizoroy: calls 1600
+IvanGouldJr: folds 
+FLIB_POK: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [9d Kd 6s]
+pipinoelbreve9: checks 
+loule004: checks 
+wizoroy: bets 6400
+pipinoelbreve9: folds 
+loule004: calls 6400
+*** TURN *** [9d Kd 6s] [6d]
+loule004: checks 
+wizoroy: checks 
+*** RIVER *** [9d Kd 6s 6d] [3c]
+loule004: checks 
+wizoroy: bets 3200
+loule004: folds 
+Uncalled bet (3200) returned to wizoroy
+wizoroy collected 19400 from pot
+*** SUMMARY ***
+Total pot 19400 | Rake 0 
+Board [9d Kd 6s 6d 3c]
+Seat 1: pipinoelbreve9 (big blind) folded on the Flop
+Seat 2: loule004 folded on the River
+Seat 3: wizoroy collected (19400)
+Seat 4: IvanGouldJr (button) folded before Flop (didn't bet)
+Seat 5: FLIB_POK (small blind) folded before Flop
+
+
+
+PokerStars Hand #257804755555: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:20:27 CET [2025/09/19 11:20:27 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (59725 in chips) 
+Seat 2: loule004 (40966 in chips) 
+Seat 3: wizoroy (115743 in chips) 
+Seat 4: IvanGouldJr (110648 in chips) 
+Seat 5: FLIB_POK (87760 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+pipinoelbreve9: posts small blind 800
+loule004: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 2h]
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: folds 
+pipinoelbreve9: raises 3200 to 4800
+loule004: calls 3200
+*** FLOP *** [5c Ks 9s]
+pipinoelbreve9: bets 5300
+loule004: folds 
+Uncalled bet (5300) returned to pipinoelbreve9
+pipinoelbreve9 collected 10600 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 10600 | Rake 0 
+Board [5c Ks 9s]
+Seat 1: pipinoelbreve9 (small blind) collected (10600)
+Seat 2: loule004 (big blind) folded on the Flop
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804758628: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:20:47 CET [2025/09/19 11:20:47 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (65325 in chips) 
+Seat 2: loule004 (35966 in chips) 
+Seat 3: wizoroy (115543 in chips) 
+Seat 4: IvanGouldJr (110448 in chips) 
+Seat 5: FLIB_POK (87560 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+loule004: posts small blind 800
+wizoroy: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd As]
+IvanGouldJr: raises 1600 to 3200
+FLIB_POK: folds 
+pipinoelbreve9: raises 6400 to 9600
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: calls 6400
+*** FLOP *** [Kh 3d Td]
+IvanGouldJr: checks 
+pipinoelbreve9: bets 11300
+IvanGouldJr: calls 11300
+*** TURN *** [Kh 3d Td] [7d]
+IvanGouldJr: bets 89348 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (89348) returned to IvanGouldJr
+IvanGouldJr collected 45200 from pot
+*** SUMMARY ***
+Total pot 45200 | Rake 0 
+Board [Kh 3d Td 7d]
+Seat 1: pipinoelbreve9 (button) folded on the Turn
+Seat 2: loule004 (small blind) folded before Flop
+Seat 3: wizoroy (big blind) folded before Flop
+Seat 4: IvanGouldJr collected (45200)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804764625: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:21:23 CET [2025/09/19 11:21:23 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (44225 in chips) 
+Seat 2: loule004 (34966 in chips) 
+Seat 3: wizoroy (113743 in chips) 
+Seat 4: IvanGouldJr (134548 in chips) 
+Seat 5: FLIB_POK (87360 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+wizoroy: posts small blind 800
+IvanGouldJr: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 3d]
+FLIB_POK: raises 3200 to 4800
+pipinoelbreve9: calls 4800
+loule004: folds 
+wizoroy: calls 4000
+IvanGouldJr: folds 
+*** FLOP *** [9d 2c Ah]
+wizoroy: bets 4800
+FLIB_POK: folds 
+indijena is disconnected 
+pipinoelbreve9: folds 
+Uncalled bet (4800) returned to wizoroy
+wizoroy collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | Rake 0 
+Board [9d 2c Ah]
+Seat 1: pipinoelbreve9 folded on the Flop
+Seat 2: loule004 (button) folded before Flop (didn't bet)
+Seat 3: wizoroy (small blind) collected (17000)
+Seat 4: IvanGouldJr (big blind) folded before Flop
+Seat 5: FLIB_POK folded on the Flop
+
+
+
+PokerStars Hand #257804768551: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:21:47 CET [2025/09/19 11:21:47 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (39225 in chips) 
+Seat 2: loule004 (34766 in chips) 
+Seat 3: wizoroy (125743 in chips) 
+Seat 4: IvanGouldJr (132748 in chips) 
+Seat 5: FLIB_POK (82360 in chips) 
+Seat 6: indijena (50000 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+IvanGouldJr: posts small blind 800
+FLIB_POK: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Ks]
+indijena: folds 
+pipinoelbreve9: raises 3200 to 4800
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: calls 4000
+FLIB_POK: folds 
+*** FLOP *** [2s Jc 2h]
+IvanGouldJr: checks 
+pipinoelbreve9: bets 4600
+IvanGouldJr: folds 
+Uncalled bet (4600) returned to pipinoelbreve9
+pipinoelbreve9 collected 12400 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 12400 | Rake 0 
+Board [2s Jc 2h]
+Seat 1: pipinoelbreve9 collected (12400)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy (button) folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (small blind) folded on the Flop
+Seat 5: FLIB_POK (big blind) folded before Flop
+Seat 6: indijena folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804772967: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:22:14 CET [2025/09/19 11:22:14 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (46625 in chips) 
+Seat 2: loule004 (34566 in chips) 
+Seat 3: wizoroy (125543 in chips) 
+Seat 4: IvanGouldJr (127748 in chips) 
+Seat 5: FLIB_POK (80560 in chips) 
+Seat 6: indijena (49800 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+FLIB_POK: posts small blind 800
+indijena: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ts]
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: raises 1600 to 3200
+indijena: calls 1600
+*** FLOP *** [6c 7h 7s]
+FLIB_POK: checks 
+indijena: bets 3200
+FLIB_POK: folds 
+Uncalled bet (3200) returned to indijena
+indijena collected 7600 from pot
+indijena: doesn't show hand 
+*** SUMMARY ***
+Total pot 7600 | Rake 0 
+Board [6c 7h 7s]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: loule004 folded before Flop (didn't bet)
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (button) folded before Flop (didn't bet)
+Seat 5: FLIB_POK (small blind) folded on the Flop
+Seat 6: indijena (big blind) collected (7600)
+
+
+
+PokerStars Hand #257804778336: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:22:46 CET [2025/09/19 11:22:46 ET]
+Table '3928297718 25' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (46425 in chips) 
+Seat 2: loule004 (34366 in chips) 
+Seat 3: wizoroy (125343 in chips) 
+Seat 4: IvanGouldJr (127548 in chips) 
+Seat 5: FLIB_POK (77160 in chips) 
+Seat 6: indijena (54000 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+indijena: posts small blind 800
+pipinoelbreve9: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 7h]
+loule004: calls 1600
+wizoroy: calls 1600
+IvanGouldJr: folds 
+FLIB_POK: folds 
+indijena: calls 800
+pipinoelbreve9: checks 
+*** FLOP *** [Ts 4d Kc]
+indijena: checks 
+pipinoelbreve9: checks 
+loule004: checks 
+wizoroy: bets 3200
+indijena: folds 
+pipinoelbreve9: folds 
+loule004: calls 3200
+*** TURN *** [Ts 4d Kc] [5c]
+loule004: checks 
+wizoroy: bets 4800
+loule004: calls 4800
+*** RIVER *** [Ts 4d Kc 5c] [6d]
+loule004: checks 
+wizoroy: bets 3200
+loule004: folds 
+Uncalled bet (3200) returned to wizoroy
+wizoroy collected 23600 from pot
+*** SUMMARY ***
+Total pot 23600 | Rake 0 
+Board [Ts 4d Kc 5c 6d]
+Seat 1: pipinoelbreve9 (big blind) folded on the Flop
+Seat 2: loule004 folded on the River
+Seat 3: wizoroy collected (23600)
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK (button) folded before Flop (didn't bet)
+Seat 6: indijena (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257804785848: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:23:33 CET [2025/09/19 11:23:33 ET]
+Table '3928297718 25' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (44625 in chips) 
+Seat 2: loule004 (24566 in chips) 
+Seat 3: wizoroy (139143 in chips) 
+Seat 4: IvanGouldJr (127348 in chips) 
+Seat 5: FLIB_POK (76960 in chips) 
+Seat 6: indijena (52200 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+pipinoelbreve9: posts small blind 800
+loule004: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 8s]
+wizoroy: raises 1600 to 3200
+IvanGouldJr: raises 6400 to 9600
+FLIB_POK: folds 
+indijena: folds 
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 6400
+*** FLOP *** [Th 6d Qh]
+wizoroy: bets 9600
+IvanGouldJr: raises 31500 to 41100
+wizoroy: folds 
+Uncalled bet (31500) returned to IvanGouldJr
+IvanGouldJr collected 42000 from pot
+*** SUMMARY ***
+Total pot 42000 | Rake 0 
+Board [Th 6d Qh]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: loule004 (big blind) folded before Flop
+Seat 3: wizoroy folded on the Flop
+Seat 4: IvanGouldJr collected (42000)
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: indijena (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804793576: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:24:21 CET [2025/09/19 11:24:21 ET]
+Table '3928297718 25' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (43625 in chips) 
+Seat 2: loule004 (22766 in chips) 
+Seat 3: wizoroy (119743 in chips) 
+Seat 4: IvanGouldJr (149948 in chips) 
+Seat 5: FLIB_POK (76760 in chips) 
+Seat 6: indijena (52000 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+loule004: posts small blind 800
+wizoroy: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 3d]
+IvanGouldJr: folds 
+FLIB_POK: raises 3200 to 4800
+indijena: folds 
+pipinoelbreve9: folds 
+loule004: folds 
+wizoroy: calls 3200
+*** FLOP *** [9d 2d 7c]
+wizoroy: checks 
+FLIB_POK: bets 3480
+wizoroy: calls 3480
+*** TURN *** [9d 2d 7c] [6c]
+wizoroy: checks 
+FLIB_POK: bets 9280
+wizoroy: folds 
+Uncalled bet (9280) returned to FLIB_POK
+FLIB_POK collected 18560 from pot
+FLIB_POK: doesn't show hand 
+*** SUMMARY ***
+Total pot 18560 | Rake 0 
+Board [9d 2d 7c 6c]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: loule004 (small blind) folded before Flop
+Seat 3: wizoroy (big blind) folded on the Turn
+Seat 4: IvanGouldJr folded before Flop (didn't bet)
+Seat 5: FLIB_POK collected (18560)
+Seat 6: indijena folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804800690: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:25:05 CET [2025/09/19 11:25:05 ET]
+Table '3928297718 25' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (43425 in chips) 
+Seat 2: loule004 (21766 in chips) 
+Seat 3: wizoroy (111263 in chips) 
+Seat 4: IvanGouldJr (149748 in chips) 
+Seat 5: FLIB_POK (86840 in chips) 
+Seat 6: indijena (51800 in chips) 
+pipinoelbreve9: posts the ante 200
+loule004: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+wizoroy: posts small blind 800
+IvanGouldJr: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Jc]
+FLIB_POK: folds 
+indijena: folds 
+pipinoelbreve9: raises 3200 to 4800
+loule004: calls 4800
+wizoroy: folds 
+IvanGouldJr: folds 
+*** FLOP *** [8s Kd Jd]
+pipinoelbreve9: bets 3200
+loule004: calls 3200
+*** TURN *** [8s Kd Jd] [9c]
+pipinoelbreve9: bets 8000
+loule004: raises 5566 to 13566 and is all-in
+pipinoelbreve9: calls 5566
+*** RIVER *** [8s Kd Jd 9c] [Jh]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kh Jc] (a full house, Jacks full of Kings)
+loule004: shows [Ad Kc] (two pair, Kings and Jacks)
+pipinoelbreve9 collected 46732 from pot
+loule004 finished the tournament
+*** SUMMARY ***
+Total pot 46732 | Rake 0 
+Board [8s Kd Jd 9c Jh]
+Seat 1: pipinoelbreve9 showed [Kh Jc] and won (46732) with a full house, Jacks full of Kings
+Seat 2: loule004 (button) showed [Ad Kc] and lost with two pair, Kings and Jacks
+Seat 3: wizoroy (small blind) folded before Flop
+Seat 4: IvanGouldJr (big blind) folded before Flop
+Seat 5: FLIB_POK folded before Flop (didn't bet)
+Seat 6: indijena folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804806919: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/19 17:25:43 CET [2025/09/19 11:25:43 ET]
+Table '3928297718 25' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (68391 in chips) 
+Seat 3: wizoroy (110263 in chips) 
+Seat 4: IvanGouldJr (147948 in chips) 
+Seat 5: FLIB_POK (86640 in chips) 
+Seat 6: indijena (51600 in chips) 
+pipinoelbreve9: posts the ante 200
+wizoroy: posts the ante 200
+IvanGouldJr: posts the ante 200
+FLIB_POK: posts the ante 200
+indijena: posts the ante 200
+IvanGouldJr: posts small blind 800
+FLIB_POK: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Jd]
+indijena: folds 
+maryan1964 is disconnected 
+pipinoelbreve9: raises 3200 to 4800
+wizoroy: folds 
+IvanGouldJr: calls 4000
+FLIB_POK: folds 
+*** FLOP *** [3c Ts 2s]
+IvanGouldJr: checks 
+pipinoelbreve9: bets 4500
+IvanGouldJr: calls 4500
+*** TURN *** [3c Ts 2s] [8s]
+IvanGouldJr: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [3c Ts 2s 8s] [8d]
+IvanGouldJr: bets 7420
+pipinoelbreve9: folds 
+Uncalled bet (7420) returned to IvanGouldJr
+IvanGouldJr collected 21200 from pot
+*** SUMMARY ***
+Total pot 21200 | Rake 0 
+Board [3c Ts 2s 8s 8d]
+Seat 1: pipinoelbreve9 folded on the River
+Seat 3: wizoroy (button) folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (small blind) collected (21200)
+Seat 5: FLIB_POK (big blind) folded before Flop
+Seat 6: indijena folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804814906: Tournament #3928297718, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/19 17:26:32 CET [2025/09/19 11:26:32 ET]
+Table '3928297718 25' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (58891 in chips) 
+Seat 2: maryan1964 (50000 in chips) 
+Seat 3: wizoroy (110063 in chips) 
+Seat 4: IvanGouldJr (159648 in chips) 
+Seat 5: FLIB_POK (84840 in chips) 
+Seat 6: indijena (51400 in chips) 
+pipinoelbreve9: posts the ante 250
+maryan1964: posts the ante 250
+wizoroy: posts the ante 250
+IvanGouldJr: posts the ante 250
+FLIB_POK: posts the ante 250
+indijena: posts the ante 250
+FLIB_POK: posts small blind 1000
+indijena: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Td]
+pipinoelbreve9: raises 4000 to 6000
+maryan1964: folds 
+wizoroy: folds 
+IvanGouldJr: folds 
+FLIB_POK: raises 12000 to 18000
+indijena: folds 
+pipinoelbreve9: calls 12000
+*** FLOP *** [Kh 8d 7s]
+FLIB_POK: checks 
+pipinoelbreve9: bets 20000
+FLIB_POK: raises 46590 to 66590 and is all-in
+pipinoelbreve9: calls 20641 and is all-in
+Uncalled bet (25949) returned to FLIB_POK
+*** TURN *** [Kh 8d 7s] [Ts]
+*** RIVER *** [Kh 8d 7s Ts] [Kd]
+*** SHOW DOWN ***
+FLIB_POK: shows [Ah Ac] (two pair, Aces and Kings)
+pipinoelbreve9: shows [Qd Td] (two pair, Kings and Tens)
+FLIB_POK collected 120782 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 120782 | Rake 0 
+Board [Kh 8d 7s Ts Kd]
+Seat 1: pipinoelbreve9 showed [Qd Td] and lost with two pair, Kings and Tens
+Seat 2: maryan1964 folded before Flop (didn't bet)
+Seat 3: wizoroy folded before Flop (didn't bet)
+Seat 4: IvanGouldJr (button) folded before Flop (didn't bet)
+Seat 5: FLIB_POK (small blind) showed [Ah Ac] and won (120782) with two pair, Aces and Kings
+Seat 6: indijena (big blind) folded before Flop
+
+
+

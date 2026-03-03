@@ -1,0 +1,456 @@
+﻿PokerStars Hand #257973058993: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/02 20:26:20 CET [2025/10/02 14:26:20 ET]
+Table '3933410670 1' 8-max Seat #1 is the button
+Seat 1: Bola88bm (500 in chips) 
+Seat 2: pipinoelbreve9 (500 in chips) 
+Seat 3: GB31000 (500 in chips) 
+Seat 4: legrandip (500 in chips) 
+Seat 5: Hirubeltz (500 in chips) 
+Seat 6: iniesta357 (500 in chips) 
+Seat 7: TERRANGA 56 (500 in chips) 
+Seat 8: sepoker76 (500 in chips) 
+Bola88bm: posts the ante 10
+pipinoelbreve9: posts the ante 10
+GB31000: posts the ante 10
+legrandip: posts the ante 10
+Hirubeltz: posts the ante 10
+iniesta357: posts the ante 10
+TERRANGA 56: posts the ante 10
+sepoker76: posts the ante 10
+pipinoelbreve9: posts small blind 25
+GB31000: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8h]
+legrandip: folds 
+Hirubeltz: folds 
+iniesta357: calls 50
+TERRANGA 56: folds 
+sepoker76: raises 440 to 490 and is all-in
+Bola88bm: folds 
+pipinoelbreve9: folds 
+GB31000: calls 440 and is all-in
+iniesta357: folds 
+*** FLOP *** [8d 6h Qh]
+*** TURN *** [8d 6h Qh] [2d]
+*** RIVER *** [8d 6h Qh 2d] [As]
+*** SHOW DOWN ***
+GB31000: shows [3d 3h] (a pair of Threes)
+sepoker76: shows [Ks Tc] (high card Ace)
+GB31000 collected 1135 from pot
+sepoker76 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1135 | Rake 0 
+Board [8d 6h Qh 2d As]
+Seat 1: Bola88bm (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: GB31000 (big blind) showed [3d 3h] and won (1135) with a pair of Threes
+Seat 4: legrandip folded before Flop (didn't bet)
+Seat 5: Hirubeltz folded before Flop (didn't bet)
+Seat 6: iniesta357 folded before Flop
+Seat 7: TERRANGA 56 folded before Flop (didn't bet)
+Seat 8: sepoker76 showed [Ks Tc] and lost with high card Ace
+
+
+
+PokerStars Hand #257973067999: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/02 20:27:03 CET [2025/10/02 14:27:03 ET]
+Table '3933410670 1' 8-max Seat #2 is the button
+Seat 1: Bola88bm (490 in chips) 
+Seat 2: pipinoelbreve9 (465 in chips) 
+Seat 3: GB31000 (1135 in chips) 
+Seat 4: legrandip (490 in chips) 
+Seat 5: Hirubeltz (490 in chips) 
+Seat 6: iniesta357 (440 in chips) 
+Seat 7: TERRANGA 56 (490 in chips) 
+Bola88bm: posts the ante 10
+pipinoelbreve9: posts the ante 10
+GB31000: posts the ante 10
+legrandip: posts the ante 10
+Hirubeltz: posts the ante 10
+iniesta357: posts the ante 10
+TERRANGA 56: posts the ante 10
+GB31000: posts small blind 25
+legrandip: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 9h]
+Hirubeltz: calls 50
+iniesta357: calls 50
+TERRANGA 56: folds 
+legrandip is disconnected 
+Bola88bm: folds 
+pipinoelbreve9: calls 50
+GB31000: calls 25
+legrandip has timed out while disconnected
+legrandip: checks 
+*** FLOP *** [2d Ac 6c]
+GB31000: checks 
+legrandip has timed out while disconnected
+legrandip: checks 
+Hirubeltz: checks 
+iniesta357: bets 50
+pipinoelbreve9: calls 50
+GB31000: calls 50
+legrandip has timed out while disconnected
+legrandip: folds 
+legrandip is sitting out
+Hirubeltz: calls 50
+*** TURN *** [2d Ac 6c] [9d]
+GB31000: checks 
+Hirubeltz: checks 
+iniesta357: bets 100
+pipinoelbreve9: raises 255 to 355 and is all-in
+GB31000: folds 
+Hirubeltz: folds 
+legrandip is disconnected 
+legrandip has returned
+iniesta357: calls 230 and is all-in
+Uncalled bet (25) returned to pipinoelbreve9
+*** RIVER *** [2d Ac 6c 9d] [Qc]
+*** SHOW DOWN ***
+iniesta357: shows [Ad 8h] (a pair of Aces)
+pipinoelbreve9: shows [6d 9h] (two pair, Nines and Sixes)
+pipinoelbreve9 collected 1180 from pot
+iniesta357 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [2d Ac 6c 9d Qc]
+Seat 1: Bola88bm folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) showed [6d 9h] and won (1180) with two pair, Nines and Sixes
+Seat 3: GB31000 (small blind) folded on the Turn
+Seat 4: legrandip (big blind) folded on the Flop
+Seat 5: Hirubeltz folded on the Turn
+Seat 6: iniesta357 showed [Ad 8h] and lost with a pair of Aces
+Seat 7: TERRANGA 56 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973091322: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/02 20:28:51 CET [2025/10/02 14:28:51 ET]
+Table '3933410670 1' 8-max Seat #3 is the button
+Seat 1: Bola88bm (480 in chips) 
+Seat 2: pipinoelbreve9 (1205 in chips) 
+Seat 3: GB31000 (1025 in chips) 
+Seat 4: legrandip (430 in chips) 
+Seat 5: Hirubeltz (380 in chips) 
+Seat 7: TERRANGA 56 (480 in chips) 
+Bola88bm: posts the ante 10
+pipinoelbreve9: posts the ante 10
+GB31000: posts the ante 10
+legrandip: posts the ante 10
+Hirubeltz: posts the ante 10
+TERRANGA 56: posts the ante 10
+legrandip: posts small blind 25
+Hirubeltz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 4c]
+TERRANGA 56: folds 
+Bola88bm: folds 
+pipinoelbreve9: folds 
+GB31000: raises 185 to 235
+legrandip is disconnected 
+TERRANGA 56 is disconnected 
+GB31000 is disconnected 
+legrandip is connected 
+legrandip is disconnected 
+legrandip is connected 
+legrandip: folds 
+Hirubeltz: folds 
+Uncalled bet (185) returned to GB31000
+GB31000 collected 185 from pot
+GB31000: doesn't show hand 
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: Bola88bm folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: GB31000 (button) collected (185)
+Seat 4: legrandip (small blind) folded before Flop
+Seat 5: Hirubeltz (big blind) folded before Flop
+Seat 7: TERRANGA 56 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973115030: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level II (50/100) - 2025/10/02 20:30:40 CET [2025/10/02 14:30:40 ET]
+Table '3933410670 1' 8-max Seat #4 is the button
+Seat 1: Bola88bm (470 in chips) 
+Seat 2: pipinoelbreve9 (1195 in chips) 
+Seat 3: GB31000 (1150 in chips) 
+Seat 4: legrandip (395 in chips) 
+Seat 5: Hirubeltz (320 in chips) 
+Seat 7: TERRANGA 56 (470 in chips) 
+Bola88bm: posts the ante 20
+pipinoelbreve9: posts the ante 20
+GB31000: posts the ante 20
+legrandip: posts the ante 20
+Hirubeltz: posts the ante 20
+TERRANGA 56: posts the ante 20
+Hirubeltz: posts small blind 50
+TERRANGA 56: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 4h]
+Bola88bm: folds 
+pipinoelbreve9: folds 
+TERRANGA 56 is disconnected 
+GB31000: calls 100
+legrandip: raises 200 to 300
+Hirubeltz: folds 
+TERRANGA 56: folds 
+GB31000: calls 200
+*** FLOP *** [8d 6c 7d]
+GB31000: bets 830 and is all-in
+legrandip: calls 75 and is all-in
+Uncalled bet (755) returned to GB31000
+*** TURN *** [8d 6c 7d] [4c]
+*** RIVER *** [8d 6c 7d 4c] [Ah]
+*** SHOW DOWN ***
+GB31000: shows [9c Ts] (a straight, Six to Ten)
+legrandip: shows [Jc Qc] (high card Ace)
+GB31000 collected 1020 from pot
+legrandip finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [8d 6c 7d 4c Ah]
+Seat 1: Bola88bm folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: GB31000 showed [9c Ts] and won (1020) with a straight, Six to Ten
+Seat 4: legrandip (button) showed [Jc Qc] and lost with high card Ace
+Seat 5: Hirubeltz (small blind) folded before Flop
+Seat 7: TERRANGA 56 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257973120773: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level II (50/100) - 2025/10/02 20:31:06 CET [2025/10/02 14:31:06 ET]
+Table '3933410670 1' 8-max Seat #5 is the button
+Seat 1: Bola88bm (450 in chips) 
+Seat 2: pipinoelbreve9 (1175 in chips) 
+Seat 3: GB31000 (1775 in chips) 
+Seat 5: Hirubeltz (250 in chips) 
+Seat 7: TERRANGA 56 (350 in chips) 
+Bola88bm: posts the ante 20
+pipinoelbreve9: posts the ante 20
+GB31000: posts the ante 20
+Hirubeltz: posts the ante 20
+TERRANGA 56: posts the ante 20
+TERRANGA 56: posts small blind 50
+Bola88bm: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Ks]
+pipinoelbreve9: raises 200 to 300
+GB31000: folds 
+Hirubeltz: calls 230 and is all-in
+TERRANGA 56: folds 
+Bola88bm: calls 200
+*** FLOP *** [Qh 8s Qd]
+Bola88bm: checks 
+pipinoelbreve9: bets 855 and is all-in
+Bola88bm: calls 130 and is all-in
+Uncalled bet (725) returned to pipinoelbreve9
+*** TURN *** [Qh 8s Qd] [8c]
+*** RIVER *** [Qh 8s Qd 8c] [As]
+*** SHOW DOWN ***
+Bola88bm: shows [2h Qs] (a full house, Queens full of Eights)
+pipinoelbreve9: shows [9s Ks] (two pair, Queens and Eights)
+Bola88bm collected 400 from side pot
+Hirubeltz: shows [Ad 3d] (two pair, Aces and Queens)
+Bola88bm collected 840 from main pot
+Hirubeltz finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1240 Main pot 840. Side pot 400. | Rake 0 
+Board [Qh 8s Qd 8c As]
+Seat 1: Bola88bm (big blind) showed [2h Qs] and won (1240) with a full house, Queens full of Eights
+Seat 2: pipinoelbreve9 showed [9s Ks] and lost with two pair, Queens and Eights
+Seat 3: GB31000 folded before Flop (didn't bet)
+Seat 5: Hirubeltz (button) showed [Ad 3d] and lost with two pair, Aces and Queens
+Seat 7: TERRANGA 56 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973130809: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level II (50/100) - 2025/10/02 20:31:53 CET [2025/10/02 14:31:53 ET]
+Table '3933410670 1' 8-max Seat #7 is the button
+Seat 1: Bola88bm (1240 in chips) 
+Seat 2: pipinoelbreve9 (725 in chips) 
+Seat 3: GB31000 (1755 in chips) 
+Seat 7: TERRANGA 56 (280 in chips) 
+Bola88bm: posts the ante 20
+pipinoelbreve9: posts the ante 20
+GB31000: posts the ante 20
+TERRANGA 56: posts the ante 20
+Bola88bm: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 4d]
+GB31000: folds 
+TERRANGA 56: folds 
+Bola88bm: calls 50
+pipinoelbreve9: checks 
+*** FLOP *** [As Kc Td]
+Bola88bm: checks 
+pipinoelbreve9: checks 
+*** TURN *** [As Kc Td] [7h]
+Bola88bm: bets 240
+pipinoelbreve9: folds 
+Uncalled bet (240) returned to Bola88bm
+Bola88bm collected 280 from pot
+Bola88bm: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [As Kc Td 7h]
+Seat 1: Bola88bm (small blind) collected (280)
+Seat 2: pipinoelbreve9 (big blind) folded on the Turn
+Seat 3: GB31000 folded before Flop (didn't bet)
+Seat 7: TERRANGA 56 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973141460: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level III (100/200) - 2025/10/02 20:32:41 CET [2025/10/02 14:32:41 ET]
+Table '3933410670 1' 8-max Seat #1 is the button
+Seat 1: Bola88bm (1400 in chips) 
+Seat 2: pipinoelbreve9 (605 in chips) 
+Seat 3: GB31000 (1735 in chips) 
+Seat 7: TERRANGA 56 (260 in chips) 
+Bola88bm: posts the ante 40
+pipinoelbreve9: posts the ante 40
+GB31000: posts the ante 40
+TERRANGA 56: posts the ante 40
+pipinoelbreve9: posts small blind 100
+GB31000: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Js]
+TERRANGA 56: raises 20 to 220 and is all-in
+Bola88bm: calls 220
+pipinoelbreve9: folds 
+GB31000: calls 20
+*** FLOP *** [2d 4d 8h]
+GB31000: bets 1475 and is all-in
+Bola88bm: folds 
+Uncalled bet (1475) returned to GB31000
+*** TURN *** [2d 4d 8h] [9s]
+*** RIVER *** [2d 4d 8h 9s] [Jh]
+*** SHOW DOWN ***
+GB31000: shows [9d 8s] (two pair, Nines and Eights)
+TERRANGA 56: shows [3c As] (high card Ace)
+GB31000 collected 920 from pot
+TERRANGA 56 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2d 4d 8h 9s Jh]
+Seat 1: Bola88bm (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: GB31000 (big blind) showed [9d 8s] and won (920) with two pair, Nines and Eights
+Seat 7: TERRANGA 56 showed [3c As] and lost with high card Ace
+
+
+
+PokerStars Hand #257973148403: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level III (100/200) - 2025/10/02 20:33:13 CET [2025/10/02 14:33:13 ET]
+Table '3933410670 1' 8-max Seat #2 is the button
+Seat 1: Bola88bm (1140 in chips) 
+Seat 2: pipinoelbreve9 (465 in chips) 
+Seat 3: GB31000 (2395 in chips) 
+Bola88bm: posts the ante 40
+pipinoelbreve9: posts the ante 40
+GB31000: posts the ante 40
+GB31000: posts small blind 100
+Bola88bm: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 2s]
+pipinoelbreve9: raises 225 to 425 and is all-in
+GB31000: folds 
+Bola88bm: calls 225
+*** FLOP *** [4s 6s Jd]
+*** TURN *** [4s 6s Jd] [6h]
+*** RIVER *** [4s 6s Jd 6h] [9s]
+*** SHOW DOWN ***
+Bola88bm: shows [3d 5s] (a pair of Sixes)
+pipinoelbreve9: shows [2h 2s] (two pair, Sixes and Deuces)
+pipinoelbreve9 collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [4s 6s Jd 6h 9s]
+Seat 1: Bola88bm (big blind) showed [3d 5s] and lost with a pair of Sixes
+Seat 2: pipinoelbreve9 (button) showed [2h 2s] and won (1070) with two pair, Sixes and Deuces
+Seat 3: GB31000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973152136: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level III (100/200) - 2025/10/02 20:33:30 CET [2025/10/02 14:33:30 ET]
+Table '3933410670 1' 8-max Seat #3 is the button
+Seat 1: Bola88bm (675 in chips) 
+Seat 2: pipinoelbreve9 (1070 in chips) 
+Seat 3: GB31000 (2255 in chips) 
+Bola88bm: posts the ante 40
+pipinoelbreve9: posts the ante 40
+GB31000: posts the ante 40
+Bola88bm: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 9s]
+GB31000: raises 2015 to 2215 and is all-in
+Bola88bm: calls 535 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (1580) returned to GB31000
+*** FLOP *** [6c 5s 2d]
+*** TURN *** [6c 5s 2d] [Jh]
+*** RIVER *** [6c 5s 2d Jh] [Js]
+*** SHOW DOWN ***
+Bola88bm: shows [Qh Ks] (a pair of Jacks)
+GB31000: shows [Ad 5h] (two pair, Jacks and Fives)
+GB31000 collected 1590 from pot
+Bola88bm finished the tournament in 3rd place and received €0.04.
+*** SUMMARY ***
+Total pot 1590 | Rake 0 
+Board [6c 5s 2d Jh Js]
+Seat 1: Bola88bm (small blind) showed [Qh Ks] and lost with a pair of Jacks
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: GB31000 (button) showed [Ad 5h] and won (1590) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #257973157041: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level III (100/200) - 2025/10/02 20:33:53 CET [2025/10/02 14:33:53 ET]
+Table '3933410670 1' 8-max Seat #2 is the button
+Seat 2: pipinoelbreve9 (830 in chips) 
+Seat 3: GB31000 (3170 in chips) 
+pipinoelbreve9: posts the ante 40
+GB31000: posts the ante 40
+pipinoelbreve9: posts small blind 100
+GB31000: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 3s]
+pipinoelbreve9: folds 
+Uncalled bet (100) returned to GB31000
+GB31000 collected 280 from pot
+GB31000: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 2: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 3: GB31000 (big blind) collected (280)
+
+
+
+PokerStars Hand #257973159678: Tournament #3933410670, €1.38+€0.12 EUR Hold'em No Limit - Level III (100/200) - 2025/10/02 20:34:05 CET [2025/10/02 14:34:05 ET]
+Table '3933410670 1' 8-max Seat #3 is the button
+Seat 2: pipinoelbreve9 (690 in chips) 
+Seat 3: GB31000 (3310 in chips) 
+pipinoelbreve9: posts the ante 40
+GB31000: posts the ante 40
+GB31000: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 8h]
+GB31000: raises 3070 to 3270 and is all-in
+pipinoelbreve9: calls 450 and is all-in
+Uncalled bet (2620) returned to GB31000
+*** FLOP *** [9c 2c 4d]
+*** TURN *** [9c 2c 4d] [9h]
+*** RIVER *** [9c 2c 4d 9h] [Qh]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [As 8h] (a pair of Nines)
+GB31000: shows [Qc Kd] (two pair, Queens and Nines)
+GB31000 collected 1380 from pot
+pipinoelbreve9 finished the tournament in 2nd place
+pipinoelbreve9 wins a 'Power Path - Step 2 MTT Ticket €1' ticket
+GB31000 wins the tournament - congratulations!
+GB31000 wins a 'Power Path - Step 3 MTT Ticket €10' ticket
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [9c 2c 4d 9h Qh]
+Seat 2: pipinoelbreve9 (big blind) showed [As 8h] and lost with a pair of Nines
+Seat 3: GB31000 (button) (small blind) showed [Qc Kd] and won (1380) with two pair, Queens and Nines
+
+
+

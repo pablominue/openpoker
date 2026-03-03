@@ -1,0 +1,883 @@
+﻿PokerStars Hand #257554910060: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/08/31 12:21:02 CET [2025/08/31 6:21:02 ET]
+Table '3921041011 5' 8-max Seat #4 is the button
+Seat 1: Bisso93390 (28845 in chips) 
+Seat 2: MrJuancar94 (10000 in chips) 
+Seat 3: pipinoelbreve9 (10000 in chips) 
+Seat 4: elmasdm (13840 in chips) 
+Seat 5: rafaarroyo29 (10470 in chips) 
+Seat 6: to carlos74 (16690 in chips) 
+Seat 7: buse1966 (1175 in chips) 
+Seat 8: dinorimo (19340 in chips) 
+Bisso93390: posts the ante 60
+MrJuancar94: posts the ante 60
+pipinoelbreve9: posts the ante 60
+elmasdm: posts the ante 60
+rafaarroyo29: posts the ante 60
+to carlos74: posts the ante 60
+buse1966: posts the ante 60
+dinorimo: posts the ante 60
+rafaarroyo29: posts small blind 300
+to carlos74: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Js]
+buse1966: folds 
+dinorimo: folds 
+Bisso93390: folds 
+MrJuancar94: raises 600 to 1200
+pipinoelbreve9: folds 
+elmasdm: folds 
+rafaarroyo29: raises 9210 to 10410 and is all-in
+to carlos74: calls 9810
+MrJuancar94: folds 
+*** FLOP *** [Qh 2h 7d]
+*** TURN *** [Qh 2h 7d] [2d]
+*** RIVER *** [Qh 2h 7d 2d] [5s]
+*** SHOW DOWN ***
+rafaarroyo29: shows [Jh 8d] (a pair of Deuces)
+to carlos74: shows [Jd As] (a pair of Deuces - Ace kicker)
+to carlos74 collected 22500 from pot
+rafaarroyo29 finished the tournament
+*** SUMMARY ***
+Total pot 22500 | Rake 0 
+Board [Qh 2h 7d 2d 5s]
+Seat 1: Bisso93390 folded before Flop (didn't bet)
+Seat 2: MrJuancar94 folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: elmasdm (button) folded before Flop (didn't bet)
+Seat 5: rafaarroyo29 (small blind) showed [Jh 8d] and lost with a pair of Deuces
+Seat 6: to carlos74 (big blind) showed [Jd As] and won (22500) with a pair of Deuces
+Seat 7: buse1966 folded before Flop (didn't bet)
+Seat 8: dinorimo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554913446: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/08/31 12:21:34 CET [2025/08/31 6:21:34 ET]
+Table '3921041011 5' 8-max Seat #6 is the button
+Seat 1: Bisso93390 (28785 in chips) 
+Seat 2: MrJuancar94 (8740 in chips) 
+Seat 3: pipinoelbreve9 (9940 in chips) 
+Seat 4: elmasdm (13780 in chips) 
+Seat 6: to carlos74 (28720 in chips) 
+Seat 7: buse1966 (1115 in chips) 
+Seat 8: dinorimo (19280 in chips) 
+Bisso93390: posts the ante 60
+MrJuancar94: posts the ante 60
+pipinoelbreve9: posts the ante 60
+elmasdm: posts the ante 60
+to carlos74: posts the ante 60
+buse1966: posts the ante 60
+dinorimo: posts the ante 60
+buse1966: posts small blind 300
+dinorimo: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 5h]
+Bisso93390: folds 
+MrJuancar94: calls 600
+pipinoelbreve9: folds 
+elmasdm: raises 13120 to 13720 and is all-in
+to carlos74: folds 
+buse1966: folds 
+dinorimo: folds 
+MrJuancar94: calls 8080 and is all-in
+Uncalled bet (5040) returned to elmasdm
+*** FLOP *** [Qh 7h 9s]
+*** TURN *** [Qh 7h 9s] [Ts]
+*** RIVER *** [Qh 7h 9s Ts] [Jd]
+*** SHOW DOWN ***
+MrJuancar94: shows [Kh 2h] (a straight, Nine to King)
+elmasdm: shows [Ah Jc] (a pair of Jacks)
+MrJuancar94 collected 18680 from pot
+*** SUMMARY ***
+Total pot 18680 | Rake 0 
+Board [Qh 7h 9s Ts Jd]
+Seat 1: Bisso93390 folded before Flop (didn't bet)
+Seat 2: MrJuancar94 showed [Kh 2h] and won (18680) with a straight, Nine to King
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: elmasdm showed [Ah Jc] and lost with a pair of Jacks
+Seat 6: to carlos74 (button) folded before Flop (didn't bet)
+Seat 7: buse1966 (small blind) folded before Flop
+Seat 8: dinorimo (big blind) folded before Flop
+
+
+
+PokerStars Hand #257554917120: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/08/31 12:22:09 CET [2025/08/31 6:22:09 ET]
+Table '3921041011 5' 8-max Seat #7 is the button
+Seat 1: Bisso93390 (28725 in chips) 
+Seat 2: MrJuancar94 (18680 in chips) 
+Seat 3: pipinoelbreve9 (9880 in chips) 
+Seat 4: elmasdm (5040 in chips) 
+Seat 5: sohosko (10000 in chips) 
+Seat 6: to carlos74 (28660 in chips) 
+Seat 7: buse1966 (755 in chips) 
+Seat 8: dinorimo (18620 in chips) 
+Bisso93390: posts the ante 60
+MrJuancar94: posts the ante 60
+pipinoelbreve9: posts the ante 60
+elmasdm: posts the ante 60
+sohosko: posts the ante 60
+to carlos74: posts the ante 60
+buse1966: posts the ante 60
+dinorimo: posts the ante 60
+dinorimo: posts small blind 300
+Bisso93390: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Qh]
+MrJuancar94: folds 
+pipinoelbreve9: raises 1200 to 1800
+elmasdm: raises 3180 to 4980 and is all-in
+sohosko: folds 
+to carlos74: folds 
+buse1966: folds 
+dinorimo: folds 
+Bisso93390: calls 4380
+pipinoelbreve9: calls 3180
+*** FLOP *** [4s Qd 7s]
+Bisso93390: bets 600
+pipinoelbreve9: raises 4240 to 4840 and is all-in
+Bisso93390: calls 4240
+*** TURN *** [4s Qd 7s] [Jd]
+*** RIVER *** [4s Qd 7s Jd] [As]
+*** SHOW DOWN ***
+Bisso93390: shows [Ah 9c] (a pair of Aces)
+pipinoelbreve9: shows [Kh Qh] (a pair of Queens)
+Bisso93390 collected 9680 from side pot
+elmasdm: shows [Js Ac] (two pair, Aces and Jacks)
+elmasdm collected 15720 from main pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 25400 Main pot 15720. Side pot 9680. | Rake 0 
+Board [4s Qd 7s Jd As]
+Seat 1: Bisso93390 (big blind) showed [Ah 9c] and won (9680) with a pair of Aces
+Seat 2: MrJuancar94 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 showed [Kh Qh] and lost with a pair of Queens
+Seat 4: elmasdm showed [Js Ac] and won (15720) with two pair, Aces and Jacks
+Seat 5: sohosko folded before Flop (didn't bet)
+Seat 6: to carlos74 folded before Flop (didn't bet)
+Seat 7: buse1966 (button) folded before Flop (didn't bet)
+Seat 8: dinorimo (small blind) folded before Flop
+
+
+
+PokerStars Hand #257554928221: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/08/31 12:23:55 CET [2025/08/31 6:23:55 ET]
+Table '3921041011 2' 8-max Seat #1 is the button
+Seat 1: pitoinchao (19943 in chips) 
+Seat 2: Peptino (21506 in chips) 
+Seat 3: Nii311 (29052 in chips) 
+Seat 4: fakundo_2212 (9713 in chips) 
+Seat 5: Africa VCF (5090 in chips) 
+Seat 6: pipinoelbreve9 (10000 in chips) 
+Seat 7: Pattriumph (42260 in chips) 
+pitoinchao: posts the ante 70
+Peptino: posts the ante 70
+Nii311: posts the ante 70
+fakundo_2212: posts the ante 70
+Africa VCF: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Pattriumph: posts the ante 70
+Peptino: posts small blind 350
+Nii311: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Kc]
+fakundo_2212: folds 
+Africa VCF: calls 700
+pipinoelbreve9: folds 
+nicousero is disconnected 
+Pattriumph: raises 2100 to 2800
+pitoinchao: calls 2800
+Peptino: folds 
+Nii311: calls 2100
+Africa VCF: folds 
+*** FLOP *** [Jh 9c 4d]
+Nii311: checks 
+Pattriumph: checks 
+pitoinchao: checks 
+*** TURN *** [Jh 9c 4d] [5h]
+Nii311: bets 4970
+Pattriumph: folds 
+pitoinchao: folds 
+Uncalled bet (4970) returned to Nii311
+Nii311 collected 9940 from pot
+Nii311: doesn't show hand 
+*** SUMMARY ***
+Total pot 9940 | Rake 0 
+Board [Jh 9c 4d 5h]
+Seat 1: pitoinchao (button) folded on the Turn
+Seat 2: Peptino (small blind) folded before Flop
+Seat 3: Nii311 (big blind) collected (9940)
+Seat 4: fakundo_2212 folded before Flop (didn't bet)
+Seat 5: Africa VCF folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph folded on the Turn
+
+
+
+PokerStars Hand #257554934994: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/08/31 12:24:58 CET [2025/08/31 6:24:58 ET]
+Table '3921041011 2' 8-max Seat #2 is the button
+Seat 1: pitoinchao (17073 in chips) 
+Seat 2: Peptino (21086 in chips) 
+Seat 3: Nii311 (36122 in chips) 
+Seat 5: Africa VCF (4320 in chips) 
+Seat 6: pipinoelbreve9 (9930 in chips) 
+Seat 7: Pattriumph (39390 in chips) 
+Seat 8: nicousero (10000 in chips) 
+pitoinchao: posts the ante 70
+Peptino: posts the ante 70
+Nii311: posts the ante 70
+Africa VCF: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Pattriumph: posts the ante 70
+nicousero: posts the ante 70
+Nii311: posts small blind 350
+Africa VCF: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 6h]
+pipinoelbreve9: folds 
+Pattriumph: folds 
+nicousero: folds 
+pitoinchao: folds 
+Peptino: calls 700
+Nii311: calls 350
+Africa VCF: checks 
+*** FLOP *** [3d Jh 7d]
+Nii311: checks 
+Africa VCF: checks 
+Peptino: checks 
+*** TURN *** [3d Jh 7d] [Ah]
+Nii311: checks 
+Africa VCF: bets 1400
+Peptino: folds 
+Nii311: folds 
+Uncalled bet (1400) returned to Africa VCF
+Africa VCF collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | Rake 0 
+Board [3d Jh 7d Ah]
+Seat 1: pitoinchao folded before Flop (didn't bet)
+Seat 2: Peptino (button) folded on the Turn
+Seat 3: Nii311 (small blind) folded on the Turn
+Seat 5: Africa VCF (big blind) collected (2590)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph folded before Flop (didn't bet)
+Seat 8: nicousero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554938049: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/08/31 12:25:25 CET [2025/08/31 6:25:25 ET]
+Table '3921041011 2' 8-max Seat #3 is the button
+Seat 1: pitoinchao (17003 in chips) 
+Seat 2: Peptino (20316 in chips) 
+Seat 3: Nii311 (35352 in chips) 
+Seat 4: Briançon (10000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Africa VCF (6140 in chips) 
+Seat 6: pipinoelbreve9 (9860 in chips) 
+Seat 7: Pattriumph (39320 in chips) 
+Seat 8: nicousero (9930 in chips) 
+Briançon will be allowed to play after the button
+pitoinchao: posts the ante 70
+Peptino: posts the ante 70
+Nii311: posts the ante 70
+Africa VCF: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Pattriumph: posts the ante 70
+nicousero: posts the ante 70
+Africa VCF: posts small blind 350
+pipinoelbreve9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Qh]
+Pattriumph: folds 
+nicousero: folds 
+pitoinchao: calls 700
+Peptino: folds 
+Nii311: folds 
+Africa VCF: calls 350
+pipinoelbreve9: checks 
+*** FLOP *** [Tc 3h 8h]
+Africa VCF: checks 
+pipinoelbreve9: bets 1400
+pitoinchao: calls 1400
+Africa VCF: folds 
+*** TURN *** [Tc 3h 8h] [Ah]
+pipinoelbreve9: checks 
+pitoinchao: bets 2695
+pipinoelbreve9: folds 
+Uncalled bet (2695) returned to pitoinchao
+pitoinchao collected 5390 from pot
+*** SUMMARY ***
+Total pot 5390 | Rake 0 
+Board [Tc 3h 8h Ah]
+Seat 1: pitoinchao collected (5390)
+Seat 2: Peptino folded before Flop (didn't bet)
+Seat 3: Nii311 (button) folded before Flop (didn't bet)
+Seat 5: Africa VCF (small blind) folded on the Flop
+Seat 6: pipinoelbreve9 (big blind) folded on the Turn
+Seat 7: Pattriumph folded before Flop (didn't bet)
+Seat 8: nicousero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554943600: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/08/31 12:26:17 CET [2025/08/31 6:26:17 ET]
+Table '3921041011 2' 8-max Seat #5 is the button
+Seat 1: pitoinchao (20223 in chips) 
+Seat 2: Peptino (20246 in chips) 
+Seat 3: Nii311 (35282 in chips) 
+Seat 4: Briançon (10000 in chips) 
+Seat 5: Africa VCF (5370 in chips) 
+Seat 6: pipinoelbreve9 (7690 in chips) 
+Seat 7: Pattriumph (39250 in chips) 
+Seat 8: nicousero (9860 in chips) 
+pitoinchao: posts the ante 80
+Peptino: posts the ante 80
+Nii311: posts the ante 80
+Briançon: posts the ante 80
+Africa VCF: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Pattriumph: posts the ante 80
+nicousero: posts the ante 80
+pipinoelbreve9: posts small blind 400
+Pattriumph: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 9h]
+nicousero: raises 800 to 1600
+pitoinchao: raises 18543 to 20143 and is all-in
+Peptino: folds 
+Nii311: folds 
+Briançon: calls 9920 and is all-in
+Africa VCF: folds 
+pipinoelbreve9: folds 
+Pattriumph: folds 
+nicousero: calls 8180 and is all-in
+Uncalled bet (10223) returned to pitoinchao
+*** FLOP *** [8d 3s Qd]
+*** TURN *** [8d 3s Qd] [9d]
+*** RIVER *** [8d 3s Qd 9d] [Ks]
+*** SHOW DOWN ***
+pitoinchao: shows [Kd Tc] (a pair of Kings)
+Briançon: shows [6s Ad] (high card Ace)
+pitoinchao collected 280 from side pot
+nicousero: shows [Kc 5c] (a pair of Kings - lower kicker)
+pitoinchao collected 31180 from main pot
+Briançon finished the tournament
+nicousero finished the tournament
+*** SUMMARY ***
+Total pot 31460 Main pot 31180. Side pot 280. | Rake 0 
+Board [8d 3s Qd 9d Ks]
+Seat 1: pitoinchao showed [Kd Tc] and won (31460) with a pair of Kings
+Seat 2: Peptino folded before Flop (didn't bet)
+Seat 3: Nii311 folded before Flop (didn't bet)
+Seat 4: Briançon showed [6s Ad] and lost with high card Ace
+Seat 5: Africa VCF (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: Pattriumph (big blind) folded before Flop
+Seat 8: nicousero showed [Kc 5c] and lost with a pair of Kings
+
+
+
+PokerStars Hand #257554947577: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/08/31 12:26:53 CET [2025/08/31 6:26:53 ET]
+Table '3921041011 2' 8-max Seat #6 is the button
+Seat 1: pitoinchao (41683 in chips) 
+Seat 2: Peptino (20166 in chips) 
+Seat 3: Nii311 (35202 in chips) 
+Seat 5: Africa VCF (5290 in chips) 
+Seat 6: pipinoelbreve9 (7210 in chips) 
+Seat 7: Pattriumph (38370 in chips) 
+Seat 8: catcoon (9400 in chips) 
+pitoinchao: posts the ante 80
+Peptino: posts the ante 80
+Nii311: posts the ante 80
+Africa VCF: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Pattriumph: posts the ante 80
+catcoon: posts the ante 80
+Pattriumph: posts small blind 400
+catcoon: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Jc]
+pitoinchao: calls 800
+Peptino: calls 800
+Nii311 is disconnected 
+Nii311 has timed out while disconnected
+Nii311: folds 
+Nii311 is sitting out
+Africa VCF: folds 
+pipinoelbreve9: calls 800
+Pattriumph: folds 
+catcoon: checks 
+*** FLOP *** [3d Kh 7s]
+catcoon: checks 
+pitoinchao: bets 2080
+Peptino: folds 
+hippyhornet is disconnected 
+pipinoelbreve9: folds 
+Nii311 has returned
+catcoon: folds 
+Uncalled bet (2080) returned to pitoinchao
+pitoinchao collected 4160 from pot
+*** SUMMARY ***
+Total pot 4160 | Rake 0 
+Board [3d Kh 7s]
+Seat 1: pitoinchao collected (4160)
+Seat 2: Peptino folded on the Flop
+Seat 3: Nii311 folded before Flop (didn't bet)
+Seat 5: Africa VCF folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded on the Flop
+Seat 7: Pattriumph (small blind) folded before Flop
+Seat 8: catcoon (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257554953624: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/08/31 12:27:50 CET [2025/08/31 6:27:50 ET]
+Table '3921041011 2' 8-max Seat #7 is the button
+Seat 1: pitoinchao (44963 in chips) 
+Seat 2: Peptino (19286 in chips) 
+Seat 3: Nii311 (35122 in chips) 
+Seat 4: hippyhornet (7770 in chips) 
+Seat 5: Africa VCF (5210 in chips) 
+Seat 6: pipinoelbreve9 (6330 in chips) 
+Seat 7: Pattriumph (37890 in chips) 
+Seat 8: catcoon (8520 in chips) 
+pitoinchao: posts the ante 80
+Peptino: posts the ante 80
+Nii311: posts the ante 80
+hippyhornet: posts the ante 80
+Africa VCF: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Pattriumph: posts the ante 80
+catcoon: posts the ante 80
+catcoon: posts small blind 400
+pitoinchao: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 7s]
+Peptino: calls 800
+Nii311: folds 
+hippyhornet: folds 
+Africa VCF: raises 1600 to 2400
+pipinoelbreve9: raises 3850 to 6250 and is all-in
+Pattriumph: folds 
+catcoon: folds 
+pitoinchao: calls 5450
+Peptino has timed out
+Peptino: folds 
+Peptino is sitting out
+Africa VCF: calls 2730 and is all-in
+*** FLOP *** [3d 6c 5h]
+*** TURN *** [3d 6c 5h] [4h]
+*** RIVER *** [3d 6c 5h 4h] [Ah]
+*** SHOW DOWN ***
+pitoinchao: shows [4d Ac] (two pair, Aces and Fours)
+pipinoelbreve9: shows [7h 7s] (a straight, Three to Seven)
+pipinoelbreve9 collected 2240 from side pot
+Africa VCF: shows [Qd Qs] (a pair of Queens)
+pipinoelbreve9 collected 17230 from main pot
+Africa VCF finished the tournament in 90th place
+*** SUMMARY ***
+Total pot 19470 Main pot 17230. Side pot 2240. | Rake 0 
+Board [3d 6c 5h 4h Ah]
+Seat 1: pitoinchao (big blind) showed [4d Ac] and lost with two pair, Aces and Fours
+Seat 2: Peptino folded before Flop
+Seat 3: Nii311 folded before Flop (didn't bet)
+Seat 4: hippyhornet folded before Flop (didn't bet)
+Seat 5: Africa VCF showed [Qd Qs] and lost with a pair of Queens
+Seat 6: pipinoelbreve9 showed [7h 7s] and won (19470) with a straight, Three to Seven
+Seat 7: Pattriumph (button) folded before Flop (didn't bet)
+Seat 8: catcoon (small blind) folded before Flop
+
+
+
+PokerStars Hand #257554959080: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/08/31 12:28:42 CET [2025/08/31 6:28:42 ET]
+Table '3921041011 2' 8-max Seat #8 is the button
+Seat 1: pitoinchao (38633 in chips) 
+Seat 2: Peptino (18406 in chips) is sitting out
+Seat 3: Nii311 (35042 in chips) 
+Seat 4: hippyhornet (7690 in chips) 
+Seat 6: pipinoelbreve9 (19470 in chips) 
+Seat 7: Pattriumph (37810 in chips) 
+Seat 8: catcoon (8040 in chips) 
+pitoinchao: posts the ante 80
+Peptino: posts the ante 80
+Nii311: posts the ante 80
+hippyhornet: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Pattriumph: posts the ante 80
+catcoon: posts the ante 80
+pitoinchao: posts small blind 400
+Peptino: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 2h]
+Sephiroth 65 is disconnected 
+Nii311: folds 
+hippyhornet: folds 
+pipinoelbreve9: folds 
+Pattriumph: raises 1600 to 2400
+catcoon: folds 
+pitoinchao: folds 
+Peptino: folds 
+Uncalled bet (1600) returned to Pattriumph
+Pattriumph collected 2560 from pot
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 1: pitoinchao (small blind) folded before Flop
+Seat 2: Peptino (big blind) folded before Flop
+Seat 3: Nii311 folded before Flop (didn't bet)
+Seat 4: hippyhornet folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph collected (2560)
+Seat 8: catcoon (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554960848: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/08/31 12:28:59 CET [2025/08/31 6:28:59 ET]
+Table '3921041011 2' 8-max Seat #1 is the button
+Seat 1: pitoinchao (38153 in chips) 
+Seat 2: Peptino (17526 in chips) is sitting out
+Seat 3: Nii311 (34962 in chips) 
+Seat 4: hippyhornet (7610 in chips) 
+Seat 5: Sephiroth 65 (8240 in chips) 
+Seat 6: pipinoelbreve9 (19390 in chips) 
+Seat 7: Pattriumph (39490 in chips) 
+Seat 8: catcoon (7960 in chips) 
+pitoinchao: posts the ante 80
+Peptino: posts the ante 80
+Nii311: posts the ante 80
+hippyhornet: posts the ante 80
+Sephiroth 65: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Pattriumph: posts the ante 80
+catcoon: posts the ante 80
+Peptino: posts small blind 400
+Nii311: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Qd]
+Peptino has returned
+hippyhornet: folds 
+Sephiroth 65: folds 
+pipinoelbreve9: folds 
+Pattriumph: folds 
+catcoon: raises 2640 to 3440
+pitoinchao: folds 
+Peptino: folds 
+Nii311: folds 
+Uncalled bet (2640) returned to catcoon
+catcoon collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Seat 1: pitoinchao (button) folded before Flop (didn't bet)
+Seat 2: Peptino (small blind) folded before Flop
+Seat 3: Nii311 (big blind) folded before Flop
+Seat 4: hippyhornet folded before Flop (didn't bet)
+Seat 5: Sephiroth 65 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph folded before Flop (didn't bet)
+Seat 8: catcoon collected (2640)
+
+
+
+PokerStars Hand #257554963769: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/08/31 12:29:27 CET [2025/08/31 6:29:27 ET]
+Table '3921041011 2' 8-max Seat #2 is the button
+Seat 1: pitoinchao (38073 in chips) 
+Seat 2: Peptino (17046 in chips) 
+Seat 3: Nii311 (34082 in chips) 
+Seat 4: hippyhornet (7530 in chips) 
+Seat 5: Sephiroth 65 (8160 in chips) 
+Seat 6: pipinoelbreve9 (19310 in chips) 
+Seat 7: Pattriumph (39410 in chips) 
+Seat 8: catcoon (9720 in chips) 
+pitoinchao: posts the ante 100
+Peptino: posts the ante 100
+Nii311: posts the ante 100
+hippyhornet: posts the ante 100
+Sephiroth 65: posts the ante 100
+pipinoelbreve9: posts the ante 100
+Pattriumph: posts the ante 100
+catcoon: posts the ante 100
+Nii311: posts small blind 500
+hippyhornet: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 3h]
+Sephiroth 65: folds 
+pipinoelbreve9: folds 
+Pattriumph: calls 1000
+catcoon: folds 
+pitoinchao: calls 1000
+Peptino: folds 
+Nii311: calls 500
+hippyhornet: checks 
+*** FLOP *** [3c 2h Kh]
+Nii311: checks 
+hippyhornet: bets 2400
+Pattriumph: folds 
+pitoinchao: calls 2400
+Nii311: folds 
+*** TURN *** [3c 2h Kh] [7c]
+hippyhornet: bets 4030 and is all-in
+pitoinchao: calls 4030
+*** RIVER *** [3c 2h Kh 7c] [2c]
+*** SHOW DOWN ***
+hippyhornet: shows [7s Kd] (two pair, Kings and Sevens)
+pitoinchao: shows [5s 5h] (two pair, Fives and Deuces)
+hippyhornet collected 17660 from pot
+*** SUMMARY ***
+Total pot 17660 | Rake 0 
+Board [3c 2h Kh 7c 2c]
+Seat 1: pitoinchao showed [5s 5h] and lost with two pair, Fives and Deuces
+Seat 2: Peptino (button) folded before Flop (didn't bet)
+Seat 3: Nii311 (small blind) folded on the Flop
+Seat 4: hippyhornet (big blind) showed [7s Kd] and won (17660) with two pair, Kings and Sevens
+Seat 5: Sephiroth 65 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph folded on the Flop
+Seat 8: catcoon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554970202: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/08/31 12:30:28 CET [2025/08/31 6:30:28 ET]
+Table '3921041011 2' 8-max Seat #3 is the button
+Seat 1: pitoinchao (30543 in chips) 
+Seat 2: Peptino (16946 in chips) 
+Seat 3: Nii311 (32982 in chips) 
+Seat 4: hippyhornet (17660 in chips) 
+Seat 5: Sephiroth 65 (8060 in chips) 
+Seat 6: pipinoelbreve9 (19210 in chips) 
+Seat 7: Pattriumph (38310 in chips) 
+Seat 8: catcoon (9620 in chips) 
+pitoinchao: posts the ante 100
+Peptino: posts the ante 100
+Nii311: posts the ante 100
+hippyhornet: posts the ante 100
+Sephiroth 65: posts the ante 100
+pipinoelbreve9: posts the ante 100
+Pattriumph: posts the ante 100
+catcoon: posts the ante 100
+hippyhornet: posts small blind 500
+Sephiroth 65: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Kh]
+pipinoelbreve9: folds 
+Pattriumph: raises 3000 to 4000
+catcoon: folds 
+pitoinchao: calls 4000
+Peptino: folds 
+Nii311: folds 
+hippyhornet: folds 
+Sephiroth 65: folds 
+*** FLOP *** [Th 2c Ks]
+Pattriumph: bets 34210 and is all-in
+pitoinchao: calls 26443 and is all-in
+Uncalled bet (7767) returned to Pattriumph
+*** TURN *** [Th 2c Ks] [3h]
+*** RIVER *** [Th 2c Ks 3h] [4h]
+*** SHOW DOWN ***
+Pattriumph: shows [Qd Ac] (high card Ace)
+pitoinchao: shows [Tc Jc] (a pair of Tens)
+pitoinchao collected 63186 from pot
+*** SUMMARY ***
+Total pot 63186 | Rake 0 
+Board [Th 2c Ks 3h 4h]
+Seat 1: pitoinchao showed [Tc Jc] and won (63186) with a pair of Tens
+Seat 2: Peptino folded before Flop (didn't bet)
+Seat 3: Nii311 (button) folded before Flop (didn't bet)
+Seat 4: hippyhornet (small blind) folded before Flop
+Seat 5: Sephiroth 65 (big blind) folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Pattriumph showed [Qd Ac] and lost with high card Ace
+Seat 8: catcoon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554981554: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/08/31 12:32:16 CET [2025/08/31 6:32:16 ET]
+Table '3921041011 6' 8-max Seat #3 is the button
+Seat 1: Nii311 (43649 in chips) 
+Seat 2: kale553 (44880 in chips) 
+Seat 3: MrDIMI13 (48230 in chips) 
+Seat 4: honda4000 (29360 in chips) 
+Seat 5: pipinoelbreve9 (19110 in chips) 
+Seat 6: lapas65 (25960 in chips) 
+Seat 7: tata104 (45195 in chips) is sitting out
+Seat 8: marisavlc (52760 in chips) 
+Nii311: posts the ante 120
+kale553: posts the ante 120
+MrDIMI13: posts the ante 120
+honda4000: posts the ante 120
+pipinoelbreve9: posts the ante 120
+lapas65: posts the ante 120
+tata104: posts the ante 120
+marisavlc: posts the ante 120
+honda4000: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 8d]
+Nii311 is disconnected 
+lapas65: folds 
+tata104: folds 
+marisavlc: folds 
+Nii311: folds 
+kale553: raises 43560 to 44760 and is all-in
+MrDIMI13: raises 3350 to 48110 and is all-in
+honda4000: folds 
+pipinoelbreve9: folds 
+Uncalled bet (3350) returned to MrDIMI13
+*** FLOP *** [5d 3h Jh]
+*** TURN *** [5d 3h Jh] [8c]
+*** RIVER *** [5d 3h Jh 8c] [Qs]
+*** SHOW DOWN ***
+kale553: shows [Ah 4s] (high card Ace)
+MrDIMI13: shows [Ad Jc] (a pair of Jacks)
+MrDIMI13 collected 92280 from pot
+kale553 finished the tournament in 71st place
+*** SUMMARY ***
+Total pot 92280 | Rake 0 
+Board [5d 3h Jh 8c Qs]
+Seat 1: Nii311 folded before Flop (didn't bet)
+Seat 2: kale553 showed [Ah 4s] and lost with high card Ace
+Seat 3: MrDIMI13 (button) showed [Ad Jc] and won (92280) with a pair of Jacks
+Seat 4: honda4000 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: lapas65 folded before Flop (didn't bet)
+Seat 7: tata104 folded before Flop (didn't bet)
+Seat 8: marisavlc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554984855: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/08/31 12:32:48 CET [2025/08/31 6:32:48 ET]
+Table '3921041011 6' 8-max Seat #4 is the button
+Seat 1: Nii311 (43529 in chips) 
+Seat 3: MrDIMI13 (95630 in chips) 
+Seat 4: honda4000 (28640 in chips) 
+Seat 5: pipinoelbreve9 (17790 in chips) 
+Seat 6: lapas65 (25840 in chips) 
+Seat 7: tata104 (45075 in chips) is sitting out
+Seat 8: marisavlc (52640 in chips) 
+Nii311: posts the ante 120
+MrDIMI13: posts the ante 120
+honda4000: posts the ante 120
+pipinoelbreve9: posts the ante 120
+lapas65: posts the ante 120
+tata104: posts the ante 120
+marisavlc: posts the ante 120
+pipinoelbreve9: posts small blind 600
+lapas65: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h As]
+tata104: folds 
+marisavlc: folds 
+Nii311: calls 1200
+MrDIMI13: folds 
+honda4000: folds 
+pipinoelbreve9: raises 2400 to 3600
+lapas65: folds 
+Nii311: folds 
+Uncalled bet (2400) returned to pipinoelbreve9
+pipinoelbreve9 collected 4440 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 4440 | Rake 0 
+Seat 1: Nii311 folded before Flop
+Seat 3: MrDIMI13 folded before Flop (didn't bet)
+Seat 4: honda4000 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (4440)
+Seat 6: lapas65 (big blind) folded before Flop
+Seat 7: tata104 folded before Flop (didn't bet)
+Seat 8: marisavlc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554988302: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/08/31 12:33:20 CET [2025/08/31 6:33:20 ET]
+Table '3921041011 6' 8-max Seat #5 is the button
+Seat 1: Nii311 (42209 in chips) 
+Seat 3: MrDIMI13 (95510 in chips) 
+Seat 4: honda4000 (28520 in chips) 
+Seat 5: pipinoelbreve9 (20910 in chips) 
+Seat 6: lapas65 (24520 in chips) 
+Seat 7: tata104 (44955 in chips) is sitting out
+Seat 8: marisavlc (52520 in chips) 
+Nii311: posts the ante 120
+MrDIMI13: posts the ante 120
+honda4000: posts the ante 120
+pipinoelbreve9: posts the ante 120
+lapas65: posts the ante 120
+tata104: posts the ante 120
+marisavlc: posts the ante 120
+lapas65: posts small blind 600
+tata104: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 6h]
+marisavlc: folds 
+Nii311: folds 
+MrDIMI13: calls 1200
+honda4000: folds 
+pipinoelbreve9: folds 
+lapas65: calls 600
+tata104: folds 
+*** FLOP *** [Ah 8d 8c]
+lapas65: bets 2400
+MrDIMI13: calls 2400
+*** TURN *** [Ah 8d 8c] [Ks]
+lapas65: bets 2400
+MrDIMI13: folds 
+Uncalled bet (2400) returned to lapas65
+lapas65 collected 9240 from pot
+*** SUMMARY ***
+Total pot 9240 | Rake 0 
+Board [Ah 8d 8c Ks]
+Seat 1: Nii311 folded before Flop (didn't bet)
+Seat 3: MrDIMI13 folded on the Turn
+Seat 4: honda4000 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: lapas65 (small blind) collected (9240)
+Seat 7: tata104 (big blind) folded before Flop
+Seat 8: marisavlc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257554993756: Tournament #3921041011, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/08/31 12:34:10 CET [2025/08/31 6:34:10 ET]
+Table '3921041011 6' 8-max Seat #6 is the button
+Seat 1: Nii311 (42089 in chips) 
+Seat 3: MrDIMI13 (91790 in chips) 
+Seat 4: honda4000 (28400 in chips) 
+Seat 5: pipinoelbreve9 (20790 in chips) 
+Seat 6: lapas65 (30040 in chips) 
+Seat 7: tata104 (43635 in chips) is sitting out
+Seat 8: marisavlc (52400 in chips) 
+Nii311: posts the ante 120
+MrDIMI13: posts the ante 120
+honda4000: posts the ante 120
+pipinoelbreve9: posts the ante 120
+lapas65: posts the ante 120
+tata104: posts the ante 120
+marisavlc: posts the ante 120
+tata104: posts small blind 600
+marisavlc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Kd]
+RaizAlot is disconnected 
+Nii311: folds 
+MrDIMI13: folds 
+honda4000: folds 
+pipinoelbreve9: raises 2400 to 3600
+lapas65: calls 3600
+tata104: folds 
+marisavlc: folds 
+*** FLOP *** [2s Ts Ac]
+pipinoelbreve9: bets 4920
+lapas65: raises 21400 to 26320 and is all-in
+pipinoelbreve9: calls 12150 and is all-in
+Uncalled bet (9250) returned to lapas65
+*** TURN *** [2s Ts Ac] [6h]
+*** RIVER *** [2s Ts Ac 6h] [Td]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kh Kd] (two pair, Kings and Tens)
+lapas65: shows [Js As] (two pair, Aces and Tens)
+lapas65 collected 43980 from pot
+pipinoelbreve9 finished the tournament in 62nd place
+*** SUMMARY ***
+Total pot 43980 | Rake 0 
+Board [2s Ts Ac 6h Td]
+Seat 1: Nii311 folded before Flop (didn't bet)
+Seat 3: MrDIMI13 folded before Flop (didn't bet)
+Seat 4: honda4000 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [Kh Kd] and lost with two pair, Kings and Tens
+Seat 6: lapas65 (button) showed [Js As] and won (43980) with two pair, Aces and Tens
+Seat 7: tata104 (small blind) folded before Flop
+Seat 8: marisavlc (big blind) folded before Flop
+
+
+

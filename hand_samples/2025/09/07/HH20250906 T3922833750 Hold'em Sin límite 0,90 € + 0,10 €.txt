@@ -1,0 +1,201 @@
+﻿PokerStars Hand #257642404893: Tournament #3922833750, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/07 3:24:27 CET [2025/09/06 21:24:27 ET]
+Table '3922833750 7' 6-max Seat #1 is the button
+Seat 1: filliipa (23759 in chips) 
+Seat 2: panuxenko (4166 in chips) 
+Seat 3: fufipelestutti (10727 in chips) 
+Seat 4: zeandrade20 (10000 in chips) 
+Seat 5: pipinoelbreve9 (10000 in chips) 
+filliipa: posts the ante 10
+panuxenko: posts the ante 10
+fufipelestutti: posts the ante 10
+zeandrade20: posts the ante 10
+pipinoelbreve9: posts the ante 10
+panuxenko: posts small blind 50
+fufipelestutti: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 6d]
+zeandrade20: folds 
+pipinoelbreve9: raises 200 to 300
+filliipa: calls 300
+panuxenko: calls 250
+fufipelestutti: calls 200
+*** FLOP *** [Ks Th Jc]
+panuxenko: checks 
+fufipelestutti: checks 
+pipinoelbreve9: checks 
+filliipa: checks 
+*** TURN *** [Ks Th Jc] [5h]
+panuxenko: checks 
+fufipelestutti: bets 625
+pipinoelbreve9: folds 
+filliipa: calls 625
+panuxenko: calls 625
+*** RIVER *** [Ks Th Jc 5h] [7s]
+panuxenko: checks 
+fufipelestutti: bets 3125
+filliipa: folds 
+panuxenko: folds 
+Uncalled bet (3125) returned to fufipelestutti
+fufipelestutti collected 3125 from pot
+fufipelestutti: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Board [Ks Th Jc 5h 7s]
+Seat 1: filliipa (button) folded on the River
+Seat 2: panuxenko (small blind) folded on the River
+Seat 3: fufipelestutti (big blind) collected (3125)
+Seat 4: zeandrade20 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded on the Turn
+
+
+
+PokerStars Hand #257642413047: Tournament #3922833750, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/07 3:25:25 CET [2025/09/06 21:25:25 ET]
+Table '3922833750 7' 6-max Seat #2 is the button
+Seat 1: filliipa (22824 in chips) 
+Seat 2: panuxenko (3231 in chips) 
+Seat 3: fufipelestutti (12917 in chips) 
+Seat 4: zeandrade20 (9990 in chips) 
+Seat 5: pipinoelbreve9 (9690 in chips) 
+filliipa: posts the ante 10
+panuxenko: posts the ante 10
+fufipelestutti: posts the ante 10
+zeandrade20: posts the ante 10
+pipinoelbreve9: posts the ante 10
+fufipelestutti: posts small blind 50
+zeandrade20: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 4s]
+PsyDuarte is disconnected 
+pipinoelbreve9: folds 
+filliipa: folds 
+panuxenko: calls 100
+fufipelestutti: calls 50
+zeandrade20: checks 
+*** FLOP *** [Td Ad 5s]
+fufipelestutti: checks 
+zeandrade20: checks 
+panuxenko: checks 
+*** TURN *** [Td Ad 5s] [3c]
+fufipelestutti: checks 
+zeandrade20: checks 
+panuxenko: checks 
+*** RIVER *** [Td Ad 5s 3c] [Kh]
+fufipelestutti: checks 
+zeandrade20: checks 
+panuxenko: checks 
+*** SHOW DOWN ***
+fufipelestutti: shows [8d 6c] (high card Ace)
+zeandrade20: shows [Js 4c] (high card Ace - King+Jack kicker)
+panuxenko: shows [2h 3d] (a pair of Threes)
+panuxenko collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Td Ad 5s 3c Kh]
+Seat 1: filliipa folded before Flop (didn't bet)
+Seat 2: panuxenko (button) showed [2h 3d] and won (350) with a pair of Threes
+Seat 3: fufipelestutti (small blind) showed [8d 6c] and lost with high card Ace
+Seat 4: zeandrade20 (big blind) showed [Js 4c] and lost with high card Ace
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257642427887: Tournament #3922833750, €0.90+€0.10 EUR Hold'em No Limit - Level V (60/120) - 2025/09/07 3:27:12 CET [2025/09/06 21:27:12 ET]
+Table '3922833750 8' 6-max Seat #2 is the button
+Seat 1: Alix64 (10179 in chips) 
+Seat 2: scin_periwinkle (9180 in chips) 
+Seat 3: Amsterdam974 (13387 in chips) 
+Seat 4: pipinoelbreve9 (9680 in chips) 
+Seat 5: feysa (9580 in chips) 
+Alix64: posts the ante 15
+scin_periwinkle: posts the ante 15
+Amsterdam974: posts the ante 15
+pipinoelbreve9: posts the ante 15
+feysa: posts the ante 15
+Amsterdam974: posts small blind 60
+pipinoelbreve9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 7h]
+feysa: calls 120
+Alix64: folds 
+scin_periwinkle: calls 120
+Amsterdam974: calls 60
+pipinoelbreve9: checks 
+*** FLOP *** [4d Kd Th]
+Amsterdam974: checks 
+pipinoelbreve9: checks 
+feysa: bets 240
+scin_periwinkle: calls 240
+Amsterdam974: calls 240
+pipinoelbreve9: folds 
+*** TURN *** [4d Kd Th] [6h]
+Amsterdam974: checks 
+feysa: checks 
+scin_periwinkle: bets 360
+Amsterdam974: calls 360
+feysa: folds 
+*** RIVER *** [4d Kd Th 6h] [2c]
+Amsterdam974: checks 
+scin_periwinkle: checks 
+*** SHOW DOWN ***
+Amsterdam974: shows [Qc Tc] (a pair of Tens)
+scin_periwinkle: shows [Ks Qh] (a pair of Kings)
+scin_periwinkle collected 1995 from pot
+*** SUMMARY ***
+Total pot 1995 | Rake 0 
+Board [4d Kd Th 6h 2c]
+Seat 1: Alix64 folded before Flop (didn't bet)
+Seat 2: scin_periwinkle (button) showed [Ks Qh] and won (1995) with a pair of Kings
+Seat 3: Amsterdam974 (small blind) showed [Qc Tc] and lost with a pair of Tens
+Seat 4: pipinoelbreve9 (big blind) folded on the Flop
+Seat 5: feysa folded on the Turn
+
+
+
+PokerStars Hand #257642436918: Tournament #3922833750, €0.90+€0.10 EUR Hold'em No Limit - Level V (60/120) - 2025/09/07 3:28:17 CET [2025/09/06 21:28:17 ET]
+Table '3922833750 8' 6-max Seat #3 is the button
+Seat 1: Alix64 (10164 in chips) 
+Seat 2: scin_periwinkle (10440 in chips) 
+Seat 3: Amsterdam974 (12652 in chips) 
+Seat 4: pipinoelbreve9 (9545 in chips) 
+Seat 6: Emie790 (10000 in chips) 
+Alix64: posts the ante 15
+scin_periwinkle: posts the ante 15
+Amsterdam974: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Emie790: posts the ante 15
+pipinoelbreve9: posts small blind 60
+Emie790: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 7d]
+Alix64: raises 120 to 240
+scin_periwinkle: folds 
+Amsterdam974: calls 240
+pipinoelbreve9: calls 180
+Emie790: calls 120
+*** FLOP *** [6s 7c 6c]
+pipinoelbreve9: checks 
+Emie790: checks 
+Alix64: bets 120
+Amsterdam974: raises 319 to 439
+pipinoelbreve9: raises 8851 to 9290 and is all-in
+Emie790: folds 
+Alix64: folds 
+Amsterdam974: calls 8851
+*** TURN *** [6s 7c 6c] [Jh]
+*** RIVER *** [6s 7c 6c Jh] [Jc]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kc 7d] (two pair, Jacks and Sevens)
+Amsterdam974: shows [5d 6d] (a full house, Sixes full of Jacks)
+Amsterdam974 collected 19735 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 19735 | Rake 0 
+Board [6s 7c 6c Jh Jc]
+Seat 1: Alix64 folded on the Flop
+Seat 2: scin_periwinkle folded before Flop (didn't bet)
+Seat 3: Amsterdam974 (button) showed [5d 6d] and won (19735) with a full house, Sixes full of Jacks
+Seat 4: pipinoelbreve9 (small blind) showed [Kc 7d] and lost with two pair, Jacks and Sevens
+Seat 6: Emie790 (big blind) folded on the Flop
+
+
+

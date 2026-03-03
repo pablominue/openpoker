@@ -1,0 +1,846 @@
+﻿PokerStars Hand #257642269858: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/09/07 3:09:03 CET [2025/09/06 21:09:03 ET]
+Table '3922832881 5' 8-max Seat #7 is the button
+Seat 1: Gummy82 (12345 in chips) 
+Seat 2: Ailoja21 (9780 in chips) 
+Seat 3: pipinoelbreve9 (10000 in chips) 
+Seat 4: gineselmaki (19580 in chips) 
+Seat 6: melmaque66 (9695 in chips) 
+Seat 7: mdaf12 (9670 in chips) is sitting out
+Seat 8: goldshadowe (18930 in chips) 
+Gummy82: posts the ante 20
+Ailoja21: posts the ante 20
+pipinoelbreve9: posts the ante 20
+gineselmaki: posts the ante 20
+melmaque66: posts the ante 20
+mdaf12: posts the ante 20
+goldshadowe: posts the ante 20
+goldshadowe: posts small blind 100
+Gummy82: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Qs]
+Ailoja21: calls 200
+pipinoelbreve9: folds 
+gineselmaki: calls 200
+melmaque66: folds 
+mdaf12: folds 
+goldshadowe: calls 100
+Gummy82: checks 
+*** FLOP *** [3h 2c Kc]
+goldshadowe: checks 
+Gummy82: checks 
+Ailoja21: checks 
+gineselmaki: checks 
+*** TURN *** [3h 2c Kc] [Kh]
+goldshadowe: bets 600
+Gummy82: folds 
+Ailoja21: folds 
+gineselmaki: folds 
+Uncalled bet (600) returned to goldshadowe
+goldshadowe collected 940 from pot
+goldshadowe: doesn't show hand 
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [3h 2c Kc Kh]
+Seat 1: Gummy82 (big blind) folded on the Turn
+Seat 2: Ailoja21 folded on the Turn
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: gineselmaki folded on the Turn
+Seat 6: melmaque66 folded before Flop (didn't bet)
+Seat 7: mdaf12 (button) folded before Flop (didn't bet)
+Seat 8: goldshadowe (small blind) collected (940)
+
+
+
+PokerStars Hand #257642279487: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/09/07 3:10:08 CET [2025/09/06 21:10:08 ET]
+Table '3922832881 5' 8-max Seat #8 is the button
+Seat 1: Gummy82 (12125 in chips) 
+Seat 3: pipinoelbreve9 (9980 in chips) 
+Seat 4: gineselmaki (19360 in chips) 
+Seat 5: Berna018 (10000 in chips) 
+Seat 6: melmaque66 (9675 in chips) 
+Seat 7: mdaf12 (9650 in chips) is sitting out
+Seat 8: goldshadowe (19650 in chips) 
+Gummy82: posts the ante 20
+pipinoelbreve9: posts the ante 20
+gineselmaki: posts the ante 20
+Berna018: posts the ante 20
+melmaque66: posts the ante 20
+mdaf12: posts the ante 20
+goldshadowe: posts the ante 20
+Gummy82: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 6h]
+gineselmaki: calls 200
+Berna018: folds 
+melmaque66: folds 
+mdaf12: folds 
+goldshadowe: raises 400 to 600
+Gummy82: calls 500
+pipinoelbreve9: folds 
+gineselmaki: calls 400
+*** FLOP *** [8c Td Jh]
+Gummy82: bets 200
+gineselmaki: calls 200
+goldshadowe: calls 200
+*** TURN *** [8c Td Jh] [Kd]
+Gummy82: bets 200
+gineselmaki: calls 200
+goldshadowe: calls 200
+*** RIVER *** [8c Td Jh Kd] [Js]
+Gummy82: bets 3340
+gineselmaki: folds 
+goldshadowe: folds 
+Uncalled bet (3340) returned to Gummy82
+Gummy82 collected 3340 from pot
+*** SUMMARY ***
+Total pot 3340 | Rake 0 
+Board [8c Td Jh Kd Js]
+Seat 1: Gummy82 (small blind) collected (3340)
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: gineselmaki folded on the River
+Seat 5: Berna018 folded before Flop (didn't bet)
+Seat 6: melmaque66 folded before Flop (didn't bet)
+Seat 7: mdaf12 folded before Flop (didn't bet)
+Seat 8: goldshadowe (button) folded on the River
+
+
+
+PokerStars Hand #257642286178: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/09/07 3:10:54 CET [2025/09/06 21:10:54 ET]
+Table '3922832881 5' 8-max Seat #1 is the button
+Seat 1: Gummy82 (14445 in chips) 
+Seat 3: pipinoelbreve9 (9760 in chips) 
+Seat 4: gineselmaki (18340 in chips) 
+Seat 5: Berna018 (9980 in chips) 
+Seat 6: melmaque66 (9655 in chips) 
+Seat 7: mdaf12 (9630 in chips) is sitting out
+Seat 8: goldshadowe (18630 in chips) 
+Gummy82: posts the ante 20
+pipinoelbreve9: posts the ante 20
+gineselmaki: posts the ante 20
+Berna018: posts the ante 20
+melmaque66: posts the ante 20
+mdaf12: posts the ante 20
+goldshadowe: posts the ante 20
+pipinoelbreve9: posts small blind 100
+gineselmaki: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 7c]
+Berna018: folds 
+melmaque66: folds 
+mdaf12: folds 
+goldshadowe: folds 
+Gummy82: calls 200
+pipinoelbreve9: calls 100
+gineselmaki: checks 
+*** FLOP *** [8c Ac 2c]
+pipinoelbreve9: checks 
+gineselmaki: checks 
+Gummy82: checks 
+*** TURN *** [8c Ac 2c] [Qd]
+pipinoelbreve9: bets 370
+gineselmaki: calls 370
+Gummy82: calls 370
+*** RIVER *** [8c Ac 2c Qd] [Ts]
+pipinoelbreve9: checks 
+gineselmaki: checks 
+Gummy82: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9d 7c] (high card Ace)
+gineselmaki: shows [8s Jd] (a pair of Eights)
+Gummy82: shows [Tc 5d] (a pair of Tens)
+Gummy82 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [8c Ac 2c Qd Ts]
+Seat 1: Gummy82 (button) showed [Tc 5d] and won (1850) with a pair of Tens
+Seat 3: pipinoelbreve9 (small blind) showed [9d 7c] and lost with high card Ace
+Seat 4: gineselmaki (big blind) showed [8s Jd] and lost with a pair of Eights
+Seat 5: Berna018 folded before Flop (didn't bet)
+Seat 6: melmaque66 folded before Flop (didn't bet)
+Seat 7: mdaf12 folded before Flop (didn't bet)
+Seat 8: goldshadowe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257642294373: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/09/07 3:11:49 CET [2025/09/06 21:11:49 ET]
+Table '3922832881 5' 8-max Seat #3 is the button
+Seat 1: Gummy82 (15705 in chips) 
+Seat 3: pipinoelbreve9 (9170 in chips) 
+Seat 4: gineselmaki (17750 in chips) 
+Seat 5: Berna018 (9960 in chips) 
+Seat 6: melmaque66 (9635 in chips) 
+Seat 7: mdaf12 (9610 in chips) is sitting out
+Seat 8: goldshadowe (18610 in chips) 
+Gummy82: posts the ante 30
+pipinoelbreve9: posts the ante 30
+gineselmaki: posts the ante 30
+Berna018: posts the ante 30
+melmaque66: posts the ante 30
+mdaf12: posts the ante 30
+goldshadowe: posts the ante 30
+gineselmaki: posts small blind 150
+Berna018: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 2c]
+melmaque66: folds 
+mdaf12: folds 
+goldshadowe: calls 300
+Gummy82: calls 300
+pipinoelbreve9: folds 
+gineselmaki: calls 150
+Berna018: checks 
+*** FLOP *** [2h 9d 6h]
+gineselmaki: bets 300
+Berna018: calls 300
+goldshadowe: folds 
+Gummy82: calls 300
+*** TURN *** [2h 9d 6h] [9c]
+gineselmaki: checks 
+Berna018: checks 
+Gummy82: checks 
+*** RIVER *** [2h 9d 6h 9c] [Ks]
+gineselmaki: checks 
+Berna018: checks 
+Gummy82: bets 2310
+gineselmaki: folds 
+Berna018: calls 2310
+*** SHOW DOWN ***
+Gummy82: shows [Kd Th] (two pair, Kings and Nines)
+Berna018: mucks hand 
+Gummy82 collected 6930 from pot
+*** SUMMARY ***
+Total pot 6930 | Rake 0 
+Board [2h 9d 6h 9c Ks]
+Seat 1: Gummy82 showed [Kd Th] and won (6930) with two pair, Kings and Nines
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: gineselmaki (small blind) folded on the River
+Seat 5: Berna018 (big blind) mucked [Qh 2s]
+Seat 6: melmaque66 folded before Flop (didn't bet)
+Seat 7: mdaf12 folded before Flop (didn't bet)
+Seat 8: goldshadowe folded on the Flop
+
+
+
+PokerStars Hand #257642304739: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/09/07 3:13:00 CET [2025/09/06 21:13:00 ET]
+Table '3922832881 5' 8-max Seat #4 is the button
+Seat 1: Gummy82 (19695 in chips) 
+Seat 2: carwitti (10000 in chips) 
+Seat 3: pipinoelbreve9 (9140 in chips) 
+Seat 4: gineselmaki (17120 in chips) 
+Seat 5: Berna018 (7020 in chips) 
+Seat 6: melmaque66 (9605 in chips) 
+Seat 7: mdaf12 (9580 in chips) is sitting out
+Seat 8: goldshadowe (18280 in chips) 
+Gummy82: posts the ante 30
+carwitti: posts the ante 30
+pipinoelbreve9: posts the ante 30
+gineselmaki: posts the ante 30
+Berna018: posts the ante 30
+melmaque66: posts the ante 30
+mdaf12: posts the ante 30
+goldshadowe: posts the ante 30
+Berna018: posts small blind 150
+melmaque66: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Kc]
+mdaf12: folds 
+goldshadowe: calls 300
+Gummy82: calls 300
+carwitti: folds 
+pipinoelbreve9: calls 300
+gineselmaki: calls 300
+Berna018: calls 150
+melmaque66: checks 
+*** FLOP *** [2d 7s 9s]
+Berna018: checks 
+melmaque66: bets 1020
+goldshadowe: raises 4980 to 6000
+Gummy82: folds 
+pipinoelbreve9: folds 
+gineselmaki: calls 6000
+Berna018: folds 
+melmaque66: calls 4980
+*** TURN *** [2d 7s 9s] [7h]
+melmaque66: checks 
+goldshadowe: bets 11950 and is all-in
+gineselmaki: folds 
+melmaque66: calls 3275 and is all-in
+Uncalled bet (8675) returned to goldshadowe
+*** RIVER *** [2d 7s 9s 7h] [Jh]
+*** SHOW DOWN ***
+melmaque66: shows [8c 6s] (a pair of Sevens)
+goldshadowe: shows [7c 7d] (four of a kind, Sevens)
+goldshadowe collected 26590 from pot
+melmaque66 finished the tournament
+*** SUMMARY ***
+Total pot 26590 | Rake 0 
+Board [2d 7s 9s 7h Jh]
+Seat 1: Gummy82 folded on the Flop
+Seat 2: carwitti folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded on the Flop
+Seat 4: gineselmaki (button) folded on the Turn
+Seat 5: Berna018 (small blind) folded on the Flop
+Seat 6: melmaque66 (big blind) showed [8c 6s] and lost with a pair of Sevens
+Seat 7: mdaf12 folded before Flop (didn't bet)
+Seat 8: goldshadowe showed [7c 7d] and won (26590) with four of a kind, Sevens
+
+
+
+PokerStars Hand #257642313351: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/09/07 3:13:58 CET [2025/09/06 21:13:58 ET]
+Table '3922832881 5' 8-max Seat #5 is the button
+Seat 1: Gummy82 (19365 in chips) 
+Seat 2: carwitti (9970 in chips) 
+Seat 3: pipinoelbreve9 (8810 in chips) 
+Seat 4: gineselmaki (10790 in chips) 
+Seat 5: Berna018 (6690 in chips) 
+Seat 7: mdaf12 (9550 in chips) is sitting out
+Seat 8: goldshadowe (35265 in chips) 
+Gummy82: posts the ante 30
+carwitti: posts the ante 30
+pipinoelbreve9: posts the ante 30
+gineselmaki: posts the ante 30
+Berna018: posts the ante 30
+mdaf12: posts the ante 30
+goldshadowe: posts the ante 30
+mdaf12: posts small blind 150
+goldshadowe: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Qs]
+Gummy82: raises 300 to 600
+carwitti: folds 
+pipinoelbreve9: raises 1800 to 2400
+gineselmaki: calls 2400
+Berna018: folds 
+mdaf12: folds 
+goldshadowe: folds 
+Gummy82: calls 1800
+*** FLOP *** [Th Kh 6d]
+Gummy82: bets 300
+pipinoelbreve9: raises 6080 to 6380 and is all-in
+gineselmaki: calls 6380
+Gummy82: calls 6080
+*** TURN *** [Th Kh 6d] [2s]
+Gummy82: checks 
+gineselmaki: checks 
+*** RIVER *** [Th Kh 6d 2s] [2d]
+Gummy82: checks 
+gineselmaki: checks 
+*** SHOW DOWN ***
+Gummy82: shows [Qd Ad] (a pair of Deuces)
+pipinoelbreve9: shows [Ac Qs] (a pair of Deuces)
+gineselmaki: mucks hand 
+Gummy82 collected 13500 from pot
+pipinoelbreve9 collected 13500 from pot
+*** SUMMARY ***
+Total pot 27000 | Rake 0 
+Board [Th Kh 6d 2s 2d]
+Seat 1: Gummy82 showed [Qd Ad] and won (13500) with a pair of Deuces
+Seat 2: carwitti folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 showed [Ac Qs] and won (13500) with a pair of Deuces
+Seat 4: gineselmaki mucked [9c 8c]
+Seat 5: Berna018 (button) folded before Flop (didn't bet)
+Seat 7: mdaf12 (small blind) folded before Flop
+Seat 8: goldshadowe (big blind) folded before Flop
+
+
+
+PokerStars Hand #257642320220: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/09/07 3:14:44 CET [2025/09/06 21:14:44 ET]
+Table '3922832881 5' 8-max Seat #7 is the button
+Seat 1: Gummy82 (24055 in chips) 
+Seat 2: carwitti (9940 in chips) 
+Seat 3: pipinoelbreve9 (13500 in chips) 
+Seat 4: gineselmaki (1980 in chips) 
+Seat 5: Berna018 (6660 in chips) 
+Seat 7: mdaf12 (9370 in chips) is sitting out
+Seat 8: goldshadowe (34935 in chips) 
+Gummy82: posts the ante 40
+carwitti: posts the ante 40
+pipinoelbreve9: posts the ante 40
+gineselmaki: posts the ante 40
+Berna018: posts the ante 40
+mdaf12: posts the ante 40
+goldshadowe: posts the ante 40
+goldshadowe: posts small blind 200
+Gummy82: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 3c]
+carwitti: raises 400 to 800
+pipinoelbreve9: folds 
+gineselmaki: raises 400 to 1200
+Berna018: folds 
+mdaf12: folds 
+goldshadowe: raises 7600 to 8800
+Gummy82: folds 
+carwitti: raises 1100 to 9900 and is all-in
+gineselmaki: calls 740 and is all-in
+goldshadowe: calls 1100
+*** FLOP *** [2c 5c 2s]
+*** TURN *** [2c 5c 2s] [4c]
+*** RIVER *** [2c 5c 2s 4c] [Jc]
+*** SHOW DOWN ***
+goldshadowe: shows [Ad Kd] (a pair of Deuces)
+carwitti: shows [9s Ac] (a flush, Ace high)
+carwitti collected 15920 from side pot
+gineselmaki: shows [8d Kh] (a pair of Deuces)
+carwitti collected 6500 from main pot
+gineselmaki finished the tournament
+*** SUMMARY ***
+Total pot 22420 Main pot 6500. Side pot 15920. | Rake 0 
+Board [2c 5c 2s 4c Jc]
+Seat 1: Gummy82 (big blind) folded before Flop
+Seat 2: carwitti showed [9s Ac] and won (22420) with a flush, Ace high
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: gineselmaki showed [8d Kh] and lost with a pair of Deuces
+Seat 5: Berna018 folded before Flop (didn't bet)
+Seat 7: mdaf12 (button) folded before Flop (didn't bet)
+Seat 8: goldshadowe (small blind) showed [Ad Kd] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #257642326220: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/09/07 3:15:24 CET [2025/09/06 21:15:24 ET]
+Table '3922832881 7' 8-max Seat #1 is the button
+Seat 1: Mel240712 (9010 in chips) is sitting out
+Seat 2: Gummy82 (23615 in chips) out of hand (moved from another table into small blind)
+Seat 3: Pakou455 (14165 in chips) 
+Seat 4: pipinoelbreve9 (13460 in chips) 
+Seat 5: BI356 (13635 in chips) 
+Seat 6: louisa070 (16125 in chips) 
+Seat 7: BeaPat34500 (15394 in chips) 
+Seat 8: caspe1spain (6415 in chips) 
+Gummy82 will be allowed to play after the button
+Mel240712: posts the ante 40
+Pakou455: posts the ante 40
+pipinoelbreve9: posts the ante 40
+BI356: posts the ante 40
+louisa070: posts the ante 40
+BeaPat34500: posts the ante 40
+caspe1spain: posts the ante 40
+Pakou455: posts small blind 200
+pipinoelbreve9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 3s]
+BI356: folds 
+louisa070: calls 400
+BeaPat34500: folds 
+caspe1spain: folds 
+Mel240712: folds 
+Pakou455: calls 200
+pipinoelbreve9: checks 
+*** FLOP *** [3h 3c Qh]
+Pakou455: checks 
+pipinoelbreve9: checks 
+louisa070: bets 400
+Pakou455: folds 
+pipinoelbreve9: calls 400
+*** TURN *** [3h 3c Qh] [Ks]
+pipinoelbreve9: checks 
+louisa070: checks 
+*** RIVER *** [3h 3c Qh Ks] [Qs]
+pipinoelbreve9: bets 12620 and is all-in
+louisa070: folds 
+Uncalled bet (12620) returned to pipinoelbreve9
+pipinoelbreve9 collected 2280 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 2280 | Rake 0 
+Board [3h 3c Qh Ks Qs]
+Seat 1: Mel240712 (button) folded before Flop (didn't bet)
+Seat 3: Pakou455 (small blind) folded on the Flop
+Seat 4: pipinoelbreve9 (big blind) collected (2280)
+Seat 5: BI356 folded before Flop (didn't bet)
+Seat 6: louisa070 folded on the River
+Seat 7: BeaPat34500 folded before Flop (didn't bet)
+Seat 8: caspe1spain folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257642331168: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/09/07 3:15:58 CET [2025/09/06 21:15:58 ET]
+Table '3922832881 7' 8-max Seat #3 is the button
+Seat 1: Mel240712 (8970 in chips) is sitting out
+Seat 2: Gummy82 (23615 in chips) 
+Seat 3: Pakou455 (13725 in chips) 
+Seat 4: pipinoelbreve9 (14900 in chips) 
+Seat 5: BI356 (13595 in chips) 
+Seat 6: louisa070 (15285 in chips) 
+Seat 7: BeaPat34500 (15354 in chips) 
+Seat 8: caspe1spain (6375 in chips) 
+Mel240712: posts the ante 40
+Gummy82: posts the ante 40
+Pakou455: posts the ante 40
+pipinoelbreve9: posts the ante 40
+BI356: posts the ante 40
+louisa070: posts the ante 40
+BeaPat34500: posts the ante 40
+caspe1spain: posts the ante 40
+pipinoelbreve9: posts small blind 200
+BI356: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 9h]
+louisa070: folds 
+BeaPat34500: raises 1320 to 1720
+caspe1spain: folds 
+Mel240712: folds 
+Gummy82: folds 
+Pakou455: calls 1720
+pipinoelbreve9: folds 
+BI356: calls 1320
+*** FLOP *** [Ah 3d 9c]
+BI356: checks 
+BeaPat34500: bets 5680
+Pakou455: raises 6285 to 11965 and is all-in
+BI356: folds 
+BeaPat34500: calls 6285
+*** TURN *** [Ah 3d 9c] [Tc]
+*** RIVER *** [Ah 3d 9c Tc] [Qh]
+*** SHOW DOWN ***
+BeaPat34500: shows [Kh Qd] (a pair of Queens)
+Pakou455: shows [Ac 3s] (two pair, Aces and Threes)
+Pakou455 collected 29610 from pot
+*** SUMMARY ***
+Total pot 29610 | Rake 0 
+Board [Ah 3d 9c Tc Qh]
+Seat 1: Mel240712 folded before Flop (didn't bet)
+Seat 2: Gummy82 folded before Flop (didn't bet)
+Seat 3: Pakou455 (button) showed [Ac 3s] and won (29610) with two pair, Aces and Threes
+Seat 4: pipinoelbreve9 (small blind) folded before Flop
+Seat 5: BI356 (big blind) folded on the Flop
+Seat 6: louisa070 folded before Flop (didn't bet)
+Seat 7: BeaPat34500 showed [Kh Qd] and lost with a pair of Queens
+Seat 8: caspe1spain folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257642339834: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/09/07 3:16:57 CET [2025/09/06 21:16:57 ET]
+Table '3922832881 7' 8-max Seat #4 is the button
+Seat 1: Mel240712 (8930 in chips) is sitting out
+Seat 2: Gummy82 (23575 in chips) 
+Seat 3: Pakou455 (29610 in chips) 
+Seat 4: pipinoelbreve9 (14660 in chips) 
+Seat 5: BI356 (11835 in chips) 
+Seat 6: louisa070 (15245 in chips) 
+Seat 7: BeaPat34500 (1629 in chips) 
+Mel240712: posts the ante 40
+Gummy82: posts the ante 40
+Pakou455: posts the ante 40
+pipinoelbreve9: posts the ante 40
+BI356: posts the ante 40
+louisa070: posts the ante 40
+BeaPat34500: posts the ante 40
+BI356: posts small blind 200
+louisa070: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 9s]
+BeaPat34500: raises 1189 to 1589 and is all-in
+Mel240712: folds 
+Gummy82: folds 
+Pakou455: folds 
+pipinoelbreve9: calls 1589
+Mel240712 has returned
+BI356: calls 1389
+louisa070: calls 1189
+*** FLOP *** [6d Qc 4d]
+BI356: checks 
+louisa070: checks 
+pipinoelbreve9: bets 13031 and is all-in
+BI356: folds 
+louisa070: calls 13031
+*** TURN *** [6d Qc 4d] [8d]
+*** RIVER *** [6d Qc 4d 8d] [4c]
+*** SHOW DOWN ***
+louisa070: shows [Ah Qs] (two pair, Queens and Fours)
+pipinoelbreve9: shows [Qh 9s] (two pair, Queens and Fours - lower kicker)
+louisa070 collected 26062 from side pot
+BeaPat34500: shows [7d 9d] (a flush, Nine high)
+BeaPat34500 collected 6636 from main pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 32698 Main pot 6636. Side pot 26062. | Rake 0 
+Board [6d Qc 4d 8d 4c]
+Seat 1: Mel240712 folded before Flop (didn't bet)
+Seat 2: Gummy82 folded before Flop (didn't bet)
+Seat 3: Pakou455 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) showed [Qh 9s] and lost with two pair, Queens and Fours
+Seat 5: BI356 (small blind) folded on the Flop
+Seat 6: louisa070 (big blind) showed [Ah Qs] and won (26062) with two pair, Queens and Fours
+Seat 7: BeaPat34500 showed [7d 9d] and won (6636) with a flush, Nine high
+
+
+
+PokerStars Hand #257642353724: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/09/07 3:18:32 CET [2025/09/06 21:18:32 ET]
+Table '3922832881 1' 8-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (10000 in chips) 
+Seat 2: oscar.a.j100 (6710 in chips) 
+Seat 3: NeNe_MaD_84 (9655 in chips) 
+Seat 5: toxicomax38 (6280 in chips) 
+Seat 6: venus3008 (9340 in chips) 
+Seat 7: Kamuelson (32620 in chips) 
+Seat 8: bessoco10 (24390 in chips) 
+pipinoelbreve9: posts the ante 50
+oscar.a.j100: posts the ante 50
+NeNe_MaD_84: posts the ante 50
+toxicomax38: posts the ante 50
+venus3008: posts the ante 50
+Kamuelson: posts the ante 50
+bessoco10: posts the ante 50
+NeNe_MaD_84: posts small blind 250
+toxicomax38: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 2c]
+venus3008: folds 
+Kamuelson: folds 
+bessoco10: raises 1600 to 2100
+pipinoelbreve9: folds 
+oscar.a.j100: folds 
+NeNe_MaD_84: folds 
+toxicomax38: folds 
+Uncalled bet (1600) returned to bessoco10
+bessoco10 collected 1600 from pot
+bessoco10: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: oscar.a.j100 (button) folded before Flop (didn't bet)
+Seat 3: NeNe_MaD_84 (small blind) folded before Flop
+Seat 5: toxicomax38 (big blind) folded before Flop
+Seat 6: venus3008 folded before Flop (didn't bet)
+Seat 7: Kamuelson folded before Flop (didn't bet)
+Seat 8: bessoco10 collected (1600)
+
+
+
+PokerStars Hand #257642357864: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/09/07 3:19:01 CET [2025/09/06 21:19:01 ET]
+Table '3922832881 1' 8-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (9950 in chips) 
+Seat 2: oscar.a.j100 (6660 in chips) 
+Seat 3: NeNe_MaD_84 (9355 in chips) 
+Seat 5: toxicomax38 (5730 in chips) 
+Seat 6: venus3008 (9290 in chips) 
+Seat 7: Kamuelson (32570 in chips) 
+Seat 8: bessoco10 (25440 in chips) 
+pipinoelbreve9: posts the ante 50
+oscar.a.j100: posts the ante 50
+NeNe_MaD_84: posts the ante 50
+toxicomax38: posts the ante 50
+venus3008: posts the ante 50
+Kamuelson: posts the ante 50
+bessoco10: posts the ante 50
+toxicomax38: posts small blind 250
+venus3008: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 6c]
+Kamuelson: folds 
+bessoco10: calls 500
+pipinoelbreve9: folds 
+oscar.a.j100: folds 
+NeNe_MaD_84: folds 
+toxicomax38: calls 250
+venus3008: checks 
+*** FLOP *** [8d Qs 6h]
+toxicomax38: checks 
+venus3008: checks 
+bessoco10: checks 
+*** TURN *** [8d Qs 6h] [Jd]
+toxicomax38: checks 
+venus3008: checks 
+bessoco10: bets 500
+toxicomax38: calls 500
+venus3008: folds 
+*** RIVER *** [8d Qs 6h Jd] [8c]
+toxicomax38: bets 4680 and is all-in
+bessoco10: calls 4680
+*** SHOW DOWN ***
+toxicomax38: shows [8s Ad] (three of a kind, Eights)
+bessoco10: shows [Js 9c] (two pair, Jacks and Eights)
+toxicomax38 collected 12210 from pot
+*** SUMMARY ***
+Total pot 12210 | Rake 0 
+Board [8d Qs 6h Jd 8c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: oscar.a.j100 folded before Flop (didn't bet)
+Seat 3: NeNe_MaD_84 (button) folded before Flop (didn't bet)
+Seat 5: toxicomax38 (small blind) showed [8s Ad] and won (12210) with three of a kind, Eights
+Seat 6: venus3008 (big blind) folded on the Turn
+Seat 7: Kamuelson folded before Flop (didn't bet)
+Seat 8: bessoco10 showed [Js 9c] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #257642372740: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/09/07 3:20:44 CET [2025/09/06 21:20:44 ET]
+Table '3922832881 9' 8-max Seat #8 is the button
+Seat 1: fabio777000 (6715 in chips) 
+Seat 2: chiquitin78 (65160 in chips) 
+Seat 4: Umazze (6880 in chips) 
+Seat 5: pipinoelbreve9 (9900 in chips) 
+Seat 6: Jojo Wech (12110 in chips) 
+Seat 7: mannimen940 (11240 in chips) 
+Seat 8: Mattpok (22000 in chips) 
+fabio777000: posts the ante 60
+chiquitin78: posts the ante 60
+Umazze: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Jojo Wech: posts the ante 60
+mannimen940: posts the ante 60
+Mattpok: posts the ante 60
+fabio777000: posts small blind 300
+chiquitin78: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Kd]
+Umazze: folds 
+pipinoelbreve9: folds 
+Jojo Wech: calls 600
+mannimen940: calls 600
+Mattpok: raises 3000 to 3600
+fabio777000: folds 
+chiquitin78: folds 
+Jojo Wech: calls 3000
+mannimen940: calls 3000
+*** FLOP *** [2h 4c 2c]
+Jojo Wech: checks 
+mannimen940: checks 
+Mattpok: bets 18340 and is all-in
+Jojo Wech: calls 8450 and is all-in
+mannimen940: folds 
+Uncalled bet (9890) returned to Mattpok
+*** TURN *** [2h 4c 2c] [7d]
+*** RIVER *** [2h 4c 2c 7d] [6s]
+*** SHOW DOWN ***
+Jojo Wech: shows [Ah 8d] (a pair of Deuces)
+Mattpok: shows [As Kc] (a pair of Deuces - Ace+King kicker)
+Mattpok collected 29020 from pot
+Jojo Wech finished the tournament
+*** SUMMARY ***
+Total pot 29020 | Rake 0 
+Board [2h 4c 2c 7d 6s]
+Seat 1: fabio777000 (small blind) folded before Flop
+Seat 2: chiquitin78 (big blind) folded before Flop
+Seat 4: Umazze folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Jojo Wech showed [Ah 8d] and lost with a pair of Deuces
+Seat 7: mannimen940 folded on the Flop
+Seat 8: Mattpok (button) showed [As Kc] and won (29020) with a pair of Deuces
+
+
+
+PokerStars Hand #257642380434: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/09/07 3:21:36 CET [2025/09/06 21:21:36 ET]
+Table '3922832881 1' 8-max Seat #8 is the button
+Seat 1: chiquitin78 (64500 in chips) out of hand (moved from another table into small blind)
+Seat 2: oscar.a.j100 (13700 in chips) 
+Seat 3: NeNe_MaD_84 (13775 in chips) 
+Seat 4: pipinoelbreve9 (9840 in chips) 
+Seat 5: toxicomax38 (11430 in chips) 
+Seat 6: venus3008 (7660 in chips) 
+Seat 7: Kamuelson (31440 in chips) 
+Seat 8: bessoco10 (21090 in chips) 
+chiquitin78 will be allowed to play after the button
+oscar.a.j100: posts the ante 60
+NeNe_MaD_84: posts the ante 60
+pipinoelbreve9: posts the ante 60
+toxicomax38: posts the ante 60
+venus3008: posts the ante 60
+Kamuelson: posts the ante 60
+bessoco10: posts the ante 60
+oscar.a.j100: posts small blind 300
+NeNe_MaD_84: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 2h]
+pipinoelbreve9: folds 
+toxicomax38: folds 
+venus3008: folds 
+Kamuelson: raises 1320 to 1920
+bessoco10: calls 1920
+oscar.a.j100: calls 1620
+NeNe_MaD_84: folds 
+*** FLOP *** [Qc Qs 4h]
+oscar.a.j100: checks 
+Kamuelson: bets 3390
+bessoco10: calls 3390
+oscar.a.j100: folds 
+*** TURN *** [Qc Qs 4h] [Td]
+Kamuelson: checks 
+bessoco10: bets 13560
+Kamuelson: calls 13560
+*** RIVER *** [Qc Qs 4h Td] [Kd]
+Kamuelson: checks 
+bessoco10: bets 2160 and is all-in
+Kamuelson: calls 2160
+*** SHOW DOWN ***
+bessoco10: shows [Ad Ts] (two pair, Queens and Tens)
+Kamuelson: shows [Ah As] (two pair, Aces and Queens)
+Kamuelson collected 45000 from pot
+bessoco10 finished the tournament
+*** SUMMARY ***
+Total pot 45000 | Rake 0 
+Board [Qc Qs 4h Td Kd]
+Seat 2: oscar.a.j100 (small blind) folded on the Flop
+Seat 3: NeNe_MaD_84 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: toxicomax38 folded before Flop (didn't bet)
+Seat 6: venus3008 folded before Flop (didn't bet)
+Seat 7: Kamuelson showed [Ah As] and won (45000) with two pair, Aces and Queens
+Seat 8: bessoco10 (button) showed [Ad Ts] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #257642388772: Tournament #3922832881, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/09/07 3:22:34 CET [2025/09/06 21:22:34 ET]
+Table '3922832881 1' 8-max Seat #2 is the button
+Seat 1: chiquitin78 (64500 in chips) 
+Seat 2: oscar.a.j100 (11720 in chips) 
+Seat 3: NeNe_MaD_84 (13115 in chips) 
+Seat 4: pipinoelbreve9 (9780 in chips) 
+Seat 5: toxicomax38 (11370 in chips) 
+Seat 6: venus3008 (7600 in chips) 
+Seat 7: Kamuelson (55350 in chips) 
+chiquitin78: posts the ante 60
+oscar.a.j100: posts the ante 60
+NeNe_MaD_84: posts the ante 60
+pipinoelbreve9: posts the ante 60
+toxicomax38: posts the ante 60
+venus3008: posts the ante 60
+Kamuelson: posts the ante 60
+NeNe_MaD_84: posts small blind 300
+pipinoelbreve9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 5h]
+toxicomax38: calls 600
+venus3008: folds 
+Kamuelson: folds 
+chiquitin78: calls 600
+oscar.a.j100: calls 600
+NeNe_MaD_84: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [8h Jd 7d]
+pipinoelbreve9: checks 
+toxicomax38: checks 
+chiquitin78: bets 1200
+oscar.a.j100: calls 1200
+pipinoelbreve9: raises 7920 to 9120 and is all-in
+toxicomax38: folds 
+chiquitin78: calls 7920
+oscar.a.j100: calls 7920
+*** TURN *** [8h Jd 7d] [7h]
+chiquitin78: checks 
+oscar.a.j100: bets 1940 and is all-in
+chiquitin78: calls 1940
+*** RIVER *** [8h Jd 7d 7h] [9h]
+*** SHOW DOWN ***
+chiquitin78: shows [Jc Ah] (two pair, Jacks and Sevens)
+oscar.a.j100: shows [Qd Kd] (a pair of Sevens)
+chiquitin78 collected 3880 from side pot
+pipinoelbreve9: shows [8s 5h] (two pair, Eights and Sevens)
+chiquitin78 collected 30480 from main pot
+oscar.a.j100 finished the tournament
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 34360 Main pot 30480. Side pot 3880. | Rake 0 
+Board [8h Jd 7d 7h 9h]
+Seat 1: chiquitin78 showed [Jc Ah] and won (34360) with two pair, Jacks and Sevens
+Seat 2: oscar.a.j100 (button) showed [Qd Kd] and lost with a pair of Sevens
+Seat 3: NeNe_MaD_84 (small blind) folded before Flop
+Seat 4: pipinoelbreve9 (big blind) showed [8s 5h] and lost with two pair, Eights and Sevens
+Seat 5: toxicomax38 folded on the Flop
+Seat 6: venus3008 folded before Flop (didn't bet)
+Seat 7: Kamuelson folded before Flop (didn't bet)
+
+
+

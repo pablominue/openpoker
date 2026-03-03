@@ -15,7 +15,7 @@ from db.base import AsyncSessionLocal
 from models import JobStatus, JobStatusResponse, SolveRequest, SolveResponse, BetSizeConfig
 import solver as solver_service
 
-from routers import hands, trainer as trainer_router, ranges as ranges_router
+from routers import hands, trainer as trainer_router, ranges as ranges_router, ai as ai_router
 from trainer_spots import seed_spots
 
 logger = logging.getLogger("API")
@@ -160,6 +160,7 @@ app.add_middleware(
 app.include_router(hands.router)
 app.include_router(trainer_router.router)
 app.include_router(ranges_router.router)
+app.include_router(ai_router.router)
 
 
 @app.get("/api/health")

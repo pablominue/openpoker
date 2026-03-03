@@ -1,0 +1,140 @@
+﻿PokerStars Hand #257983648659: Tournament #3933678184, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:44:21 CET [2025/10/03 11:44:21 ET]
+Table '3933678184 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: besta0149 (500 in chips) 
+Seat 3: laulau91 (500 in chips) 
+besta0149: posts small blind 10
+laulau91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 3d]
+pipinoelbreve9: folds 
+besta0149: folds 
+Uncalled bet (10) returned to laulau91
+laulau91 collected 20 from pot
+laulau91: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: besta0149 (small blind) folded before Flop
+Seat 3: laulau91 (big blind) collected (20)
+
+
+
+PokerStars Hand #257983649500: Tournament #3933678184, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:44:26 CET [2025/10/03 11:44:26 ET]
+Table '3933678184 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: besta0149 (490 in chips) 
+Seat 3: laulau91 (510 in chips) 
+laulau91: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 6h]
+besta0149: raises 50 to 70
+laulau91: calls 60
+pipinoelbreve9: folds 
+*** FLOP *** [5s 6s Jd]
+laulau91: checks 
+besta0149: bets 80
+laulau91: calls 80
+*** TURN *** [5s 6s Jd] [4c]
+laulau91: checks 
+besta0149: bets 340 and is all-in
+laulau91: calls 340
+*** RIVER *** [5s 6s Jd 4c] [7c]
+*** SHOW DOWN ***
+laulau91: shows [3h 4s] (a straight, Three to Seven)
+besta0149: shows [Kh Qd] (high card King)
+laulau91 collected 1000 from pot
+besta0149 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5s 6s Jd 4c 7c]
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 2: besta0149 (button) showed [Kh Qd] and lost with high card King
+Seat 3: laulau91 (small blind) showed [3h 4s] and won (1000) with a straight, Three to Seven
+
+
+
+PokerStars Hand #257983654682: Tournament #3933678184, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:44:57 CET [2025/10/03 11:44:57 ET]
+Table '3933678184 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (480 in chips) 
+Seat 3: laulau91 (1020 in chips) 
+pipinoelbreve9: posts small blind 10
+laulau91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c Ah]
+pipinoelbreve9: raises 40 to 60
+laulau91: calls 40
+*** FLOP *** [9s As Jh]
+laulau91: checks 
+pipinoelbreve9: bets 60
+laulau91: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 120 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s As Jh]
+Seat 1: pipinoelbreve9 (button) (small blind) collected (120)
+Seat 3: laulau91 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257983657552: Tournament #3933678184, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:45:13 CET [2025/10/03 11:45:13 ET]
+Table '3933678184 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (540 in chips) 
+Seat 3: laulau91 (960 in chips) 
+laulau91: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 9s]
+laulau91: calls 10
+pipinoelbreve9: checks 
+*** FLOP *** [Qs Qd Kh]
+pipinoelbreve9: bets 20
+laulau91: folds 
+Uncalled bet (20) returned to pipinoelbreve9
+pipinoelbreve9 collected 40 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Qd Kh]
+Seat 1: pipinoelbreve9 (big blind) collected (40)
+Seat 3: laulau91 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257983660440: Tournament #3933678184, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:45:30 CET [2025/10/03 11:45:30 ET]
+Table '3933678184 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (560 in chips) 
+Seat 3: laulau91 (940 in chips) 
+pipinoelbreve9: posts small blind 10
+laulau91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 3d]
+pipinoelbreve9: raises 40 to 60
+laulau91: calls 40
+*** FLOP *** [Ah 5s 5c]
+laulau91: checks 
+pipinoelbreve9: bets 60
+laulau91: calls 60
+*** TURN *** [Ah 5s 5c] [2d]
+laulau91: checks 
+pipinoelbreve9: bets 440 and is all-in
+laulau91: calls 440
+*** RIVER *** [Ah 5s 5c 2d] [7c]
+*** SHOW DOWN ***
+laulau91: shows [5d 9h] (three of a kind, Fives)
+pipinoelbreve9: shows [Ad 3d] (two pair, Aces and Fives)
+laulau91 collected 1120 from pot
+pipinoelbreve9 finished the tournament in 2nd place
+laulau91 wins the tournament - congratulations!
+laulau91 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Ah 5s 5c 2d 7c]
+Seat 1: pipinoelbreve9 (button) (small blind) showed [Ad 3d] and lost with two pair, Aces and Fives
+Seat 3: laulau91 (big blind) showed [5d 9h] and won (1120) with three of a kind, Fives
+
+
+

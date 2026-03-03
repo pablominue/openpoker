@@ -1,0 +1,365 @@
+﻿PokerStars Hand #257983879584: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level I (75/150) - 2025/10/03 18:07:49 CET [2025/10/03 12:07:49 ET]
+Table '3931541611 3' 8-max Seat #7 is the button
+Seat 1: BIRISNORTE23 (9940 in chips) 
+Seat 2: pixoneti13 (9865 in chips) is sitting out
+Seat 3: Richi785 (9715 in chips) 
+Seat 4: dommel8393 (10600 in chips) 
+Seat 5: douchemoi (10000 in chips) 
+Seat 6: pipinoelbreve9 (10000 in chips) 
+Seat 7: herfocus (20885 in chips) 
+Seat 8: zamalian (9040 in chips) 
+BIRISNORTE23: posts the ante 15
+pixoneti13: posts the ante 15
+Richi785: posts the ante 15
+dommel8393: posts the ante 15
+douchemoi: posts the ante 15
+pipinoelbreve9: posts the ante 15
+herfocus: posts the ante 15
+zamalian: posts the ante 15
+zamalian: posts small blind 75
+BIRISNORTE23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Ac]
+pixoneti13: folds 
+Richi785: folds 
+dommel8393: folds 
+douchemoi: folds 
+pipinoelbreve9: raises 300 to 450
+herfocus: folds 
+zamalian: folds 
+BIRISNORTE23: folds 
+Uncalled bet (300) returned to pipinoelbreve9
+pipinoelbreve9 collected 495 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: BIRISNORTE23 (big blind) folded before Flop
+Seat 2: pixoneti13 folded before Flop (didn't bet)
+Seat 3: Richi785 folded before Flop (didn't bet)
+Seat 4: dommel8393 folded before Flop (didn't bet)
+Seat 5: douchemoi folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (495)
+Seat 7: herfocus (button) folded before Flop (didn't bet)
+Seat 8: zamalian (small blind) folded before Flop
+
+
+
+PokerStars Hand #257983883262: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/03 18:08:10 CET [2025/10/03 12:08:10 ET]
+Table '3931541611 3' 8-max Seat #8 is the button
+Seat 1: BIRISNORTE23 (9775 in chips) 
+Seat 2: pixoneti13 (9850 in chips) is sitting out
+Seat 3: Richi785 (9700 in chips) 
+Seat 4: dommel8393 (10585 in chips) 
+Seat 5: douchemoi (9985 in chips) 
+Seat 6: pipinoelbreve9 (10330 in chips) 
+Seat 7: herfocus (20870 in chips) 
+Seat 8: zamalian (8950 in chips) 
+BIRISNORTE23: posts the ante 20
+pixoneti13: posts the ante 20
+Richi785: posts the ante 20
+dommel8393: posts the ante 20
+douchemoi: posts the ante 20
+pipinoelbreve9: posts the ante 20
+herfocus: posts the ante 20
+zamalian: posts the ante 20
+BIRISNORTE23: posts small blind 100
+pixoneti13: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Td]
+Richi785: folds 
+dommel8393: raises 200 to 400
+douchemoi: calls 400
+pipinoelbreve9: folds 
+herfocus: folds 
+zamalian: calls 400
+BIRISNORTE23: folds 
+pixoneti13: folds 
+*** FLOP *** [4c 3c 6d]
+dommel8393: checks 
+douchemoi: bets 1660
+zamalian: calls 1660
+dommel8393: folds 
+*** TURN *** [4c 3c 6d] [2h]
+douchemoi: bets 4980
+zamalian: raises 1890 to 6870 and is all-in
+douchemoi: calls 1890
+*** RIVER *** [4c 3c 6d 2h] [7d]
+*** SHOW DOWN ***
+douchemoi: shows [5c Ad] (a straight, Three to Seven)
+zamalian: shows [7h 6s] (two pair, Sevens and Sixes)
+douchemoi collected 18720 from pot
+zamalian finished the tournament
+*** SUMMARY ***
+Total pot 18720 | Rake 0 
+Board [4c 3c 6d 2h 7d]
+Seat 1: BIRISNORTE23 (small blind) folded before Flop
+Seat 2: pixoneti13 (big blind) folded before Flop
+Seat 3: Richi785 folded before Flop (didn't bet)
+Seat 4: dommel8393 folded on the Flop
+Seat 5: douchemoi showed [5c Ad] and won (18720) with a straight, Three to Seven
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: herfocus folded before Flop (didn't bet)
+Seat 8: zamalian (button) showed [7h 6s] and lost with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #257983892589: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/03 18:09:01 CET [2025/10/03 12:09:01 ET]
+Table '3931541611 3' 8-max Seat #1 is the button
+Seat 1: BIRISNORTE23 (9655 in chips) 
+Seat 2: pixoneti13 (9630 in chips) is sitting out
+Seat 3: Richi785 (9680 in chips) 
+Seat 4: dommel8393 (10165 in chips) 
+Seat 5: douchemoi (19755 in chips) 
+Seat 6: pipinoelbreve9 (10310 in chips) 
+Seat 7: herfocus (20850 in chips) 
+BIRISNORTE23: posts the ante 20
+pixoneti13: posts the ante 20
+Richi785: posts the ante 20
+dommel8393: posts the ante 20
+douchemoi: posts the ante 20
+pipinoelbreve9: posts the ante 20
+herfocus: posts the ante 20
+pixoneti13: posts small blind 100
+Richi785: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 9h]
+dommel8393: raises 200 to 400
+douchemoi: folds 
+pipinoelbreve9: folds 
+herfocus: folds 
+BIRISNORTE23: calls 400
+pixoneti13: folds 
+Richi785: folds 
+*** FLOP *** [Jd Jh 7s]
+dommel8393: bets 820
+BIRISNORTE23: folds 
+Uncalled bet (820) returned to dommel8393
+dommel8393 collected 1240 from pot
+dommel8393: doesn't show hand 
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Jd Jh 7s]
+Seat 1: BIRISNORTE23 (button) folded on the Flop
+Seat 2: pixoneti13 (small blind) folded before Flop
+Seat 3: Richi785 (big blind) folded before Flop
+Seat 4: dommel8393 collected (1240)
+Seat 5: douchemoi folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: herfocus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257983898265: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/03 18:09:33 CET [2025/10/03 12:09:33 ET]
+Table '3931541611 3' 8-max Seat #2 is the button
+Seat 1: BIRISNORTE23 (9235 in chips) 
+Seat 2: pixoneti13 (9510 in chips) is sitting out
+Seat 3: Richi785 (9460 in chips) 
+Seat 4: dommel8393 (10985 in chips) 
+Seat 5: douchemoi (19735 in chips) 
+Seat 6: pipinoelbreve9 (10290 in chips) 
+Seat 7: herfocus (20830 in chips) 
+BIRISNORTE23: posts the ante 20
+pixoneti13: posts the ante 20
+Richi785: posts the ante 20
+dommel8393: posts the ante 20
+douchemoi: posts the ante 20
+pipinoelbreve9: posts the ante 20
+herfocus: posts the ante 20
+Richi785: posts small blind 100
+dommel8393: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 3c]
+douchemoi: folds 
+pipinoelbreve9: folds 
+herfocus: calls 200
+BIRISNORTE23: folds 
+pixoneti13: folds 
+Richi785: folds 
+pixoneti13 has returned
+travoltin is disconnected 
+dommel8393: checks 
+*** FLOP *** [Qs Js 3d]
+dommel8393: checks 
+herfocus: checks 
+*** TURN *** [Qs Js 3d] [4c]
+dommel8393: checks 
+herfocus: bets 400
+dommel8393: folds 
+Uncalled bet (400) returned to herfocus
+herfocus collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qs Js 3d 4c]
+Seat 1: BIRISNORTE23 folded before Flop (didn't bet)
+Seat 2: pixoneti13 (button) folded before Flop (didn't bet)
+Seat 3: Richi785 (small blind) folded before Flop
+Seat 4: dommel8393 (big blind) folded on the Turn
+Seat 5: douchemoi folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: herfocus collected (640)
+
+
+
+PokerStars Hand #257983905478: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/03 18:10:13 CET [2025/10/03 12:10:13 ET]
+Table '3931541611 3' 8-max Seat #3 is the button
+Seat 1: BIRISNORTE23 (9215 in chips) 
+Seat 2: pixoneti13 (9490 in chips) 
+Seat 3: Richi785 (9340 in chips) 
+Seat 4: dommel8393 (10765 in chips) 
+Seat 6: pipinoelbreve9 (10270 in chips) 
+Seat 7: herfocus (21250 in chips) 
+Seat 8: travoltin (10000 in chips) 
+BIRISNORTE23: posts the ante 20
+pixoneti13: posts the ante 20
+Richi785: posts the ante 20
+dommel8393: posts the ante 20
+pipinoelbreve9: posts the ante 20
+herfocus: posts the ante 20
+travoltin: posts the ante 20
+dommel8393: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Ks]
+herfocus: calls 200
+travoltin: folds 
+BIRISNORTE23: raises 800 to 1000
+pixoneti13: calls 1000
+Richi785: folds 
+dommel8393: raises 9745 to 10745 and is all-in
+pipinoelbreve9: folds 
+danrem20 is disconnected 
+herfocus: folds 
+BIRISNORTE23: folds 
+pixoneti13: calls 8470 and is all-in
+Uncalled bet (1275) returned to dommel8393
+*** FLOP *** [3c 3d 8d]
+*** TURN *** [3c 3d 8d] [Js]
+*** RIVER *** [3c 3d 8d Js] [5c]
+*** SHOW DOWN ***
+dommel8393: shows [Ts Td] (two pair, Tens and Threes)
+pixoneti13: shows [Th Ac] (a pair of Threes)
+dommel8393 collected 20480 from pot
+pixoneti13 finished the tournament
+*** SUMMARY ***
+Total pot 20480 | Rake 0 
+Board [3c 3d 8d Js 5c]
+Seat 1: BIRISNORTE23 folded before Flop
+Seat 2: pixoneti13 showed [Th Ac] and lost with a pair of Threes
+Seat 3: Richi785 (button) folded before Flop (didn't bet)
+Seat 4: dommel8393 (small blind) showed [Ts Td] and won (20480) with two pair, Tens and Threes
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+Seat 7: herfocus folded before Flop
+Seat 8: travoltin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257983911387: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/03 18:10:45 CET [2025/10/03 12:10:45 ET]
+Table '3931541611 3' 8-max Seat #4 is the button
+Seat 1: BIRISNORTE23 (8195 in chips) 
+Seat 3: Richi785 (9320 in chips) 
+Seat 4: dommel8393 (21755 in chips) 
+Seat 5: danrem20 (10000 in chips) out of hand (moved from another table into small blind)
+Seat 6: pipinoelbreve9 (10050 in chips) 
+Seat 7: herfocus (21030 in chips) 
+Seat 8: travoltin (9980 in chips) 
+danrem20 will be allowed to play after the button
+BIRISNORTE23: posts the ante 20
+Richi785: posts the ante 20
+dommel8393: posts the ante 20
+pipinoelbreve9: posts the ante 20
+herfocus: posts the ante 20
+travoltin: posts the ante 20
+pipinoelbreve9: posts small blind 100
+herfocus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Jh]
+travoltin: raises 300 to 500
+BIRISNORTE23: folds 
+Richi785: folds 
+dommel8393: calls 500
+pipinoelbreve9: folds 
+herfocus: folds 
+*** FLOP *** [Ah 7h 2c]
+travoltin: bets 568
+dommel8393: calls 568
+*** TURN *** [Ah 7h 2c] [2s]
+travoltin: bets 1917
+dommel8393: calls 1917
+*** RIVER *** [Ah 7h 2c 2s] [4s]
+travoltin: bets 2556
+herfocus is disconnected 
+dommel8393: calls 2556
+*** SHOW DOWN ***
+travoltin: shows [Ad 9d] (two pair, Aces and Deuces)
+dommel8393: shows [9h As] (two pair, Aces and Deuces)
+travoltin collected 5751 from pot
+dommel8393 collected 5751 from pot
+*** SUMMARY ***
+Total pot 11502 | Rake 0 
+Board [Ah 7h 2c 2s 4s]
+Seat 1: BIRISNORTE23 folded before Flop (didn't bet)
+Seat 3: Richi785 folded before Flop (didn't bet)
+Seat 4: dommel8393 (button) showed [9h As] and won (5751) with two pair, Aces and Deuces
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: herfocus (big blind) folded before Flop
+Seat 8: travoltin showed [Ad 9d] and won (5751) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #257983919344: Tournament #3931541611, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/10/03 18:11:30 CET [2025/10/03 12:11:30 ET]
+Table '3931541611 3' 8-max Seat #6 is the button
+Seat 1: BIRISNORTE23 (8175 in chips) 
+Seat 2: tofni (10000 in chips) 
+Seat 3: Richi785 (9300 in chips) 
+Seat 4: dommel8393 (21945 in chips) 
+Seat 5: danrem20 (10000 in chips) 
+Seat 6: pipinoelbreve9 (9930 in chips) 
+Seat 7: herfocus (20810 in chips) 
+Seat 8: travoltin (10170 in chips) 
+BIRISNORTE23: posts the ante 30
+tofni: posts the ante 30
+Richi785: posts the ante 30
+dommel8393: posts the ante 30
+danrem20: posts the ante 30
+pipinoelbreve9: posts the ante 30
+herfocus: posts the ante 30
+travoltin: posts the ante 30
+herfocus: posts small blind 150
+travoltin: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Jd]
+BIRISNORTE23: folds 
+tofni: raises 9670 to 9970 and is all-in
+Richi785: calls 9270 and is all-in
+herfocus is disconnected 
+dommel8393: folds 
+danrem20: folds 
+pipinoelbreve9: calls 9900 and is all-in
+herfocus: folds 
+travoltin: folds 
+Uncalled bet (70) returned to tofni
+*** FLOP *** [9s Ah Qc]
+*** TURN *** [9s Ah Qc] [9c]
+*** RIVER *** [9s Ah Qc 9c] [2s]
+*** SHOW DOWN ***
+tofni: shows [Qh Qd] (a full house, Queens full of Nines)
+pipinoelbreve9: shows [Ad Jd] (two pair, Aces and Nines)
+tofni collected 1260 from side pot
+Richi785: shows [Qs Ac] (two pair, Aces and Queens)
+tofni collected 28500 from main pot
+pipinoelbreve9 finished the tournament
+Richi785 finished the tournament
+*** SUMMARY ***
+Total pot 29760 Main pot 28500. Side pot 1260. | Rake 0 
+Board [9s Ah Qc 9c 2s]
+Seat 1: BIRISNORTE23 folded before Flop (didn't bet)
+Seat 2: tofni showed [Qh Qd] and won (29760) with a full house, Queens full of Nines
+Seat 3: Richi785 showed [Qs Ac] and lost with two pair, Aces and Queens
+Seat 4: dommel8393 folded before Flop (didn't bet)
+Seat 5: danrem20 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) showed [Ad Jd] and lost with two pair, Aces and Nines
+Seat 7: herfocus (small blind) folded before Flop
+Seat 8: travoltin (big blind) folded before Flop
+
+
+

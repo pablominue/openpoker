@@ -1,0 +1,408 @@
+﻿PokerStars Hand #257625687725: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:43:59 CET [2025/09/05 16:43:59 ET]
+Table '3922834507 28' 9-max Seat #5 is the button
+Seat 1: carlito2395 (38617 in chips) 
+Seat 2: beto94800 (56787 in chips) 
+Seat 3: aber02 (12128 in chips) 
+Seat 4: arruDawOo (46210 in chips) 
+Seat 5: manou4537 (8900 in chips) 
+Seat 6: Machupichu25 (33799 in chips) 
+Seat 7: JanzOne (9940 in chips) 
+Seat 8: @sisyphe@350 (9860 in chips) 
+Seat 9: pipinoelbreve9 (10000 in chips) 
+carlito2395: posts the ante 70
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+manou4537: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Machupichu25: posts small blind 300
+JanzOne: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 2s]
+@sisyphe@350: folds 
+pipinoelbreve9: folds 
+carlito2395: raises 1200 to 1800
+beto94800: calls 1800
+aber02: folds 
+arruDawOo: folds 
+manou4537: folds 
+Machupichu25 has timed out
+Machupichu25: folds 
+Machupichu25 is sitting out
+JanzOne: folds 
+*** FLOP *** [3h Qd 8s]
+Machupichu25 has returned
+carlito2395: checks 
+beto94800: checks 
+*** TURN *** [3h Qd 8s] [Ks]
+carlito2395: bets 1200
+beto94800: calls 1200
+*** RIVER *** [3h Qd 8s Ks] [4h]
+carlito2395: bets 1200
+beto94800: calls 1200
+*** SHOW DOWN ***
+carlito2395: shows [Kc Ah] (a pair of Kings)
+beto94800: mucks hand 
+carlito2395 collected 9930 from pot
+*** SUMMARY ***
+Total pot 9930 | Rake 0 
+Board [3h Qd 8s Ks 4h]
+Seat 1: carlito2395 showed [Kc Ah] and won (9930) with a pair of Kings
+Seat 2: beto94800 mucked [Th As]
+Seat 3: aber02 folded before Flop (didn't bet)
+Seat 4: arruDawOo folded before Flop (didn't bet)
+Seat 5: manou4537 (button) folded before Flop (didn't bet)
+Seat 6: Machupichu25 (small blind) folded before Flop
+Seat 7: JanzOne (big blind) folded before Flop
+Seat 8: @sisyphe@350 folded before Flop (didn't bet)
+Seat 9: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625700468: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:44:52 CET [2025/09/05 16:44:52 ET]
+Table '3922834507 28' 9-max Seat #6 is the button
+Seat 2: beto94800 (52517 in chips) 
+Seat 3: aber02 (12058 in chips) 
+Seat 4: arruDawOo (46140 in chips) 
+Seat 5: manou4537 (8830 in chips) 
+Seat 6: Machupichu25 (33429 in chips) 
+Seat 7: JanzOne (9270 in chips) 
+Seat 8: @sisyphe@350 (9790 in chips) 
+Seat 9: pipinoelbreve9 (9930 in chips) 
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+manou4537: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+JanzOne: posts small blind 300
+@sisyphe@350: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 9s]
+pipinoelbreve9: folds 
+beto94800: folds 
+aber02: folds 
+arruDawOo: calls 600
+manou4537: calls 600
+Machupichu25: folds 
+JanzOne: folds 
+@sisyphe@350: checks 
+*** FLOP *** [Th 2c Jc]
+@sisyphe@350: bets 9120 and is all-in
+arruDawOo: calls 9120
+manou4537: calls 8160 and is all-in
+*** TURN *** [Th 2c Jc] [9h]
+*** RIVER *** [Th 2c Jc 9h] [As]
+*** SHOW DOWN ***
+@sisyphe@350: shows [6h Jh] (a pair of Jacks)
+arruDawOo: shows [8s Jd] (a pair of Jacks)
+@sisyphe@350 collected 960 from side pot
+arruDawOo collected 960 from side pot
+manou4537: shows [8c 6c] (high card Ace)
+@sisyphe@350 collected 13570 from main pot
+arruDawOo collected 13570 from main pot
+manou4537 finished the tournament
+*** SUMMARY ***
+Total pot 29060 Main pot 27140. Side pot 1920. | Rake 0 
+Board [Th 2c Jc 9h As]
+Seat 2: beto94800 folded before Flop (didn't bet)
+Seat 3: aber02 folded before Flop (didn't bet)
+Seat 4: arruDawOo showed [8s Jd] and won (14530) with a pair of Jacks
+Seat 5: manou4537 showed [8c 6c] and lost with high card Ace
+Seat 6: Machupichu25 (button) folded before Flop (didn't bet)
+Seat 7: JanzOne (small blind) folded before Flop
+Seat 8: @sisyphe@350 (big blind) showed [6h Jh] and won (14530) with a pair of Jacks
+Seat 9: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625713439: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:45:45 CET [2025/09/05 16:45:45 ET]
+Table '3922834507 28' 9-max Seat #7 is the button
+Seat 2: beto94800 (52447 in chips) 
+Seat 3: aber02 (11988 in chips) 
+Seat 4: arruDawOo (50880 in chips) 
+Seat 6: Machupichu25 (33359 in chips) 
+Seat 7: JanzOne (8900 in chips) 
+Seat 8: @sisyphe@350 (14530 in chips) 
+Seat 9: pipinoelbreve9 (9860 in chips) 
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+@sisyphe@350: posts small blind 300
+pipinoelbreve9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 5h]
+carlos_ent is disconnected 
+beto94800: folds 
+aber02: raises 11318 to 11918 and is all-in
+arruDawOo: folds 
+pro10patata is disconnected 
+Machupichu25 has timed out
+Machupichu25: folds 
+Machupichu25 is sitting out
+JanzOne: folds 
+Machupichu25 has returned
+@sisyphe@350: folds 
+pipinoelbreve9: folds 
+Uncalled bet (11318) returned to aber02
+aber02 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | Rake 0 
+Seat 2: beto94800 folded before Flop (didn't bet)
+Seat 3: aber02 collected (1990)
+Seat 4: arruDawOo folded before Flop (didn't bet)
+Seat 6: Machupichu25 folded before Flop (didn't bet)
+Seat 7: JanzOne (button) folded before Flop (didn't bet)
+Seat 8: @sisyphe@350 (small blind) folded before Flop
+Seat 9: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257625723414: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:46:26 CET [2025/09/05 16:46:26 ET]
+Table '3922834507 28' 9-max Seat #8 is the button
+Seat 1: carlos_ent (9610 in chips) 
+Seat 2: beto94800 (52377 in chips) 
+Seat 3: aber02 (13308 in chips) 
+Seat 4: arruDawOo (50810 in chips) 
+Seat 5: pro10patata (10000 in chips) 
+Seat 6: Machupichu25 (33289 in chips) 
+Seat 7: JanzOne (8830 in chips) 
+Seat 8: @sisyphe@350 (14160 in chips) 
+Seat 9: pipinoelbreve9 (9190 in chips) 
+carlos_ent: posts the ante 70
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+pro10patata: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+pipinoelbreve9: posts small blind 300
+carlos_ent: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 4d]
+beto94800: folds 
+aber02: folds 
+arruDawOo: calls 600
+pro10patata: calls 600
+Machupichu25: raises 1200 to 1800
+JanzOne: folds 
+@sisyphe@350: calls 1800
+pipinoelbreve9: folds 
+carlos_ent: folds 
+arruDawOo: folds 
+pro10patata: calls 1200
+*** FLOP *** [5c 2d Jd]
+pro10patata: bets 600
+Machupichu25: calls 600
+@sisyphe@350: calls 600
+*** TURN *** [5c 2d Jd] [5h]
+pro10patata: bets 4665
+Machupichu25: calls 4665
+@sisyphe@350: folds 
+*** RIVER *** [5c 2d Jd 5h] [Qh]
+pro10patata: bets 2865 and is all-in
+Machupichu25: calls 2865
+*** SHOW DOWN ***
+pro10patata: shows [4h 2h] (two pair, Fives and Deuces)
+Machupichu25: shows [Qd Ah] (two pair, Queens and Fives)
+Machupichu25 collected 24390 from pot
+pro10patata finished the tournament
+*** SUMMARY ***
+Total pot 24390 | Rake 0 
+Board [5c 2d Jd 5h Qh]
+Seat 1: carlos_ent (big blind) folded before Flop
+Seat 2: beto94800 folded before Flop (didn't bet)
+Seat 3: aber02 folded before Flop (didn't bet)
+Seat 4: arruDawOo folded before Flop
+Seat 5: pro10patata showed [4h 2h] and lost with two pair, Fives and Deuces
+Seat 6: Machupichu25 showed [Qd Ah] and won (24390) with two pair, Queens and Fives
+Seat 7: JanzOne folded before Flop (didn't bet)
+Seat 8: @sisyphe@350 (button) folded on the Turn
+Seat 9: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257625738761: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:47:28 CET [2025/09/05 16:47:28 ET]
+Table '3922834507 28' 9-max Seat #9 is the button
+Seat 1: carlos_ent (8940 in chips) 
+Seat 2: beto94800 (52307 in chips) 
+Seat 3: aber02 (13238 in chips) 
+Seat 4: arruDawOo (50140 in chips) 
+Seat 6: Machupichu25 (47679 in chips) 
+Seat 7: JanzOne (8760 in chips) 
+Seat 8: @sisyphe@350 (11690 in chips) 
+Seat 9: pipinoelbreve9 (8820 in chips) 
+carlos_ent: posts the ante 70
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+carlos_ent: posts small blind 300
+beto94800: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 3c]
+aber02: folds 
+arruDawOo: raises 600 to 1200
+pro10patata is disconnected 
+Machupichu25: folds 
+JanzOne: folds 
+@sisyphe@350: folds 
+pipinoelbreve9: folds 
+carlos_ent: folds 
+beto94800: calls 600
+*** FLOP *** [8s 2d 4s]
+beto94800: bets 600
+arruDawOo: calls 600
+*** TURN *** [8s 2d 4s] [Jd]
+beto94800: bets 600
+arruDawOo: calls 600
+*** RIVER *** [8s 2d 4s Jd] [6c]
+beto94800: checks 
+arruDawOo: checks 
+*** SHOW DOWN ***
+beto94800: shows [Ts 7s] (high card Jack)
+arruDawOo: shows [Kc Tc] (high card King)
+arruDawOo collected 5660 from pot
+*** SUMMARY ***
+Total pot 5660 | Rake 0 
+Board [8s 2d 4s Jd 6c]
+Seat 1: carlos_ent (small blind) folded before Flop
+Seat 2: beto94800 (big blind) showed [Ts 7s] and lost with high card Jack
+Seat 3: aber02 folded before Flop (didn't bet)
+Seat 4: arruDawOo showed [Kc Tc] and won (5660) with high card King
+Seat 6: Machupichu25 folded before Flop (didn't bet)
+Seat 7: JanzOne folded before Flop (didn't bet)
+Seat 8: @sisyphe@350 folded before Flop (didn't bet)
+Seat 9: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625748346: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:48:07 CET [2025/09/05 16:48:07 ET]
+Table '3922834507 28' 9-max Seat #1 is the button
+Seat 1: carlos_ent (8570 in chips) 
+Seat 2: beto94800 (49837 in chips) 
+Seat 3: aber02 (13168 in chips) 
+Seat 4: arruDawOo (53330 in chips) 
+Seat 5: pro10patata (10000 in chips) 
+Seat 6: Machupichu25 (47609 in chips) 
+Seat 7: JanzOne (8690 in chips) 
+Seat 8: @sisyphe@350 (11620 in chips) 
+Seat 9: pipinoelbreve9 (8750 in chips) 
+carlos_ent: posts the ante 70
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+pro10patata: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+beto94800: posts small blind 300
+aber02: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Jd]
+arruDawOo: folds 
+pro10patata: raises 9330 to 9930 and is all-in
+Machupichu25: folds 
+JanzOne: calls 8620 and is all-in
+@sisyphe@350: folds 
+pipinoelbreve9: folds 
+carlos_ent: folds 
+beto94800: folds 
+aber02: folds 
+Uncalled bet (1310) returned to pro10patata
+*** FLOP *** [2s Jh Qh]
+*** TURN *** [2s Jh Qh] [6s]
+*** RIVER *** [2s Jh Qh 6s] [4h]
+*** SHOW DOWN ***
+pro10patata: shows [Tc 2d] (a pair of Deuces)
+JanzOne: shows [Ts Td] (a pair of Tens)
+JanzOne collected 18770 from pot
+*** SUMMARY ***
+Total pot 18770 | Rake 0 
+Board [2s Jh Qh 6s 4h]
+Seat 1: carlos_ent (button) folded before Flop (didn't bet)
+Seat 2: beto94800 (small blind) folded before Flop
+Seat 3: aber02 (big blind) folded before Flop
+Seat 4: arruDawOo folded before Flop (didn't bet)
+Seat 5: pro10patata showed [Tc 2d] and lost with a pair of Deuces
+Seat 6: Machupichu25 folded before Flop (didn't bet)
+Seat 7: JanzOne showed [Ts Td] and won (18770) with a pair of Tens
+Seat 8: @sisyphe@350 folded before Flop (didn't bet)
+Seat 9: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625756619: Tournament #3922834507, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (300/600) - 2025/09/05 22:48:40 CET [2025/09/05 16:48:40 ET]
+Table '3922834507 28' 9-max Seat #2 is the button
+Seat 1: carlos_ent (8500 in chips) 
+Seat 2: beto94800 (49467 in chips) 
+Seat 3: aber02 (12498 in chips) 
+Seat 4: arruDawOo (53260 in chips) 
+Seat 5: pro10patata (1310 in chips) 
+Seat 6: Machupichu25 (47539 in chips) 
+Seat 7: JanzOne (18770 in chips) 
+Seat 8: @sisyphe@350 (11550 in chips) 
+Seat 9: pipinoelbreve9 (8680 in chips) 
+carlos_ent: posts the ante 70
+beto94800: posts the ante 70
+aber02: posts the ante 70
+arruDawOo: posts the ante 70
+pro10patata: posts the ante 70
+Machupichu25: posts the ante 70
+JanzOne: posts the ante 70
+@sisyphe@350: posts the ante 70
+pipinoelbreve9: posts the ante 70
+aber02: posts small blind 300
+arruDawOo: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Ad]
+pro10patata: raises 640 to 1240 and is all-in
+Machupichu25: folds 
+JanzOne: folds 
+@sisyphe@350: folds 
+pipinoelbreve9: raises 7370 to 8610 and is all-in
+carlos_ent: calls 8430 and is all-in
+beto94800: folds 
+aber02: folds 
+arruDawOo: folds 
+Uncalled bet (180) returned to pipinoelbreve9
+*** FLOP *** [Ts 9s Jh]
+*** TURN *** [Ts 9s Jh] [Kc]
+*** RIVER *** [Ts 9s Jh Kc] [6d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [8h Ad] (high card Ace)
+carlos_ent: shows [Jd Qd] (a straight, Nine to King)
+carlos_ent collected 14380 from side pot
+pro10patata: shows [9h 4d] (a pair of Nines)
+carlos_ent collected 5250 from main pot
+pro10patata finished the tournament
+*** SUMMARY ***
+Total pot 19630 Main pot 5250. Side pot 14380. | Rake 0 
+Board [Ts 9s Jh Kc 6d]
+Seat 1: carlos_ent showed [Jd Qd] and won (19630) with a straight, Nine to King
+Seat 2: beto94800 (button) folded before Flop (didn't bet)
+Seat 3: aber02 (small blind) folded before Flop
+Seat 4: arruDawOo (big blind) folded before Flop
+Seat 5: pro10patata showed [9h 4d] and lost with a pair of Nines
+Seat 6: Machupichu25 folded before Flop (didn't bet)
+Seat 7: JanzOne folded before Flop (didn't bet)
+Seat 8: @sisyphe@350 folded before Flop (didn't bet)
+Seat 9: pipinoelbreve9 showed [8h Ad] and lost with high card Ace
+
+
+

@@ -1,0 +1,77 @@
+﻿PokerStars Hand #257983633748: Tournament #3933678001, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:42:54 CET [2025/10/03 11:42:54 ET]
+Table '3933678001 1' 3-max Seat #1 is the button
+Seat 1: laulau91 (500 in chips) 
+Seat 2: Abdmaliki (500 in chips) 
+Seat 3: pipinoelbreve9 (500 in chips) 
+Abdmaliki: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc As]
+laulau91: raises 480 to 500 and is all-in
+Abdmaliki: folds 
+pipinoelbreve9: calls 480 and is all-in
+*** FLOP *** [Qd 6h Kc]
+*** TURN *** [Qd 6h Kc] [Js]
+*** RIVER *** [Qd 6h Kc Js] [6d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qc As] (two pair, Queens and Sixes)
+laulau91: shows [5h 7c] (a pair of Sixes)
+pipinoelbreve9 collected 1010 from pot
+laulau91 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Qd 6h Kc Js 6d]
+Seat 1: laulau91 (button) showed [5h 7c] and lost with a pair of Sixes
+Seat 2: Abdmaliki (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) showed [Qc As] and won (1010) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #257983636968: Tournament #3933678001, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:43:12 CET [2025/10/03 11:43:12 ET]
+Table '3933678001 1' 3-max Seat #3 is the button
+Seat 2: Abdmaliki (490 in chips) 
+Seat 3: pipinoelbreve9 (1010 in chips) 
+pipinoelbreve9: posts small blind 10
+Abdmaliki: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 4c]
+pipinoelbreve9: folds 
+Uncalled bet (10) returned to Abdmaliki
+Abdmaliki collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Abdmaliki (big blind) collected (20)
+Seat 3: pipinoelbreve9 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257983637914: Tournament #3933678001, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:43:18 CET [2025/10/03 11:43:18 ET]
+Table '3933678001 1' 3-max Seat #2 is the button
+Seat 2: Abdmaliki (500 in chips) 
+Seat 3: pipinoelbreve9 (1000 in chips) 
+Abdmaliki: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Qc]
+Abdmaliki: raises 20 to 40
+pipinoelbreve9: raises 960 to 1000 and is all-in
+Abdmaliki: calls 460 and is all-in
+Uncalled bet (500) returned to pipinoelbreve9
+*** FLOP *** [Jc Ah Th]
+*** TURN *** [Jc Ah Th] [3h]
+*** RIVER *** [Jc Ah Th 3h] [4d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks Qc] (a straight, Ten to Ace)
+Abdmaliki: shows [7c 5c] (high card Ace)
+pipinoelbreve9 collected 1000 from pot
+Abdmaliki finished the tournament in 2nd place
+pipinoelbreve9 wins the tournament - congratulations!
+pipinoelbreve9 wins a '€1.50 Step 2 SnG Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Jc Ah Th 3h 4d]
+Seat 2: Abdmaliki (button) (small blind) showed [7c 5c] and lost with high card Ace
+Seat 3: pipinoelbreve9 (big blind) showed [Ks Qc] and won (1000) with a straight, Ten to Ace
+
+
+

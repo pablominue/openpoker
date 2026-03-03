@@ -1,0 +1,4301 @@
+﻿PokerStars Zoom Hand #257827918526:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:05:52 CET [2025/09/21 5:05:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: trevel2727 (€4.75 in chips) 
+Seat 2: morenovlcia (€7.46 in chips) 
+Seat 3: pipinoelbreve9 (€10 in chips) 
+Seat 4: motomoto17 (€5.45 in chips) 
+Seat 5: dragon9816 (€16.52 in chips) 
+Seat 6: Lara8825 (€1.72 in chips) 
+morenovlcia: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Js]
+motomoto17: folds 
+dragon9816: folds 
+Lara8825: folds 
+trevel2727: raises €0.20 to €0.30
+morenovlcia: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [Jd Qh 2h]
+pipinoelbreve9: checks 
+trevel2727: checks 
+*** TURN *** [Jd Qh 2h] [2c]
+pipinoelbreve9: bets €0.31
+trevel2727: calls €0.31
+*** RIVER *** [Jd Qh 2h 2c] [Ac]
+pipinoelbreve9: bets €1.21
+trevel2727: calls €1.21
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qc Js] (two pair, Queens and Jacks)
+trevel2727: shows [As Jh] (two pair, Aces and Jacks)
+trevel2727 collected €3.51 from pot
+*** SUMMARY ***
+Total pot €3.69 | Rake €0.18 
+Board [Jd Qh 2h 2c Ac]
+Seat 1: trevel2727 (button) showed [As Jh] and won (€3.51) with two pair, Aces and Jacks
+Seat 2: morenovlcia (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) showed [Qc Js] and lost with two pair, Queens and Jacks
+Seat 4: motomoto17 folded before Flop (didn't bet)
+Seat 5: dragon9816 folded before Flop (didn't bet)
+Seat 6: Lara8825 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827920729:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:06:18 CET [2025/09/21 5:06:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Lara8825 (€1.72 in chips) 
+Seat 2: pipinoelbreve9 (€10 in chips) 
+Seat 3: ILOVELIMPMAMOUR (€7.26 in chips) 
+Seat 4: bobby0669 (€6.23 in chips) 
+Seat 5: yloureiro (€12.06 in chips) 
+Seat 6: trevel2727 (€6.44 in chips) 
+pipinoelbreve9: posts small blind €0.05
+ILOVELIMPMAMOUR: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Qs]
+bobby0669: calls €0.10
+yloureiro: folds 
+trevel2727: folds 
+Lara8825: calls €0.10
+pipinoelbreve9: folds 
+ILOVELIMPMAMOUR: checks 
+*** FLOP *** [Td 2d 9h]
+ILOVELIMPMAMOUR: bets €0.33
+bobby0669: folds 
+Lara8825: folds 
+Uncalled bet (€0.33) returned to ILOVELIMPMAMOUR
+ILOVELIMPMAMOUR collected €0.33 from pot
+ILOVELIMPMAMOUR: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [Td 2d 9h]
+Seat 1: Lara8825 (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: ILOVELIMPMAMOUR (big blind) collected (€0.33)
+Seat 4: bobby0669 folded on the Flop
+Seat 5: yloureiro folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827921405:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:06:26 CET [2025/09/21 5:06:26 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€10 in chips) 
+Seat 2: lambrusco100 (€11.10 in chips) 
+Seat 3: grandpa83000 (€5.99 in chips) 
+Seat 4: basajaun1910 (€8.13 in chips) 
+Seat 5: brageirac24 (€5.07 in chips) 
+Seat 6: vainillarica (€19 in chips) 
+lambrusco100: posts small blind €0.05
+grandpa83000: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 9d]
+basajaun1910: folds 
+brageirac24: folds 
+vainillarica: raises €0.15 to €0.25
+pipinoelbreve9: folds 
+lambrusco100: folds 
+grandpa83000: calls €0.15
+*** FLOP *** [Ks 5h Qc]
+grandpa83000: checks 
+vainillarica: bets €0.26
+grandpa83000: folds 
+Uncalled bet (€0.26) returned to vainillarica
+vainillarica collected €0.52 from pot
+vainillarica: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03 
+Board [Ks 5h Qc]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: grandpa83000 (big blind) folded on the Flop
+Seat 4: basajaun1910 folded before Flop (didn't bet)
+Seat 5: brageirac24 folded before Flop (didn't bet)
+Seat 6: vainillarica collected (€0.52)
+
+
+
+PokerStars Zoom Hand #257827922793:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:06:42 CET [2025/09/21 5:06:42 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: dragon9816 (€16.52 in chips) 
+Seat 2: lambrusco100 (€12.23 in chips) 
+Seat 3: janjos69 (€19.52 in chips) 
+Seat 4: Lara8825 (€1.62 in chips) 
+Seat 5: pipinoelbreve9 (€10 in chips) 
+Seat 6: trevel2727 (€6.44 in chips) 
+lambrusco100: posts small blind €0.05
+janjos69: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 6s]
+Lara8825: calls €0.10
+pipinoelbreve9: folds 
+trevel2727: folds 
+dragon9816: folds 
+lambrusco100: folds 
+janjos69: checks 
+*** FLOP *** [6d 9d Kh]
+janjos69: checks 
+Lara8825: bets €0.10
+janjos69: calls €0.10
+*** TURN *** [6d 9d Kh] [3h]
+janjos69: checks 
+Lara8825: bets €0.10
+janjos69: calls €0.10
+*** RIVER *** [6d 9d Kh 3h] [Ah]
+janjos69: checks 
+Lara8825: checks 
+*** SHOW DOWN ***
+janjos69: shows [9c 7h] (a pair of Nines)
+Lara8825: mucks hand 
+janjos69 collected €0.62 from pot
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [6d 9d Kh 3h Ah]
+Seat 1: dragon9816 (button) folded before Flop (didn't bet)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: janjos69 (big blind) showed [9c 7h] and won (€0.62) with a pair of Nines
+Seat 4: Lara8825 mucked [8h 8d]
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827922047:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:06:33 CET [2025/09/21 5:06:33 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: yloureiro (€10.16 in chips) 
+Seat 2: poyito loco (€25.85 in chips) 
+Seat 3: dragon9816 (€12.71 in chips) 
+Seat 4: NAlexandru22 (€6.02 in chips) 
+Seat 5: Munia14 (€12.61 in chips) 
+Seat 6: pipinoelbreve9 (€10 in chips) 
+poyito loco: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Ac]
+NAlexandru22: raises €0.12 to €0.22
+Munia14: folds 
+pipinoelbreve9: folds 
+yloureiro: raises €0.63 to €0.85
+poyito loco: folds 
+dragon9816: folds 
+NAlexandru22: calls €0.63
+*** FLOP *** [9c Tc 7d]
+NAlexandru22: checks 
+yloureiro: checks 
+*** TURN *** [9c Tc 7d] [9s]
+NAlexandru22: checks 
+yloureiro: checks 
+*** RIVER *** [9c Tc 7d 9s] [4h]
+NAlexandru22: bets €0.97
+yloureiro: folds 
+Uncalled bet (€0.97) returned to NAlexandru22
+NAlexandru22 collected €1.76 from pot
+NAlexandru22: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.85 | Rake €0.09 
+Board [9c Tc 7d 9s 4h]
+Seat 1: yloureiro (button) folded on the River
+Seat 2: poyito loco (small blind) folded before Flop
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: NAlexandru22 collected (€1.76)
+Seat 5: Munia14 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827923133:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:06:46 CET [2025/09/21 5:06:46 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: FLOW4422646 (€2.88 in chips) 
+Seat 2: bacanhim75 (€8.01 in chips) 
+Seat 3: pipinoelbreve9 (€10 in chips) 
+Seat 4: poyito loco (€25.80 in chips) 
+Seat 5: peibolin (€9.95 in chips) 
+Seat 6: lambrusco100 (€11.05 in chips) 
+bacanhim75: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 6h]
+poyito loco: folds 
+peibolin: folds 
+lambrusco100: raises €0.15 to €0.25
+FLOW4422646: folds 
+bacanhim75: folds 
+pipinoelbreve9: calls €0.15
+*** FLOP *** [Qs 5d Jd]
+pipinoelbreve9: checks 
+lambrusco100: bets €0.17
+pipinoelbreve9: calls €0.17
+*** TURN *** [Qs 5d Jd] [4h]
+pipinoelbreve9: checks 
+lambrusco100: checks 
+*** RIVER *** [Qs 5d Jd 4h] [8s]
+pipinoelbreve9: bets €0.43
+lambrusco100: calls €0.43
+*** SHOW DOWN ***
+pipinoelbreve9: shows [5s 6h] (a pair of Fives)
+lambrusco100: shows [Kc Js] (a pair of Jacks)
+lambrusco100 collected €1.66 from pot
+*** SUMMARY ***
+Total pot €1.75 | Rake €0.09 
+Board [Qs 5d Jd 4h 8s]
+Seat 1: FLOW4422646 (button) folded before Flop (didn't bet)
+Seat 2: bacanhim75 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) showed [5s 6h] and lost with a pair of Fives
+Seat 4: poyito loco folded before Flop (didn't bet)
+Seat 5: peibolin folded before Flop (didn't bet)
+Seat 6: lambrusco100 showed [Kc Js] and won (€1.66) with a pair of Jacks
+
+
+
+PokerStars Zoom Hand #257827929908:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:08:04 CET [2025/09/21 5:08:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: vertedin (€8.61 in chips) 
+Seat 2: pipinoelbreve9 (€10 in chips) 
+Seat 3: FLOW4422646 (€3.15 in chips) 
+Seat 4: dragon9816 (€16.37 in chips) 
+Seat 5: lambrusco100 (€11.86 in chips) 
+Seat 6: trevel2727 (€7.12 in chips) 
+pipinoelbreve9: posts small blind €0.05
+FLOW4422646: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc Js]
+dragon9816: folds 
+lambrusco100: folds 
+trevel2727: folds 
+vertedin: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+FLOW4422646: folds 
+Uncalled bet (€0.20) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.20 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: vertedin (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.20)
+Seat 3: FLOW4422646 (big blind) folded before Flop
+Seat 4: dragon9816 folded before Flop (didn't bet)
+Seat 5: lambrusco100 folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827931325:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:08:20 CET [2025/09/21 5:08:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: FLOW4422646 (€3.05 in chips) 
+Seat 2: poyito loco (€29.70 in chips) 
+Seat 3: basajaun1910 (€11.67 in chips) 
+Seat 4: Dapanx (€4.30 in chips) 
+Seat 5: pipinoelbreve9 (€10.10 in chips) 
+Seat 6: trevel2727 (€6.92 in chips) 
+poyito loco: posts small blind €0.05
+basajaun1910: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 3c]
+Dapanx: folds 
+pipinoelbreve9: folds 
+trevel2727: folds 
+FLOW4422646: folds 
+poyito loco: folds 
+Uncalled bet (€0.05) returned to basajaun1910
+basajaun1910 collected €0.10 from pot
+basajaun1910: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: FLOW4422646 (button) folded before Flop (didn't bet)
+Seat 2: poyito loco (small blind) folded before Flop
+Seat 3: basajaun1910 (big blind) collected (€0.10)
+Seat 4: Dapanx folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827931923:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:08:27 CET [2025/09/21 5:08:27 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€10.10 in chips) 
+Seat 2: lambrusco100 (€11.76 in chips) 
+Seat 3: javimarca (€8.35 in chips) 
+Seat 4: NeverGiveupzzz (€21.59 in chips) 
+Seat 5: motomoto17 (€4.97 in chips) 
+Seat 6: FLOW4422646 (€3.05 in chips) 
+lambrusco100: posts small blind €0.05
+javimarca: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Qc]
+NeverGiveupzzz: folds 
+motomoto17: folds 
+FLOW4422646: raises €0.30 to €0.40
+pipinoelbreve9: calls €0.40
+lambrusco100: folds 
+javimarca: folds 
+*** FLOP *** [6h Jh 2d]
+FLOW4422646: checks 
+pipinoelbreve9: bets €0.35
+FLOW4422646: folds 
+Uncalled bet (€0.35) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.90 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.05 
+Board [6h Jh 2d]
+Seat 1: pipinoelbreve9 (button) collected (€0.90)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: javimarca (big blind) folded before Flop
+Seat 4: NeverGiveupzzz folded before Flop (didn't bet)
+Seat 5: motomoto17 folded before Flop (didn't bet)
+Seat 6: FLOW4422646 folded on the Flop
+
+
+
+PokerStars Zoom Hand #257827935492:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:09:08 CET [2025/09/21 5:09:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: caspita295 (€10.66 in chips) 
+Seat 2: FLOW4422646 (€2.65 in chips) 
+Seat 3: lambrusco100 (€11.48 in chips) 
+Seat 4: poyito loco (€28.20 in chips) 
+Seat 5: yloureiro (€11.13 in chips) 
+Seat 6: pipinoelbreve9 (€10.60 in chips) 
+FLOW4422646: posts small blind €0.05
+lambrusco100: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Ts]
+poyito loco: folds 
+yloureiro: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+caspita295: folds 
+FLOW4422646: calls €0.25
+lambrusco100: calls €0.20
+*** FLOP *** [8c Jd 4h]
+FLOW4422646: checks 
+lambrusco100: checks 
+pipinoelbreve9: bets €0.43
+FLOW4422646: calls €0.43
+lambrusco100: folds 
+*** TURN *** [8c Jd 4h] [7c]
+FLOW4422646: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [8c Jd 4h 7c] [2c]
+FLOW4422646: bets €1.92 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (€1.92) returned to FLOW4422646
+FLOW4422646 collected €1.67 from pot
+FLOW4422646: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.76 | Rake €0.09 
+Board [8c Jd 4h 7c 2c]
+Seat 1: caspita295 (button) folded before Flop (didn't bet)
+Seat 2: FLOW4422646 (small blind) collected (€1.67)
+Seat 3: lambrusco100 (big blind) folded on the Flop
+Seat 4: poyito loco folded before Flop (didn't bet)
+Seat 5: yloureiro folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded on the River
+
+
+
+PokerStars Zoom Hand #257827940473:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:04 CET [2025/09/21 5:10:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: lambrusco100 (€11.13 in chips) 
+Seat 2: janjos69 (€19.49 in chips) 
+Seat 3: morenovlcia (€7.26 in chips) 
+Seat 4: pipinoelbreve9 (€10 in chips) 
+Seat 5: Dapanx (€6.26 in chips) 
+Seat 6: Areny_Sole (€6.21 in chips) 
+janjos69: posts small blind €0.05
+morenovlcia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 5d]
+pipinoelbreve9: folds 
+Dapanx: folds 
+Areny_Sole: folds 
+lambrusco100: folds 
+janjos69: folds 
+Uncalled bet (€0.05) returned to morenovlcia
+morenovlcia collected €0.10 from pot
+morenovlcia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: lambrusco100 (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) folded before Flop
+Seat 3: morenovlcia (big blind) collected (€0.10)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Dapanx folded before Flop (didn't bet)
+Seat 6: Areny_Sole folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827940782:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:08 CET [2025/09/21 5:10:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Areny_Sole (€6.21 in chips) 
+Seat 2: dragon9816 (€11.98 in chips) 
+Seat 3: elrober_141122 (€5.36 in chips) 
+Seat 4: NeverGiveupzzz (€21.84 in chips) 
+Seat 5: pipinoelbreve9 (€10 in chips) 
+Seat 6: lambrusco100 (€11.13 in chips) 
+dragon9816: posts small blind €0.05
+elrober_141122: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Kc]
+NeverGiveupzzz: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+lambrusco100: folds 
+Areny_Sole: calls €0.20
+dragon9816: folds 
+elrober_141122: folds 
+*** FLOP *** [6c 2s 8c]
+NeverGiveupzzz: checks 
+Areny_Sole: bets €0.20
+NeverGiveupzzz: folds 
+Uncalled bet (€0.20) returned to Areny_Sole
+Areny_Sole collected €0.52 from pot
+Areny_Sole: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03 
+Board [6c 2s 8c]
+Seat 1: Areny_Sole (button) collected (€0.52)
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: elrober_141122 (big blind) folded before Flop
+Seat 4: NeverGiveupzzz folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: lambrusco100 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827941866:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:20 CET [2025/09/21 5:10:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ILOVELIMPMAMOUR (€6.97 in chips) 
+Seat 2: basajaun1910 (€5.22 in chips) 
+Seat 3: pipinoelbreve9 (€10 in chips) 
+Seat 4: morenovlcia (€7.31 in chips) 
+Seat 5: basukun (€9.15 in chips) 
+Seat 6: Dapanx (€6.26 in chips) 
+basajaun1910: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 4s]
+morenovlcia: folds 
+basukun: folds 
+Dapanx: folds 
+ILOVELIMPMAMOUR: folds 
+basajaun1910: raises €0.20 to €0.30
+pipinoelbreve9: folds 
+Uncalled bet (€0.20) returned to basajaun1910
+basajaun1910 collected €0.20 from pot
+basajaun1910: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: ILOVELIMPMAMOUR (button) folded before Flop (didn't bet)
+Seat 2: basajaun1910 (small blind) collected (€0.20)
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: morenovlcia folded before Flop (didn't bet)
+Seat 5: basukun folded before Flop (didn't bet)
+Seat 6: Dapanx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827941550:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:16 CET [2025/09/21 5:10:16 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: morenovlcia (€7.31 in chips) 
+Seat 2: elrober_141122 (€5.26 in chips) 
+Seat 3: lambrusco100 (€11.13 in chips) 
+Seat 4: basukun (€9.15 in chips) 
+Seat 5: sachtmo666 (€21.41 in chips) 
+Seat 6: pipinoelbreve9 (€10 in chips) 
+elrober_141122: posts small blind €0.05
+lambrusco100: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Qh]
+basukun: folds 
+sachtmo666: calls €0.10
+pipinoelbreve9: folds 
+morenovlcia: folds 
+elrober_141122: folds 
+lambrusco100: checks 
+*** FLOP *** [Kc As 2c]
+lambrusco100: checks 
+sachtmo666: bets €0.12
+lambrusco100: folds 
+Uncalled bet (€0.12) returned to sachtmo666
+sachtmo666 collected €0.24 from pot
+sachtmo666: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Kc As 2c]
+Seat 1: morenovlcia (button) folded before Flop (didn't bet)
+Seat 2: elrober_141122 (small blind) folded before Flop
+Seat 3: lambrusco100 (big blind) folded on the Flop
+Seat 4: basukun folded before Flop (didn't bet)
+Seat 5: sachtmo666 collected (€0.24)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827943941:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:44 CET [2025/09/21 5:10:44 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: dragon9816 (€10 in chips) 
+Seat 2: grandpa83000 (€6.20 in chips) 
+Seat 3: Areny_Sole (€6.53 in chips) 
+Seat 4: pipinoelbreve9 (€10 in chips) 
+Seat 5: yloureiro (€10 in chips) 
+Seat 6: NAlexandru22 (€12.46 in chips) 
+grandpa83000: posts small blind €0.05
+Areny_Sole: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Qs]
+pipinoelbreve9: raises €0.20 to €0.30
+yloureiro: folds 
+NAlexandru22: folds 
+dragon9816: folds 
+grandpa83000: folds 
+Areny_Sole: folds 
+Uncalled bet (€0.20) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: dragon9816 (button) folded before Flop (didn't bet)
+Seat 2: grandpa83000 (small blind) folded before Flop
+Seat 3: Areny_Sole (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.25)
+Seat 5: yloureiro folded before Flop (didn't bet)
+Seat 6: NAlexandru22 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827943399:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:38 CET [2025/09/21 5:10:38 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: membrive625 (€7.25 in chips) 
+Seat 2: pipinoelbreve9 (€10 in chips) 
+Seat 3: trevel2727 (€5.86 in chips) 
+Seat 4: Areny_Sole (€6.53 in chips) 
+Seat 5: vertedin (€7.51 in chips) 
+Seat 6: basajaun1910 (€12.82 in chips) 
+pipinoelbreve9: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 5c]
+Areny_Sole: folds 
+vertedin: calls €0.10
+basajaun1910: folds 
+membrive625: folds 
+pipinoelbreve9: folds 
+trevel2727: checks 
+*** FLOP *** [3h 3d 9d]
+trevel2727: checks 
+vertedin: checks 
+*** TURN *** [3h 3d 9d] [4d]
+trevel2727: checks 
+vertedin: checks 
+*** RIVER *** [3h 3d 9d 4d] [8d]
+trevel2727: checks 
+vertedin: checks 
+*** SHOW DOWN ***
+trevel2727: shows [Qs Ks] (a pair of Threes)
+vertedin: shows [As 5h] (a pair of Threes - Ace kicker)
+vertedin collected €0.24 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [3h 3d 9d 4d 8d]
+Seat 1: membrive625 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) showed [Qs Ks] and lost with a pair of Threes
+Seat 4: Areny_Sole folded before Flop (didn't bet)
+Seat 5: vertedin showed [As 5h] and won (€0.24) with a pair of Threes
+Seat 6: basajaun1910 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827945275:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:10:59 CET [2025/09/21 5:10:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€10.15 in chips) 
+Seat 2: NeverGiveupzzz (€14.70 in chips) 
+Seat 3: basajaun1910 (€5.32 in chips) 
+Seat 4: dragon9816 (€11.98 in chips) 
+Seat 5: grandpa83000 (€6.15 in chips) 
+Seat 6: morenovlcia (€8.02 in chips) 
+NeverGiveupzzz: posts small blind €0.05
+basajaun1910: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 9s]
+dragon9816: raises €0.15 to €0.25
+grandpa83000: folds 
+morenovlcia: folds 
+pipinoelbreve9: calls €0.25
+NeverGiveupzzz: folds 
+basajaun1910: calls €0.15
+*** FLOP *** [5h 8d 3h]
+basajaun1910: checks 
+dragon9816: bets €0.30
+pipinoelbreve9: folds 
+basajaun1910: folds 
+Uncalled bet (€0.30) returned to dragon9816
+dragon9816 collected €0.76 from pot
+dragon9816: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04 
+Board [5h 8d 3h]
+Seat 1: pipinoelbreve9 (button) folded on the Flop
+Seat 2: NeverGiveupzzz (small blind) folded before Flop
+Seat 3: basajaun1910 (big blind) folded on the Flop
+Seat 4: dragon9816 collected (€0.76)
+Seat 5: grandpa83000 folded before Flop (didn't bet)
+Seat 6: morenovlcia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827947834:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:11:28 CET [2025/09/21 5:11:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: basajaun1910 (€12.16 in chips) 
+Seat 2: janjos69 (€19.49 in chips) 
+Seat 3: pipinoelbreve9 (€10 in chips) 
+Seat 4: dragon9816 (€12.49 in chips) 
+Seat 5: trevel2727 (€6.41 in chips) 
+Seat 6: morenovlcia (€7.97 in chips) 
+janjos69: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 5d]
+dragon9816: folds 
+trevel2727: calls €0.10
+morenovlcia: folds 
+basajaun1910: raises €0.20 to €0.30
+janjos69: folds 
+pipinoelbreve9: calls €0.20
+trevel2727: raises €1.10 to €1.40
+basajaun1910: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€1.10) returned to trevel2727
+trevel2727 collected €0.95 from pot
+trevel2727: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0 
+Seat 1: basajaun1910 (button) folded before Flop
+Seat 2: janjos69 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: dragon9816 folded before Flop (didn't bet)
+Seat 5: trevel2727 collected (€0.95)
+Seat 6: morenovlcia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827951322:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:12:06 CET [2025/09/21 5:12:06 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: undergrave29 (€9.86 in chips) 
+Seat 2: FLOW4422646 (€3.19 in chips) 
+Seat 3: superdutyy (€15.66 in chips) 
+Seat 4: janjos69 (€19.34 in chips) 
+Seat 5: morenovlcia (€8.20 in chips) 
+Seat 6: pipinoelbreve9 (€10 in chips) 
+FLOW4422646: posts small blind €0.05
+superdutyy: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 6c]
+janjos69: folds 
+morenovlcia: folds 
+pipinoelbreve9: folds 
+undergrave29 is disconnected 
+undergrave29 has timed out while disconnected
+undergrave29: folds 
+FLOW4422646: folds 
+Uncalled bet (€0.05) returned to superdutyy
+superdutyy collected €0.10 from pot
+superdutyy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: undergrave29 (button) folded before Flop (didn't bet)
+Seat 2: FLOW4422646 (small blind) folded before Flop
+Seat 3: superdutyy (big blind) collected (€0.10)
+Seat 4: janjos69 folded before Flop (didn't bet)
+Seat 5: morenovlcia folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827952400:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:12:18 CET [2025/09/21 5:12:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€10 in chips) 
+Seat 2: dragon9816 (€12.29 in chips) 
+Seat 3: JIG1969 (€10 in chips) 
+Seat 4: motomoto17 (€8.91 in chips) 
+Seat 5: Areny_Sole (€6.35 in chips) 
+Seat 6: trevel2727 (€3.51 in chips) 
+dragon9816: posts small blind €0.05
+JIG1969: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 5h]
+motomoto17: folds 
+Areny_Sole: raises €0.10 to €0.20
+trevel2727: folds 
+pipinoelbreve9: folds 
+dragon9816: folds 
+JIG1969: folds 
+Uncalled bet (€0.10) returned to Areny_Sole
+Areny_Sole collected €0.25 from pot
+Areny_Sole: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: JIG1969 (big blind) folded before Flop
+Seat 4: motomoto17 folded before Flop (didn't bet)
+Seat 5: Areny_Sole collected (€0.25)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827951751:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:12:11 CET [2025/09/21 5:12:11 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: bacanhim75 (€7.80 in chips) 
+Seat 2: pipinoelbreve9 (€10 in chips) 
+Seat 3: membrive625 (€8.71 in chips) 
+Seat 4: basajaun1910 (€5.02 in chips) 
+Seat 5: allinfinity (€10.45 in chips) 
+Seat 6: janjos69 (€8.65 in chips) 
+pipinoelbreve9: posts small blind €0.05
+membrive625: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 2s]
+basajaun1910: raises €0.10 to €0.20
+allinfinity: folds 
+janjos69: folds 
+bacanhim75: folds 
+pipinoelbreve9: folds 
+membrive625: calls €0.10
+*** FLOP *** [Kc 8h 3h]
+membrive625: checks 
+basajaun1910: bets €0.30
+membrive625: calls €0.30
+*** TURN *** [Kc 8h 3h] [2h]
+membrive625: checks 
+basajaun1910: bets €0.40
+membrive625: calls €0.40
+*** RIVER *** [Kc 8h 3h 2h] [6s]
+membrive625: checks 
+basajaun1910: checks 
+*** SHOW DOWN ***
+membrive625: shows [9s Ah] (high card Ace)
+basajaun1910: shows [Js Kd] (a pair of Kings)
+basajaun1910 collected €1.76 from pot
+*** SUMMARY ***
+Total pot €1.85 | Rake €0.09 
+Board [Kc 8h 3h 2h 6s]
+Seat 1: bacanhim75 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: membrive625 (big blind) showed [9s Ah] and lost with high card Ace
+Seat 4: basajaun1910 showed [Js Kd] and won (€1.76) with a pair of Kings
+Seat 5: allinfinity folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827952938:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:12:24 CET [2025/09/21 5:12:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Lara8825 (€0.24 in chips) 
+Seat 2: trevel2727 (€7.06 in chips) 
+Seat 3: NAlexandru22 (€11.93 in chips) 
+Seat 4: FLOW4422646 (€3.14 in chips) 
+Seat 5: pipinoelbreve9 (€10 in chips) 
+Seat 6: superdutyy (€15.71 in chips) 
+trevel2727: posts small blind €0.05
+NAlexandru22: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 9d]
+FLOW4422646: folds 
+pipinoelbreve9: folds 
+superdutyy: folds 
+Lara8825: raises €0.14 to €0.24 and is all-in
+trevel2727: folds 
+NAlexandru22: folds 
+Uncalled bet (€0.14) returned to Lara8825
+Lara8825 collected €0.25 from pot
+Lara8825: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Lara8825 (button) collected (€0.25)
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: NAlexandru22 (big blind) folded before Flop
+Seat 4: FLOW4422646 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: superdutyy folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827953310:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:12:28 CET [2025/09/21 5:12:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: allinfinity (€10.35 in chips) 
+Seat 2: janjos69 (€19.04 in chips) 
+Seat 3: NeverGiveupzzz (€21.04 in chips) 
+Seat 4: pipinoelbreve9 (€10 in chips) 
+Seat 5: javimarca (€8.92 in chips) 
+Seat 6: vertedin (€7.20 in chips) 
+janjos69: posts small blind €0.05
+NeverGiveupzzz: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 4c]
+pipinoelbreve9: raises €0.20 to €0.30
+javimarca: folds 
+vertedin: folds 
+allinfinity: folds 
+janjos69: calls €0.25
+NeverGiveupzzz: folds 
+*** FLOP *** [5h 6s 2d]
+janjos69: checks 
+pipinoelbreve9: bets €0.50
+janjos69: folds 
+Uncalled bet (€0.50) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.66 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.04 
+Board [5h 6s 2d]
+Seat 1: allinfinity (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) folded on the Flop
+Seat 3: NeverGiveupzzz (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.66)
+Seat 5: javimarca folded before Flop (didn't bet)
+Seat 6: vertedin folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827956543:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:13:04 CET [2025/09/21 5:13:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: motomoto17 (€8.86 in chips) 
+Seat 2: lambrusco100 (€11.42 in chips) 
+Seat 3: NeverGiveupzzz (€14.22 in chips) 
+Seat 4: pipinoelbreve9 (€10.36 in chips) 
+Seat 5: ILOVELIMPMAMOUR (€8.26 in chips) 
+Seat 6: dd10230 (€20.95 in chips) 
+lambrusco100: posts small blind €0.05
+NeverGiveupzzz: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 8d]
+pipinoelbreve9: folds 
+ILOVELIMPMAMOUR: folds 
+dd10230: folds 
+motomoto17: folds 
+lambrusco100: folds 
+Uncalled bet (€0.05) returned to NeverGiveupzzz
+NeverGiveupzzz collected €0.10 from pot
+NeverGiveupzzz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: motomoto17 (button) folded before Flop (didn't bet)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: NeverGiveupzzz (big blind) collected (€0.10)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: ILOVELIMPMAMOUR folded before Flop (didn't bet)
+Seat 6: dd10230 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827957281:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:13:12 CET [2025/09/21 5:13:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: janjos69 (€18.74 in chips) 
+Seat 2: javimarca (€8.87 in chips) 
+Seat 3: morenovlcia (€9.12 in chips) 
+Seat 4: pipinoelbreve9 (€10.31 in chips) 
+Seat 5: dd10230 (€20.95 in chips) 
+Seat 6: dragon9816 (€12.83 in chips) 
+javimarca: posts small blind €0.05
+morenovlcia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Qc]
+pipinoelbreve9: folds 
+dd10230: folds 
+dragon9816: folds 
+janjos69: folds 
+javimarca: folds 
+Uncalled bet (€0.05) returned to morenovlcia
+morenovlcia collected €0.10 from pot
+morenovlcia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: janjos69 (button) folded before Flop (didn't bet)
+Seat 2: javimarca (small blind) folded before Flop
+Seat 3: morenovlcia (big blind) collected (€0.10)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: dd10230 folded before Flop (didn't bet)
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827956916:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:13:08 CET [2025/09/21 5:13:08 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: vainillarica (€10 in chips) 
+Seat 2: pipinoelbreve9 (€10.36 in chips) 
+Seat 3: ILOVELIMPMAMOUR (€8.26 in chips) 
+Seat 4: elrober_141122 (€4.69 in chips) 
+Seat 5: Areny_Sole (€6.40 in chips) 
+Seat 6: janjos69 (€18.74 in chips) 
+pipinoelbreve9: posts small blind €0.05
+ILOVELIMPMAMOUR: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 5h]
+elrober_141122: calls €0.10
+Areny_Sole: folds 
+janjos69: folds 
+vainillarica: raises €0.35 to €0.45
+pipinoelbreve9: folds 
+ILOVELIMPMAMOUR: calls €0.35
+elrober_141122: calls €0.35
+*** FLOP *** [Ks Qd Ad]
+ILOVELIMPMAMOUR: checks 
+elrober_141122: bets €0.87
+vainillarica: folds 
+ILOVELIMPMAMOUR: folds 
+Uncalled bet (€0.87) returned to elrober_141122
+elrober_141122 collected €1.33 from pot
+elrober_141122: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.40 | Rake €0.07 
+Board [Ks Qd Ad]
+Seat 1: vainillarica (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: ILOVELIMPMAMOUR (big blind) folded on the Flop
+Seat 4: elrober_141122 collected (€1.33)
+Seat 5: Areny_Sole folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827965372:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:14:42 CET [2025/09/21 5:14:42 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: trevel2727 (€3.96 in chips) 
+Seat 2: NeverGiveupzzz (€13.07 in chips) 
+Seat 3: pipinoelbreve9 (€10.31 in chips) 
+Seat 4: javimarca (€10.65 in chips) 
+Seat 5: vertedin (€10.04 in chips) 
+Seat 6: dragon9816 (€10.15 in chips) 
+NeverGiveupzzz: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Kd]
+javimarca: folds 
+vertedin: folds 
+dragon9816: folds 
+trevel2727: folds 
+NeverGiveupzzz: folds 
+Uncalled bet (€0.05) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: trevel2727 (button) folded before Flop (didn't bet)
+Seat 2: NeverGiveupzzz (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.10)
+Seat 4: javimarca folded before Flop (didn't bet)
+Seat 5: vertedin folded before Flop (didn't bet)
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827966454:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:14:54 CET [2025/09/21 5:14:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: STEAKssss (€10 in chips) 
+Seat 2: pipinoelbreve9 (€10.36 in chips) 
+Seat 3: dragon9816 (€10.15 in chips) 
+Seat 4: sachtmo666 (€18.45 in chips) 
+Seat 5: trevel2727 (€3.96 in chips) 
+Seat 6: Lara8825 (€1.21 in chips) 
+pipinoelbreve9: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Ks]
+sachtmo666: folds 
+trevel2727: folds 
+Lara8825: raises €1.11 to €1.21 and is all-in
+STEAKssss: folds 
+pipinoelbreve9: calls €1.16
+dragon9816: folds 
+*** FLOP *** [7h Ah Kd]
+*** TURN *** [7h Ah Kd] [5d]
+*** RIVER *** [7h Ah Kd 5d] [6c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [7s Ks] (two pair, Kings and Sevens)
+Lara8825: shows [9c Kc] (a pair of Kings)
+pipinoelbreve9 collected €2.39 from pot
+*** SUMMARY ***
+Total pot €2.52 | Rake €0.13 
+Board [7h Ah Kd 5d 6c]
+Seat 1: STEAKssss (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [7s Ks] and won (€2.39) with two pair, Kings and Sevens
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: sachtmo666 folded before Flop (didn't bet)
+Seat 5: trevel2727 folded before Flop (didn't bet)
+Seat 6: Lara8825 showed [9c Kc] and lost with a pair of Kings
+
+
+
+PokerStars Zoom Hand #257827970030:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:15:34 CET [2025/09/21 5:15:34 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€11.54 in chips) 
+Seat 2: janjos69 (€9.91 in chips) 
+Seat 3: caspita295 (€13.28 in chips) 
+Seat 4: bacanhim75 (€5.95 in chips) 
+Seat 5: lambrusco100 (€16.61 in chips) 
+Seat 6: dragon9816 (€10.05 in chips) 
+janjos69: posts small blind €0.05
+caspita295: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Jc]
+bacanhim75: calls €0.10
+lambrusco100: folds 
+dragon9816: folds 
+pipinoelbreve9: raises €0.30 to €0.40
+janjos69: calls €0.35
+caspita295: folds 
+bacanhim75: calls €0.30
+*** FLOP *** [Kh 9s 9c]
+janjos69: checks 
+bacanhim75: checks 
+pipinoelbreve9: bets €0.52
+janjos69: folds 
+bacanhim75: folds 
+Uncalled bet (€0.52) returned to pipinoelbreve9
+pipinoelbreve9 collected €1.24 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.30 | Rake €0.06 
+Board [Kh 9s 9c]
+Seat 1: pipinoelbreve9 (button) collected (€1.24)
+Seat 2: janjos69 (small blind) folded on the Flop
+Seat 3: caspita295 (big blind) folded before Flop
+Seat 4: bacanhim75 folded on the Flop
+Seat 5: lambrusco100 folded before Flop (didn't bet)
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827973859:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:16:17 CET [2025/09/21 5:16:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: janjos69 (€9.51 in chips) 
+Seat 2: morenovlcia (€9.38 in chips) 
+Seat 3: ILOVELIMPMAMOUR (€7.64 in chips) 
+Seat 4: motomoto17 (€8.82 in chips) 
+Seat 5: elrober_141122 (€4.17 in chips) 
+Seat 6: pipinoelbreve9 (€12.38 in chips) 
+morenovlcia: posts small blind €0.05
+ILOVELIMPMAMOUR: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Td]
+motomoto17: folds 
+elrober_141122: calls €0.10
+pipinoelbreve9: raises €0.40 to €0.50
+janjos69: raises €1 to €1.50
+morenovlcia: folds 
+ILOVELIMPMAMOUR: folds 
+elrober_141122: folds 
+pipinoelbreve9: calls €1
+*** FLOP *** [Ks 6h Qc]
+pipinoelbreve9: checks 
+janjos69: bets €2.40
+pipinoelbreve9: folds 
+Uncalled bet (€2.40) returned to janjos69
+janjos69 collected €3.09 from pot
+janjos69: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.25 | Rake €0.16 
+Board [Ks 6h Qc]
+Seat 1: janjos69 (button) collected (€3.09)
+Seat 2: morenovlcia (small blind) folded before Flop
+Seat 3: ILOVELIMPMAMOUR (big blind) folded before Flop
+Seat 4: motomoto17 folded before Flop (didn't bet)
+Seat 5: elrober_141122 folded before Flop
+Seat 6: pipinoelbreve9 folded on the Flop
+
+
+
+PokerStars Zoom Hand #257827979564:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:17:19 CET [2025/09/21 5:17:19 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Lambda9134 (€7.37 in chips) 
+Seat 2: morenovlcia (€9.23 in chips) 
+Seat 3: lambrusco100 (€16.31 in chips) 
+Seat 4: allinfinity (€10 in chips) 
+Seat 5: pipinoelbreve9 (€10.88 in chips) 
+Seat 6: janjos69 (€10.15 in chips) 
+morenovlcia: posts small blind €0.05
+lambrusco100: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 9h]
+allinfinity: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+janjos69: folds 
+Lambda9134: calls €0.20
+morenovlcia: folds 
+lambrusco100: folds 
+*** FLOP *** [Tc Td 9c]
+allinfinity: checks 
+Lambda9134: checks 
+*** TURN *** [Tc Td 9c] [2h]
+allinfinity: bets €0.17
+Lambda9134: calls €0.17
+*** RIVER *** [Tc Td 9c 2h] [2c]
+allinfinity: checks 
+Lambda9134: checks 
+*** SHOW DOWN ***
+allinfinity: shows [4s 4h] (two pair, Tens and Fours)
+Lambda9134: mucks hand 
+allinfinity collected €0.85 from pot
+*** SUMMARY ***
+Total pot €0.89 | Rake €0.04 
+Board [Tc Td 9c 2h 2c]
+Seat 1: Lambda9134 (button) mucked [Ad 4c]
+Seat 2: morenovlcia (small blind) folded before Flop
+Seat 3: lambrusco100 (big blind) folded before Flop
+Seat 4: allinfinity showed [4s 4h] and won (€0.85) with two pair, Tens and Fours
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827980248:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:17:27 CET [2025/09/21 5:17:27 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: FLOW4422646 (€3.12 in chips) 
+Seat 2: janjos69 (€10.15 in chips) 
+Seat 3: NeverGiveupzzz (€20.05 in chips) 
+Seat 4: pipinoelbreve9 (€10.88 in chips) 
+Seat 5: elrober_141122 (€3.82 in chips) 
+Seat 6: felidor88 (€10 in chips) 
+janjos69: posts small blind €0.05
+NeverGiveupzzz: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Kd]
+NeverGiveupzzz is disconnected 
+pipinoelbreve9: raises €0.20 to €0.30
+elrober_141122: folds 
+felidor88: calls €0.30
+FLOW4422646: folds 
+janjos69: folds 
+NeverGiveupzzz has timed out while disconnected
+NeverGiveupzzz: folds 
+*** FLOP *** [2s 3h 3c]
+pipinoelbreve9: checks 
+felidor88: bets €0.26
+pipinoelbreve9: calls €0.26
+*** TURN *** [2s 3h 3c] [5c]
+pipinoelbreve9: checks 
+felidor88: checks 
+*** RIVER *** [2s 3h 3c 5c] [Kc]
+pipinoelbreve9: bets €0.61
+felidor88: folds 
+Uncalled bet (€0.61) returned to pipinoelbreve9
+pipinoelbreve9 collected €1.21 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.27 | Rake €0.06 
+Board [2s 3h 3c 5c Kc]
+Seat 1: FLOW4422646 (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) folded before Flop
+Seat 3: NeverGiveupzzz (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€1.21)
+Seat 5: elrober_141122 folded before Flop (didn't bet)
+Seat 6: felidor88 folded on the River
+
+
+
+PokerStars Zoom Hand #257827987544:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:18:48 CET [2025/09/21 5:18:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: felidor88 (€10 in chips) 
+Seat 2: WOLWERAINE (€11.35 in chips) 
+Seat 3: pipinoelbreve9 (€11.53 in chips) 
+Seat 4: elrober_141122 (€3.22 in chips) 
+Seat 5: sachtmo666 (€20.76 in chips) 
+Seat 6: janjos69 (€9.85 in chips) 
+WOLWERAINE: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s As]
+elrober_141122: folds 
+sachtmo666: folds 
+janjos69: folds 
+felidor88: folds 
+WOLWERAINE: folds 
+Uncalled bet (€0.05) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: felidor88 (button) folded before Flop (didn't bet)
+Seat 2: WOLWERAINE (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.10)
+Seat 4: elrober_141122 folded before Flop (didn't bet)
+Seat 5: sachtmo666 folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827988592:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:18:59 CET [2025/09/21 5:18:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: lambrusco100 (€10.61 in chips) 
+Seat 2: pipinoelbreve9 (€11.58 in chips) 
+Seat 3: felidor88 (€10 in chips) 
+Seat 4: vainillarica (€11.76 in chips) 
+Seat 5: STEAKssss (€10.35 in chips) 
+Seat 6: Areny_Sole (€3.41 in chips) 
+pipinoelbreve9: posts small blind €0.05
+felidor88: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Jc]
+vainillarica: raises €0.20 to €0.30
+STEAKssss: folds 
+Areny_Sole: folds 
+lambrusco100: raises €0.70 to €1
+pipinoelbreve9: folds 
+felidor88: folds 
+vainillarica: calls €0.70
+*** FLOP *** [4c 5s 8s]
+vainillarica: checks 
+lambrusco100: bets €0.57
+vainillarica: calls €0.57
+*** TURN *** [4c 5s 8s] [3c]
+vainillarica: checks 
+lambrusco100: bets €2.19
+vainillarica: folds 
+Uncalled bet (€2.19) returned to lambrusco100
+lambrusco100 collected €3.13 from pot
+lambrusco100: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.29 | Rake €0.16 
+Board [4c 5s 8s 3c]
+Seat 1: lambrusco100 (button) collected (€3.13)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: felidor88 (big blind) folded before Flop
+Seat 4: vainillarica folded on the Turn
+Seat 5: STEAKssss folded before Flop (didn't bet)
+Seat 6: Areny_Sole folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827990386:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:19:20 CET [2025/09/21 5:19:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: felidor88 (€10 in chips) 
+Seat 2: caspita295 (€14.68 in chips) 
+Seat 3: yakios84 (€5 in chips) 
+Seat 4: peibolin (€12.25 in chips) 
+Seat 5: pipinoelbreve9 (€11.53 in chips) 
+Seat 6: WOLWERAINE (€10.64 in chips) 
+caspita295: posts small blind €0.05
+yakios84: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 3d]
+peibolin: folds 
+pipinoelbreve9: folds 
+WOLWERAINE: raises €0.20 to €0.30
+felidor88: folds 
+caspita295: folds 
+yakios84: calls €0.20
+*** FLOP *** [6s Kd Jh]
+yakios84: checks 
+WOLWERAINE: bets €0.31
+yakios84: folds 
+Uncalled bet (€0.31) returned to WOLWERAINE
+WOLWERAINE collected €0.62 from pot
+WOLWERAINE: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [6s Kd Jh]
+Seat 1: felidor88 (button) folded before Flop (didn't bet)
+Seat 2: caspita295 (small blind) folded before Flop
+Seat 3: yakios84 (big blind) folded on the Flop
+Seat 4: peibolin folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: WOLWERAINE collected (€0.62)
+
+
+
+PokerStars Zoom Hand #257827990137:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:19:17 CET [2025/09/21 5:19:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ILOVELIMPMAMOUR (€8.31 in chips) 
+Seat 2: Ihave2call8 (€10.15 in chips) 
+Seat 3: motomoto17 (€9.63 in chips) 
+Seat 4: basukun (€12.95 in chips) 
+Seat 5: Pierre3640 (€8 in chips) 
+Seat 6: pipinoelbreve9 (€11.53 in chips) 
+Ihave2call8: posts small blind €0.05
+motomoto17: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d As]
+basukun: folds 
+Pierre3640: folds 
+pipinoelbreve9: folds 
+ILOVELIMPMAMOUR: raises €0.15 to €0.25
+Ihave2call8: folds 
+motomoto17: calls €0.15
+*** FLOP *** [2h 3d Qc]
+motomoto17: checks 
+ILOVELIMPMAMOUR: bets €0.35
+motomoto17: calls €0.35
+*** TURN *** [2h 3d Qc] [6c]
+motomoto17: checks 
+ILOVELIMPMAMOUR: bets €0.65
+motomoto17: calls €0.65
+*** RIVER *** [2h 3d Qc 6c] [9s]
+motomoto17: checks 
+ILOVELIMPMAMOUR: checks 
+*** SHOW DOWN ***
+motomoto17: shows [Qh Kc] (a pair of Queens)
+ILOVELIMPMAMOUR: mucks hand 
+motomoto17 collected €2.42 from pot
+*** SUMMARY ***
+Total pot €2.55 | Rake €0.13 
+Board [2h 3d Qc 6c 9s]
+Seat 1: ILOVELIMPMAMOUR (button) mucked [Jc 9d]
+Seat 2: Ihave2call8 (small blind) folded before Flop
+Seat 3: motomoto17 (big blind) showed [Qh Kc] and won (€2.42) with a pair of Queens
+Seat 4: basukun folded before Flop (didn't bet)
+Seat 5: Pierre3640 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827990745:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:19:24 CET [2025/09/21 5:19:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: STEAKssss (€10.25 in chips) 
+Seat 2: Toni_Alz (€8.60 in chips) 
+Seat 3: basukun (€12.95 in chips) 
+Seat 4: pipinoelbreve9 (€11.53 in chips) 
+Seat 5: NAlexandru22 (€18.23 in chips) 
+Seat 6: bacanhim75 (€3.14 in chips) 
+Toni_Alz: posts small blind €0.05
+basukun: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Kh]
+pipinoelbreve9: raises €0.20 to €0.30
+NAlexandru22: raises €0.90 to €1.20
+bacanhim75: folds 
+STEAKssss: folds 
+Toni_Alz: folds 
+basukun: folds 
+pipinoelbreve9: calls €0.90
+*** FLOP *** [6s 3d Td]
+pipinoelbreve9: checks 
+NAlexandru22: checks 
+*** TURN *** [6s 3d Td] [4h]
+pipinoelbreve9: bets €1.21
+NAlexandru22: folds 
+Uncalled bet (€1.21) returned to pipinoelbreve9
+pipinoelbreve9 collected €2.42 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.55 | Rake €0.13 
+Board [6s 3d Td 4h]
+Seat 1: STEAKssss (button) folded before Flop (didn't bet)
+Seat 2: Toni_Alz (small blind) folded before Flop
+Seat 3: basukun (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€2.42)
+Seat 5: NAlexandru22 folded on the Turn
+Seat 6: bacanhim75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827989739:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:19:12 CET [2025/09/21 5:19:12 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€11.53 in chips) 
+Seat 2: motomoto17 (€9.68 in chips) 
+Seat 3: Areny_Sole (€3.41 in chips) 
+Seat 4: vertedin (€9.34 in chips) 
+Seat 5: janjos69 (€9.80 in chips) 
+Seat 6: Frekos8975 (€10.57 in chips) 
+motomoto17: posts small blind €0.05
+Areny_Sole: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 4h]
+vertedin: folds 
+janjos69: raises €0.20 to €0.30
+Frekos8975: folds 
+pipinoelbreve9: folds 
+motomoto17: folds 
+Areny_Sole: raises €0.40 to €0.70
+janjos69: calls €0.40
+*** FLOP *** [6c 9h As]
+Areny_Sole: checks 
+janjos69: checks 
+*** TURN *** [6c 9h As] [5h]
+Areny_Sole: checks 
+janjos69: checks 
+*** RIVER *** [6c 9h As 5h] [8d]
+Areny_Sole: checks 
+janjos69: bets €1.20
+Areny_Sole: raises €1.20 to €2.40
+janjos69: calls €1.20
+*** SHOW DOWN ***
+Areny_Sole: shows [Kc Ah] (a pair of Aces)
+janjos69: shows [7s 7c] (a straight, Five to Nine)
+janjos69 collected €5.94 from pot
+*** SUMMARY ***
+Total pot €6.25 | Rake €0.31 
+Board [6c 9h As 5h 8d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: motomoto17 (small blind) folded before Flop
+Seat 3: Areny_Sole (big blind) showed [Kc Ah] and lost with a pair of Aces
+Seat 4: vertedin folded before Flop (didn't bet)
+Seat 5: janjos69 showed [7s 7c] and won (€5.94) with a straight, Five to Nine
+Seat 6: Frekos8975 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827995370:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:20:15 CET [2025/09/21 5:20:15 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€12.75 in chips) 
+Seat 2: carmenberdun_ (€5.99 in chips) 
+Seat 3: morenovlcia (€8.38 in chips) 
+Seat 4: Ihave2call8 (€10.25 in chips) 
+Seat 5: motomoto17 (€10.80 in chips) 
+Seat 6: lambrusco100 (€15.92 in chips) 
+carmenberdun_: posts small blind €0.05
+morenovlcia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 5s]
+Ihave2call8: folds 
+motomoto17: raises €0.20 to €0.30
+lambrusco100: folds 
+pipinoelbreve9: folds 
+carmenberdun_: calls €0.25
+morenovlcia: calls €0.20
+*** FLOP *** [Qd 4c 5d]
+carmenberdun_: bets €0.10
+morenovlcia: calls €0.10
+motomoto17: calls €0.10
+*** TURN *** [Qd 4c 5d] [5h]
+carmenberdun_: bets €0.10
+morenovlcia: calls €0.10
+motomoto17: calls €0.10
+*** RIVER *** [Qd 4c 5d 5h] [9d]
+carmenberdun_: checks 
+morenovlcia: bets €0.30
+motomoto17: raises €0.50 to €0.80
+carmenberdun_: folds 
+morenovlcia: folds 
+Uncalled bet (€0.50) returned to motomoto17
+motomoto17 collected €2 from pot
+motomoto17: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.10 | Rake €0.10 
+Board [Qd 4c 5d 5h 9d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: carmenberdun_ (small blind) folded on the River
+Seat 3: morenovlcia (big blind) folded on the River
+Seat 4: Ihave2call8 folded before Flop (didn't bet)
+Seat 5: motomoto17 collected (€2)
+Seat 6: lambrusco100 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827995999:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:20:22 CET [2025/09/21 5:20:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: javimarca (€10.51 in chips) 
+Seat 2: dragon9816 (€10.68 in chips) 
+Seat 3: pipinoelbreve9 (€12.75 in chips) 
+Seat 4: Ihave2call8 (€10 in chips) 
+Seat 5: 35sylar (€10 in chips) 
+Seat 6: poyito loco (€20.15 in chips) 
+dragon9816: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js Qc]
+Ihave2call8: folds 
+35sylar: raises €0.15 to €0.25
+poyito loco: folds 
+javimarca: calls €0.25
+dragon9816: folds 
+pipinoelbreve9: calls €0.15
+*** FLOP *** [2d 8c 8d]
+pipinoelbreve9: checks 
+35sylar: bets €0.38
+javimarca: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.38) returned to 35sylar
+35sylar collected €0.76 from pot
+35sylar: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04 
+Board [2d 8c 8d]
+Seat 1: javimarca (button) folded on the Flop
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: Ihave2call8 folded before Flop (didn't bet)
+Seat 5: 35sylar collected (€0.76)
+Seat 6: poyito loco folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257827999272:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:20:58 CET [2025/09/21 5:20:58 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: morenovlcia (€7.58 in chips) 
+Seat 2: pipinoelbreve9 (€12.50 in chips) 
+Seat 3: sachtmo666 (€21.10 in chips) 
+Seat 4: janjos69 (€12.11 in chips) 
+Seat 5: dragon9816 (€10.33 in chips) 
+Seat 6: nsqczzl53 (€10.66 in chips) 
+pipinoelbreve9: posts small blind €0.05
+sachtmo666: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 3s]
+janjos69: raises €0.20 to €0.30
+dragon9816: raises €0.60 to €0.90
+nsqczzl53: folds 
+morenovlcia: folds 
+pipinoelbreve9: folds 
+sachtmo666: raises €2.15 to €3.05
+janjos69: folds 
+dragon9816: folds 
+Uncalled bet (€2.15) returned to sachtmo666
+sachtmo666 collected €2.15 from pot
+sachtmo666: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.15 | Rake €0 
+Seat 1: morenovlcia (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: sachtmo666 (big blind) collected (€2.15)
+Seat 4: janjos69 folded before Flop
+Seat 5: dragon9816 folded before Flop
+Seat 6: nsqczzl53 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828000650:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:21:13 CET [2025/09/21 5:21:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: margog55 (€6.65 in chips) 
+Seat 2: lambrusco100 (€11.27 in chips) 
+Seat 3: trevel2727 (€4.75 in chips) 
+Seat 4: Areny_Sole (€0.11 in chips) 
+Seat 5: pipinoelbreve9 (€12.45 in chips) 
+Seat 6: grandpa83000 (€20.46 in chips) 
+lambrusco100: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd Kd]
+Areny_Sole: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+grandpa83000: folds 
+margog55: folds 
+lambrusco100: folds 
+trevel2727: folds 
+Uncalled bet (€0.20) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: margog55 (button) folded before Flop (didn't bet)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) folded before Flop
+Seat 4: Areny_Sole folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (€0.25)
+Seat 6: grandpa83000 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828002286:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:21:30 CET [2025/09/21 5:21:30 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: sachtmo666 (€22.35 in chips) 
+Seat 2: morenovlcia (€7.58 in chips) 
+Seat 3: nsqczzl53 (€10.66 in chips) 
+Seat 4: pipinoelbreve9 (€12.60 in chips) 
+Seat 5: superdutyy (€17.79 in chips) 
+Seat 6: dragon9816 (€10 in chips) 
+morenovlcia: posts small blind €0.05
+nsqczzl53: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Kc]
+pipinoelbreve9: raises €0.20 to €0.30
+superdutyy: folds 
+dragon9816: folds 
+sachtmo666: calls €0.30
+morenovlcia: folds 
+nsqczzl53: calls €0.20
+*** FLOP *** [7d 7c Ah]
+nsqczzl53: checks 
+pipinoelbreve9: bets €0.45
+sachtmo666: folds 
+nsqczzl53: folds 
+Uncalled bet (€0.45) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.90 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.05 
+Board [7d 7c Ah]
+Seat 1: sachtmo666 (button) folded on the Flop
+Seat 2: morenovlcia (small blind) folded before Flop
+Seat 3: nsqczzl53 (big blind) folded on the Flop
+Seat 4: pipinoelbreve9 collected (€0.90)
+Seat 5: superdutyy folded before Flop (didn't bet)
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828000124:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:21:07 CET [2025/09/21 5:21:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 35sylar (€10.51 in chips) 
+Seat 2: margog55 (€6.70 in chips) 
+Seat 3: caspita295 (€19.33 in chips) 
+Seat 4: lambrusco100 (€11.27 in chips) 
+Seat 5: Areny_Sole (€0.11 in chips) 
+Seat 6: pipinoelbreve9 (€12.45 in chips) 
+margog55: posts small blind €0.05
+caspita295: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Ks]
+lambrusco100: folds 
+Areny_Sole: folds 
+pipinoelbreve9: folds 
+35sylar: raises €0.15 to €0.25
+margog55: folds 
+caspita295: raises €0.75 to €1
+35sylar: calls €0.75
+*** FLOP *** [8h As 7s]
+caspita295: checks 
+35sylar: bets €1.03
+caspita295: folds 
+Uncalled bet (€1.03) returned to 35sylar
+35sylar collected €1.95 from pot
+35sylar: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.05 | Rake €0.10 
+Board [8h As 7s]
+Seat 1: 35sylar (button) collected (€1.95)
+Seat 2: margog55 (small blind) folded before Flop
+Seat 3: caspita295 (big blind) folded on the Flop
+Seat 4: lambrusco100 folded before Flop (didn't bet)
+Seat 5: Areny_Sole folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828005188:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:02 CET [2025/09/21 5:22:02 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: vertedin (€11.06 in chips) 
+Seat 2: Areny_Sole (€0.35 in chips) 
+Seat 3: pipinoelbreve9 (€13.20 in chips) 
+Seat 4: WOLWERAINE (€14.43 in chips) 
+Seat 5: Pierre3640 (€5.52 in chips) 
+Seat 6: felidor88 (€10.36 in chips) 
+Areny_Sole: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 8d]
+WOLWERAINE: raises €0.20 to €0.30
+Pierre3640: calls €0.30
+felidor88: raises €0.95 to €1.25
+vertedin: folds 
+Areny_Sole: folds 
+pipinoelbreve9: folds 
+WOLWERAINE: raises €2.95 to €4.20
+Pierre3640: folds 
+felidor88: folds 
+Uncalled bet (€2.95) returned to WOLWERAINE
+WOLWERAINE collected €2.95 from pot
+WOLWERAINE: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.95 | Rake €0 
+Seat 1: vertedin (button) folded before Flop (didn't bet)
+Seat 2: Areny_Sole (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: WOLWERAINE collected (€2.95)
+Seat 5: Pierre3640 folded before Flop
+Seat 6: felidor88 folded before Flop
+
+
+
+PokerStars Zoom Hand #257828006188:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:13 CET [2025/09/21 5:22:13 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Ihave2call8 (€10 in chips) 
+Seat 2: xapi666 (€10 in chips) 
+Seat 3: trevel2727 (€3.42 in chips) 
+Seat 4: 35sylar (€10 in chips) 
+Seat 5: ILOVELIMPMAMOUR (€5.33 in chips) 
+Seat 6: pipinoelbreve9 (€13.05 in chips) 
+xapi666: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Ad]
+35sylar: folds 
+ILOVELIMPMAMOUR: folds 
+pipinoelbreve9: folds 
+Ihave2call8: folds 
+xapi666: raises €0.16 to €0.26
+trevel2727: folds 
+Uncalled bet (€0.16) returned to xapi666
+xapi666 collected €0.20 from pot
+xapi666: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Ihave2call8 (button) folded before Flop (didn't bet)
+Seat 2: xapi666 (small blind) collected (€0.20)
+Seat 3: trevel2727 (big blind) folded before Flop
+Seat 4: 35sylar folded before Flop (didn't bet)
+Seat 5: ILOVELIMPMAMOUR folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828004729:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:21:57 CET [2025/09/21 5:21:57 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€13.20 in chips) 
+Seat 2: bacanhim75 (€5.24 in chips) 
+Seat 3: STEAKssss (€10 in chips) 
+Seat 4: WOLWERAINE (€14.43 in chips) 
+Seat 5: felidor88 (€10.36 in chips) 
+Seat 6: vertedin (€11.06 in chips) 
+bacanhim75: posts small blind €0.05
+STEAKssss: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 3h]
+WOLWERAINE: folds 
+felidor88: folds 
+vertedin: folds 
+pipinoelbreve9: folds 
+bacanhim75: raises €0.10 to €0.20
+STEAKssss: calls €0.10
+*** FLOP *** [Th 4d 8c]
+bacanhim75: checks 
+STEAKssss: bets €0.13
+bacanhim75: calls €0.13
+*** TURN *** [Th 4d 8c] [9h]
+bacanhim75: checks 
+STEAKssss: checks 
+*** RIVER *** [Th 4d 8c 9h] [7s]
+bacanhim75: bets €0.63
+STEAKssss: raises €1.77 to €2.40
+bacanhim75: raises €1.77 to €4.17
+STEAKssss: raises €1.77 to €5.94
+bacanhim75: calls €0.74 and is all-in
+Uncalled bet (€1.03) returned to STEAKssss
+*** SHOW DOWN ***
+STEAKssss: shows [8s Jh] (a straight, Seven to Jack)
+bacanhim75: shows [Ks Jc] (a straight, Seven to Jack)
+bacanhim75 collected €4.98 from pot
+STEAKssss collected €4.98 from pot
+*** SUMMARY ***
+Total pot €10.48 | Rake €0.52 
+Board [Th 4d 8c 9h 7s]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: bacanhim75 (small blind) showed [Ks Jc] and won (€4.98) with a straight, Seven to Jack
+Seat 3: STEAKssss (big blind) showed [8s Jh] and won (€4.98) with a straight, Seven to Jack
+Seat 4: WOLWERAINE folded before Flop (didn't bet)
+Seat 5: felidor88 folded before Flop (didn't bet)
+Seat 6: vertedin folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828006854:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:20 CET [2025/09/21 5:22:20 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: poyito loco (€18.34 in chips) 
+Seat 2: vertedin (€11.01 in chips) 
+Seat 3: Toni_Alz (€5.76 in chips) 
+Seat 4: pipinoelbreve9 (€13.05 in chips) 
+Seat 5: lambrusco100 (€10.87 in chips) 
+Seat 6: superdutyy (€17.54 in chips) 
+vertedin: posts small blind €0.05
+Toni_Alz: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 9c]
+pipinoelbreve9: folds 
+lambrusco100: folds 
+superdutyy: folds 
+poyito loco: calls €0.10
+vertedin: folds 
+Toni_Alz: checks 
+*** FLOP *** [8s Ks Td]
+Toni_Alz: checks 
+poyito loco: checks 
+*** TURN *** [8s Ks Td] [7h]
+Toni_Alz: checks 
+poyito loco: checks 
+*** RIVER *** [8s Ks Td 7h] [5c]
+Toni_Alz: bets €0.10
+poyito loco: calls €0.10
+*** SHOW DOWN ***
+Toni_Alz: shows [5h 2c] (a pair of Fives)
+poyito loco: shows [Kh 6c] (a pair of Kings)
+poyito loco collected €0.43 from pot
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02 
+Board [8s Ks Td 7h 5c]
+Seat 1: poyito loco (button) showed [Kh 6c] and won (€0.43) with a pair of Kings
+Seat 2: vertedin (small blind) folded before Flop
+Seat 3: Toni_Alz (big blind) showed [5h 2c] and lost with a pair of Fives
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: lambrusco100 folded before Flop (didn't bet)
+Seat 6: superdutyy folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828005823:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:09 CET [2025/09/21 5:22:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ILOVELIMPMAMOUR (€5.33 in chips) 
+Seat 2: pipinoelbreve9 (€13.10 in chips) 
+Seat 3: margog55 (€6.10 in chips) 
+Seat 4: janjos69 (€11.71 in chips) 
+Seat 5: 35sylar (€10 in chips) 
+Seat 6: vainillarica (€11.56 in chips) 
+pipinoelbreve9: posts small blind €0.05
+margog55: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 5h]
+janjos69: folds 
+35sylar: folds 
+vainillarica: raises €0.20 to €0.30
+ILOVELIMPMAMOUR: folds 
+pipinoelbreve9: folds 
+margog55: calls €0.20
+*** FLOP *** [Kh 6h Ah]
+margog55: checks 
+vainillarica: bets €0.15
+margog55: folds 
+Uncalled bet (€0.15) returned to vainillarica
+vainillarica collected €0.62 from pot
+vainillarica: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [Kh 6h Ah]
+Seat 1: ILOVELIMPMAMOUR (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: margog55 (big blind) folded on the Flop
+Seat 4: janjos69 folded before Flop (didn't bet)
+Seat 5: 35sylar folded before Flop (didn't bet)
+Seat 6: vainillarica collected (€0.62)
+
+
+
+PokerStars Zoom Hand #257828007144:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:24 CET [2025/09/21 5:22:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€13.05 in chips) 
+Seat 2: dragon9816 (€10.05 in chips) 
+Seat 3: cipian74 (€8 in chips) 
+Seat 4: caspita295 (€18.33 in chips) 
+Seat 5: Lambda9134 (€7.06 in chips) 
+Seat 6: Cactus54130 (€6.92 in chips) 
+dragon9816: posts small blind €0.05
+cipian74: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 4h]
+caspita295: folds 
+Lambda9134: folds 
+Cactus54130: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+dragon9816: folds 
+cipian74: calls €0.10
+*** FLOP *** [4d 7c 7h]
+cipian74: checks 
+Cactus54130: bets €0.43
+cipian74: folds 
+Uncalled bet (€0.43) returned to Cactus54130
+Cactus54130 collected €0.43 from pot
+Cactus54130: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02 
+Board [4d 7c 7h]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: cipian74 (big blind) folded on the Flop
+Seat 4: caspita295 folded before Flop (didn't bet)
+Seat 5: Lambda9134 folded before Flop (didn't bet)
+Seat 6: Cactus54130 collected (€0.43)
+
+
+
+PokerStars Zoom Hand #257828008038:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:33 CET [2025/09/21 5:22:33 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: abirras83 (€9.85 in chips) 
+Seat 2: trevel2727 (€3.32 in chips) 
+Seat 3: cipian74 (€8 in chips) 
+Seat 4: superdutyy (€17.54 in chips) 
+Seat 5: pipinoelbreve9 (€13.05 in chips) 
+Seat 6: allinfinity (€10.47 in chips) 
+trevel2727: posts small blind €0.05
+cipian74: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 8d]
+superdutyy: folds 
+pipinoelbreve9: folds 
+allinfinity: folds 
+abirras83: folds 
+trevel2727: raises €0.10 to €0.20
+cipian74: calls €0.10
+*** FLOP *** [8h Ac 2c]
+trevel2727: bets €0.20
+cipian74: calls €0.20
+*** TURN *** [8h Ac 2c] [6s]
+trevel2727: bets €0.38
+cipian74: calls €0.38
+*** RIVER *** [8h Ac 2c 6s] [Td]
+trevel2727: checks 
+cipian74: bets €0.60
+trevel2727: calls €0.60
+*** SHOW DOWN ***
+cipian74: shows [3s Ah] (a pair of Aces)
+trevel2727: shows [3d As] (a pair of Aces)
+trevel2727 collected €1.31 from pot
+cipian74 collected €1.31 from pot
+*** SUMMARY ***
+Total pot €2.76 | Rake €0.14 
+Board [8h Ac 2c 6s Td]
+Seat 1: abirras83 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) showed [3d As] and won (€1.31) with a pair of Aces
+Seat 3: cipian74 (big blind) showed [3s Ah] and won (€1.31) with a pair of Aces
+Seat 4: superdutyy folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: allinfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828008428:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:37 CET [2025/09/21 5:22:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: yakios84 (€2 in chips) 
+Seat 2: pipinoelbreve9 (€13.05 in chips) 
+Seat 3: superdutyy (€17.54 in chips) 
+Seat 4: 35sylar (€11.46 in chips) 
+Seat 5: peibolin (€12.20 in chips) 
+Seat 6: abirras83 (€9.85 in chips) 
+pipinoelbreve9: posts small blind €0.05
+superdutyy: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Td]
+35sylar: folds 
+peibolin: calls €0.10
+abirras83: folds 
+yakios84: folds 
+pipinoelbreve9: calls €0.05
+superdutyy: checks 
+*** FLOP *** [Tc Th Qc]
+pipinoelbreve9: checks 
+superdutyy: checks 
+peibolin: checks 
+*** TURN *** [Tc Th Qc] [Jd]
+pipinoelbreve9: bets €0.14
+superdutyy: folds 
+peibolin: folds 
+Uncalled bet (€0.14) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.28 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.02 
+Board [Tc Th Qc Jd]
+Seat 1: yakios84 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.28)
+Seat 3: superdutyy (big blind) folded on the Turn
+Seat 4: 35sylar folded before Flop (didn't bet)
+Seat 5: peibolin folded on the Turn
+Seat 6: abirras83 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828012022:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:17 CET [2025/09/21 5:23:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: peibolin (€12 in chips) 
+Seat 2: abirras83 (€9.75 in chips) 
+Seat 3: bacanhim75 (€4.88 in chips) 
+Seat 4: pipinoelbreve9 (€13.13 in chips) 
+Seat 5: dragon9816 (€10 in chips) 
+Seat 6: trevel2727 (€4.73 in chips) 
+abirras83: posts small blind €0.05
+bacanhim75: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 2c]
+pipinoelbreve9: folds 
+dragon9816: folds 
+trevel2727: folds 
+peibolin: folds 
+abirras83: folds 
+Uncalled bet (€0.05) returned to bacanhim75
+bacanhim75 collected €0.10 from pot
+bacanhim75: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: peibolin (button) folded before Flop (didn't bet)
+Seat 2: abirras83 (small blind) folded before Flop
+Seat 3: bacanhim75 (big blind) collected (€0.10)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: dragon9816 folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828011556:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:11 CET [2025/09/21 5:23:11 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: abirras83 (€9.70 in chips) 
+Seat 2: Lambda9134 (€6.72 in chips) 
+Seat 3: pipinoelbreve9 (€13.23 in chips) 
+Seat 4: grandpa83000 (€19.72 in chips) 
+Seat 5: vertedin (€11.49 in chips) 
+Seat 6: trevel2727 (€3.25 in chips) 
+Lambda9134: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 6h]
+grandpa83000: raises €0.20 to €0.30
+vertedin: folds 
+trevel2727: folds 
+abirras83: folds 
+Lambda9134: calls €0.25
+pipinoelbreve9: folds 
+*** FLOP *** [Js 5c 8s]
+Lambda9134: checks 
+grandpa83000: bets €0.33
+Lambda9134: calls €0.33
+*** TURN *** [Js 5c 8s] [5s]
+Lambda9134: checks 
+grandpa83000: checks 
+*** RIVER *** [Js 5c 8s 5s] [6s]
+Lambda9134: checks 
+grandpa83000: bets €1.29
+Lambda9134: folds 
+Uncalled bet (€1.29) returned to grandpa83000
+grandpa83000 collected €1.29 from pot
+grandpa83000: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.36 | Rake €0.07 
+Board [Js 5c 8s 5s 6s]
+Seat 1: abirras83 (button) folded before Flop (didn't bet)
+Seat 2: Lambda9134 (small blind) folded on the River
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: grandpa83000 collected (€1.29)
+Seat 5: vertedin folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828006599:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:22:18 CET [2025/09/21 5:22:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Cactus54130 (€6.92 in chips) 
+Seat 2: janjos69 (€11.71 in chips) 
+Seat 3: 35sylar (€10 in chips) 
+Seat 4: ILOVELIMPMAMOUR (€5.33 in chips) 
+Seat 5: pipinoelbreve9 (€13.05 in chips) 
+Seat 6: Pierre3640 (€5.22 in chips) 
+janjos69: posts small blind €0.05
+35sylar: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 6s]
+ILOVELIMPMAMOUR: raises €0.15 to €0.25
+pipinoelbreve9: folds 
+Pierre3640: calls €0.25
+Cactus54130: folds 
+janjos69: calls €0.20
+35sylar: calls €0.15
+*** FLOP *** [3s 3c 2s]
+janjos69: checks 
+35sylar: checks 
+ILOVELIMPMAMOUR: checks 
+Pierre3640: checks 
+*** TURN *** [3s 3c 2s] [3h]
+janjos69: checks 
+35sylar: checks 
+ILOVELIMPMAMOUR: checks 
+Pierre3640: checks 
+*** RIVER *** [3s 3c 2s 3h] [9h]
+janjos69: checks 
+35sylar: checks 
+ILOVELIMPMAMOUR: checks 
+Pierre3640: checks 
+*** SHOW DOWN ***
+janjos69: shows [As Qh] (three of a kind, Threes)
+35sylar: mucks hand 
+ILOVELIMPMAMOUR: mucks hand 
+Pierre3640: mucks hand 
+janjos69 collected €0.95 from pot
+*** SUMMARY ***
+Total pot €1 | Rake €0.05 
+Board [3s 3c 2s 3h 9h]
+Seat 1: Cactus54130 (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) showed [As Qh] and won (€0.95) with three of a kind, Threes
+Seat 3: 35sylar (big blind) mucked [Ad Jc]
+Seat 4: ILOVELIMPMAMOUR mucked [6c 5c]
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Pierre3640 mucked [Ks Ts]
+
+
+
+PokerStars Zoom Hand #257828012539:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:22 CET [2025/09/21 5:23:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: abirras83 (€9.70 in chips) 
+Seat 2: dragon9816 (€10.13 in chips) 
+Seat 3: xapi666 (€10.92 in chips) 
+Seat 4: lambrusco100 (€11.22 in chips) 
+Seat 5: superdutyy (€17.39 in chips) 
+Seat 6: pipinoelbreve9 (€13.13 in chips) 
+dragon9816: posts small blind €0.05
+xapi666: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 6c]
+lambrusco100: raises €0.15 to €0.25
+superdutyy: folds 
+pipinoelbreve9: folds 
+abirras83: calls €0.25
+dragon9816: folds 
+xapi666: folds 
+*** FLOP *** [Ks 9h 2s]
+lambrusco100: bets €0.20
+abirras83: folds 
+Uncalled bet (€0.20) returned to lambrusco100
+lambrusco100 collected €0.62 from pot
+lambrusco100: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [Ks 9h 2s]
+Seat 1: abirras83 (button) folded on the Flop
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: xapi666 (big blind) folded before Flop
+Seat 4: lambrusco100 collected (€0.62)
+Seat 5: superdutyy folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828014455:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:43 CET [2025/09/21 5:23:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: SE Unlucky (€10.49 in chips) 
+Seat 2: lambrusco100 (€16.60 in chips) 
+Seat 3: pipinoelbreve9 (€13.13 in chips) 
+Seat 4: janjos69 (€11.63 in chips) 
+Seat 5: dragon9816 (€10.08 in chips) 
+Seat 6: abirras83 (€9.45 in chips) 
+lambrusco100: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 5c]
+janjos69: folds 
+dragon9816: folds 
+abirras83: raises €0.20 to €0.30
+SE Unlucky: folds 
+lambrusco100: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.20) returned to abirras83
+abirras83 collected €0.25 from pot
+abirras83: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: SE Unlucky (button) folded before Flop (didn't bet)
+Seat 2: lambrusco100 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: janjos69 folded before Flop (didn't bet)
+Seat 5: dragon9816 folded before Flop (didn't bet)
+Seat 6: abirras83 collected (€0.25)
+
+
+
+PokerStars Zoom Hand #257828013865:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:37 CET [2025/09/21 5:23:37 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€13.13 in chips) 
+Seat 2: carmenberdun_ (€5.17 in chips) 
+Seat 3: trevel2727 (€3.39 in chips) 
+Seat 4: xapi666 (€10.82 in chips) 
+Seat 5: caspita295 (€18.60 in chips) 
+Seat 6: margog55 (€5.48 in chips) 
+carmenberdun_: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 3d]
+xapi666: raises €0.15 to €0.25
+caspita295: folds 
+margog55: calls €0.25
+pipinoelbreve9: folds 
+carmenberdun_: folds 
+trevel2727: raises €3.14 to €3.39 and is all-in
+xapi666: folds 
+margog55: calls €3.14
+*** FLOP *** [Jc 9h 8s]
+*** TURN *** [Jc 9h 8s] [6c]
+*** RIVER *** [Jc 9h 8s 6c] [Qc]
+*** SHOW DOWN ***
+trevel2727: shows [Ac Qs] (a pair of Queens)
+margog55: shows [2d Ad] (high card Ace)
+trevel2727 collected €6.73 from pot
+*** SUMMARY ***
+Total pot €7.08 | Rake €0.35 
+Board [Jc 9h 8s 6c Qc]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: carmenberdun_ (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) showed [Ac Qs] and won (€6.73) with a pair of Queens
+Seat 4: xapi666 folded before Flop
+Seat 5: caspita295 folded before Flop (didn't bet)
+Seat 6: margog55 showed [2d Ad] and lost with high card Ace
+
+
+
+PokerStars Zoom Hand #257828013191:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:23:30 CET [2025/09/21 5:23:30 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: superdutyy (€17.39 in chips) 
+Seat 2: vertedin (€11.39 in chips) 
+Seat 3: dragon9816 (€10 in chips) 
+Seat 4: pipinoelbreve9 (€13.13 in chips) 
+Seat 5: javimarca (€19.92 in chips) 
+Seat 6: caspita295 (€18.60 in chips) 
+vertedin: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 6d]
+pipinoelbreve9: folds 
+javimarca: folds 
+caspita295: folds 
+superdutyy: folds 
+vertedin: raises €0.10 to €0.20
+dragon9816: raises €0.60 to €0.80
+vertedin: calls €0.60
+*** FLOP *** [Jh Ac 2c]
+vertedin: checks 
+dragon9816: bets €0.50
+vertedin: calls €0.50
+*** TURN *** [Jh Ac 2c] [Ts]
+vertedin: checks 
+dragon9816: bets €1.55
+vertedin: raises €1.55 to €3.10
+dragon9816: calls €1.55
+*** RIVER *** [Jh Ac 2c Ts] [Ad]
+vertedin: bets €4.18
+dragon9816: calls €4.18
+*** SHOW DOWN ***
+vertedin: shows [Kc Qs] (a straight, Ten to Ace)
+dragon9816: mucks hand 
+vertedin collected €16.30 from pot
+*** SUMMARY ***
+Total pot €17.16 | Rake €0.86 
+Board [Jh Ac 2c Ts Ad]
+Seat 1: superdutyy (button) folded before Flop (didn't bet)
+Seat 2: vertedin (small blind) showed [Kc Qs] and won (€16.30) with a straight, Ten to Ace
+Seat 3: dragon9816 (big blind) mucked [As Qd]
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: javimarca folded before Flop (didn't bet)
+Seat 6: caspita295 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828017561:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:24:16 CET [2025/09/21 5:24:16 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€12.98 in chips) 
+Seat 2: morenovlcia (€7.51 in chips) 
+Seat 3: janjos69 (€11.73 in chips) 
+Seat 4: Frekos8975 (€11.54 in chips) 
+Seat 5: abirras83 (€9.55 in chips) 
+Seat 6: WOLWERAINE (€16.51 in chips) 
+morenovlcia: posts small blind €0.05
+janjos69: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Qh]
+Frekos8975: folds 
+abirras83: folds 
+WOLWERAINE: raises €0.20 to €0.30
+pipinoelbreve9: raises €0.30 to €0.60
+morenovlcia: folds 
+janjos69: folds 
+WOLWERAINE: calls €0.30
+*** FLOP *** [2s 4s 5d]
+WOLWERAINE: bets €0.64
+pipinoelbreve9: folds 
+Uncalled bet (€0.64) returned to WOLWERAINE
+WOLWERAINE collected €1.28 from pot
+WOLWERAINE: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.35 | Rake €0.07 
+Board [2s 4s 5d]
+Seat 1: pipinoelbreve9 (button) folded on the Flop
+Seat 2: morenovlcia (small blind) folded before Flop
+Seat 3: janjos69 (big blind) folded before Flop
+Seat 4: Frekos8975 folded before Flop (didn't bet)
+Seat 5: abirras83 folded before Flop (didn't bet)
+Seat 6: WOLWERAINE collected (€1.28)
+
+
+
+PokerStars Zoom Hand #257828016917:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:24:09 CET [2025/09/21 5:24:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 35sylar (€11.31 in chips) 
+Seat 2: pipinoelbreve9 (€13.03 in chips) 
+Seat 3: STEAKssss (€10.37 in chips) 
+Seat 4: abirras83 (€9.55 in chips) 
+Seat 5: cipian74 (€8.45 in chips) 
+Seat 6: grandpa83000 (€20.23 in chips) 
+pipinoelbreve9: posts small blind €0.05
+STEAKssss: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 8c]
+abirras83: folds 
+cipian74: folds 
+grandpa83000: folds 
+35sylar: raises €0.20 to €0.30
+pipinoelbreve9: folds 
+STEAKssss: calls €0.20
+*** FLOP *** [Qs 6h 7d]
+STEAKssss: checks 
+35sylar: bets €0.47
+STEAKssss: calls €0.47
+*** TURN *** [Qs 6h 7d] [As]
+STEAKssss: checks 
+35sylar: checks 
+*** RIVER *** [Qs 6h 7d As] [6c]
+STEAKssss: checks 
+35sylar: checks 
+*** SHOW DOWN ***
+STEAKssss: shows [Ac Td] (two pair, Aces and Sixes)
+35sylar: mucks hand 
+STEAKssss collected €1.51 from pot
+*** SUMMARY ***
+Total pot €1.59 | Rake €0.08 
+Board [Qs 6h 7d As 6c]
+Seat 1: 35sylar (button) mucked [Kd Qd]
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: STEAKssss (big blind) showed [Ac Td] and won (€1.51) with two pair, Aces and Sixes
+Seat 4: abirras83 folded before Flop (didn't bet)
+Seat 5: cipian74 folded before Flop (didn't bet)
+Seat 6: grandpa83000 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828016508:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:24:05 CET [2025/09/21 5:24:05 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: 35sylar (€10 in chips) 
+Seat 2: peibolin (€11.80 in chips) 
+Seat 3: vainillarica (€10 in chips) 
+Seat 4: pipinoelbreve9 (€13.03 in chips) 
+Seat 5: Frekos8975 (€11.54 in chips) 
+Seat 6: bacanhim75 (€5.02 in chips) 
+peibolin: posts small blind €0.05
+vainillarica: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 6d]
+pipinoelbreve9: folds 
+Frekos8975: folds 
+bacanhim75: folds 
+35sylar: raises €0.15 to €0.25
+peibolin: calls €0.20
+vainillarica: calls €0.15
+*** FLOP *** [Jd 7h Qh]
+peibolin: bets €2.70
+vainillarica: folds 
+35sylar: raises €7.05 to €9.75 and is all-in
+peibolin: calls €7.05
+*** TURN *** [Jd 7h Qh] [2s]
+*** RIVER *** [Jd 7h Qh 2s] [9c]
+*** SHOW DOWN ***
+peibolin: shows [Qs 6s] (a pair of Queens)
+35sylar: shows [Ah 4h] (high card Ace)
+peibolin collected €19.24 from pot
+*** SUMMARY ***
+Total pot €20.25 | Rake €1.01 
+Board [Jd 7h Qh 2s 9c]
+Seat 1: 35sylar (button) showed [Ah 4h] and lost with high card Ace
+Seat 2: peibolin (small blind) showed [Qs 6s] and won (€19.24) with a pair of Queens
+Seat 3: vainillarica (big blind) folded on the Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Frekos8975 folded before Flop (didn't bet)
+Seat 6: bacanhim75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828019852:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:24:41 CET [2025/09/21 5:24:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: dragon9816 (€10 in chips) 
+Seat 2: Frekos8975 (€11.44 in chips) 
+Seat 3: pipinoelbreve9 (€12.38 in chips) 
+Seat 4: cipian74 (€8.08 in chips) 
+Seat 5: grandpa83000 (€20.46 in chips) 
+Seat 6: membrive625 (€5.37 in chips) 
+Frekos8975: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 5d]
+cipian74: folds 
+grandpa83000: raises €0.20 to €0.30
+membrive625: folds 
+dragon9816: folds 
+Frekos8975: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [Ks 8h 9h]
+pipinoelbreve9: checks 
+grandpa83000: bets €0.31
+pipinoelbreve9: folds 
+Uncalled bet (€0.31) returned to grandpa83000
+grandpa83000 collected €0.62 from pot
+grandpa83000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [Ks 8h 9h]
+Seat 1: dragon9816 (button) folded before Flop (didn't bet)
+Seat 2: Frekos8975 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: cipian74 folded before Flop (didn't bet)
+Seat 5: grandpa83000 collected (€0.62)
+Seat 6: membrive625 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828022643:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:11 CET [2025/09/21 5:25:11 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: grandpa83000 (€20.78 in chips) 
+Seat 2: margog55 (€4.64 in chips) 
+Seat 3: trevel2727 (€6.83 in chips) 
+Seat 4: Pierre3640 (€5.33 in chips) 
+Seat 5: abirras83 (€9.70 in chips) 
+Seat 6: pipinoelbreve9 (€12.08 in chips) 
+margog55: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 3c]
+Pierre3640: raises €0.10 to €0.20
+abirras83: raises €0.55 to €0.75
+pipinoelbreve9: folds 
+grandpa83000: folds 
+margog55: folds 
+trevel2727: folds 
+Pierre3640: calls €0.55
+*** FLOP *** [7h 2c Kc]
+Pierre3640: checks 
+abirras83: bets €0.89
+Pierre3640: raises €3.69 to €4.58 and is all-in
+abirras83: calls €3.69
+*** TURN *** [7h 2c Kc] [7s]
+*** RIVER *** [7h 2c Kc 7s] [Qh]
+*** SHOW DOWN ***
+Pierre3640: shows [6d Kd] (two pair, Kings and Sevens)
+abirras83: shows [As Kh] (two pair, Kings and Sevens - Ace kicker)
+abirras83 collected €10.27 from pot
+*** SUMMARY ***
+Total pot €10.81 | Rake €0.54 
+Board [7h 2c Kc 7s Qh]
+Seat 1: grandpa83000 (button) folded before Flop (didn't bet)
+Seat 2: margog55 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) folded before Flop
+Seat 4: Pierre3640 showed [6d Kd] and lost with two pair, Kings and Sevens
+Seat 5: abirras83 showed [As Kh] and won (€10.27) with two pair, Kings and Sevens
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828025027:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:36 CET [2025/09/21 5:25:36 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€6.75 in chips) 
+Seat 2: trevel2727 (€6.73 in chips) 
+Seat 3: vertedin (€19.33 in chips) 
+Seat 4: allinfinity (€11.08 in chips) 
+Seat 5: pipinoelbreve9 (€12.08 in chips) 
+Seat 6: 35sylar (€10 in chips) 
+trevel2727: posts small blind €0.05
+vertedin: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 4d]
+allinfinity: folds 
+pipinoelbreve9: folds 
+35sylar: folds 
+cipian74: folds 
+trevel2727: calls €0.05
+vertedin: checks 
+*** FLOP *** [Kc 7d 4h]
+trevel2727: checks 
+vertedin: bets €0.10
+trevel2727: folds 
+Uncalled bet (€0.10) returned to vertedin
+vertedin collected €0.19 from pot
+vertedin: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Kc 7d 4h]
+Seat 1: cipian74 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded on the Flop
+Seat 3: vertedin (big blind) collected (€0.19)
+Seat 4: allinfinity folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: 35sylar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828025390:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:40 CET [2025/09/21 5:25:40 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: WOLWERAINE (€17.19 in chips) 
+Seat 2: pipinoelbreve9 (€12.08 in chips) 
+Seat 3: dragon9816 (€10 in chips) 
+Seat 4: trevel2727 (€4.13 in chips) 
+Seat 5: allinfinity (€11.08 in chips) 
+Seat 6: membrive625 (€5.22 in chips) 
+pipinoelbreve9: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 6s]
+trevel2727: calls €0.10
+allinfinity: folds 
+membrive625: folds 
+WOLWERAINE: raises €0.20 to €0.30
+pipinoelbreve9: folds 
+dragon9816: folds 
+trevel2727: raises €3.83 to €4.13 and is all-in
+WOLWERAINE: folds 
+Uncalled bet (€3.83) returned to trevel2727
+trevel2727 collected €0.75 from pot
+trevel2727: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0 
+Seat 1: WOLWERAINE (button) folded before Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: trevel2727 collected (€0.75)
+Seat 5: allinfinity folded before Flop (didn't bet)
+Seat 6: membrive625 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828026720:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:55 CET [2025/09/21 5:25:55 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€7.13 in chips) 
+Seat 2: superdutyy (€19.62 in chips) 
+Seat 3: lord_lmc (€5.25 in chips) 
+Seat 4: dragon9816 (€10 in chips) 
+Seat 5: poyito loco (€23.80 in chips) 
+Seat 6: pipinoelbreve9 (€12.03 in chips) 
+superdutyy: posts small blind €0.05
+lord_lmc: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 9d]
+dragon9816: folds 
+poyito loco: folds 
+pipinoelbreve9: folds 
+cipian74: folds 
+superdutyy: folds 
+Uncalled bet (€0.05) returned to lord_lmc
+lord_lmc collected €0.10 from pot
+lord_lmc: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: cipian74 (button) folded before Flop (didn't bet)
+Seat 2: superdutyy (small blind) folded before Flop
+Seat 3: lord_lmc (big blind) collected (€0.10)
+Seat 4: dragon9816 folded before Flop (didn't bet)
+Seat 5: poyito loco folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828026409:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:52 CET [2025/09/21 5:25:52 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€12.03 in chips) 
+Seat 2: trevel2727 (€5.63 in chips) 
+Seat 3: janjos69 (€11.51 in chips) 
+Seat 4: bacanhim75 (€4.42 in chips) 
+Seat 5: javimarca (€21.18 in chips) 
+Seat 6: STEAKssss (€12.81 in chips) 
+trevel2727: posts small blind €0.05
+janjos69: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 5c]
+bacanhim75: folds 
+javimarca: folds 
+STEAKssss: folds 
+pipinoelbreve9: folds 
+trevel2727: calls €0.05
+janjos69: checks 
+*** FLOP *** [5s 4h 2d]
+trevel2727: checks 
+janjos69: checks 
+*** TURN *** [5s 4h 2d] [Kd]
+trevel2727: checks 
+janjos69: checks 
+*** RIVER *** [5s 4h 2d Kd] [3d]
+trevel2727: checks 
+janjos69: checks 
+*** SHOW DOWN ***
+trevel2727: shows [8d Js] (high card King)
+janjos69: mucks hand 
+trevel2727 collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [5s 4h 2d Kd 3d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) showed [8d Js] and won (€0.19) with high card King
+Seat 3: janjos69 (big blind) mucked [7s Jc]
+Seat 4: bacanhim75 folded before Flop (didn't bet)
+Seat 5: javimarca folded before Flop (didn't bet)
+Seat 6: STEAKssss folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828023420:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:25:19 CET [2025/09/21 5:25:19 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: margog55 (€4.59 in chips) 
+Seat 2: trevel2727 (€4.10 in chips) 
+Seat 3: Ihave2call8 (€10.36 in chips) 
+Seat 4: Toni_Alz (€1.71 in chips) 
+Seat 5: pipinoelbreve9 (€12.08 in chips) 
+Seat 6: janjos69 (€12.34 in chips) 
+trevel2727: posts small blind €0.05
+Ihave2call8: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Tc]
+Toni_Alz is disconnected 
+Toni_Alz has timed out while disconnected
+Toni_Alz: folds 
+pipinoelbreve9: folds 
+janjos69: raises €0.20 to €0.30
+margog55: calls €0.30
+trevel2727: folds 
+Ihave2call8: calls €0.20
+*** FLOP *** [7c 5d Td]
+Ihave2call8: checks 
+janjos69: checks 
+margog55: checks 
+*** TURN *** [7c 5d Td] [9c]
+Ihave2call8: checks 
+janjos69: checks 
+margog55: bets €4.29 and is all-in
+Ihave2call8: calls €4.29
+janjos69: folds 
+*** RIVER *** [7c 5d Td 9c] [2s]
+*** SHOW DOWN ***
+Ihave2call8: shows [8s 6s] (a straight, Six to Ten)
+margog55: shows [2c Jc] (a pair of Deuces)
+Ihave2call8 collected €9.05 from pot
+*** SUMMARY ***
+Total pot €9.53 | Rake €0.48 
+Board [7c 5d Td 9c 2s]
+Seat 1: margog55 (button) showed [2c Jc] and lost with a pair of Deuces
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: Ihave2call8 (big blind) showed [8s 6s] and won (€9.05) with a straight, Six to Ten
+Seat 4: Toni_Alz folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: janjos69 folded on the Turn
+
+
+
+PokerStars Zoom Hand #257828027685:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:26:06 CET [2025/09/21 5:26:06 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: javimarca (€21.18 in chips) 
+Seat 2: Frekos8975 (€11.03 in chips) 
+Seat 3: pipinoelbreve9 (€12.03 in chips) 
+Seat 4: bacanhim75 (€4.42 in chips) 
+Seat 5: cipian74 (€7.13 in chips) 
+Seat 6: grandpa83000 (€20.28 in chips) 
+Frekos8975: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 6h]
+bacanhim75: calls €0.10
+cipian74: calls €0.10
+grandpa83000: folds 
+javimarca: calls €0.10
+Frekos8975: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [2h 9s Kc]
+pipinoelbreve9: checks 
+bacanhim75: checks 
+cipian74: checks 
+javimarca: bets €0.40
+pipinoelbreve9: folds 
+bacanhim75: folds 
+cipian74: folds 
+Uncalled bet (€0.40) returned to javimarca
+javimarca collected €0.43 from pot
+javimarca: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02 
+Board [2h 9s Kc]
+Seat 1: javimarca (button) collected (€0.43)
+Seat 2: Frekos8975 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: bacanhim75 folded on the Flop
+Seat 5: cipian74 folded on the Flop
+Seat 6: grandpa83000 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828030861:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:26:40 CET [2025/09/21 5:26:40 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€11.93 in chips) 
+Seat 2: Ihave2call8 (€14.82 in chips) 
+Seat 3: abirras83 (€8.04 in chips) 
+Seat 4: xapi666 (€10 in chips) 
+Seat 5: janjos69 (€11.94 in chips) 
+Seat 6: cipian74 (€7.03 in chips) 
+Ihave2call8: posts small blind €0.05
+abirras83: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 5d]
+xapi666: folds 
+janjos69: raises €0.20 to €0.30
+cipian74: folds 
+pipinoelbreve9: folds 
+Ihave2call8: folds 
+abirras83: folds 
+Uncalled bet (€0.20) returned to janjos69
+janjos69 collected €0.25 from pot
+janjos69: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: Ihave2call8 (small blind) folded before Flop
+Seat 3: abirras83 (big blind) folded before Flop
+Seat 4: xapi666 folded before Flop (didn't bet)
+Seat 5: janjos69 collected (€0.25)
+Seat 6: cipian74 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828027229:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:26:01 CET [2025/09/21 5:26:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: morenovlcia (€7.06 in chips) 
+Seat 2: dragon9816 (€10 in chips) 
+Seat 3: abirras83 (€7.99 in chips) 
+Seat 4: STEAKssss (€12.81 in chips) 
+Seat 5: pipinoelbreve9 (€12.03 in chips) 
+Seat 6: xapi666 (€12.13 in chips) 
+dragon9816: posts small blind €0.05
+abirras83: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 3s]
+STEAKssss: raises €0.15 to €0.25
+pipinoelbreve9: folds 
+xapi666: folds 
+morenovlcia: folds 
+dragon9816: raises €0.95 to €1.20
+abirras83: folds 
+STEAKssss: calls €0.95
+*** FLOP *** [Kc 9s Qc]
+dragon9816: bets €0.69
+STEAKssss: calls €0.69
+*** TURN *** [Kc 9s Qc] [3d]
+dragon9816: bets €1.80
+STEAKssss: calls €1.80
+*** RIVER *** [Kc 9s Qc 3d] [2d]
+dragon9816: bets €6.31 and is all-in
+STEAKssss: calls €6.31
+*** SHOW DOWN ***
+dragon9816: shows [Qs Ks] (two pair, Kings and Queens)
+STEAKssss: shows [Kh As] (a pair of Kings)
+dragon9816 collected €19.10 from pot
+*** SUMMARY ***
+Total pot €20.10 | Rake €1 
+Board [Kc 9s Qc 3d 2d]
+Seat 1: morenovlcia (button) folded before Flop (didn't bet)
+Seat 2: dragon9816 (small blind) showed [Qs Ks] and won (€19.10) with two pair, Kings and Queens
+Seat 3: abirras83 (big blind) folded before Flop
+Seat 4: STEAKssss showed [Kh As] and lost with a pair of Kings
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: xapi666 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828031359:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:26:45 CET [2025/09/21 5:26:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: caspita295 (€19.89 in chips) 
+Seat 2: pipinoelbreve9 (€11.93 in chips) 
+Seat 3: Cactus54130 (€11.46 in chips) 
+Seat 4: trevel2727 (€4.43 in chips) 
+Seat 5: FLOW4422646 (€0.62 in chips) 
+Seat 6: xapi666 (€10 in chips) 
+pipinoelbreve9: posts small blind €0.05
+Cactus54130: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 4s]
+trevel2727: folds 
+FLOW4422646: folds 
+xapi666: folds 
+caspita295: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+Cactus54130: calls €0.20
+*** FLOP *** [3d Qc As]
+pipinoelbreve9: bets €0.29
+Cactus54130: calls €0.29
+*** TURN *** [3d Qc As] [5c]
+pipinoelbreve9: bets €0.56
+Cactus54130: calls €0.56
+*** RIVER *** [3d Qc As 5c] [2c]
+pipinoelbreve9: bets €2.18
+Cactus54130: folds 
+Uncalled bet (€2.18) returned to pipinoelbreve9
+pipinoelbreve9 collected €2.18 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.30 | Rake €0.12 
+Board [3d Qc As 5c 2c]
+Seat 1: caspita295 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€2.18)
+Seat 3: Cactus54130 (big blind) folded on the River
+Seat 4: trevel2727 folded before Flop (didn't bet)
+Seat 5: FLOW4422646 folded before Flop (didn't bet)
+Seat 6: xapi666 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828037978:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:27:57 CET [2025/09/21 5:27:57 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: trevel2727 (€4.78 in chips) 
+Seat 2: poyito loco (€23.08 in chips) 
+Seat 3: allinfinity (€11.35 in chips) 
+Seat 4: cipian74 (€7.29 in chips) 
+Seat 5: pipinoelbreve9 (€12.96 in chips) 
+Seat 6: abirras83 (€7.64 in chips) 
+poyito loco: posts small blind €0.05
+allinfinity: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Qd]
+cipian74: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+abirras83: folds 
+trevel2727: folds 
+poyito loco: folds 
+allinfinity: folds 
+Uncalled bet (€0.10) returned to cipian74
+cipian74 collected €0.25 from pot
+cipian74: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: trevel2727 (button) folded before Flop (didn't bet)
+Seat 2: poyito loco (small blind) folded before Flop
+Seat 3: allinfinity (big blind) folded before Flop
+Seat 4: cipian74 collected (€0.25)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: abirras83 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828035875:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:27:35 CET [2025/09/21 5:27:35 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: caspita295 (€19.74 in chips) 
+Seat 2: trevel2727 (€6.43 in chips) 
+Seat 3: morenovlcia (€7.85 in chips) 
+Seat 4: pipinoelbreve9 (€12.96 in chips) 
+Seat 5: gabypapy (€3.85 in chips) 
+Seat 6: bacanhim75 (€4.59 in chips) 
+trevel2727: posts small blind €0.05
+morenovlcia: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 3c]
+pipinoelbreve9: folds 
+gabypapy: calls €0.10
+bacanhim75: folds 
+caspita295: folds 
+trevel2727: calls €0.05
+morenovlcia: checks 
+*** FLOP *** [9h 8s Js]
+trevel2727: checks 
+morenovlcia: bets €0.20
+gabypapy: calls €0.20
+trevel2727: folds 
+*** TURN *** [9h 8s Js] [Kd]
+morenovlcia: bets €0.30
+gabypapy: calls €0.30
+*** RIVER *** [9h 8s Js Kd] [Jc]
+morenovlcia: bets €0.70
+gabypapy: folds 
+Uncalled bet (€0.70) returned to morenovlcia
+morenovlcia collected €1.24 from pot
+morenovlcia: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.30 | Rake €0.06 
+Board [9h 8s Js Kd Jc]
+Seat 1: caspita295 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded on the Flop
+Seat 3: morenovlcia (big blind) collected (€1.24)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: gabypapy folded on the River
+Seat 6: bacanhim75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828038370:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:28:01 CET [2025/09/21 5:28:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: xapi666 (€10.39 in chips) 
+Seat 2: janjos69 (€13.31 in chips) 
+Seat 3: pipinoelbreve9 (€12.96 in chips) 
+Seat 4: poyito loco (€23.03 in chips) 
+Seat 5: Lambda9134 (€1.29 in chips) 
+Seat 6: dragon9816 (€19.10 in chips) 
+janjos69: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 9d]
+poyito loco: folds 
+Lambda9134: calls €0.10
+dragon9816: folds 
+xapi666: folds 
+janjos69: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [8d 3c 7s]
+pipinoelbreve9: checks 
+Lambda9134: checks 
+*** TURN *** [8d 3c 7s] [Ah]
+pipinoelbreve9: bets €0.12
+Lambda9134: calls €0.12
+*** RIVER *** [8d 3c 7s Ah] [Kc]
+pipinoelbreve9: bets €0.47
+Lambda9134: folds 
+Uncalled bet (€0.47) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.47 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.49 | Rake €0.02 
+Board [8d 3c 7s Ah Kc]
+Seat 1: xapi666 (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.47)
+Seat 4: poyito loco folded before Flop (didn't bet)
+Seat 5: Lambda9134 folded on the River
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828036409:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:27:41 CET [2025/09/21 5:27:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: trevel2727 (€8.22 in chips) 
+Seat 2: dragon9816 (€11.07 in chips) 
+Seat 3: vainillarica (€10.25 in chips) 
+Seat 4: caspita295 (€19.74 in chips) 
+Seat 5: xapi666 (€11.55 in chips) 
+Seat 6: pipinoelbreve9 (€12.96 in chips) 
+dragon9816: posts small blind €0.05
+vainillarica: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 7h]
+caspita295: folds 
+xapi666: raises €0.15 to €0.25
+pipinoelbreve9: folds 
+trevel2727: folds 
+dragon9816: folds 
+vainillarica: calls €0.15
+*** FLOP *** [7s 6s Kc]
+vainillarica: checks 
+xapi666: bets €0.30
+vainillarica: calls €0.30
+*** TURN *** [7s 6s Kc] [Ts]
+vainillarica: checks 
+xapi666: checks 
+*** RIVER *** [7s 6s Kc Ts] [2c]
+vainillarica: bets €0.39
+xapi666: folds 
+Uncalled bet (€0.39) returned to vainillarica
+vainillarica collected €1.09 from pot
+vainillarica: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.15 | Rake €0.06 
+Board [7s 6s Kc Ts 2c]
+Seat 1: trevel2727 (button) folded before Flop (didn't bet)
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: vainillarica (big blind) collected (€1.09)
+Seat 4: caspita295 folded before Flop (didn't bet)
+Seat 5: xapi666 folded on the River
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828042147:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:28:41 CET [2025/09/21 5:28:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€13.16 in chips) 
+Seat 2: dragon9816 (€10 in chips) 
+Seat 3: Ihave2call8 (€10.47 in chips) 
+Seat 4: lord_lmc (€6.91 in chips) 
+Seat 5: morenovlcia (€8.58 in chips) 
+Seat 6: janjos69 (€13.16 in chips) 
+dragon9816: posts small blind €0.05
+Ihave2call8: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 7h]
+lord_lmc: folds 
+morenovlcia: folds 
+janjos69: folds 
+pipinoelbreve9: folds 
+dragon9816: folds 
+Uncalled bet (€0.05) returned to Ihave2call8
+Ihave2call8 collected €0.10 from pot
+Ihave2call8: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: dragon9816 (small blind) folded before Flop
+Seat 3: Ihave2call8 (big blind) collected (€0.10)
+Seat 4: lord_lmc folded before Flop (didn't bet)
+Seat 5: morenovlcia folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828040935:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:28:29 CET [2025/09/21 5:28:29 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: xapi666 (€11 in chips) 
+Seat 2: trevel2727 (€8.22 in chips) 
+Seat 3: Lambda9134 (€1.07 in chips) 
+Seat 4: pipinoelbreve9 (€13.21 in chips) 
+Seat 5: vainillarica (€10.79 in chips) 
+Seat 6: cipian74 (€7.15 in chips) 
+trevel2727: posts small blind €0.05
+Lambda9134: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9s]
+pipinoelbreve9: folds 
+vainillarica: raises €0.20 to €0.30
+cipian74: folds 
+xapi666: folds 
+trevel2727: folds 
+Lambda9134: raises €0.77 to €1.07 and is all-in
+vainillarica: calls €0.77
+*** FLOP *** [7h 5d Qh]
+*** TURN *** [7h 5d Qh] [2h]
+*** RIVER *** [7h 5d Qh 2h] [Qc]
+*** SHOW DOWN ***
+Lambda9134: shows [6c 6s] (two pair, Queens and Sixes)
+vainillarica: shows [As Ts] (a pair of Queens)
+Lambda9134 collected €2.08 from pot
+*** SUMMARY ***
+Total pot €2.19 | Rake €0.11 
+Board [7h 5d Qh 2h Qc]
+Seat 1: xapi666 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: Lambda9134 (big blind) showed [6c 6s] and won (€2.08) with two pair, Queens and Sixes
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: vainillarica showed [As Ts] and lost with a pair of Queens
+Seat 6: cipian74 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828041412:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:28:34 CET [2025/09/21 5:28:34 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: janjos69 (€13.16 in chips) 
+Seat 2: pipinoelbreve9 (€13.21 in chips) 
+Seat 3: abirras83 (€15.18 in chips) 
+Seat 4: dragon9816 (€10.92 in chips) 
+Seat 5: cipian74 (€7.15 in chips) 
+Seat 6: morenovlcia (€8.58 in chips) 
+pipinoelbreve9: posts small blind €0.05
+abirras83: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 2s]
+dragon9816: raises €0.15 to €0.25
+cipian74: calls €0.25
+morenovlcia: folds 
+janjos69: folds 
+pipinoelbreve9: folds 
+abirras83: raises €0.80 to €1.05
+dragon9816: folds 
+cipian74: calls €0.80
+*** FLOP *** [8h 5h 7s]
+abirras83: checks 
+cipian74: checks 
+*** TURN *** [8h 5h 7s] [5s]
+abirras83: checks 
+cipian74: checks 
+*** RIVER *** [8h 5h 7s 5s] [8c]
+abirras83: checks 
+cipian74: checks 
+*** SHOW DOWN ***
+abirras83: shows [Ad Ks] (two pair, Eights and Fives)
+cipian74: mucks hand 
+abirras83 collected €2.28 from pot
+*** SUMMARY ***
+Total pot €2.40 | Rake €0.12 
+Board [8h 5h 7s 5s 8c]
+Seat 1: janjos69 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: abirras83 (big blind) showed [Ad Ks] and won (€2.28) with two pair, Eights and Fives
+Seat 4: dragon9816 folded before Flop
+Seat 5: cipian74 mucked [Tc 9c]
+Seat 6: morenovlcia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828042502:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:28:45 CET [2025/09/21 5:28:45 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: abirras83 (€8.09 in chips) 
+Seat 2: lord_lmc (€6.91 in chips) 
+Seat 3: xapi666 (€10.34 in chips) 
+Seat 4: morenovlcia (€8.58 in chips) 
+Seat 5: pipinoelbreve9 (€13.16 in chips) 
+Seat 6: Blackshadow26 (€9.95 in chips) 
+lord_lmc: posts small blind €0.05
+xapi666: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Qs]
+morenovlcia: calls €0.10
+pipinoelbreve9: calls €0.10
+Blackshadow26: raises €0.10 to €0.20
+abirras83: folds 
+lord_lmc: raises €0.40 to €0.60
+xapi666: folds 
+morenovlcia: folds 
+pipinoelbreve9: calls €0.50
+Blackshadow26: calls €0.40
+*** FLOP *** [Jd 3c 5h]
+lord_lmc: bets €0.63
+pipinoelbreve9: folds 
+Blackshadow26: folds 
+Uncalled bet (€0.63) returned to lord_lmc
+lord_lmc collected €1.90 from pot
+lord_lmc: doesn't show hand 
+*** SUMMARY ***
+Total pot €2 | Rake €0.10 
+Board [Jd 3c 5h]
+Seat 1: abirras83 (button) folded before Flop (didn't bet)
+Seat 2: lord_lmc (small blind) collected (€1.90)
+Seat 3: xapi666 (big blind) folded before Flop
+Seat 4: morenovlcia folded before Flop
+Seat 5: pipinoelbreve9 folded on the Flop
+Seat 6: Blackshadow26 folded on the Flop
+
+
+
+PokerStars Zoom Hand #257828046138:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:29:26 CET [2025/09/21 5:29:26 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: lord_lmc (€8.21 in chips) 
+Seat 2: abirras83 (€16.41 in chips) 
+Seat 3: pipinoelbreve9 (€12.56 in chips) 
+Seat 4: morenovlcia (€8.48 in chips) 
+Seat 5: caspita295 (€19.69 in chips) 
+Seat 6: Cheetosss... (€9.85 in chips) 
+abirras83: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 3c]
+morenovlcia: raises €0.10 to €0.20
+caspita295: folds 
+Cheetosss...: folds 
+lord_lmc: folds 
+abirras83: folds 
+pipinoelbreve9: calls €0.10
+*** FLOP *** [5c 3s 4s]
+pipinoelbreve9: bets €0.10
+morenovlcia: calls €0.10
+*** TURN *** [5c 3s 4s] [8d]
+pipinoelbreve9: bets €0.31
+morenovlcia: folds 
+Uncalled bet (€0.31) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.62 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [5c 3s 4s 8d]
+Seat 1: lord_lmc (button) folded before Flop (didn't bet)
+Seat 2: abirras83 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.62)
+Seat 4: morenovlcia folded on the Turn
+Seat 5: caspita295 folded before Flop (didn't bet)
+Seat 6: Cheetosss... folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828045770:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:29:21 CET [2025/09/21 5:29:21 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€12.56 in chips) 
+Seat 2: caspita295 (€19.74 in chips) 
+Seat 3: trevel2727 (€4.78 in chips) 
+Seat 4: bacanhim75 (€6.93 in chips) 
+Seat 5: janjos69 (€13.11 in chips) 
+Seat 6: abirras83 (€16.41 in chips) 
+caspita295: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 9d]
+bacanhim75: calls €0.10
+janjos69: raises €0.30 to €0.40
+abirras83: folds 
+pipinoelbreve9: folds 
+caspita295: folds 
+trevel2727: folds 
+bacanhim75: calls €0.30
+*** FLOP *** [5c 5d Ks]
+bacanhim75: checks 
+janjos69: checks 
+*** TURN *** [5c 5d Ks] [Jd]
+bacanhim75: checks 
+janjos69: bets €0.45
+bacanhim75: calls €0.45
+*** RIVER *** [5c 5d Ks Jd] [As]
+bacanhim75: checks 
+janjos69: checks 
+*** SHOW DOWN ***
+bacanhim75: shows [4d 8d] (a pair of Fives)
+janjos69: shows [Qh Qc] (two pair, Queens and Fives)
+janjos69 collected €1.76 from pot
+*** SUMMARY ***
+Total pot €1.85 | Rake €0.09 
+Board [5c 5d Ks Jd As]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: caspita295 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) folded before Flop
+Seat 4: bacanhim75 showed [4d 8d] and lost with a pair of Fives
+Seat 5: janjos69 showed [Qh Qc] and won (€1.76) with two pair, Queens and Fives
+Seat 6: abirras83 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828048954:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:29:55 CET [2025/09/21 5:29:55 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: afilado1 (€10 in chips) 
+Seat 2: trevel2727 (€4.68 in chips) 
+Seat 3: Ihave2call8 (€14.52 in chips) 
+Seat 4: caspita295 (€19.59 in chips) 
+Seat 5: dragon9816 (€10.52 in chips) 
+Seat 6: pipinoelbreve9 (€12.88 in chips) 
+trevel2727: posts small blind €0.05
+Ihave2call8: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Qc]
+caspita295: folds 
+dragon9816: folds 
+pipinoelbreve9: folds 
+afilado1: folds 
+trevel2727: folds 
+Uncalled bet (€0.05) returned to Ihave2call8
+Ihave2call8 collected €0.10 from pot
+Ihave2call8: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: afilado1 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: Ihave2call8 (big blind) collected (€0.10)
+Seat 4: caspita295 folded before Flop (didn't bet)
+Seat 5: dragon9816 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828049439:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:30:01 CET [2025/09/21 5:30:01 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Cactus54130 (€9.39 in chips) 
+Seat 2: pipinoelbreve9 (€12.88 in chips) 
+Seat 3: abirras83 (€16.36 in chips) 
+Seat 4: Lambda9134 (€4.13 in chips) 
+Seat 5: Cheetosss... (€10 in chips) 
+Seat 6: caspita295 (€19.59 in chips) 
+pipinoelbreve9: posts small blind €0.05
+abirras83: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 8h]
+Lambda9134: calls €0.10
+Cheetosss...: folds 
+caspita295: folds 
+Cactus54130: folds 
+pipinoelbreve9: calls €0.05
+abirras83: raises €0.20 to €0.30
+Lambda9134: calls €0.20
+pipinoelbreve9: folds 
+*** FLOP *** [Qc Jc 8d]
+abirras83: bets €0.33
+Lambda9134: calls €0.33
+*** TURN *** [Qc Jc 8d] [4h]
+abirras83: bets €0.95
+Lambda9134: calls €0.95
+*** RIVER *** [Qc Jc 8d 4h] [6h]
+abirras83: bets €1.55
+Lambda9134: calls €1.55
+*** SHOW DOWN ***
+abirras83: shows [Qs Ac] (a pair of Queens)
+Lambda9134: mucks hand 
+abirras83 collected €6.04 from pot
+*** SUMMARY ***
+Total pot €6.36 | Rake €0.32 
+Board [Qc Jc 8d 4h 6h]
+Seat 1: Cactus54130 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: abirras83 (big blind) showed [Qs Ac] and won (€6.04) with a pair of Queens
+Seat 4: Lambda9134 mucked [Js Tc]
+Seat 5: Cheetosss... folded before Flop (didn't bet)
+Seat 6: caspita295 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828051458:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:30:22 CET [2025/09/21 5:30:22 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€6.05 in chips) 
+Seat 2: Cheetosss... (€10 in chips) 
+Seat 3: xapi666 (€10.80 in chips) 
+Seat 4: afilado1 (€10 in chips) 
+Seat 5: abirras83 (€7.59 in chips) 
+Seat 6: pipinoelbreve9 (€12.78 in chips) 
+Cheetosss...: posts small blind €0.05
+xapi666: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 9c]
+afilado1: folds 
+abirras83: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+cipian74: calls €0.30
+Cheetosss...: raises €1.10 to €1.40
+xapi666: folds 
+pipinoelbreve9: folds 
+cipian74: calls €1.10
+*** FLOP *** [Jh Js Jc]
+Cheetosss...: bets €8.60 and is all-in
+cipian74: folds 
+Uncalled bet (€8.60) returned to Cheetosss...
+Cheetosss... collected €3.04 from pot
+Cheetosss...: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.20 | Rake €0.16 
+Board [Jh Js Jc]
+Seat 1: cipian74 (button) folded on the Flop
+Seat 2: Cheetosss... (small blind) collected (€3.04)
+Seat 3: xapi666 (big blind) folded before Flop
+Seat 4: afilado1 folded before Flop (didn't bet)
+Seat 5: abirras83 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop
+
+
+
+PokerStars Zoom Hand #257828054929:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:00 CET [2025/09/21 5:31:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: afilado1 (€10 in chips) 
+Seat 2: xapi666 (€10.70 in chips) 
+Seat 3: pipinoelbreve9 (€12.48 in chips) 
+Seat 4: abirras83 (€7.44 in chips) 
+Seat 5: lord_lmc (€6.66 in chips) 
+Seat 6: janjos69 (€13.62 in chips) 
+xapi666: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Ad]
+abirras83: raises €0.20 to €0.30
+lord_lmc: folds 
+janjos69: folds 
+afilado1: folds 
+xapi666: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [5c Qd Jd]
+pipinoelbreve9: checks 
+abirras83: checks 
+*** TURN *** [5c Qd Jd] [Ac]
+pipinoelbreve9: bets €0.31
+abirras83: folds 
+Uncalled bet (€0.31) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.62 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [5c Qd Jd Ac]
+Seat 1: afilado1 (button) folded before Flop (didn't bet)
+Seat 2: xapi666 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.62)
+Seat 4: abirras83 folded on the Turn
+Seat 5: lord_lmc folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828059023:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:43 CET [2025/09/21 5:31:43 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: trevel2727 (€5.85 in chips) 
+Seat 2: [PT]Gadjet (€4.90 in chips) 
+Seat 3: afilado1 (€10.10 in chips) 
+Seat 4: pipinoelbreve9 (€12.80 in chips) 
+Seat 5: cipian74 (€5.12 in chips) 
+Seat 6: janjos69 (€9.95 in chips) 
+[PT]Gadjet: posts small blind €0.05
+afilado1: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Ah]
+pipinoelbreve9: folds 
+cipian74: folds 
+janjos69: folds 
+trevel2727: folds 
+[PT]Gadjet: folds 
+Uncalled bet (€0.05) returned to afilado1
+afilado1 collected €0.10 from pot
+afilado1: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: trevel2727 (button) folded before Flop (didn't bet)
+Seat 2: [PT]Gadjet (small blind) folded before Flop
+Seat 3: afilado1 (big blind) collected (€0.10)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: cipian74 folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828057103:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:23 CET [2025/09/21 5:31:23 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: WOLWERAINE (€16.85 in chips) 
+Seat 2: membrive625 (€3.90 in chips) 
+Seat 3: trevel2727 (€5 in chips) 
+Seat 4: cipian74 (€5.32 in chips) 
+Seat 5: pipinoelbreve9 (€12.80 in chips) 
+Seat 6: kawa z50 (€10.90 in chips) 
+membrive625: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Kc]
+cipian74: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+kawa z50: calls €0.20
+WOLWERAINE: folds 
+membrive625: folds 
+trevel2727: calls €0.10
+*** FLOP *** [6s Js 7c]
+trevel2727: checks 
+cipian74: checks 
+kawa z50: bets €0.31
+trevel2727: calls €0.31
+cipian74: folds 
+*** TURN *** [6s Js 7c] [4c]
+trevel2727: checks 
+kawa z50: checks 
+*** RIVER *** [6s Js 7c 4c] [6d]
+trevel2727: bets €0.40
+kawa z50: folds 
+Uncalled bet (€0.40) returned to trevel2727
+trevel2727 collected €1.21 from pot
+trevel2727: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.27 | Rake €0.06 
+Board [6s Js 7c 4c 6d]
+Seat 1: WOLWERAINE (button) folded before Flop (didn't bet)
+Seat 2: membrive625 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) collected (€1.21)
+Seat 4: cipian74 folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: kawa z50 folded on the River
+
+
+
+PokerStars Zoom Hand #257828059451:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:48 CET [2025/09/21 5:31:48 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: caspita295 (€19.44 in chips) 
+Seat 2: membrive625 (€3.75 in chips) 
+Seat 3: pipinoelbreve9 (€12.80 in chips) 
+Seat 4: cipian74 (€5.12 in chips) 
+Seat 5: morenovlcia (€8.07 in chips) 
+Seat 6: abirras83 (€19.07 in chips) 
+membrive625: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 4s]
+cipian74: folds 
+morenovlcia: folds 
+abirras83: folds 
+caspita295: raises €0.15 to €0.25
+membrive625: folds 
+pipinoelbreve9: calls €0.15
+*** FLOP *** [5c As Ac]
+pipinoelbreve9: checks 
+caspita295: bets €0.17
+pipinoelbreve9: calls €0.17
+*** TURN *** [5c As Ac] [3d]
+pipinoelbreve9: checks 
+caspita295: checks 
+*** RIVER *** [5c As Ac 3d] [8h]
+pipinoelbreve9: bets €0.43
+caspita295: folds 
+Uncalled bet (€0.43) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.85 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.89 | Rake €0.04 
+Board [5c As Ac 3d 8h]
+Seat 1: caspita295 (button) folded on the River
+Seat 2: membrive625 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.85)
+Seat 4: cipian74 folded before Flop (didn't bet)
+Seat 5: morenovlcia folded before Flop (didn't bet)
+Seat 6: abirras83 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828057620:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:28 CET [2025/09/21 5:31:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: poyito loco (€20.76 in chips) 
+Seat 2: javimarca (€19.43 in chips) 
+Seat 3: Blackshadow26 (€10.95 in chips) 
+Seat 4: pipinoelbreve9 (€12.80 in chips) 
+Seat 5: WOLWERAINE (€16.85 in chips) 
+Seat 6: membrive625 (€3.85 in chips) 
+javimarca: posts small blind €0.05
+Blackshadow26: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 2h]
+pipinoelbreve9: folds 
+WOLWERAINE: folds 
+membrive625: folds 
+poyito loco: calls €0.10
+javimarca: calls €0.05
+Blackshadow26: checks 
+*** FLOP *** [9s 6c 3c]
+javimarca: checks 
+Blackshadow26: bets €0.14
+poyito loco: calls €0.14
+javimarca: calls €0.14
+*** TURN *** [9s 6c 3c] [7s]
+javimarca: checks 
+Blackshadow26: bets €0.34
+poyito loco: calls €0.34
+javimarca: calls €0.34
+*** RIVER *** [9s 6c 3c 7s] [6d]
+javimarca: checks 
+Blackshadow26: checks 
+poyito loco: checks 
+*** SHOW DOWN ***
+javimarca: shows [8d Td] (a straight, Six to Ten)
+Blackshadow26: mucks hand 
+poyito loco: mucks hand 
+javimarca collected €1.65 from pot
+*** SUMMARY ***
+Total pot €1.74 | Rake €0.09 
+Board [9s 6c 3c 7s 6d]
+Seat 1: poyito loco (button) mucked [Ah 7c]
+Seat 2: javimarca (small blind) showed [8d Td] and won (€1.65) with a straight, Six to Ten
+Seat 3: Blackshadow26 (big blind) mucked [8s 9c]
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: WOLWERAINE folded before Flop (didn't bet)
+Seat 6: membrive625 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828058038:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:33 CET [2025/09/21 5:31:33 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: afilado1 (€10.15 in chips) 
+Seat 2: abirras83 (€19.12 in chips) 
+Seat 3: dragon9816 (€11.81 in chips) 
+Seat 4: pipinoelbreve9 (€12.80 in chips) 
+Seat 5: caspita295 (€19.54 in chips) 
+Seat 6: bacanhim75 (€5.86 in chips) 
+abirras83: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Js]
+pipinoelbreve9: folds 
+caspita295: folds 
+bacanhim75: raises €0.20 to €0.30
+afilado1: raises €0.60 to €0.90
+abirras83: folds 
+dragon9816: folds 
+bacanhim75: calls €0.60
+*** FLOP *** [9s As Ts]
+bacanhim75: checks 
+afilado1: checks 
+*** TURN *** [9s As Ts] [Jc]
+bacanhim75: checks 
+afilado1: checks 
+*** RIVER *** [9s As Ts Jc] [4d]
+bacanhim75: bets €1.85
+afilado1: folds 
+Uncalled bet (€1.85) returned to bacanhim75
+bacanhim75 collected €1.85 from pot
+bacanhim75: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.95 | Rake €0.10 
+Board [9s As Ts Jc 4d]
+Seat 1: afilado1 (button) folded on the River
+Seat 2: abirras83 (small blind) folded before Flop
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: caspita295 folded before Flop (didn't bet)
+Seat 6: bacanhim75 collected (€1.85)
+
+
+
+PokerStars Zoom Hand #257828058319:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:31:36 CET [2025/09/21 5:31:36 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€12.80 in chips) 
+Seat 2: Dapanx (€5.53 in chips) 
+Seat 3: Ihave2call8 (€10.35 in chips) 
+Seat 4: afilado1 (€10.10 in chips) 
+Seat 5: [PT]Gadjet (€4.90 in chips) 
+Seat 6: Cheetosss... (€10.54 in chips) 
+Dapanx: posts small blind €0.05
+Ihave2call8: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c Qd]
+afilado1: folds 
+[PT]Gadjet: folds 
+Cheetosss...: raises €0.10 to €0.20
+pipinoelbreve9: folds 
+Dapanx: folds 
+Ihave2call8: calls €0.10
+*** FLOP *** [Qc Kh 9h]
+Ihave2call8: checks 
+Cheetosss...: checks 
+*** TURN *** [Qc Kh 9h] [6s]
+Ihave2call8: checks 
+Cheetosss...: checks 
+*** RIVER *** [Qc Kh 9h 6s] [Ts]
+Ihave2call8: checks 
+Cheetosss...: checks 
+*** SHOW DOWN ***
+Ihave2call8: shows [9d 6d] (two pair, Nines and Sixes)
+Cheetosss...: shows [Qs Th] (two pair, Queens and Tens)
+Cheetosss... collected €0.43 from pot
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.02 
+Board [Qc Kh 9h 6s Ts]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: Dapanx (small blind) folded before Flop
+Seat 3: Ihave2call8 (big blind) showed [9d 6d] and lost with two pair, Nines and Sixes
+Seat 4: afilado1 folded before Flop (didn't bet)
+Seat 5: [PT]Gadjet folded before Flop (didn't bet)
+Seat 6: Cheetosss... showed [Qs Th] and won (€0.43) with two pair, Queens and Tens
+
+
+
+PokerStars Zoom Hand #257828063188:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:32:27 CET [2025/09/21 5:32:27 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Blackshadow26 (€10.37 in chips) 
+Seat 2: abirras83 (€18.87 in chips) 
+Seat 3: poyito loco (€20.18 in chips) 
+Seat 4: xapi666 (€10.95 in chips) 
+Seat 5: [PT]Gadjet (€4.85 in chips) 
+Seat 6: pipinoelbreve9 (€13.18 in chips) 
+abirras83: posts small blind €0.05
+poyito loco: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 6s]
+xapi666: raises €0.15 to €0.25
+[PT]Gadjet: folds 
+pipinoelbreve9: raises €0.45 to €0.70
+Blackshadow26: calls €0.70
+abirras83: folds 
+poyito loco: folds 
+xapi666: calls €0.45
+*** FLOP *** [8d 8h 2d]
+xapi666: checks 
+pipinoelbreve9: bets €1.07
+Blackshadow26: folds 
+xapi666: folds 
+Uncalled bet (€1.07) returned to pipinoelbreve9
+pipinoelbreve9 collected €2.14 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.25 | Rake €0.11 
+Board [8d 8h 2d]
+Seat 1: Blackshadow26 (button) folded on the Flop
+Seat 2: abirras83 (small blind) folded before Flop
+Seat 3: poyito loco (big blind) folded before Flop
+Seat 4: xapi666 folded on the Flop
+Seat 5: [PT]Gadjet folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (€2.14)
+
+
+
+PokerStars Zoom Hand #257828062291:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:32:18 CET [2025/09/21 5:32:18 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Cactus54130 (€8.34 in chips) 
+Seat 2: pipinoelbreve9 (€13.23 in chips) 
+Seat 3: dragon9816 (€11.66 in chips) 
+Seat 4: cipian74 (€4.45 in chips) 
+Seat 5: caspita295 (€19.02 in chips) 
+Seat 6: trevel2727 (€2.76 in chips) 
+pipinoelbreve9: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 3d]
+cipian74: raises €0.10 to €0.20
+caspita295: folds 
+trevel2727: folds 
+Cactus54130: calls €0.20
+pipinoelbreve9: folds 
+dragon9816: folds 
+*** FLOP *** [6s 6c 2h]
+cipian74: checks 
+Cactus54130: bets €0.52
+cipian74: calls €0.52
+*** TURN *** [6s 6c 2h] [5s]
+cipian74: checks 
+Cactus54130: checks 
+*** RIVER *** [6s 6c 2h 5s] [9s]
+cipian74: bets €0.50
+Cactus54130: calls €0.50
+*** SHOW DOWN ***
+cipian74: shows [Qs As] (a flush, Ace high)
+Cactus54130: mucks hand 
+cipian74 collected €2.46 from pot
+*** SUMMARY ***
+Total pot €2.59 | Rake €0.13 
+Board [6s 6c 2h 5s 9s]
+Seat 1: Cactus54130 (button) mucked [Kc 7d]
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: cipian74 showed [Qs As] and won (€2.46) with a flush, Ace high
+Seat 5: caspita295 folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828065863:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:32:56 CET [2025/09/21 5:32:56 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€14.62 in chips) 
+Seat 2: trevel2727 (€5.75 in chips) 
+Seat 3: caspita295 (€18.97 in chips) 
+Seat 4: [PT]Gadjet (€7.02 in chips) 
+Seat 5: dragon9816 (€11.56 in chips) 
+Seat 6: motomoto17 (€11.85 in chips) 
+trevel2727: posts small blind €0.05
+caspita295: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Ks]
+[PT]Gadjet has timed out
+[PT]Gadjet: folds 
+dragon9816: folds 
+motomoto17: folds 
+pipinoelbreve9: folds 
+trevel2727: folds 
+Uncalled bet (€0.05) returned to caspita295
+caspita295 collected €0.10 from pot
+caspita295: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: caspita295 (big blind) collected (€0.10)
+Seat 4: [PT]Gadjet folded before Flop (didn't bet)
+Seat 5: dragon9816 folded before Flop (didn't bet)
+Seat 6: motomoto17 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828066231:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:33:00 CET [2025/09/21 5:33:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: xapi666 (€10.82 in chips) 
+Seat 2: pipinoelbreve9 (€14.62 in chips) 
+Seat 3: javimarca (€20.50 in chips) 
+Seat 4: afilado1 (€10.27 in chips) 
+Seat 5: cipian74 (€5.42 in chips) 
+Seat 6: dragon9816 (€11.56 in chips) 
+pipinoelbreve9: posts small blind €0.05
+javimarca: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Th]
+afilado1: folds 
+cipian74: raises €0.10 to €0.20
+dragon9816: folds 
+xapi666: folds 
+pipinoelbreve9: calls €0.15
+javimarca: calls €0.10
+*** FLOP *** [2c 5d 7h]
+pipinoelbreve9: checks 
+javimarca: checks 
+cipian74: checks 
+*** TURN *** [2c 5d 7h] [4d]
+pipinoelbreve9: bets €0.29
+javimarca: calls €0.29
+cipian74: calls €0.29
+*** RIVER *** [2c 5d 7h 4d] [3c]
+pipinoelbreve9: checks 
+javimarca: checks 
+cipian74: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [As Th] (a straight, Ace to Five)
+javimarca: mucks hand 
+cipian74: mucks hand 
+pipinoelbreve9 collected €1.40 from pot
+*** SUMMARY ***
+Total pot €1.47 | Rake €0.07 
+Board [2c 5d 7h 4d 3c]
+Seat 1: xapi666 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [As Th] and won (€1.40) with a straight, Ace to Five
+Seat 3: javimarca (big blind) mucked [3h 8d]
+Seat 4: afilado1 folded before Flop (didn't bet)
+Seat 5: cipian74 mucked [9h 8h]
+Seat 6: dragon9816 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828071766:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:33:59 CET [2025/09/21 5:33:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: javimarca (€20.01 in chips) 
+Seat 2: caspita295 (€19.32 in chips) 
+Seat 3: cipian74 (€4.93 in chips) 
+Seat 4: lord_lmc (€6.56 in chips) 
+Seat 5: pipinoelbreve9 (€15.53 in chips) 
+Seat 6: kawa z50 (€9.48 in chips) 
+caspita295: posts small blind €0.05
+cipian74: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 9c]
+lord_lmc: raises €0.20 to €0.30
+pipinoelbreve9: folds 
+kawa z50: folds 
+javimarca: folds 
+caspita295: folds 
+cipian74: folds 
+Uncalled bet (€0.20) returned to lord_lmc
+lord_lmc collected €0.25 from pot
+lord_lmc: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: javimarca (button) folded before Flop (didn't bet)
+Seat 2: caspita295 (small blind) folded before Flop
+Seat 3: cipian74 (big blind) folded before Flop
+Seat 4: lord_lmc collected (€0.25)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: kawa z50 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828072460:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:34:07 CET [2025/09/21 5:34:07 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€4.83 in chips) 
+Seat 2: trevel2727 (€5.30 in chips) 
+Seat 3: Cactus54130 (€5.93 in chips) 
+Seat 4: [PT]Gadjet (€4.63 in chips) 
+Seat 5: xapi666 (€12.01 in chips) 
+Seat 6: pipinoelbreve9 (€15.53 in chips) 
+trevel2727: posts small blind €0.05
+Cactus54130: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Qd]
+[PT]Gadjet: raises €0.10 to €0.20
+xapi666: folds 
+pipinoelbreve9: raises €0.40 to €0.60
+cipian74: folds 
+trevel2727: folds 
+Cactus54130: folds 
+[PT]Gadjet: folds 
+Uncalled bet (€0.40) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.55 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0 
+Seat 1: cipian74 (button) folded before Flop (didn't bet)
+Seat 2: trevel2727 (small blind) folded before Flop
+Seat 3: Cactus54130 (big blind) folded before Flop
+Seat 4: [PT]Gadjet folded before Flop
+Seat 5: xapi666 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (€0.55)
+
+
+
+PokerStars Zoom Hand #257828074419:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:34:28 CET [2025/09/21 5:34:28 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€6.23 in chips) 
+Seat 2: xapi666 (€12.01 in chips) 
+Seat 3: pipinoelbreve9 (€15.88 in chips) 
+Seat 4: [PT]Gadjet (€4.43 in chips) 
+Seat 5: trevel2727 (€5.55 in chips) 
+Seat 6: motomoto17 (€11.50 in chips) 
+xapi666: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 4c]
+[PT]Gadjet: folds 
+trevel2727: folds 
+motomoto17: raises €0.20 to €0.30
+cipian74: folds 
+xapi666: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [Td Qh 5s]
+pipinoelbreve9: checks 
+motomoto17: bets €0.30
+pipinoelbreve9: folds 
+Uncalled bet (€0.30) returned to motomoto17
+motomoto17 collected €0.62 from pot
+motomoto17: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [Td Qh 5s]
+Seat 1: cipian74 (button) folded before Flop (didn't bet)
+Seat 2: xapi666 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: [PT]Gadjet folded before Flop (didn't bet)
+Seat 5: trevel2727 folded before Flop (didn't bet)
+Seat 6: motomoto17 collected (€0.62)
+
+
+
+PokerStars Zoom Hand #257828076462:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:34:50 CET [2025/09/21 5:34:50 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: ZELIUG (€10.45 in chips) 
+Seat 2: caspita295 (€19.17 in chips) 
+Seat 3: bacanhim75 (€5.86 in chips) 
+Seat 4: Cheetosss... (€11.33 in chips) 
+Seat 5: pipinoelbreve9 (€15.58 in chips) 
+Seat 6: membrive625 (€3.47 in chips) 
+caspita295: posts small blind €0.05
+bacanhim75: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 4c]
+Cheetosss... has timed out
+Cheetosss...: folds 
+pipinoelbreve9: folds 
+membrive625: folds 
+ZELIUG: raises €0.20 to €0.30
+caspita295: folds 
+bacanhim75: folds 
+Uncalled bet (€0.20) returned to ZELIUG
+ZELIUG collected €0.25 from pot
+ZELIUG: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: ZELIUG (button) collected (€0.25)
+Seat 2: caspita295 (small blind) folded before Flop
+Seat 3: bacanhim75 (big blind) folded before Flop
+Seat 4: Cheetosss... folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: membrive625 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828076826:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:34:54 CET [2025/09/21 5:34:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: caspita295 (€19.12 in chips) 
+Seat 2: pipinoelbreve9 (€15.58 in chips) 
+Seat 3: membrive625 (€3.47 in chips) 
+Seat 4: afilado1 (€10.18 in chips) 
+Seat 5: janjos69 (€9.40 in chips) 
+Seat 6: [PT]Gadjet (€7.19 in chips) 
+pipinoelbreve9: posts small blind €0.05
+membrive625: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Tc]
+afilado1: folds 
+janjos69: folds 
+[PT]Gadjet: raises €0.25 to €0.35
+caspita295: folds 
+pipinoelbreve9: raises €0.55 to €0.90
+membrive625: folds 
+[PT]Gadjet: calls €0.55
+*** FLOP *** [Jh 2c Ah]
+pipinoelbreve9: bets €0.90
+[PT]Gadjet: raises €3.60 to €4.50
+pipinoelbreve9: folds 
+Uncalled bet (€3.60) returned to [PT]Gadjet
+[PT]Gadjet collected €3.52 from pot
+[PT]Gadjet: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.70 | Rake €0.18 
+Board [Jh 2c Ah]
+Seat 1: caspita295 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded on the Flop
+Seat 3: membrive625 (big blind) folded before Flop
+Seat 4: afilado1 folded before Flop (didn't bet)
+Seat 5: janjos69 folded before Flop (didn't bet)
+Seat 6: [PT]Gadjet collected (€3.52)
+
+
+
+PokerStars Zoom Hand #257828081761:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:35:47 CET [2025/09/21 5:35:47 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€13.78 in chips) 
+Seat 2: ZELIUG (€10.50 in chips) 
+Seat 3: xapi666 (€18.31 in chips) 
+Seat 4: cipian74 (€6.25 in chips) 
+Seat 5: [PT]Gadjet (€8.91 in chips) 
+Seat 6: trevel2727 (€9.33 in chips) 
+ZELIUG: posts small blind €0.05
+xapi666: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 3h]
+cipian74: folds 
+[PT]Gadjet: folds 
+trevel2727: folds 
+pipinoelbreve9: folds 
+ZELIUG: folds 
+Uncalled bet (€0.05) returned to xapi666
+xapi666 collected €0.10 from pot
+xapi666: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: ZELIUG (small blind) folded before Flop
+Seat 3: xapi666 (big blind) collected (€0.10)
+Seat 4: cipian74 folded before Flop (didn't bet)
+Seat 5: [PT]Gadjet folded before Flop (didn't bet)
+Seat 6: trevel2727 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828082352:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:35:53 CET [2025/09/21 5:35:53 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: cipian74 (€6.25 in chips) 
+Seat 2: Lambda9134 (€7.18 in chips) 
+Seat 3: dragon9816 (€11.83 in chips) 
+Seat 4: ZELIUG (€10.45 in chips) 
+Seat 5: janjos69 (€13.93 in chips) 
+Seat 6: pipinoelbreve9 (€13.78 in chips) 
+Lambda9134: posts small blind €0.05
+dragon9816: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Ks]
+ZELIUG: folds 
+janjos69: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+cipian74: folds 
+Lambda9134: calls €0.25
+dragon9816: folds 
+*** FLOP *** [5c 5h Jh]
+Lambda9134: checks 
+pipinoelbreve9: checks 
+*** TURN *** [5c 5h Jh] [4h]
+Lambda9134: checks 
+pipinoelbreve9: bets €0.33
+Lambda9134: folds 
+Uncalled bet (€0.33) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.66 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.04 
+Board [5c 5h Jh 4h]
+Seat 1: cipian74 (button) folded before Flop (didn't bet)
+Seat 2: Lambda9134 (small blind) folded on the Turn
+Seat 3: dragon9816 (big blind) folded before Flop
+Seat 4: ZELIUG folded before Flop (didn't bet)
+Seat 5: janjos69 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (€0.66)
+
+
+
+PokerStars Zoom Hand #257828081199:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:35:41 CET [2025/09/21 5:35:41 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Ihave2call8 (€10.27 in chips) 
+Seat 2: afilado1 (€12.49 in chips) 
+Seat 3: janjos69 (€9.35 in chips) 
+Seat 4: pipinoelbreve9 (€13.78 in chips) 
+Seat 5: cipian74 (€6.25 in chips) 
+Seat 6: kawa z50 (€8.93 in chips) 
+afilado1: posts small blind €0.05
+janjos69: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Kh]
+pipinoelbreve9: folds 
+cipian74: folds 
+kawa z50: folds 
+Ihave2call8: folds 
+afilado1: raises €0.15 to €0.25
+janjos69: calls €0.15
+*** FLOP *** [Ad 8d 8s]
+afilado1: bets €0.12
+janjos69: calls €0.12
+*** TURN *** [Ad 8d 8s] [Td]
+afilado1: bets €0.23
+janjos69: calls €0.23
+*** RIVER *** [Ad 8d 8s Td] [Jh]
+afilado1: bets €0.57
+janjos69: calls €0.57
+*** SHOW DOWN ***
+afilado1: shows [Qd 9h] (a straight, Eight to Queen)
+janjos69: mucks hand 
+afilado1 collected €2.22 from pot
+*** SUMMARY ***
+Total pot €2.34 | Rake €0.12 
+Board [Ad 8d 8s Td Jh]
+Seat 1: Ihave2call8 (button) folded before Flop (didn't bet)
+Seat 2: afilado1 (small blind) showed [Qd 9h] and won (€2.22) with a straight, Eight to Queen
+Seat 3: janjos69 (big blind) mucked [4s As]
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: cipian74 folded before Flop (didn't bet)
+Seat 6: kawa z50 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828084611:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:36:17 CET [2025/09/21 5:36:17 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Lambda9134 (€6.88 in chips) 
+Seat 2: motomoto17 (€11.42 in chips) 
+Seat 3: pipinoelbreve9 (€14.14 in chips) 
+Seat 4: xapi666 (€10.82 in chips) 
+Seat 5: janjos69 (€8.18 in chips) 
+Seat 6: ZELIUG (€10.45 in chips) 
+motomoto17: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 4d]
+xapi666: folds 
+janjos69: raises €0.20 to €0.30
+ZELIUG: folds 
+Lambda9134: calls €0.30
+motomoto17: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [Tc 8d 2d]
+pipinoelbreve9: checks 
+janjos69: bets €0.80
+Lambda9134: folds 
+pipinoelbreve9: calls €0.80
+*** TURN *** [Tc 8d 2d] [7s]
+pipinoelbreve9: checks 
+janjos69: bets €1.61
+pipinoelbreve9: calls €1.61
+*** RIVER *** [Tc 8d 2d 7s] [Qc]
+pipinoelbreve9: checks 
+janjos69: bets €3.65
+pipinoelbreve9: folds 
+Uncalled bet (€3.65) returned to janjos69
+janjos69 collected €5.48 from pot
+janjos69: doesn't show hand 
+*** SUMMARY ***
+Total pot €5.77 | Rake €0.29 
+Board [Tc 8d 2d 7s Qc]
+Seat 1: Lambda9134 (button) folded on the Flop
+Seat 2: motomoto17 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the River
+Seat 4: xapi666 folded before Flop (didn't bet)
+Seat 5: janjos69 collected (€5.48)
+Seat 6: ZELIUG folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828088553:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:36:59 CET [2025/09/21 5:36:59 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€11.43 in chips) 
+Seat 2: janjos69 (€10.95 in chips) 
+Seat 3: trevel2727 (€4.90 in chips) 
+Seat 4: xapi666 (€18.31 in chips) 
+Seat 5: afilado1 (€10 in chips) 
+Seat 6: Cheetosss... (€18.12 in chips) 
+janjos69: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 5c]
+xapi666: folds 
+afilado1: folds 
+Cheetosss...: folds 
+pipinoelbreve9: folds 
+janjos69: folds 
+Uncalled bet (€0.05) returned to trevel2727
+trevel2727 collected €0.10 from pot
+trevel2727: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: janjos69 (small blind) folded before Flop
+Seat 3: trevel2727 (big blind) collected (€0.10)
+Seat 4: xapi666 folded before Flop (didn't bet)
+Seat 5: afilado1 folded before Flop (didn't bet)
+Seat 6: Cheetosss... folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828088109:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:36:54 CET [2025/09/21 5:36:54 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Pilatos/bila (€8.03 in chips) 
+Seat 2: trevel2727 (€2.76 in chips) 
+Seat 3: [PT]Gadjet (€4.95 in chips) 
+Seat 4: afilado1 (€13.49 in chips) 
+Seat 5: pipinoelbreve9 (€11.43 in chips) 
+Seat 6: Dapanx (€4.35 in chips) 
+trevel2727: posts small blind €0.05
+[PT]Gadjet: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Jh]
+afilado1: folds 
+pipinoelbreve9: folds 
+Dapanx: folds 
+Pilatos/bila: raises €0.20 to €0.30
+trevel2727: raises €2.46 to €2.76 and is all-in
+[PT]Gadjet: folds 
+Pilatos/bila: folds 
+Uncalled bet (€2.46) returned to trevel2727
+trevel2727 collected €0.70 from pot
+trevel2727: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0 
+Seat 1: Pilatos/bila (button) folded before Flop
+Seat 2: trevel2727 (small blind) collected (€0.70)
+Seat 3: [PT]Gadjet (big blind) folded before Flop
+Seat 4: afilado1 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Dapanx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828089052:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:37:04 CET [2025/09/21 5:37:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: xapi666 (€18.31 in chips) 
+Seat 2: pipinoelbreve9 (€11.43 in chips) 
+Seat 3: [PT]Gadjet (€7.44 in chips) 
+Seat 4: vainillarica (€10.75 in chips) 
+Seat 5: Dapanx (€4.35 in chips) 
+Seat 6: janjos69 (€10.90 in chips) 
+pipinoelbreve9: posts small blind €0.05
+[PT]Gadjet: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Kd]
+vainillarica: raises €0.15 to €0.25
+Dapanx: folds 
+janjos69: folds 
+xapi666: folds 
+pipinoelbreve9: calls €0.20
+[PT]Gadjet: folds 
+*** FLOP *** [Qh Td Tc]
+pipinoelbreve9: checks 
+vainillarica: bets €0.18
+pipinoelbreve9: raises €0.42 to €0.60
+vainillarica: calls €0.42
+*** TURN *** [Qh Td Tc] [Ac]
+pipinoelbreve9: bets €0.86
+vainillarica: calls €0.86
+*** RIVER *** [Qh Td Tc Ac] [6d]
+pipinoelbreve9: bets €1.37
+vainillarica: raises €1.95 to €3.32
+pipinoelbreve9: folds 
+Uncalled bet (€1.95) returned to vainillarica
+vainillarica collected €5.95 from pot
+vainillarica: doesn't show hand 
+*** SUMMARY ***
+Total pot €6.26 | Rake €0.31 
+Board [Qh Td Tc Ac 6d]
+Seat 1: xapi666 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded on the River
+Seat 3: [PT]Gadjet (big blind) folded before Flop
+Seat 4: vainillarica collected (€5.95)
+Seat 5: Dapanx folded before Flop (didn't bet)
+Seat 6: janjos69 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828094356:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:38:00 CET [2025/09/21 5:38:00 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Goyii19 (€3.52 in chips) 
+Seat 2: Venen0ak (€14.64 in chips) 
+Seat 3: trevel2727 (€6.13 in chips) 
+Seat 4: pipinoelbreve9 (€10 in chips) 
+Seat 5: ciceron0077 (€10 in chips) 
+Seat 6: Dapanx (€3.71 in chips) 
+Venen0ak: posts small blind €0.05
+trevel2727: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 8h]
+pipinoelbreve9: folds 
+ciceron0077: folds 
+Dapanx: folds 
+Goyii19: folds 
+Venen0ak: raises €0.20 to €0.30
+trevel2727: folds 
+Uncalled bet (€0.20) returned to Venen0ak
+Venen0ak collected €0.20 from pot
+Venen0ak: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Goyii19 (button) folded before Flop (didn't bet)
+Seat 2: Venen0ak (small blind) collected (€0.20)
+Seat 3: trevel2727 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: ciceron0077 folded before Flop (didn't bet)
+Seat 6: Dapanx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257828094800:  Hold'em No Limit (€0.05/€0.10) - 2025/09/21 11:38:04 CET [2025/09/21 5:38:04 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: [PT]Gadjet (€9.17 in chips) 
+Seat 2: Goyii19 (€3.52 in chips) 
+Seat 3: caspita295 (€18.72 in chips) 
+Seat 4: xapi666 (€18.36 in chips) 
+Seat 5: lord_lmc (€6.74 in chips) 
+Seat 6: pipinoelbreve9 (€10 in chips) 
+Goyii19: posts small blind €0.05
+caspita295: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Kc]
+xapi666: folds 
+lord_lmc: raises €0.20 to €0.30
+pipinoelbreve9: raises €0.50 to €0.80
+[PT]Gadjet: folds 
+Goyii19: calls €0.75
+caspita295: folds 
+lord_lmc: calls €0.50
+*** FLOP *** [Th Qs Ad]
+Goyii19: checks 
+lord_lmc: bets €0.30
+pipinoelbreve9: calls €0.30
+Goyii19: folds 
+*** TURN *** [Th Qs Ad] [3s]
+lord_lmc: bets €0.97
+pipinoelbreve9: calls €0.97
+*** RIVER *** [Th Qs Ad 3s] [Tc]
+lord_lmc: bets €0.60
+pipinoelbreve9: raises €3.60 to €4.20
+lord_lmc: folds 
+Uncalled bet (€3.60) returned to pipinoelbreve9
+pipinoelbreve9 collected €5.93 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €6.24 | Rake €0.31 
+Board [Th Qs Ad 3s Tc]
+Seat 1: [PT]Gadjet (button) folded before Flop (didn't bet)
+Seat 2: Goyii19 (small blind) folded on the Flop
+Seat 3: caspita295 (big blind) folded before Flop
+Seat 4: xapi666 folded before Flop (didn't bet)
+Seat 5: lord_lmc folded on the River
+Seat 6: pipinoelbreve9 collected (€5.93)
+
+
+

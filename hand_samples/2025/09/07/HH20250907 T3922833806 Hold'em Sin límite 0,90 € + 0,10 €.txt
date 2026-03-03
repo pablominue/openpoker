@@ -1,0 +1,238 @@
+﻿PokerStars Hand #257646910474: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/07 15:48:56 CET [2025/09/07 9:48:56 ET]
+Table '3922833806 8' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (10000 in chips) 
+Seat 2: lulu_MM10 (6380 in chips) 
+Seat 3: kelongorbb (20270 in chips) 
+Seat 4: doloresmiguel (11775 in chips) 
+Seat 5: Pedro6474 (33917 in chips) 
+Seat 6: barbosa1984 (11227 in chips) 
+pipinoelbreve9: posts the ante 70
+lulu_MM10: posts the ante 70
+kelongorbb: posts the ante 70
+doloresmiguel: posts the ante 70
+Pedro6474: posts the ante 70
+barbosa1984: posts the ante 70
+kelongorbb: posts small blind 300
+doloresmiguel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Jh]
+Pedro6474: folds 
+barbosa1984: folds 
+pipinoelbreve9: folds 
+lulu_MM10: raises 5710 to 6310 and is all-in
+kelongorbb: folds 
+doloresmiguel: calls 5710
+*** FLOP *** [Jc 7d Kd]
+*** TURN *** [Jc 7d Kd] [Qd]
+*** RIVER *** [Jc 7d Kd Qd] [5d]
+*** SHOW DOWN ***
+doloresmiguel: shows [As Kc] (a pair of Kings)
+lulu_MM10: shows [9h Jd] (a flush, King high)
+lulu_MM10 collected 13340 from pot
+*** SUMMARY ***
+Total pot 13340 | Rake 0 
+Board [Jc 7d Kd Qd 5d]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: lulu_MM10 (button) showed [9h Jd] and won (13340) with a flush, King high
+Seat 3: kelongorbb (small blind) folded before Flop
+Seat 4: doloresmiguel (big blind) showed [As Kc] and lost with a pair of Kings
+Seat 5: Pedro6474 folded before Flop (didn't bet)
+Seat 6: barbosa1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646916259: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/07 15:49:28 CET [2025/09/07 9:49:28 ET]
+Table '3922833806 8' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (9930 in chips) 
+Seat 2: lulu_MM10 (13340 in chips) 
+Seat 3: kelongorbb (19900 in chips) 
+Seat 4: doloresmiguel (5395 in chips) 
+Seat 5: Pedro6474 (33847 in chips) 
+Seat 6: barbosa1984 (11157 in chips) 
+pipinoelbreve9: posts the ante 70
+lulu_MM10: posts the ante 70
+kelongorbb: posts the ante 70
+doloresmiguel: posts the ante 70
+Pedro6474: posts the ante 70
+barbosa1984: posts the ante 70
+doloresmiguel: posts small blind 300
+Pedro6474: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Kd]
+barbosa1984: folds 
+pipinoelbreve9: raises 9260 to 9860 and is all-in
+lulu_MM10: folds 
+kelongorbb: folds 
+doloresmiguel: folds 
+Pedro6474: folds 
+Uncalled bet (9260) returned to pipinoelbreve9
+pipinoelbreve9 collected 1920 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 1: pipinoelbreve9 collected (1920)
+Seat 2: lulu_MM10 folded before Flop (didn't bet)
+Seat 3: kelongorbb (button) folded before Flop (didn't bet)
+Seat 4: doloresmiguel (small blind) folded before Flop
+Seat 5: Pedro6474 (big blind) folded before Flop
+Seat 6: barbosa1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646921060: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/07 15:49:55 CET [2025/09/07 9:49:55 ET]
+Table '3922833806 8' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (11180 in chips) 
+Seat 2: lulu_MM10 (13270 in chips) 
+Seat 3: kelongorbb (19830 in chips) 
+Seat 4: doloresmiguel (5025 in chips) 
+Seat 5: Pedro6474 (33177 in chips) 
+Seat 6: barbosa1984 (11087 in chips) 
+pipinoelbreve9: posts the ante 70
+lulu_MM10: posts the ante 70
+kelongorbb: posts the ante 70
+doloresmiguel: posts the ante 70
+Pedro6474: posts the ante 70
+barbosa1984: posts the ante 70
+Pedro6474: posts small blind 300
+barbosa1984: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 3h]
+pipinoelbreve9: folds 
+lulu_MM10: folds 
+kelongorbb: folds 
+doloresmiguel: calls 600
+Pedro6474: folds 
+barbosa1984: checks 
+*** FLOP *** [Kh 3s 2h]
+barbosa1984: checks 
+doloresmiguel: bets 4355 and is all-in
+barbosa1984: folds 
+Uncalled bet (4355) returned to doloresmiguel
+doloresmiguel collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Board [Kh 3s 2h]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: lulu_MM10 folded before Flop (didn't bet)
+Seat 3: kelongorbb folded before Flop (didn't bet)
+Seat 4: doloresmiguel (button) collected (1920)
+Seat 5: Pedro6474 (small blind) folded before Flop
+Seat 6: barbosa1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257646935788: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (350/700) - 2025/09/07 15:51:17 CET [2025/09/07 9:51:17 ET]
+Table '3922833806 12' 6-max Seat #3 is the button
+Seat 1: Orlandotaboada1 (57934 in chips) 
+Seat 2: Amsterdam974 (52178 in chips) 
+Seat 3: bendesio (2001 in chips) 
+Seat 4: SharKKutier88 (9120 in chips) 
+Seat 5: pipinoelbreve9 (11110 in chips) 
+Orlandotaboada1: posts the ante 85
+Amsterdam974: posts the ante 85
+bendesio: posts the ante 85
+SharKKutier88: posts the ante 85
+pipinoelbreve9: posts the ante 85
+SharKKutier88: posts small blind 350
+pipinoelbreve9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 9c]
+Orlandotaboada1: folds 
+Amsterdam974: folds 
+bendesio: raises 1216 to 1916 and is all-in
+SharKKutier88: folds 
+pipinoelbreve9: calls 1216
+*** FLOP *** [Js 3d 7c]
+*** TURN *** [Js 3d 7c] [4s]
+*** RIVER *** [Js 3d 7c 4s] [Kh]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kd 9c] (a pair of Kings)
+bendesio: shows [Jd Qc] (a pair of Jacks)
+pipinoelbreve9 collected 4607 from pot
+bendesio finished the tournament
+*** SUMMARY ***
+Total pot 4607 | Rake 0 
+Board [Js 3d 7c 4s Kh]
+Seat 1: Orlandotaboada1 folded before Flop (didn't bet)
+Seat 2: Amsterdam974 folded before Flop (didn't bet)
+Seat 3: bendesio (button) showed [Jd Qc] and lost with a pair of Jacks
+Seat 4: SharKKutier88 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) showed [Kd 9c] and won (4607) with a pair of Kings
+
+
+
+PokerStars Hand #257646940275: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (350/700) - 2025/09/07 15:51:42 CET [2025/09/07 9:51:42 ET]
+Table '3922833806 12' 6-max Seat #4 is the button
+Seat 1: Orlandotaboada1 (57849 in chips) 
+Seat 2: Amsterdam974 (52093 in chips) 
+Seat 4: SharKKutier88 (8685 in chips) 
+Seat 5: pipinoelbreve9 (13716 in chips) 
+Orlandotaboada1: posts the ante 85
+Amsterdam974: posts the ante 85
+SharKKutier88: posts the ante 85
+pipinoelbreve9: posts the ante 85
+pipinoelbreve9: posts small blind 350
+Orlandotaboada1: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 4d]
+Amsterdam974: raises 700 to 1400
+SharKKutier88: folds 
+pipinoelbreve9: folds 
+Orlandotaboada1: calls 700
+*** FLOP *** [8s 8c 4c]
+Orlandotaboada1: bets 1745
+Amsterdam974: folds 
+Uncalled bet (1745) returned to Orlandotaboada1
+Orlandotaboada1 collected 3490 from pot
+*** SUMMARY ***
+Total pot 3490 | Rake 0 
+Board [8s 8c 4c]
+Seat 1: Orlandotaboada1 (big blind) collected (3490)
+Seat 2: Amsterdam974 folded on the Flop
+Seat 4: SharKKutier88 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646946247: Tournament #3922833806, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (350/700) - 2025/09/07 15:52:16 CET [2025/09/07 9:52:16 ET]
+Table '3922833806 12' 6-max Seat #5 is the button
+Seat 1: Orlandotaboada1 (59854 in chips) 
+Seat 2: Amsterdam974 (50608 in chips) 
+Seat 3: ragnarlodbrok05 (10000 in chips) 
+Seat 4: SharKKutier88 (8600 in chips) 
+Seat 5: pipinoelbreve9 (13281 in chips) 
+Orlandotaboada1: posts the ante 85
+Amsterdam974: posts the ante 85
+ragnarlodbrok05: posts the ante 85
+SharKKutier88: posts the ante 85
+pipinoelbreve9: posts the ante 85
+Orlandotaboada1: posts small blind 350
+Amsterdam974: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Qh]
+ragnarlodbrok05: folds 
+SharKKutier88: folds 
+pipinoelbreve9: raises 1400 to 2100
+Orlandotaboada1: folds 
+Amsterdam974: raises 48423 to 50523 and is all-in
+pipinoelbreve9: calls 11096 and is all-in
+Uncalled bet (37327) returned to Amsterdam974
+*** FLOP *** [4d Jh 7c]
+*** TURN *** [4d Jh 7c] [Ks]
+*** RIVER *** [4d Jh 7c Ks] [6d]
+*** SHOW DOWN ***
+Amsterdam974: shows [Ac Kh] (a pair of Kings)
+pipinoelbreve9: shows [Qc Qh] (a pair of Queens)
+Amsterdam974 collected 27167 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 27167 | Rake 0 
+Board [4d Jh 7c Ks 6d]
+Seat 1: Orlandotaboada1 (small blind) folded before Flop
+Seat 2: Amsterdam974 (big blind) showed [Ac Kh] and won (27167) with a pair of Kings
+Seat 3: ragnarlodbrok05 folded before Flop (didn't bet)
+Seat 4: SharKKutier88 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) showed [Qc Qh] and lost with a pair of Queens
+
+
+

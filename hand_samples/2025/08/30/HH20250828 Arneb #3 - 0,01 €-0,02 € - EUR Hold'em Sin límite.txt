@@ -1,0 +1,83 @@
+﻿PokerStars Zoom Hand #257517851670:  Hold'em No Limit (€0.01/€0.02) - 2025/08/28 16:02:26 CET [2025/08/28 10:02:26 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: chiinche (€2.58 in chips) 
+Seat 2: pipinoelbreve9 (€2 in chips) 
+Seat 3: tjafonsopt (€1 in chips) 
+Seat 4: Utusuchaz (€3.10 in chips) 
+Seat 5: tanoun1 (€2.30 in chips) 
+Seat 6: elperrosequema (€1.01 in chips) 
+pipinoelbreve9: posts small blind €0.01
+tjafonsopt: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 2h]
+Utusuchaz: folds 
+tanoun1: folds 
+elperrosequema: folds 
+chiinche: folds 
+pipinoelbreve9: raises €0.04 to €0.06
+tjafonsopt: calls €0.04
+*** FLOP *** [5s 7d 4d]
+pipinoelbreve9: checks 
+tjafonsopt: checks 
+*** TURN *** [5s 7d 4d] [3h]
+pipinoelbreve9: bets €0.06
+tjafonsopt: calls €0.06
+*** RIVER *** [5s 7d 4d 3h] [Jd]
+pipinoelbreve9: checks 
+tjafonsopt: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kd 2h] (high card King)
+tjafonsopt: shows [Qc 3c] (a pair of Threes)
+tjafonsopt collected €0.23 from pot
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [5s 7d 4d 3h Jd]
+Seat 1: chiinche (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [Kd 2h] and lost with high card King
+Seat 3: tjafonsopt (big blind) showed [Qc 3c] and won (€0.23) with a pair of Threes
+Seat 4: Utusuchaz folded before Flop (didn't bet)
+Seat 5: tanoun1 folded before Flop (didn't bet)
+Seat 6: elperrosequema folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257517857053:  Hold'em No Limit (€0.01/€0.02) - 2025/08/28 16:03:01 CET [2025/08/28 10:03:01 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: tjafonsopt (€1.11 in chips) 
+Seat 2: soyeterno (€2.07 in chips) 
+Seat 3: pipinoelbreve9 (€2 in chips) 
+Seat 4: ripvppt (€2.03 in chips) 
+Seat 5: mourad271 (€1.52 in chips) 
+Seat 6: Luchinhoo. (€2.46 in chips) 
+soyeterno: posts small blind €0.01
+pipinoelbreve9: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 7h]
+ripvppt: folds 
+mourad271: folds 
+Luchinhoo.: folds 
+tjafonsopt: calls €0.02
+soyeterno: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [4s 3s Ad]
+pipinoelbreve9: checks 
+tjafonsopt: checks 
+*** TURN *** [4s 3s Ad] [Qd]
+pipinoelbreve9: checks 
+tjafonsopt: bets €0.04
+pipinoelbreve9: folds 
+Uncalled bet (€0.04) returned to tjafonsopt
+tjafonsopt collected €0.05 from pot
+tjafonsopt: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Board [4s 3s Ad Qd]
+Seat 1: tjafonsopt (button) collected (€0.05)
+Seat 2: soyeterno (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Turn
+Seat 4: ripvppt folded before Flop (didn't bet)
+Seat 5: mourad271 folded before Flop (didn't bet)
+Seat 6: Luchinhoo. folded before Flop (didn't bet)
+
+
+

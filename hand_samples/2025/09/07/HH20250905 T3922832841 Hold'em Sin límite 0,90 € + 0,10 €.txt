@@ -1,0 +1,2444 @@
+﻿PokerStars Hand #257619845993: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 13:23:26 CET [2025/09/05 7:23:26 ET]
+Table '3922832841 8' 8-max Seat #8 is the button
+Seat 1: lulunet (3555 in chips) 
+Seat 2: 51Peuch (48510 in chips) 
+Seat 3: Martenegro (13240 in chips) 
+Seat 4: 4quart (10420 in chips) 
+Seat 5: pipinoelbreve9 (10000 in chips) 
+Seat 6: Mika0504 (9220 in chips) 
+Seat 8: booms76140 (40460 in chips) 
+lulunet: posts the ante 70
+51Peuch: posts the ante 70
+Martenegro: posts the ante 70
+4quart: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Mika0504: posts the ante 70
+booms76140: posts the ante 70
+lulunet: posts small blind 350
+51Peuch: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 3h]
+Martenegro: folds 
+4quart: calls 700
+pipinoelbreve9: folds 
+Mika0504: raises 700 to 1400
+booms76140: folds 
+lulunet: raises 2085 to 3485 and is all-in
+51Peuch: folds 
+4quart: raises 6865 to 10350 and is all-in
+Mika0504: calls 7750 and is all-in
+Uncalled bet (1200) returned to 4quart
+*** FLOP *** [3s 7h Ah]
+*** TURN *** [3s 7h Ah] [7c]
+*** RIVER *** [3s 7h Ah 7c] [Kd]
+*** SHOW DOWN ***
+4quart: shows [8d Ad] (two pair, Aces and Sevens)
+Mika0504: shows [Ac 9h] (two pair, Aces and Sevens)
+4quart collected 5665 from side pot
+Mika0504 collected 5665 from side pot
+lulunet: shows [As 4c] (two pair, Aces and Sevens)
+lulunet collected 3882 from main pot
+4quart collected 3882 from main pot
+Mika0504 collected 3881 from main pot
+*** SUMMARY ***
+Total pot 22975 Main pot 11645. Side pot 11330. | Rake 0 
+Board [3s 7h Ah 7c Kd]
+Seat 1: lulunet (small blind) showed [As 4c] and won (3882) with two pair, Aces and Sevens
+Seat 2: 51Peuch (big blind) folded before Flop
+Seat 3: Martenegro folded before Flop (didn't bet)
+Seat 4: 4quart showed [8d Ad] and won (9547) with two pair, Aces and Sevens
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Mika0504 showed [Ac 9h] and won (9546) with two pair, Aces and Sevens
+Seat 8: booms76140 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619851681: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 13:24:19 CET [2025/09/05 7:24:19 ET]
+Table '3922832841 8' 8-max Seat #1 is the button
+Seat 1: lulunet (3882 in chips) 
+Seat 2: 51Peuch (47740 in chips) 
+Seat 3: Martenegro (13170 in chips) 
+Seat 4: 4quart (10747 in chips) 
+Seat 5: pipinoelbreve9 (9930 in chips) 
+Seat 6: Mika0504 (9546 in chips) 
+Seat 8: booms76140 (40390 in chips) 
+lulunet: posts the ante 70
+51Peuch: posts the ante 70
+Martenegro: posts the ante 70
+4quart: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Mika0504: posts the ante 70
+booms76140: posts the ante 70
+51Peuch: posts small blind 350
+Martenegro: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 7d]
+4quart: folds 
+pipinoelbreve9: folds 
+Mika0504: folds 
+booms76140: folds 
+lulunet: raises 3112 to 3812 and is all-in
+51Peuch: calls 3462
+Martenegro: folds 
+*** FLOP *** [3c Ah 9s]
+*** TURN *** [3c Ah 9s] [Qh]
+*** RIVER *** [3c Ah 9s Qh] [5h]
+*** SHOW DOWN ***
+51Peuch: shows [3d Ac] (two pair, Aces and Threes)
+lulunet: shows [2h As] (a pair of Aces)
+51Peuch collected 8814 from pot
+lulunet finished the tournament
+*** SUMMARY ***
+Total pot 8814 | Rake 0 
+Board [3c Ah 9s Qh 5h]
+Seat 1: lulunet (button) showed [2h As] and lost with a pair of Aces
+Seat 2: 51Peuch (small blind) showed [3d Ac] and won (8814) with two pair, Aces and Threes
+Seat 3: Martenegro (big blind) folded before Flop
+Seat 4: 4quart folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Mika0504 folded before Flop (didn't bet)
+Seat 8: booms76140 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619856133: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 13:24:59 CET [2025/09/05 7:24:59 ET]
+Table '3922832841 8' 8-max Seat #2 is the button
+Seat 2: 51Peuch (52672 in chips) 
+Seat 3: Martenegro (12400 in chips) 
+Seat 4: 4quart (10677 in chips) 
+Seat 5: pipinoelbreve9 (9860 in chips) 
+Seat 6: Mika0504 (9476 in chips) 
+Seat 8: booms76140 (40320 in chips) 
+51Peuch: posts the ante 70
+Martenegro: posts the ante 70
+4quart: posts the ante 70
+pipinoelbreve9: posts the ante 70
+Mika0504: posts the ante 70
+booms76140: posts the ante 70
+Martenegro: posts small blind 350
+4quart: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Ad]
+pipinoelbreve9: raises 1400 to 2100
+Mika0504: raises 7306 to 9406 and is all-in
+booms76140: folds 
+51Peuch: folds 
+Martenegro: calls 9056
+4quart: folds 
+pipinoelbreve9: raises 384 to 9790 and is all-in
+Martenegro: calls 384
+*** FLOP *** [Jh 7d 6h]
+*** TURN *** [Jh 7d 6h] [7h]
+*** RIVER *** [Jh 7d 6h 7h] [Qd]
+*** SHOW DOWN ***
+Martenegro: shows [Kd Qc] (two pair, Queens and Sevens)
+pipinoelbreve9: shows [Qh Ad] (two pair, Queens and Sevens - Ace kicker)
+pipinoelbreve9 collected 768 from side pot
+Mika0504: shows [9s 9c] (two pair, Nines and Sevens)
+pipinoelbreve9 collected 29338 from main pot
+Mika0504 finished the tournament
+*** SUMMARY ***
+Total pot 30106 Main pot 29338. Side pot 768. | Rake 0 
+Board [Jh 7d 6h 7h Qd]
+Seat 2: 51Peuch (button) folded before Flop (didn't bet)
+Seat 3: Martenegro (small blind) showed [Kd Qc] and lost with two pair, Queens and Sevens
+Seat 4: 4quart (big blind) folded before Flop
+Seat 5: pipinoelbreve9 showed [Qh Ad] and won (30106) with two pair, Queens and Sevens
+Seat 6: Mika0504 showed [9s 9c] and lost with two pair, Nines and Sevens
+Seat 8: booms76140 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619861481: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 13:25:47 CET [2025/09/05 7:25:47 ET]
+Table '3922832841 12' 8-max Seat #1 is the button
+Seat 1: johnnymores (9030 in chips) 
+Seat 2: horimero1 (34780 in chips) 
+Seat 3: sergiio000 (5470 in chips) is sitting out
+Seat 4: pipinoelbreve9 (30106 in chips) 
+Seat 5: dommel8393 (10105 in chips) 
+johnnymores: posts the ante 70
+horimero1: posts the ante 70
+sergiio000: posts the ante 70
+pipinoelbreve9: posts the ante 70
+dommel8393: posts the ante 70
+horimero1: posts small blind 350
+sergiio000: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 8d]
+pipinoelbreve9 is connected 
+pipinoelbreve9: calls 700
+dommel8393: calls 700
+johnnymores: folds 
+horimero1: calls 350
+sergiio000: folds 
+*** FLOP *** [Ah Jh 2s]
+horimero1: checks 
+pipinoelbreve9: checks 
+dommel8393: bets 1400
+horimero1: folds 
+pipinoelbreve9: calls 1400
+*** TURN *** [Ah Jh 2s] [Js]
+pipinoelbreve9: checks 
+dommel8393: bets 2975
+pipinoelbreve9: raises 6475 to 9450
+dommel8393: calls 4960 and is all-in
+Uncalled bet (1515) returned to pipinoelbreve9
+*** RIVER *** [Ah Jh 2s Js] [2h]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ac 8d] (two pair, Aces and Jacks)
+dommel8393: shows [Ad 9c] (two pair, Aces and Jacks - Nine kicker)
+dommel8393 collected 21820 from pot
+*** SUMMARY ***
+Total pot 21820 | Rake 0 
+Board [Ah Jh 2s Js 2h]
+Seat 1: johnnymores (button) folded before Flop (didn't bet)
+Seat 2: horimero1 (small blind) folded on the Flop
+Seat 3: sergiio000 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 showed [Ac 8d] and lost with two pair, Aces and Jacks
+Seat 5: dommel8393 showed [Ad 9c] and won (21820) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #257619869540: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/09/05 13:26:59 CET [2025/09/05 7:26:59 ET]
+Table '3922832841 12' 8-max Seat #2 is the button
+Seat 1: johnnymores (8960 in chips) 
+Seat 2: horimero1 (34010 in chips) 
+Seat 3: sergiio000 (4700 in chips) is sitting out
+Seat 4: pipinoelbreve9 (20001 in chips) 
+Seat 5: dommel8393 (21820 in chips) 
+Seat 6: arrreias (65600 in chips) 
+Seat 7: christ653 (6690 in chips) 
+Seat 8: sapefe96 (10000 in chips) 
+johnnymores: posts the ante 80
+horimero1: posts the ante 80
+sergiio000: posts the ante 80
+pipinoelbreve9: posts the ante 80
+dommel8393: posts the ante 80
+arrreias: posts the ante 80
+christ653: posts the ante 80
+sapefe96: posts the ante 80
+sergiio000: posts small blind 400
+pipinoelbreve9: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 8d]
+dommel8393: raises 800 to 1600
+arrreias: raises 63920 to 65520 and is all-in
+christ653: folds 
+sapefe96: folds 
+johnnymores: folds 
+horimero1 has timed out
+horimero1: folds 
+horimero1 is sitting out
+sergiio000: folds 
+pipinoelbreve9: folds 
+dommel8393: folds 
+Uncalled bet (63920) returned to arrreias
+horimero1 has returned
+arrreias collected 5040 from pot
+arrreias: doesn't show hand 
+*** SUMMARY ***
+Total pot 5040 | Rake 0 
+Seat 1: johnnymores folded before Flop (didn't bet)
+Seat 2: horimero1 (button) folded before Flop (didn't bet)
+Seat 3: sergiio000 (small blind) folded before Flop
+Seat 4: pipinoelbreve9 (big blind) folded before Flop
+Seat 5: dommel8393 folded before Flop
+Seat 6: arrreias collected (5040)
+Seat 7: christ653 folded before Flop (didn't bet)
+Seat 8: sapefe96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619873483: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/09/05 13:27:33 CET [2025/09/05 7:27:33 ET]
+Table '3922832841 12' 8-max Seat #3 is the button
+Seat 1: johnnymores (8880 in chips) 
+Seat 2: horimero1 (33930 in chips) 
+Seat 3: sergiio000 (4220 in chips) is sitting out
+Seat 4: pipinoelbreve9 (19121 in chips) 
+Seat 5: dommel8393 (20140 in chips) 
+Seat 6: arrreias (68960 in chips) 
+Seat 7: christ653 (6610 in chips) 
+johnnymores: posts the ante 80
+horimero1: posts the ante 80
+sergiio000: posts the ante 80
+pipinoelbreve9: posts the ante 80
+dommel8393: posts the ante 80
+arrreias: posts the ante 80
+christ653: posts the ante 80
+pipinoelbreve9: posts small blind 400
+dommel8393: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 7c]
+arrreias: raises 68080 to 68880 and is all-in
+christ653: folds 
+johnnymores: calls 8800 and is all-in
+horimero1: folds 
+sergiio000: folds 
+pipinoelbreve9: folds 
+dommel8393: folds 
+Uncalled bet (60080) returned to arrreias
+*** FLOP *** [2c 4h As]
+*** TURN *** [2c 4h As] [Ts]
+*** RIVER *** [2c 4h As Ts] [7d]
+*** SHOW DOWN ***
+arrreias: shows [Th Ks] (a pair of Tens)
+johnnymores: shows [8d 8c] (a pair of Eights)
+arrreias collected 19360 from pot
+johnnymores finished the tournament in 77th place
+*** SUMMARY ***
+Total pot 19360 | Rake 0 
+Board [2c 4h As Ts 7d]
+Seat 1: johnnymores showed [8d 8c] and lost with a pair of Eights
+Seat 2: horimero1 folded before Flop (didn't bet)
+Seat 3: sergiio000 (button) folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (small blind) folded before Flop
+Seat 5: dommel8393 (big blind) folded before Flop
+Seat 6: arrreias showed [Th Ks] and won (19360) with a pair of Tens
+Seat 7: christ653 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619877345: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/09/05 13:28:08 CET [2025/09/05 7:28:08 ET]
+Table '3922832841 12' 8-max Seat #4 is the button
+Seat 2: horimero1 (33850 in chips) 
+Seat 3: sergiio000 (4140 in chips) is sitting out
+Seat 4: pipinoelbreve9 (18641 in chips) 
+Seat 5: dommel8393 (19260 in chips) 
+Seat 6: arrreias (79440 in chips) 
+Seat 7: christ653 (6530 in chips) 
+horimero1: posts the ante 80
+sergiio000: posts the ante 80
+pipinoelbreve9: posts the ante 80
+dommel8393: posts the ante 80
+arrreias: posts the ante 80
+christ653: posts the ante 80
+dommel8393: posts small blind 400
+arrreias: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Kd]
+christ653: folds 
+horimero1 has timed out
+horimero1: folds 
+horimero1 is sitting out
+sergiio000: folds 
+pipinoelbreve9: raises 2400 to 3200
+dommel8393: folds 
+arrreias: calls 2400
+*** FLOP *** [Tc 8d 8h]
+arrreias: checks 
+pipinoelbreve9: bets 15361 and is all-in
+arrreias: folds 
+Uncalled bet (15361) returned to pipinoelbreve9
+pipinoelbreve9 collected 7280 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 7280 | Rake 0 
+Board [Tc 8d 8h]
+Seat 2: horimero1 folded before Flop (didn't bet)
+Seat 3: sergiio000 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) collected (7280)
+Seat 5: dommel8393 (small blind) folded before Flop
+Seat 6: arrreias (big blind) folded on the Flop
+Seat 7: christ653 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619881927: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/09/05 13:28:48 CET [2025/09/05 7:28:48 ET]
+Table '3922832841 12' 8-max Seat #5 is the button
+Seat 1: fabiotrolha (4950 in chips) is sitting out
+Seat 2: horimero1 (33770 in chips) is sitting out
+Seat 3: sergiio000 (4060 in chips) is sitting out
+Seat 4: pipinoelbreve9 (22641 in chips) 
+Seat 5: dommel8393 (18780 in chips) 
+Seat 6: arrreias (76160 in chips) 
+Seat 7: christ653 (6450 in chips) 
+fabiotrolha: posts the ante 80
+horimero1: posts the ante 80
+sergiio000: posts the ante 80
+pipinoelbreve9: posts the ante 80
+dommel8393: posts the ante 80
+arrreias: posts the ante 80
+christ653: posts the ante 80
+arrreias: posts small blind 400
+christ653: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Kc]
+fabiotrolha: folds 
+horimero1: folds 
+sergiio000: folds 
+pipinoelbreve9: raises 1600 to 2400
+horimero1 is disconnected 
+dommel8393: folds 
+arrreias: calls 2000
+christ653 has timed out
+christ653: folds 
+christ653 is sitting out
+*** FLOP *** [7h 2h Kh]
+arrreias: bets 73680 and is all-in
+christ653 has returned
+pipinoelbreve9: calls 20161 and is all-in
+Uncalled bet (53519) returned to arrreias
+*** TURN *** [7h 2h Kh] [Jd]
+*** RIVER *** [7h 2h Kh Jd] [Js]
+*** SHOW DOWN ***
+arrreias: shows [Qh 2c] (two pair, Jacks and Deuces)
+pipinoelbreve9: shows [8h Kc] (two pair, Kings and Jacks)
+pipinoelbreve9 collected 46482 from pot
+*** SUMMARY ***
+Total pot 46482 | Rake 0 
+Board [7h 2h Kh Jd Js]
+Seat 1: fabiotrolha folded before Flop (didn't bet)
+Seat 2: horimero1 folded before Flop (didn't bet)
+Seat 3: sergiio000 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 showed [8h Kc] and won (46482) with two pair, Kings and Jacks
+Seat 5: dommel8393 (button) folded before Flop (didn't bet)
+Seat 6: arrreias (small blind) showed [Qh 2c] and lost with two pair, Jacks and Deuces
+Seat 7: christ653 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257619886837: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/09/05 13:29:33 CET [2025/09/05 7:29:33 ET]
+Table '3922832841 12' 8-max Seat #6 is the button
+Seat 1: fabiotrolha (4870 in chips) is sitting out
+Seat 2: horimero1 (33690 in chips) is sitting out
+Seat 4: pipinoelbreve9 (46482 in chips) 
+Seat 5: dommel8393 (18700 in chips) 
+Seat 6: arrreias (53519 in chips) 
+Seat 7: christ653 (5570 in chips) 
+Seat 8: 4quart (9247 in chips) 
+fabiotrolha: posts the ante 100
+horimero1: posts the ante 100
+pipinoelbreve9: posts the ante 100
+dommel8393: posts the ante 100
+arrreias: posts the ante 100
+christ653: posts the ante 100
+4quart: posts the ante 100
+christ653: posts small blind 500
+4quart: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Kd]
+fabiotrolha: folds 
+horimero1: folds 
+pipinoelbreve9: raises 2000 to 3000
+dommel8393: folds 
+arrreias: raises 50419 to 53419 and is all-in
+christ653: folds 
+4quart: folds 
+pipinoelbreve9: calls 43382 and is all-in
+Uncalled bet (7037) returned to arrreias
+*** FLOP *** [As Ad 7c]
+*** TURN *** [As Ad 7c] [Tc]
+*** RIVER *** [As Ad 7c Tc] [4s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qs Kd] (a pair of Aces)
+arrreias: shows [6h Qh] (a pair of Aces - lower kicker)
+pipinoelbreve9 collected 94964 from pot
+*** SUMMARY ***
+Total pot 94964 | Rake 0 
+Board [As Ad 7c Tc 4s]
+Seat 1: fabiotrolha folded before Flop (didn't bet)
+Seat 2: horimero1 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 showed [Qs Kd] and won (94964) with a pair of Aces
+Seat 5: dommel8393 folded before Flop (didn't bet)
+Seat 6: arrreias (button) showed [6h Qh] and lost with a pair of Aces
+Seat 7: christ653 (small blind) folded before Flop
+Seat 8: 4quart (big blind) folded before Flop
+
+
+
+PokerStars Hand #257619889919: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/09/05 13:30:00 CET [2025/09/05 7:30:00 ET]
+Table '3922832841 12' 8-max Seat #7 is the button
+Seat 1: fabiotrolha (4770 in chips) is sitting out
+Seat 2: horimero1 (33590 in chips) is sitting out
+Seat 4: pipinoelbreve9 (94964 in chips) 
+Seat 5: dommel8393 (18600 in chips) 
+Seat 6: arrreias (7037 in chips) 
+Seat 7: christ653 (4970 in chips) 
+Seat 8: 4quart (8147 in chips) 
+fabiotrolha: posts the ante 100
+horimero1: posts the ante 100
+pipinoelbreve9: posts the ante 100
+dommel8393: posts the ante 100
+arrreias: posts the ante 100
+christ653: posts the ante 100
+4quart: posts the ante 100
+4quart: posts small blind 500
+fabiotrolha: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Ts]
+horimero1: folds 
+pipinoelbreve9: raises 1000 to 2000
+dommel8393: folds 
+arrreias: raises 4937 to 6937 and is all-in
+christ653: calls 4870 and is all-in
+4quart: raises 1110 to 8047 and is all-in
+fabiotrolha: folds 
+pipinoelbreve9: calls 6047
+*** FLOP *** [Qd 9s 8s]
+*** TURN *** [Qd 9s 8s] [Jh]
+*** RIVER *** [Qd 9s 8s Jh] [Ad]
+*** SHOW DOWN ***
+4quart: shows [Td Tc] (a straight, Eight to Queen)
+pipinoelbreve9: shows [7s Ts] (a straight, Eight to Queen)
+4quart collected 1110 from side pot-2 
+pipinoelbreve9 collected 1110 from side pot-2 
+arrreias: shows [Kc Kd] (a pair of Kings)
+4quart collected 3101 from side pot-1 
+pipinoelbreve9 collected 3100 from side pot-1 
+christ653: shows [Kh 9h] (a pair of Nines)
+4quart collected 10590 from main pot
+pipinoelbreve9 collected 10590 from main pot
+arrreias finished the tournament in 64th place
+christ653 finished the tournament in 65th place
+*** SUMMARY ***
+Total pot 29601 Main pot 21180. Side pot-1 6201. Side pot-2 2220. | Rake 0 
+Board [Qd 9s 8s Jh Ad]
+Seat 1: fabiotrolha (big blind) folded before Flop
+Seat 2: horimero1 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 showed [7s Ts] and won (14800) with a straight, Eight to Queen
+Seat 5: dommel8393 folded before Flop (didn't bet)
+Seat 6: arrreias showed [Kc Kd] and lost with a pair of Kings
+Seat 7: christ653 (button) showed [Kh 9h] and lost with a pair of Nines
+Seat 8: 4quart (small blind) showed [Td Tc] and won (14801) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #257619894668: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/09/05 13:30:42 CET [2025/09/05 7:30:42 ET]
+Table '3922832841 6' 8-max Seat #7 is the button
+Seat 1: remi83630 (4480 in chips) 
+Seat 2: Cachivache81 (57725 in chips) 
+Seat 3: dommel8393 (18500 in chips) 
+Seat 4: pipinoelbreve9 (101617 in chips) 
+Seat 5: jrarcos (34470 in chips) 
+Seat 6: WilBox91 (7360 in chips) 
+Seat 7: Karlushnika (37590 in chips) 
+Seat 8: vimo07 (19500 in chips) is sitting out
+remi83630: posts the ante 100
+Cachivache81: posts the ante 100
+dommel8393: posts the ante 100
+pipinoelbreve9: posts the ante 100
+jrarcos: posts the ante 100
+WilBox91: posts the ante 100
+Karlushnika: posts the ante 100
+vimo07: posts the ante 100
+vimo07: posts small blind 500
+remi83630: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 4h]
+vimo07 has returned
+Cachivache81: calls 1000
+dommel8393: calls 1000
+pipinoelbreve9: folds 
+jrarcos: folds 
+WilBox91: raises 6260 to 7260 and is all-in
+Karlushnika: folds 
+vimo07: folds 
+remi83630: folds 
+Cachivache81: folds 
+dommel8393: calls 6260
+*** FLOP *** [2d Ac 7d]
+*** TURN *** [2d Ac 7d] [Qs]
+*** RIVER *** [2d Ac 7d Qs] [Kc]
+*** SHOW DOWN ***
+dommel8393: shows [9s Qd] (a pair of Queens)
+WilBox91: shows [Ah 8s] (a pair of Aces)
+WilBox91 collected 17820 from pot
+*** SUMMARY ***
+Total pot 17820 | Rake 0 
+Board [2d Ac 7d Qs Kc]
+Seat 1: remi83630 (big blind) folded before Flop
+Seat 2: Cachivache81 folded before Flop
+Seat 3: dommel8393 showed [9s Qd] and lost with a pair of Queens
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: jrarcos folded before Flop (didn't bet)
+Seat 6: WilBox91 showed [Ah 8s] and won (17820) with a pair of Aces
+Seat 7: Karlushnika (button) folded before Flop (didn't bet)
+Seat 8: vimo07 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257619899507: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/09/05 13:31:25 CET [2025/09/05 7:31:25 ET]
+Table '3922832841 6' 8-max Seat #8 is the button
+Seat 1: remi83630 (3380 in chips) 
+Seat 2: Cachivache81 (56625 in chips) 
+Seat 3: dommel8393 (11140 in chips) 
+Seat 4: pipinoelbreve9 (101517 in chips) 
+Seat 5: jrarcos (34370 in chips) 
+Seat 6: WilBox91 (17820 in chips) 
+Seat 7: Karlushnika (37490 in chips) 
+Seat 8: vimo07 (18900 in chips) 
+remi83630: posts the ante 100
+Cachivache81: posts the ante 100
+dommel8393: posts the ante 100
+pipinoelbreve9: posts the ante 100
+jrarcos: posts the ante 100
+WilBox91: posts the ante 100
+Karlushnika: posts the ante 100
+vimo07: posts the ante 100
+remi83630: posts small blind 500
+Cachivache81: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 2s]
+dommel8393: folds 
+pipinoelbreve9: calls 1000
+jrarcos: folds 
+WilBox91: calls 1000
+Karlushnika: calls 1000
+vimo07: raises 17800 to 18800 and is all-in
+remi83630: folds 
+Cachivache81: folds 
+pipinoelbreve9: folds 
+WilBox91: folds 
+Karlushnika: folds 
+Uncalled bet (17800) returned to vimo07
+vimo07 collected 6300 from pot
+vimo07: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 1: remi83630 (small blind) folded before Flop
+Seat 2: Cachivache81 (big blind) folded before Flop
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop
+Seat 5: jrarcos folded before Flop (didn't bet)
+Seat 6: WilBox91 folded before Flop
+Seat 7: Karlushnika folded before Flop
+Seat 8: vimo07 (button) collected (6300)
+
+
+
+PokerStars Hand #257619903080: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/09/05 13:31:58 CET [2025/09/05 7:31:58 ET]
+Table '3922832841 6' 8-max Seat #1 is the button
+Seat 1: remi83630 (2780 in chips) 
+Seat 2: Cachivache81 (55525 in chips) 
+Seat 3: dommel8393 (11040 in chips) 
+Seat 4: pipinoelbreve9 (100417 in chips) 
+Seat 5: jrarcos (34270 in chips) 
+Seat 6: WilBox91 (16720 in chips) 
+Seat 7: Karlushnika (36390 in chips) 
+Seat 8: vimo07 (24100 in chips) 
+remi83630: posts the ante 100
+Cachivache81: posts the ante 100
+dommel8393: posts the ante 100
+pipinoelbreve9: posts the ante 100
+jrarcos: posts the ante 100
+WilBox91: posts the ante 100
+Karlushnika: posts the ante 100
+vimo07: posts the ante 100
+Cachivache81: posts small blind 500
+dommel8393: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 3d]
+pipinoelbreve9: folds 
+jrarcos: calls 1000
+WilBox91: folds 
+Karlushnika: folds 
+vimo07 has timed out
+vimo07: folds 
+vimo07 is sitting out
+vimo07 has returned
+remi83630 is disconnected 
+remi83630 has timed out while disconnected
+remi83630: folds 
+remi83630 is sitting out
+Cachivache81: calls 500
+dommel8393: checks 
+*** FLOP *** [9c 5h Qh]
+Cachivache81: checks 
+dommel8393: bets 1000
+jrarcos: folds 
+Cachivache81: folds 
+Uncalled bet (1000) returned to dommel8393
+dommel8393 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Board [9c 5h Qh]
+Seat 1: remi83630 (button) folded before Flop (didn't bet)
+Seat 2: Cachivache81 (small blind) folded on the Flop
+Seat 3: dommel8393 (big blind) collected (3800)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: jrarcos folded on the Flop
+Seat 6: WilBox91 folded before Flop (didn't bet)
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: vimo07 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619910264: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/09/05 13:33:02 CET [2025/09/05 7:33:02 ET]
+Table '3922832841 6' 8-max Seat #2 is the button
+Seat 1: remi83630 (2680 in chips) is sitting out
+Seat 2: Cachivache81 (54425 in chips) 
+Seat 3: dommel8393 (13740 in chips) 
+Seat 4: pipinoelbreve9 (100317 in chips) 
+Seat 5: jrarcos (33170 in chips) 
+Seat 6: WilBox91 (16620 in chips) 
+Seat 7: Karlushnika (36290 in chips) 
+Seat 8: vimo07 (24000 in chips) 
+remi83630: posts the ante 120
+Cachivache81: posts the ante 120
+dommel8393: posts the ante 120
+pipinoelbreve9: posts the ante 120
+jrarcos: posts the ante 120
+WilBox91: posts the ante 120
+Karlushnika: posts the ante 120
+vimo07: posts the ante 120
+dommel8393: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Kc]
+jrarcos: folds 
+WilBox91: raises 15300 to 16500 and is all-in
+Karlushnika: folds 
+vimo07: raises 7380 to 23880 and is all-in
+remi83630: folds 
+Cachivache81: calls 23880
+dommel8393: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [Qh Ts Qc]
+*** TURN *** [Qh Ts Qc] [Js]
+*** RIVER *** [Qh Ts Qc Js] [4c]
+*** SHOW DOWN ***
+vimo07: shows [Ks Th] (two pair, Queens and Tens)
+Cachivache81: shows [4d 4h] (a full house, Fours full of Queens)
+Cachivache81 collected 14760 from side pot
+WilBox91: shows [Tc Ac] (two pair, Queens and Tens)
+Cachivache81 collected 52260 from main pot
+vimo07 finished the tournament in 58th place
+WilBox91 finished the tournament in 59th place
+*** SUMMARY ***
+Total pot 67020 Main pot 52260. Side pot 14760. | Rake 0 
+Board [Qh Ts Qc Js 4c]
+Seat 1: remi83630 folded before Flop (didn't bet)
+Seat 2: Cachivache81 (button) showed [4d 4h] and won (67020) with a full house, Fours full of Queens
+Seat 3: dommel8393 (small blind) folded before Flop
+Seat 4: pipinoelbreve9 (big blind) folded before Flop
+Seat 5: jrarcos folded before Flop (didn't bet)
+Seat 6: WilBox91 showed [Tc Ac] and lost with two pair, Queens and Tens
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: vimo07 showed [Ks Th] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #257619914500: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/09/05 13:33:40 CET [2025/09/05 7:33:40 ET]
+Table '3922832841 6' 8-max Seat #3 is the button
+Seat 1: remi83630 (2560 in chips) is sitting out
+Seat 2: Cachivache81 (97445 in chips) 
+Seat 3: dommel8393 (13020 in chips) 
+Seat 4: pipinoelbreve9 (98997 in chips) 
+Seat 5: jrarcos (33050 in chips) 
+Seat 7: Karlushnika (36170 in chips) 
+remi83630: posts the ante 120
+Cachivache81: posts the ante 120
+dommel8393: posts the ante 120
+pipinoelbreve9: posts the ante 120
+jrarcos: posts the ante 120
+Karlushnika: posts the ante 120
+pipinoelbreve9: posts small blind 600
+jrarcos: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 8c]
+Karlushnika: folds 
+remi83630: folds 
+Cachivache81 has timed out
+Cachivache81: folds 
+Cachivache81 is sitting out
+dommel8393: folds 
+pipinoelbreve9: raises 1200 to 2400
+jrarcos: calls 1200
+*** FLOP *** [5h As 9d]
+pipinoelbreve9: bets 2760
+jrarcos: folds 
+Uncalled bet (2760) returned to pipinoelbreve9
+pipinoelbreve9 collected 5520 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 5520 | Rake 0 
+Board [5h As 9d]
+Seat 1: remi83630 folded before Flop (didn't bet)
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 (button) folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (small blind) collected (5520)
+Seat 5: jrarcos (big blind) folded on the Flop
+Seat 7: Karlushnika folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619919657: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/09/05 13:34:25 CET [2025/09/05 7:34:25 ET]
+Table '3922832841 6' 8-max Seat #4 is the button
+Seat 1: remi83630 (2440 in chips) is sitting out
+Seat 2: Cachivache81 (97325 in chips) is sitting out
+Seat 3: dommel8393 (12900 in chips) 
+Seat 4: pipinoelbreve9 (101997 in chips) 
+Seat 5: jrarcos (30530 in chips) 
+Seat 6: Encina 99 (30060 in chips) 
+Seat 7: Karlushnika (36050 in chips) 
+Seat 8: marsal000 (43205 in chips) 
+remi83630: posts the ante 120
+Cachivache81: posts the ante 120
+dommel8393: posts the ante 120
+pipinoelbreve9: posts the ante 120
+jrarcos: posts the ante 120
+Encina 99: posts the ante 120
+Karlushnika: posts the ante 120
+marsal000: posts the ante 120
+jrarcos: posts small blind 600
+Encina 99: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 7s]
+Karlushnika: folds 
+marsal000: raises 1200 to 2400
+remi83630: folds 
+Cachivache81: folds 
+dommel8393: folds 
+pipinoelbreve9: raises 2400 to 4800
+jrarcos: folds 
+Encina 99: raises 7200 to 12000
+marsal000: folds 
+pipinoelbreve9: calls 7200
+*** FLOP *** [As Ad 8h]
+Encina 99: checks 
+pipinoelbreve9: bets 18000
+Encina 99: calls 17940 and is all-in
+Uncalled bet (60) returned to pipinoelbreve9
+*** TURN *** [As Ad 8h] [Qs]
+*** RIVER *** [As Ad 8h Qs] [5d]
+*** SHOW DOWN ***
+Encina 99: shows [Ac Ah] (four of a kind, Aces)
+pipinoelbreve9: shows [Js 7s] (a pair of Aces)
+Encina 99 collected 63840 from pot
+*** SUMMARY ***
+Total pot 63840 | Rake 0 
+Board [As Ad 8h Qs 5d]
+Seat 1: remi83630 folded before Flop (didn't bet)
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) showed [Js 7s] and lost with a pair of Aces
+Seat 5: jrarcos (small blind) folded before Flop
+Seat 6: Encina 99 (big blind) showed [Ac Ah] and won (63840) with four of a kind, Aces
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: marsal000 folded before Flop
+
+
+
+PokerStars Hand #257619925964: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/05 13:35:22 CET [2025/09/05 7:35:22 ET]
+Table '3922832841 6' 8-max Seat #5 is the button
+Seat 1: remi83630 (2320 in chips) is sitting out
+Seat 2: Cachivache81 (97205 in chips) is sitting out
+Seat 3: dommel8393 (12780 in chips) 
+Seat 4: pipinoelbreve9 (71937 in chips) 
+Seat 5: jrarcos (29810 in chips) 
+Seat 6: Encina 99 (63840 in chips) 
+Seat 7: Karlushnika (35930 in chips) 
+Seat 8: marsal000 (40685 in chips) 
+remi83630: posts the ante 160
+Cachivache81: posts the ante 160
+dommel8393: posts the ante 160
+pipinoelbreve9: posts the ante 160
+jrarcos: posts the ante 160
+Encina 99: posts the ante 160
+Karlushnika: posts the ante 160
+marsal000: posts the ante 160
+Encina 99: posts small blind 800
+Karlushnika: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 4c]
+marsal000: folds 
+remi83630: folds 
+Cachivache81: folds 
+dommel8393: folds 
+pipinoelbreve9: calls 1600
+jrarcos: raises 6880 to 8480
+Encina 99: folds 
+Karlushnika: folds 
+pipinoelbreve9: folds 
+Uncalled bet (6880) returned to jrarcos
+jrarcos collected 6880 from pot
+*** SUMMARY ***
+Total pot 6880 | Rake 0 
+Seat 1: remi83630 folded before Flop (didn't bet)
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop
+Seat 5: jrarcos (button) collected (6880)
+Seat 6: Encina 99 (small blind) folded before Flop
+Seat 7: Karlushnika (big blind) folded before Flop
+Seat 8: marsal000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619929030: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/05 13:35:49 CET [2025/09/05 7:35:49 ET]
+Table '3922832841 6' 8-max Seat #6 is the button
+Seat 1: remi83630 (2160 in chips) is sitting out
+Seat 2: Cachivache81 (97045 in chips) is sitting out
+Seat 3: dommel8393 (12620 in chips) 
+Seat 4: pipinoelbreve9 (70177 in chips) 
+Seat 5: jrarcos (34930 in chips) 
+Seat 6: Encina 99 (62880 in chips) 
+Seat 7: Karlushnika (34170 in chips) 
+Seat 8: marsal000 (40525 in chips) 
+remi83630: posts the ante 160
+Cachivache81: posts the ante 160
+dommel8393: posts the ante 160
+pipinoelbreve9: posts the ante 160
+jrarcos: posts the ante 160
+Encina 99: posts the ante 160
+Karlushnika: posts the ante 160
+marsal000: posts the ante 160
+Karlushnika: posts small blind 800
+marsal000: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 4c]
+remi83630: folds 
+Cachivache81: folds 
+dommel8393: folds 
+pipinoelbreve9: folds 
+jrarcos: folds 
+Encina 99: raises 1600 to 3200
+Karlushnika: folds 
+marsal000: calls 1600
+*** FLOP *** [9s Tc Kh]
+marsal000: checks 
+Encina 99: bets 4800
+marsal000: calls 4800
+*** TURN *** [9s Tc Kh] [Kc]
+marsal000: checks 
+Encina 99: bets 4800
+marsal000: calls 4800
+*** RIVER *** [9s Tc Kh Kc] [Jd]
+marsal000: bets 27565 and is all-in
+Encina 99: calls 27565
+*** SHOW DOWN ***
+marsal000: shows [Kd Qd] (a straight, Nine to King)
+Encina 99: shows [Qs 5s] (a straight, Nine to King)
+marsal000 collected 41405 from pot
+Encina 99 collected 41405 from pot
+*** SUMMARY ***
+Total pot 82810 | Rake 0 
+Board [9s Tc Kh Kc Jd]
+Seat 1: remi83630 folded before Flop (didn't bet)
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: jrarcos folded before Flop (didn't bet)
+Seat 6: Encina 99 (button) showed [Qs 5s] and won (41405) with a straight, Nine to King
+Seat 7: Karlushnika (small blind) folded before Flop
+Seat 8: marsal000 (big blind) showed [Kd Qd] and won (41405) with a straight, Nine to King
+
+
+
+PokerStars Hand #257619934744: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/05 13:36:40 CET [2025/09/05 7:36:40 ET]
+Table '3922832841 6' 8-max Seat #7 is the button
+Seat 1: remi83630 (2000 in chips) is sitting out
+Seat 2: Cachivache81 (96885 in chips) is sitting out
+Seat 3: dommel8393 (12460 in chips) 
+Seat 4: pipinoelbreve9 (70017 in chips) 
+Seat 6: Encina 99 (63760 in chips) 
+Seat 7: Karlushnika (33210 in chips) 
+Seat 8: marsal000 (41405 in chips) 
+remi83630: posts the ante 160
+Cachivache81: posts the ante 160
+dommel8393: posts the ante 160
+pipinoelbreve9: posts the ante 160
+Encina 99: posts the ante 160
+Karlushnika: posts the ante 160
+marsal000: posts the ante 160
+marsal000: posts small blind 800
+remi83630: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 9h]
+Cachivache81: folds 
+dommel8393: folds 
+pipinoelbreve9: folds 
+Encina 99: raises 5120 to 6720
+Karlushnika: folds 
+marsal000: folds 
+remi83630: folds 
+Uncalled bet (5120) returned to Encina 99
+Encina 99 collected 5120 from pot
+*** SUMMARY ***
+Total pot 5120 | Rake 0 
+Seat 1: remi83630 (big blind) folded before Flop
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Encina 99 collected (5120)
+Seat 7: Karlushnika (button) folded before Flop (didn't bet)
+Seat 8: marsal000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257619936753: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/05 13:36:58 CET [2025/09/05 7:36:58 ET]
+Table '3922832841 6' 8-max Seat #8 is the button
+Seat 1: remi83630 (240 in chips) is sitting out
+Seat 2: Cachivache81 (96725 in chips) is sitting out
+Seat 3: dommel8393 (12300 in chips) 
+Seat 4: pipinoelbreve9 (69857 in chips) 
+Seat 5: TMN Torero (88180 in chips) 
+Seat 6: Encina 99 (67120 in chips) 
+Seat 7: Karlushnika (33050 in chips) 
+Seat 8: marsal000 (40445 in chips) 
+remi83630: posts the ante 160
+Cachivache81: posts the ante 160
+dommel8393: posts the ante 160
+pipinoelbreve9: posts the ante 160
+TMN Torero: posts the ante 160
+Encina 99: posts the ante 160
+Karlushnika: posts the ante 160
+marsal000: posts the ante 160
+remi83630: posts small blind 80 and is all-in
+Cachivache81: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Ks]
+dommel8393: folds 
+pipinoelbreve9: raises 3200 to 4800
+TMN Torero: folds 
+Encina 99: calls 4800
+Karlushnika is disconnected 
+Karlushnika has timed out while disconnected
+Karlushnika: folds 
+Karlushnika is sitting out
+marsal000: folds 
+Cachivache81: folds 
+remi83630: folds 
+*** FLOP *** [Kc 8s 2d]
+pipinoelbreve9: bets 4680
+Encina 99: calls 4680
+*** TURN *** [Kc 8s 2d] [Td]
+pipinoelbreve9: bets 25120
+Encina 99: raises 25120 to 50240
+pipinoelbreve9: raises 9977 to 60217 and is all-in
+Encina 99: calls 7240 and is all-in
+Uncalled bet (2737) returned to pipinoelbreve9
+*** RIVER *** [Kc 8s 2d Td] [As]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kh Ks] (three of a kind, Kings)
+Encina 99: shows [2h Th] (two pair, Tens and Deuces)
+pipinoelbreve9 collected 136880 from pot
+Encina 99 finished the tournament in 43rd place
+remi83630 finished the tournament in 44th place
+*** SUMMARY ***
+Total pot 136880 | Rake 0 
+Board [Kc 8s 2d Td As]
+Seat 1: remi83630 (small blind) folded before Flop
+Seat 2: Cachivache81 (big blind) folded before Flop
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 showed [Kh Ks] and won (136880) with three of a kind, Kings
+Seat 5: TMN Torero folded before Flop (didn't bet)
+Seat 6: Encina 99 showed [2h Th] and lost with two pair, Tens and Deuces
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: marsal000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619942422: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/09/05 13:37:49 CET [2025/09/05 7:37:49 ET]
+Table '3922832841 6' 8-max Seat #2 is the button
+Seat 2: Cachivache81 (94965 in chips) is sitting out
+Seat 3: dommel8393 (12140 in chips) 
+Seat 4: pipinoelbreve9 (139617 in chips) 
+Seat 5: TMN Torero (88020 in chips) 
+Seat 7: Karlushnika (32890 in chips) is sitting out
+Seat 8: marsal000 (40285 in chips) 
+Cachivache81: posts the ante 160
+dommel8393: posts the ante 160
+pipinoelbreve9: posts the ante 160
+TMN Torero: posts the ante 160
+Karlushnika: posts the ante 160
+marsal000: posts the ante 160
+dommel8393: posts small blind 800
+pipinoelbreve9: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 3s]
+TMN Torero: raises 3200 to 4800
+Karlushnika: folds 
+marsal000: folds 
+Cachivache81: folds 
+dommel8393: folds 
+pipinoelbreve9: calls 3200
+*** FLOP *** [7h 2c Ks]
+pipinoelbreve9: checks 
+TMN Torero: checks 
+*** TURN *** [7h 2c Ks] [Kh]
+pipinoelbreve9: bets 5680
+TMN Torero: folds 
+Uncalled bet (5680) returned to pipinoelbreve9
+pipinoelbreve9 collected 11360 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 11360 | Rake 0 
+Board [7h 2c Ks Kh]
+Seat 2: Cachivache81 (button) folded before Flop (didn't bet)
+Seat 3: dommel8393 (small blind) folded before Flop
+Seat 4: pipinoelbreve9 (big blind) collected (11360)
+Seat 5: TMN Torero folded on the Turn
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: marsal000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619947378: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:38:33 CET [2025/09/05 7:38:33 ET]
+Table '3922832841 6' 8-max Seat #3 is the button
+Seat 1: jrarcos (34450 in chips) 
+Seat 2: Cachivache81 (94805 in chips) is sitting out
+Seat 3: dommel8393 (11180 in chips) 
+Seat 4: pipinoelbreve9 (146017 in chips) 
+Seat 5: TMN Torero (83060 in chips) 
+Seat 6: jglachaud (12540 in chips) is sitting out
+Seat 7: Karlushnika (32730 in chips) is sitting out
+Seat 8: marsal000 (40125 in chips) 
+jrarcos: posts the ante 200
+Cachivache81: posts the ante 200
+dommel8393: posts the ante 200
+pipinoelbreve9: posts the ante 200
+TMN Torero: posts the ante 200
+jglachaud: posts the ante 200
+Karlushnika: posts the ante 200
+marsal000: posts the ante 200
+pipinoelbreve9: posts small blind 1000
+TMN Torero: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 8c]
+jglachaud: folds 
+Karlushnika: folds 
+marsal000: folds 
+jrarcos: folds 
+Cachivache81: folds 
+dommel8393: calls 2000
+pipinoelbreve9: calls 1000
+TMN Torero: checks 
+*** FLOP *** [3s Qd 5h]
+pipinoelbreve9: bets 2000
+TMN Torero: raises 4000 to 6000
+dommel8393: folds 
+pipinoelbreve9: folds 
+Uncalled bet (4000) returned to TMN Torero
+TMN Torero collected 11600 from pot
+TMN Torero: doesn't show hand 
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Board [3s Qd 5h]
+Seat 1: jrarcos folded before Flop (didn't bet)
+Seat 2: Cachivache81 folded before Flop (didn't bet)
+Seat 3: dommel8393 (button) folded on the Flop
+Seat 4: pipinoelbreve9 (small blind) folded on the Flop
+Seat 5: TMN Torero (big blind) collected (11600)
+Seat 6: jglachaud folded before Flop (didn't bet)
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: marsal000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619950722: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:39:02 CET [2025/09/05 7:39:02 ET]
+Table '3922832841 6' 8-max Seat #4 is the button
+Seat 1: jrarcos (34250 in chips) 
+Seat 3: dommel8393 (8980 in chips) 
+Seat 4: pipinoelbreve9 (141817 in chips) 
+Seat 5: TMN Torero (90460 in chips) 
+Seat 6: jglachaud (12340 in chips) is sitting out
+Seat 7: Karlushnika (32530 in chips) is sitting out
+Seat 8: marsal000 (39925 in chips) 
+jrarcos: posts the ante 200
+dommel8393: posts the ante 200
+pipinoelbreve9: posts the ante 200
+TMN Torero: posts the ante 200
+jglachaud: posts the ante 200
+Karlushnika: posts the ante 200
+marsal000: posts the ante 200
+TMN Torero: posts small blind 1000
+jglachaud: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 8d]
+Karlushnika: folds 
+marsal000: folds 
+jrarcos: raises 6400 to 8400
+dommel8393: folds 
+pipinoelbreve9: folds 
+TMN Torero: folds 
+jglachaud: folds 
+Uncalled bet (6400) returned to jrarcos
+jrarcos collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: jrarcos collected (6400)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 5: TMN Torero (small blind) folded before Flop
+Seat 6: jglachaud (big blind) folded before Flop
+Seat 7: Karlushnika folded before Flop (didn't bet)
+Seat 8: marsal000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619952360: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:39:17 CET [2025/09/05 7:39:17 ET]
+Table '3922832841 6' 8-max Seat #5 is the button
+Seat 1: jrarcos (38450 in chips) 
+Seat 3: dommel8393 (8780 in chips) 
+Seat 4: pipinoelbreve9 (141617 in chips) 
+Seat 5: TMN Torero (89260 in chips) 
+Seat 6: jglachaud (10140 in chips) is sitting out
+Seat 7: Karlushnika (32330 in chips) is sitting out
+Seat 8: marsal000 (39725 in chips) 
+jrarcos: posts the ante 200
+dommel8393: posts the ante 200
+pipinoelbreve9: posts the ante 200
+TMN Torero: posts the ante 200
+jglachaud: posts the ante 200
+Karlushnika: posts the ante 200
+marsal000: posts the ante 200
+jglachaud: posts small blind 1000
+Karlushnika: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Qc]
+marsal000: folds 
+jrarcos: folds 
+Karlushnika is disconnected 
+dommel8393: raises 6580 to 8580 and is all-in
+Karlushnika has returned
+pipinoelbreve9: folds 
+TMN Torero: folds 
+jglachaud: folds 
+Karlushnika: folds 
+Uncalled bet (6580) returned to dommel8393
+dommel8393 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: jrarcos folded before Flop (didn't bet)
+Seat 3: dommel8393 collected (6400)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: TMN Torero (button) folded before Flop (didn't bet)
+Seat 6: jglachaud (small blind) folded before Flop
+Seat 7: Karlushnika (big blind) folded before Flop
+Seat 8: marsal000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619955219: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:39:43 CET [2025/09/05 7:39:43 ET]
+Table '3922832841 6' 8-max Seat #6 is the button
+Seat 1: jrarcos (38250 in chips) 
+Seat 3: dommel8393 (12980 in chips) 
+Seat 4: pipinoelbreve9 (141417 in chips) 
+Seat 5: TMN Torero (89060 in chips) 
+Seat 6: jglachaud (8940 in chips) is sitting out
+Seat 7: Karlushnika (30130 in chips) 
+Seat 8: marsal000 (39525 in chips) 
+jrarcos: posts the ante 200
+dommel8393: posts the ante 200
+pipinoelbreve9: posts the ante 200
+TMN Torero: posts the ante 200
+jglachaud: posts the ante 200
+Karlushnika: posts the ante 200
+marsal000: posts the ante 200
+Karlushnika: posts small blind 1000
+marsal000: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Kc]
+jrarcos: folds 
+dommel8393: folds 
+pipinoelbreve9: calls 2000
+TMN Torero: folds 
+jglachaud: folds 
+Karlushnika: calls 1000
+marsal000: checks 
+*** FLOP *** [As 9c Jh]
+Karlushnika: checks 
+marsal000: checks 
+pipinoelbreve9: bets 5700
+Karlushnika: folds 
+marsal000: folds 
+Uncalled bet (5700) returned to pipinoelbreve9
+pipinoelbreve9 collected 7400 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 7400 | Rake 0 
+Board [As 9c Jh]
+Seat 1: jrarcos folded before Flop (didn't bet)
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 collected (7400)
+Seat 5: TMN Torero folded before Flop (didn't bet)
+Seat 6: jglachaud (button) folded before Flop (didn't bet)
+Seat 7: Karlushnika (small blind) folded on the Flop
+Seat 8: marsal000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257619957903: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:40:07 CET [2025/09/05 7:40:07 ET]
+Table '3922832841 6' 8-max Seat #7 is the button
+Seat 1: jrarcos (38050 in chips) 
+Seat 3: dommel8393 (12780 in chips) 
+Seat 4: pipinoelbreve9 (146617 in chips) 
+Seat 5: TMN Torero (88860 in chips) 
+Seat 6: jglachaud (8740 in chips) is sitting out
+Seat 7: Karlushnika (27930 in chips) 
+Seat 8: marsal000 (37325 in chips) 
+jrarcos: posts the ante 200
+dommel8393: posts the ante 200
+pipinoelbreve9: posts the ante 200
+TMN Torero: posts the ante 200
+jglachaud: posts the ante 200
+Karlushnika: posts the ante 200
+marsal000: posts the ante 200
+marsal000: posts small blind 1000
+jrarcos: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Jc]
+dommel8393: folds 
+pipinoelbreve9: folds 
+TMN Torero: raises 4000 to 6000
+jglachaud: folds 
+Karlushnika: folds 
+marsal000: raises 31125 to 37125 and is all-in
+jrarcos: folds 
+TMN Torero: calls 31125
+*** FLOP *** [5h 6h 7h]
+*** TURN *** [5h 6h 7h] [6d]
+*** RIVER *** [5h 6h 7h 6d] [Th]
+*** SHOW DOWN ***
+marsal000: shows [Qc Ad] (a pair of Sixes)
+TMN Torero: shows [As Tc] (two pair, Tens and Sixes)
+TMN Torero collected 77650 from pot
+marsal000 finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 77650 | Rake 0 
+Board [5h 6h 7h 6d Th]
+Seat 1: jrarcos (big blind) folded before Flop
+Seat 3: dommel8393 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: TMN Torero showed [As Tc] and won (77650) with two pair, Tens and Sixes
+Seat 6: jglachaud folded before Flop (didn't bet)
+Seat 7: Karlushnika (button) folded before Flop (didn't bet)
+Seat 8: marsal000 (small blind) showed [Qc Ad] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #257619962110: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/05 13:40:45 CET [2025/09/05 7:40:45 ET]
+Table '3922832841 10' 8-max Seat #1 is the button
+Seat 1: Augusto43 (46908 in chips) 
+Seat 3: Mav0663 (14130 in chips) 
+Seat 4: DogyLord (19090 in chips) 
+Seat 5: rmuclmmk (28280 in chips) 
+Seat 6: horimero1 (27170 in chips) is sitting out
+Seat 7: pipinoelbreve9 (146417 in chips) 
+Seat 8: aafil2putte (123184 in chips) 
+Augusto43: posts the ante 200
+Mav0663: posts the ante 200
+DogyLord: posts the ante 200
+rmuclmmk: posts the ante 200
+horimero1: posts the ante 200
+pipinoelbreve9: posts the ante 200
+aafil2putte: posts the ante 200
+Mav0663: posts small blind 1000
+DogyLord: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Tc]
+rmuclmmk: raises 2000 to 4000
+horimero1: folds 
+pipinoelbreve9: calls 4000
+aafil2putte: folds 
+Augusto43: calls 4000
+Mav0663: folds 
+DogyLord: folds 
+*** FLOP *** [Td 3s 5s]
+rmuclmmk: checks 
+pipinoelbreve9: bets 8200
+Augusto43: calls 8200
+rmuclmmk: calls 8200
+*** TURN *** [Td 3s 5s] [Qd]
+rmuclmmk: checks 
+pipinoelbreve9: checks 
+Augusto43: checks 
+*** RIVER *** [Td 3s 5s Qd] [3c]
+rmuclmmk: checks 
+pipinoelbreve9: bets 26000
+Augusto43: folds 
+rmuclmmk: calls 15880 and is all-in
+Uncalled bet (10120) returned to pipinoelbreve9
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad Tc] (two pair, Tens and Threes)
+rmuclmmk: shows [6d 6c] (two pair, Sixes and Threes)
+pipinoelbreve9 collected 72760 from pot
+rmuclmmk finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 72760 | Rake 0 
+Board [Td 3s 5s Qd 3c]
+Seat 1: Augusto43 (button) folded on the River
+Seat 3: Mav0663 (small blind) folded before Flop
+Seat 4: DogyLord (big blind) folded before Flop
+Seat 5: rmuclmmk showed [6d 6c] and lost with two pair, Sixes and Threes
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 showed [Ad Tc] and won (72760) with two pair, Tens and Threes
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619968861: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/09/05 13:41:45 CET [2025/09/05 7:41:45 ET]
+Table '3922832841 10' 8-max Seat #3 is the button
+Seat 1: Augusto43 (34508 in chips) 
+Seat 3: Mav0663 (12930 in chips) 
+Seat 4: DogyLord (16890 in chips) 
+Seat 6: horimero1 (26970 in chips) is sitting out
+Seat 7: pipinoelbreve9 (190897 in chips) 
+Seat 8: aafil2putte (122984 in chips) 
+Augusto43: posts the ante 300
+Mav0663: posts the ante 300
+DogyLord: posts the ante 300
+horimero1: posts the ante 300
+pipinoelbreve9: posts the ante 300
+aafil2putte: posts the ante 300
+DogyLord: posts small blind 1500
+horimero1: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 4h]
+pipinoelbreve9: raises 3000 to 6000
+aafil2putte: folds 
+Augusto43: raises 28208 to 34208 and is all-in
+Mav0663: calls 12630 and is all-in
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+Uncalled bet (21578) returned to Augusto43
+*** FLOP *** [Ac Kc Jd]
+*** TURN *** [Ac Kc Jd] [7s]
+*** RIVER *** [Ac Kc Jd 7s] [2h]
+*** SHOW DOWN ***
+Augusto43: shows [Qd Ah] (a pair of Aces)
+Mav0663: shows [2c 2d] (three of a kind, Deuces)
+Mav0663 collected 37560 from pot
+*** SUMMARY ***
+Total pot 37560 | Rake 0 
+Board [Ac Kc Jd 7s 2h]
+Seat 1: Augusto43 showed [Qd Ah] and lost with a pair of Aces
+Seat 3: Mav0663 (button) showed [2c 2d] and won (37560) with three of a kind, Deuces
+Seat 4: DogyLord (small blind) folded before Flop
+Seat 6: horimero1 (big blind) folded before Flop
+Seat 7: pipinoelbreve9 folded before Flop
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619973737: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/09/05 13:42:28 CET [2025/09/05 7:42:28 ET]
+Table '3922832841 10' 8-max Seat #4 is the button
+Seat 1: Augusto43 (21578 in chips) 
+Seat 3: Mav0663 (37560 in chips) 
+Seat 4: DogyLord (15090 in chips) 
+Seat 6: horimero1 (23670 in chips) is sitting out
+Seat 7: pipinoelbreve9 (184597 in chips) 
+Seat 8: aafil2putte (122684 in chips) 
+Augusto43: posts the ante 300
+Mav0663: posts the ante 300
+DogyLord: posts the ante 300
+horimero1: posts the ante 300
+pipinoelbreve9: posts the ante 300
+aafil2putte: posts the ante 300
+horimero1: posts small blind 1500
+pipinoelbreve9: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 3h]
+aafil2putte: raises 6000 to 9000
+Augusto43: folds 
+Mav0663: folds 
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+Uncalled bet (6000) returned to aafil2putte
+aafil2putte collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 3: Mav0663 folded before Flop (didn't bet)
+Seat 4: DogyLord (button) folded before Flop (didn't bet)
+Seat 6: horimero1 (small blind) folded before Flop
+Seat 7: pipinoelbreve9 (big blind) folded before Flop
+Seat 8: aafil2putte collected (9300)
+
+
+
+PokerStars Hand #257619977315: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/09/05 13:43:00 CET [2025/09/05 7:43:00 ET]
+Table '3922832841 10' 8-max Seat #6 is the button
+Seat 1: Augusto43 (21278 in chips) 
+Seat 3: Mav0663 (37260 in chips) 
+Seat 4: DogyLord (14790 in chips) 
+Seat 6: horimero1 (21870 in chips) is sitting out
+Seat 7: pipinoelbreve9 (181297 in chips) 
+Seat 8: aafil2putte (128684 in chips) 
+Augusto43: posts the ante 300
+Mav0663: posts the ante 300
+DogyLord: posts the ante 300
+horimero1: posts the ante 300
+pipinoelbreve9: posts the ante 300
+aafil2putte: posts the ante 300
+pipinoelbreve9: posts small blind 1500
+aafil2putte: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 8s]
+Augusto43: raises 17978 to 20978 and is all-in
+Mav0663: folds 
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: folds 
+Uncalled bet (17978) returned to Augusto43
+Augusto43 collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Seat 1: Augusto43 collected (9300)
+Seat 3: Mav0663 folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 6: horimero1 (button) folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (small blind) folded before Flop
+Seat 8: aafil2putte (big blind) folded before Flop
+
+
+
+PokerStars Hand #257619980611: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/09/05 13:43:29 CET [2025/09/05 7:43:29 ET]
+Table '3922832841 10' 8-max Seat #7 is the button
+Seat 1: Augusto43 (27278 in chips) 
+Seat 3: Mav0663 (36960 in chips) 
+Seat 4: DogyLord (14490 in chips) 
+Seat 6: horimero1 (21570 in chips) is sitting out
+Seat 7: pipinoelbreve9 (179497 in chips) 
+Seat 8: aafil2putte (125384 in chips) 
+Augusto43: posts the ante 300
+Mav0663: posts the ante 300
+DogyLord: posts the ante 300
+horimero1: posts the ante 300
+pipinoelbreve9: posts the ante 300
+aafil2putte: posts the ante 300
+aafil2putte: posts small blind 1500
+Augusto43: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Th]
+Mav0663: folds 
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: raises 6000 to 9000
+aafil2putte: folds 
+Augusto43: folds 
+Uncalled bet (6000) returned to pipinoelbreve9
+pipinoelbreve9 collected 9300 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Seat 1: Augusto43 (big blind) folded before Flop
+Seat 3: Mav0663 folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (button) collected (9300)
+Seat 8: aafil2putte (small blind) folded before Flop
+
+
+
+PokerStars Hand #257619982938: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/09/05 13:43:49 CET [2025/09/05 7:43:49 ET]
+Table '3922832841 10' 8-max Seat #8 is the button
+Seat 1: Augusto43 (23978 in chips) 
+Seat 3: Mav0663 (36660 in chips) 
+Seat 4: DogyLord (14190 in chips) 
+Seat 6: horimero1 (21270 in chips) is sitting out
+Seat 7: pipinoelbreve9 (185497 in chips) 
+Seat 8: aafil2putte (123584 in chips) 
+Augusto43: posts the ante 300
+Mav0663: posts the ante 300
+DogyLord: posts the ante 300
+horimero1: posts the ante 300
+pipinoelbreve9: posts the ante 300
+aafil2putte: posts the ante 300
+Augusto43: posts small blind 1500
+Mav0663: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ac]
+DogyLord: raises 10890 to 13890 and is all-in
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: folds 
+Augusto43: raises 9788 to 23678 and is all-in
+Mav0663: folds 
+Uncalled bet (9788) returned to Augusto43
+*** FLOP *** [3d Qd 6s]
+*** TURN *** [3d Qd 6s] [Ks]
+*** RIVER *** [3d Qd 6s Ks] [2h]
+*** SHOW DOWN ***
+Augusto43: shows [Ts Tc] (a pair of Tens)
+DogyLord: shows [Td Kd] (a pair of Kings)
+DogyLord collected 32580 from pot
+*** SUMMARY ***
+Total pot 32580 | Rake 0 
+Board [3d Qd 6s Ks 2h]
+Seat 1: Augusto43 (small blind) showed [Ts Tc] and lost with a pair of Tens
+Seat 3: Mav0663 (big blind) folded before Flop
+Seat 4: DogyLord showed [Td Kd] and won (32580) with a pair of Kings
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619986942: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (2000/4000) - 2025/09/05 13:44:24 CET [2025/09/05 7:44:24 ET]
+Table '3922832841 10' 8-max Seat #1 is the button
+Seat 1: Augusto43 (9788 in chips) 
+Seat 2: frazaba (62170 in chips) out of hand (moved from another table into small blind)
+Seat 3: Mav0663 (33360 in chips) 
+Seat 4: DogyLord (32580 in chips) 
+Seat 5: orpalinae (37780 in chips) 
+Seat 6: horimero1 (20970 in chips) is sitting out
+Seat 7: pipinoelbreve9 (185197 in chips) 
+Seat 8: aafil2putte (123284 in chips) 
+frazaba will be allowed to play after the button
+Augusto43: posts the ante 400
+Mav0663: posts the ante 400
+DogyLord: posts the ante 400
+orpalinae: posts the ante 400
+horimero1: posts the ante 400
+pipinoelbreve9: posts the ante 400
+aafil2putte: posts the ante 400
+Mav0663: posts small blind 2000
+DogyLord: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 9h]
+orpalinae: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: folds 
+Augusto43: raises 5388 to 9388 and is all-in
+Mav0663: calls 7388
+DogyLord: raises 22792 to 32180 and is all-in
+Mav0663: calls 22792
+*** FLOP *** [6h 3h 7c]
+*** TURN *** [6h 3h 7c] [9s]
+*** RIVER *** [6h 3h 7c 9s] [4s]
+*** SHOW DOWN ***
+Mav0663: shows [Js Kc] (high card King)
+DogyLord: shows [Kd Qd] (high card King - Queen kicker)
+DogyLord collected 45584 from side pot
+Augusto43: shows [As 3s] (a pair of Threes)
+Augusto43 collected 30964 from main pot
+*** SUMMARY ***
+Total pot 76548 Main pot 30964. Side pot 45584. | Rake 0 
+Board [6h 3h 7c 9s 4s]
+Seat 1: Augusto43 (button) showed [As 3s] and won (30964) with a pair of Threes
+Seat 3: Mav0663 (small blind) showed [Js Kc] and lost with high card King
+Seat 4: DogyLord (big blind) showed [Kd Qd] and won (45584) with high card King
+Seat 5: orpalinae folded before Flop (didn't bet)
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257619992568: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (2000/4000) - 2025/09/05 13:45:11 CET [2025/09/05 7:45:11 ET]
+Table '3922832841 10' 8-max Seat #3 is the button
+Seat 1: Augusto43 (30964 in chips) 
+Seat 2: frazaba (62170 in chips) is sitting out
+Seat 3: Mav0663 (780 in chips) 
+Seat 4: DogyLord (45584 in chips) 
+Seat 5: orpalinae (37380 in chips) 
+Seat 6: horimero1 (20570 in chips) is sitting out
+Seat 7: pipinoelbreve9 (184797 in chips) 
+Seat 8: aafil2putte (122884 in chips) 
+Augusto43: posts the ante 400
+frazaba: posts the ante 400
+Mav0663: posts the ante 400
+DogyLord: posts the ante 400
+orpalinae: posts the ante 400
+horimero1: posts the ante 400
+pipinoelbreve9: posts the ante 400
+aafil2putte: posts the ante 400
+DogyLord: posts small blind 2000
+orpalinae: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 3h]
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: raises 4000 to 8000
+Augusto43: folds 
+frazaba: folds 
+Mav0663: calls 380 and is all-in
+DogyLord: folds 
+orpalinae: folds 
+Uncalled bet (4000) returned to aafil2putte
+*** FLOP *** [2h 3c 9c]
+*** TURN *** [2h 3c 9c] [5s]
+*** RIVER *** [2h 3c 9c 5s] [Qs]
+*** SHOW DOWN ***
+aafil2putte: shows [Jd Ks] (high card King)
+aafil2putte collected 8860 from side pot
+Mav0663: shows [6c Tc] (high card Queen)
+aafil2putte collected 4720 from main pot
+Mav0663 finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 13580 Main pot 4720. Side pot 8860. | Rake 0 
+Board [2h 3c 9c 5s Qs]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 3: Mav0663 (button) showed [6c Tc] and lost with high card Queen
+Seat 4: DogyLord (small blind) folded before Flop
+Seat 5: orpalinae (big blind) folded before Flop
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte showed [Jd Ks] and won (13580) with high card King
+
+
+
+PokerStars Hand #257619997099: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (2000/4000) - 2025/09/05 13:45:48 CET [2025/09/05 7:45:48 ET]
+Table '3922832841 10' 8-max Seat #4 is the button
+Seat 1: Augusto43 (30564 in chips) 
+Seat 2: frazaba (61770 in chips) is sitting out
+Seat 4: DogyLord (43184 in chips) 
+Seat 5: orpalinae (32980 in chips) 
+Seat 6: horimero1 (20170 in chips) is sitting out
+Seat 7: pipinoelbreve9 (184397 in chips) 
+Seat 8: aafil2putte (132064 in chips) 
+Augusto43: posts the ante 400
+frazaba: posts the ante 400
+DogyLord: posts the ante 400
+orpalinae: posts the ante 400
+horimero1: posts the ante 400
+pipinoelbreve9: posts the ante 400
+aafil2putte: posts the ante 400
+orpalinae: posts small blind 2000
+horimero1: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ks]
+pipinoelbreve9: calls 4000
+aafil2putte: calls 4000
+Augusto43: folds 
+frazaba: folds 
+DogyLord: folds 
+orpalinae: calls 2000
+horimero1: folds 
+*** FLOP *** [3h 6s 4d]
+orpalinae: checks 
+pipinoelbreve9: bets 10800
+aafil2putte: folds 
+orpalinae: folds 
+Uncalled bet (10800) returned to pipinoelbreve9
+pipinoelbreve9 collected 18800 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 18800 | Rake 0 
+Board [3h 6s 4d]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord (button) folded before Flop (didn't bet)
+Seat 5: orpalinae (small blind) folded on the Flop
+Seat 6: horimero1 (big blind) folded before Flop
+Seat 7: pipinoelbreve9 collected (18800)
+Seat 8: aafil2putte folded on the Flop
+
+
+
+PokerStars Hand #257620001721: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (2000/4000) - 2025/09/05 13:46:26 CET [2025/09/05 7:46:26 ET]
+Table '3922832841 10' 8-max Seat #5 is the button
+Seat 1: Augusto43 (30164 in chips) 
+Seat 2: frazaba (61370 in chips) is sitting out
+Seat 4: DogyLord (42784 in chips) 
+Seat 5: orpalinae (28580 in chips) 
+Seat 6: horimero1 (15770 in chips) is sitting out
+Seat 7: pipinoelbreve9 (198797 in chips) 
+Seat 8: aafil2putte (127664 in chips) 
+Augusto43: posts the ante 400
+frazaba: posts the ante 400
+DogyLord: posts the ante 400
+orpalinae: posts the ante 400
+horimero1: posts the ante 400
+pipinoelbreve9: posts the ante 400
+aafil2putte: posts the ante 400
+horimero1: posts small blind 2000
+pipinoelbreve9: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 8c]
+aafil2putte: raises 4000 to 8000
+Augusto43: folds 
+frazaba: folds 
+DogyLord has timed out
+DogyLord: folds 
+DogyLord is sitting out
+orpalinae: folds 
+horimero1: folds 
+pipinoelbreve9: calls 4000
+*** FLOP *** [2s 3c 8s]
+pipinoelbreve9: bets 16800
+aafil2putte: folds 
+Uncalled bet (16800) returned to pipinoelbreve9
+pipinoelbreve9 collected 20800 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20800 | Rake 0 
+Board [2s 3c 8s]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 5: orpalinae (button) folded before Flop (didn't bet)
+Seat 6: horimero1 (small blind) folded before Flop
+Seat 7: pipinoelbreve9 (big blind) collected (20800)
+Seat 8: aafil2putte folded on the Flop
+
+
+
+PokerStars Hand #257620006418: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:47:04 CET [2025/09/05 7:47:04 ET]
+Table '3922832841 10' 8-max Seat #6 is the button
+Seat 1: Augusto43 (29764 in chips) 
+Seat 2: frazaba (60970 in chips) is sitting out
+Seat 4: DogyLord (42384 in chips) 
+Seat 5: orpalinae (28180 in chips) 
+Seat 6: horimero1 (13370 in chips) is sitting out
+Seat 7: pipinoelbreve9 (211197 in chips) 
+Seat 8: aafil2putte (119264 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+orpalinae: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+pipinoelbreve9: posts small blind 3000
+aafil2putte: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Kh]
+Augusto43: folds 
+frazaba: folds 
+DogyLord: folds 
+orpalinae: raises 21580 to 27580 and is all-in
+horimero1: folds 
+pipinoelbreve9: calls 24580
+aafil2putte: raises 91084 to 118664 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (91084) returned to aafil2putte
+*** FLOP *** [7c 6d 4c]
+*** TURN *** [7c 6d 4c] [8c]
+*** RIVER *** [7c 6d 4c 8c] [7s]
+*** SHOW DOWN ***
+aafil2putte: shows [9c Ac] (a flush, Ace high)
+orpalinae: shows [As 7h] (three of a kind, Sevens)
+aafil2putte collected 86940 from pot
+orpalinae finished the tournament in 21st place
+*** SUMMARY ***
+Total pot 86940 | Rake 0 
+Board [7c 6d 4c 8c 7s]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 5: orpalinae showed [As 7h] and lost with three of a kind, Sevens
+Seat 6: horimero1 (button) folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (small blind) folded before Flop
+Seat 8: aafil2putte (big blind) showed [9c Ac] and won (86940) with a flush, Ace high
+
+
+
+PokerStars Hand #257620011318: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:47:44 CET [2025/09/05 7:47:44 ET]
+Table '3922832841 10' 8-max Seat #7 is the button
+Seat 1: Augusto43 (29164 in chips) 
+Seat 2: frazaba (60370 in chips) is sitting out
+Seat 4: DogyLord (41784 in chips) 
+Seat 6: horimero1 (12770 in chips) is sitting out
+Seat 7: pipinoelbreve9 (183017 in chips) 
+Seat 8: aafil2putte (178024 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+aafil2putte: posts small blind 3000
+Augusto43: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 6h]
+frazaba: folds 
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: calls 6000
+aafil2putte: calls 3000
+Augusto43: checks 
+*** FLOP *** [5c 8h 9s]
+aafil2putte: checks 
+Augusto43: bets 22564 and is all-in
+pipinoelbreve9: calls 22564
+frazaba has returned
+aafil2putte: folds 
+*** TURN *** [5c 8h 9s] [Qs]
+*** RIVER *** [5c 8h 9s Qs] [6c]
+*** SHOW DOWN ***
+Augusto43: shows [4h 8d] (a pair of Eights)
+pipinoelbreve9: shows [Ac 6h] (a pair of Sixes)
+Augusto43 collected 66728 from pot
+*** SUMMARY ***
+Total pot 66728 | Rake 0 
+Board [5c 8h 9s Qs 6c]
+Seat 1: Augusto43 (big blind) showed [4h 8d] and won (66728) with a pair of Eights
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (button) showed [Ac 6h] and lost with a pair of Sixes
+Seat 8: aafil2putte (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257620016440: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:48:26 CET [2025/09/05 7:48:26 ET]
+Table '3922832841 10' 8-max Seat #8 is the button
+Seat 1: Augusto43 (66728 in chips) 
+Seat 2: frazaba (59770 in chips) 
+Seat 4: DogyLord (41184 in chips) 
+Seat 6: horimero1 (12170 in chips) is sitting out
+Seat 7: pipinoelbreve9 (153853 in chips) 
+Seat 8: aafil2putte (171424 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+Augusto43: posts small blind 3000
+frazaba: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Td]
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: raises 6000 to 12000
+Augusto43: folds 
+frazaba: folds 
+Uncalled bet (6000) returned to aafil2putte
+aafil2putte collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | Rake 0 
+Seat 1: Augusto43 (small blind) folded before Flop
+Seat 2: frazaba (big blind) folded before Flop
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte (button) collected (18600)
+
+
+
+PokerStars Hand #257620018420: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:48:42 CET [2025/09/05 7:48:42 ET]
+Table '3922832841 10' 8-max Seat #1 is the button
+Seat 1: Augusto43 (63128 in chips) 
+Seat 2: frazaba (53170 in chips) 
+Seat 4: DogyLord (40584 in chips) 
+Seat 6: horimero1 (11570 in chips) is sitting out
+Seat 7: pipinoelbreve9 (153253 in chips) 
+Seat 8: aafil2putte (183424 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+frazaba: posts small blind 3000
+DogyLord: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 7s]
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: raises 6000 to 12000
+Augusto43: folds 
+frazaba: calls 9000
+DogyLord: folds 
+*** FLOP *** [Qc 5d Qs]
+frazaba: bets 40570 and is all-in
+aafil2putte: folds 
+Uncalled bet (40570) returned to frazaba
+frazaba collected 33600 from pot
+*** SUMMARY ***
+Total pot 33600 | Rake 0 
+Board [Qc 5d Qs]
+Seat 1: Augusto43 (button) folded before Flop (didn't bet)
+Seat 2: frazaba (small blind) collected (33600)
+Seat 4: DogyLord (big blind) folded before Flop
+Seat 6: horimero1 folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte folded on the Flop
+
+
+
+PokerStars Hand #257620023024: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:49:20 CET [2025/09/05 7:49:20 ET]
+Table '3922832841 10' 8-max Seat #2 is the button
+Seat 1: Augusto43 (62528 in chips) 
+Seat 2: frazaba (74170 in chips) 
+Seat 4: DogyLord (33984 in chips) 
+Seat 6: horimero1 (10970 in chips) is sitting out
+Seat 7: pipinoelbreve9 (152653 in chips) 
+Seat 8: aafil2putte (170824 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+DogyLord: posts small blind 3000
+horimero1: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 6c]
+pipinoelbreve9: folds 
+aafil2putte: calls 6000
+Augusto43: calls 6000
+frazaba: folds 
+DogyLord: raises 27384 to 33384 and is all-in
+horimero1: folds 
+aafil2putte: raises 136840 to 170224 and is all-in
+Augusto43: folds 
+Uncalled bet (136840) returned to aafil2putte
+*** FLOP *** [Td Ac 7c]
+*** TURN *** [Td Ac 7c] [4s]
+*** RIVER *** [Td Ac 7c 4s] [Ks]
+*** SHOW DOWN ***
+DogyLord: shows [As Kc] (two pair, Aces and Kings)
+aafil2putte: shows [Qd 5d] (high card Ace)
+DogyLord collected 82368 from pot
+*** SUMMARY ***
+Total pot 82368 | Rake 0 
+Board [Td Ac 7c 4s Ks]
+Seat 1: Augusto43 folded before Flop
+Seat 2: frazaba (button) folded before Flop (didn't bet)
+Seat 4: DogyLord (small blind) showed [As Kc] and won (82368) with two pair, Aces and Kings
+Seat 6: horimero1 (big blind) folded before Flop
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte showed [Qd 5d] and lost with high card Ace
+
+
+
+PokerStars Hand #257620026967: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XV (3000/6000) - 2025/09/05 13:49:52 CET [2025/09/05 7:49:52 ET]
+Table '3922832841 10' 8-max Seat #4 is the button
+Seat 1: Augusto43 (55928 in chips) 
+Seat 2: frazaba (73570 in chips) 
+Seat 4: DogyLord (82368 in chips) 
+Seat 6: horimero1 (4370 in chips) is sitting out
+Seat 7: pipinoelbreve9 (152053 in chips) 
+Seat 8: aafil2putte (136840 in chips) 
+Augusto43: posts the ante 600
+frazaba: posts the ante 600
+DogyLord: posts the ante 600
+horimero1: posts the ante 600
+pipinoelbreve9: posts the ante 600
+aafil2putte: posts the ante 600
+horimero1: posts small blind 3000
+pipinoelbreve9: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 3d]
+aafil2putte: folds 
+Augusto43: calls 6000
+frazaba: folds 
+DogyLord: calls 6000
+horimero1: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [Ts As 2s]
+pipinoelbreve9: checks 
+Augusto43: checks 
+DogyLord: checks 
+*** TURN *** [Ts As 2s] [Kc]
+pipinoelbreve9: checks 
+Augusto43: checks 
+DogyLord: bets 6000
+pipinoelbreve9: folds 
+Augusto43: folds 
+Uncalled bet (6000) returned to DogyLord
+DogyLord collected 24600 from pot
+*** SUMMARY ***
+Total pot 24600 | Rake 0 
+Board [Ts As 2s Kc]
+Seat 1: Augusto43 folded on the Turn
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord (button) collected (24600)
+Seat 6: horimero1 (small blind) folded before Flop
+Seat 7: pipinoelbreve9 (big blind) folded on the Turn
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257620031449: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (4000/8000) - 2025/09/05 13:50:29 CET [2025/09/05 7:50:29 ET]
+Table '3922832841 10' 8-max Seat #6 is the button
+Seat 1: Augusto43 (49328 in chips) 
+Seat 2: frazaba (72970 in chips) 
+Seat 4: DogyLord (100368 in chips) 
+Seat 6: horimero1 (770 in chips) is sitting out
+Seat 7: pipinoelbreve9 (145453 in chips) 
+Seat 8: aafil2putte (136240 in chips) 
+Augusto43: posts the ante 800
+frazaba: posts the ante 800
+DogyLord: posts the ante 800
+horimero1: posts the ante 770 and is all-in
+pipinoelbreve9: posts the ante 800
+aafil2putte: posts the ante 800
+pipinoelbreve9: posts small blind 4000
+aafil2putte: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 4d]
+Augusto43: raises 8000 to 16000
+frazaba: folds 
+DogyLord: folds 
+horimero1: folds 
+pipinoelbreve9: folds 
+aafil2putte: folds 
+Uncalled bet (8000) returned to Augusto43
+Augusto43 collected 24770 from pot
+horimero1 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 24770 | Rake 0 
+Seat 1: Augusto43 collected (24770)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 6: horimero1 (button) folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (small blind) folded before Flop
+Seat 8: aafil2putte (big blind) folded before Flop
+
+
+
+PokerStars Hand #257620033756: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (4000/8000) - 2025/09/05 13:50:48 CET [2025/09/05 7:50:48 ET]
+Table '3922832841 10' 8-max Seat #7 is the button
+Seat 1: Augusto43 (65298 in chips) 
+Seat 2: frazaba (72170 in chips) 
+Seat 4: DogyLord (99568 in chips) 
+Seat 7: pipinoelbreve9 (140653 in chips) 
+Seat 8: aafil2putte (127440 in chips) 
+Augusto43: posts the ante 800
+frazaba: posts the ante 800
+DogyLord: posts the ante 800
+pipinoelbreve9: posts the ante 800
+aafil2putte: posts the ante 800
+aafil2putte: posts small blind 4000
+Augusto43: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 9c]
+frazaba: folds 
+DogyLord: folds 
+pipinoelbreve9: calls 8000
+aafil2putte: calls 4000
+Augusto43: checks 
+*** FLOP *** [5h Qs 4h]
+aafil2putte: checks 
+Augusto43: checks 
+pipinoelbreve9: checks 
+*** TURN *** [5h Qs 4h] [6h]
+aafil2putte: checks 
+Augusto43: checks 
+pipinoelbreve9: bets 14000
+aafil2putte: calls 14000
+Augusto43: folds 
+*** RIVER *** [5h Qs 4h 6h] [Td]
+aafil2putte: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+aafil2putte: shows [Ah 8c] (high card Ace)
+pipinoelbreve9: mucks hand 
+aafil2putte collected 56000 from pot
+*** SUMMARY ***
+Total pot 56000 | Rake 0 
+Board [5h Qs 4h 6h Td]
+Seat 1: Augusto43 (big blind) folded on the Turn
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 (button) mucked [7h 9c]
+Seat 8: aafil2putte (small blind) showed [Ah 8c] and won (56000) with high card Ace
+
+
+
+PokerStars Hand #257620038406: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (4000/8000) - 2025/09/05 13:51:27 CET [2025/09/05 7:51:27 ET]
+Table '3922832841 10' 8-max Seat #8 is the button
+Seat 1: Augusto43 (56498 in chips) 
+Seat 2: frazaba (71370 in chips) 
+Seat 3: booms76140 (73575 in chips) 
+Seat 4: DogyLord (98768 in chips) 
+Seat 5: Cadoenn24350 (129930 in chips) 
+Seat 6: jrarcos (13350 in chips) 
+Seat 7: pipinoelbreve9 (117853 in chips) 
+Seat 8: aafil2putte (160640 in chips) 
+Augusto43: posts the ante 800
+frazaba: posts the ante 800
+booms76140: posts the ante 800
+DogyLord: posts the ante 800
+Cadoenn24350: posts the ante 800
+jrarcos: posts the ante 800
+pipinoelbreve9: posts the ante 800
+aafil2putte: posts the ante 800
+Augusto43: posts small blind 4000
+frazaba: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Ks]
+booms76140: folds 
+DogyLord: folds 
+Cadoenn24350: folds 
+jrarcos: folds 
+pipinoelbreve9: raises 16000 to 24000
+aafil2putte: folds 
+Augusto43: folds 
+frazaba: folds 
+Uncalled bet (16000) returned to pipinoelbreve9
+pipinoelbreve9 collected 26400 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 26400 | Rake 0 
+Seat 1: Augusto43 (small blind) folded before Flop
+Seat 2: frazaba (big blind) folded before Flop
+Seat 3: booms76140 folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 5: Cadoenn24350 folded before Flop (didn't bet)
+Seat 6: jrarcos folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 collected (26400)
+Seat 8: aafil2putte (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257620043405: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (4000/8000) - 2025/09/05 13:52:07 CET [2025/09/05 7:52:07 ET]
+Table '3922832841 10' 8-max Seat #1 is the button
+Seat 1: Augusto43 (51698 in chips) 
+Seat 2: frazaba (62570 in chips) 
+Seat 3: booms76140 (72775 in chips) 
+Seat 4: DogyLord (97968 in chips) 
+Seat 5: Cadoenn24350 (129130 in chips) 
+Seat 6: jrarcos (12550 in chips) 
+Seat 7: pipinoelbreve9 (135453 in chips) 
+Seat 8: aafil2putte (159840 in chips) 
+Augusto43: posts the ante 800
+frazaba: posts the ante 800
+booms76140: posts the ante 800
+DogyLord: posts the ante 800
+Cadoenn24350: posts the ante 800
+jrarcos: posts the ante 800
+pipinoelbreve9: posts the ante 800
+aafil2putte: posts the ante 800
+frazaba: posts small blind 4000
+booms76140: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Ks]
+DogyLord: folds 
+Cadoenn24350: folds 
+jrarcos: folds 
+pipinoelbreve9: calls 8000
+aafil2putte: folds 
+Augusto43: folds 
+frazaba has timed out
+frazaba: folds 
+frazaba is sitting out
+booms76140: checks 
+*** FLOP *** [6h 6c 9d]
+frazaba has returned
+booms76140: checks 
+pipinoelbreve9: checks 
+*** TURN *** [6h 6c 9d] [8h]
+booms76140: bets 8000
+pipinoelbreve9: calls 8000
+*** RIVER *** [6h 6c 9d 8h] [6d]
+booms76140: bets 8000
+pipinoelbreve9: calls 8000
+*** SHOW DOWN ***
+booms76140: shows [8s Qd] (a full house, Sixes full of Eights)
+pipinoelbreve9: mucks hand 
+booms76140 collected 58400 from pot
+*** SUMMARY ***
+Total pot 58400 | Rake 0 
+Board [6h 6c 9d 8h 6d]
+Seat 1: Augusto43 (button) folded before Flop (didn't bet)
+Seat 2: frazaba (small blind) folded before Flop
+Seat 3: booms76140 (big blind) showed [8s Qd] and won (58400) with a full house, Sixes full of Eights
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 5: Cadoenn24350 folded before Flop (didn't bet)
+Seat 6: jrarcos folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 mucked [7s Ks]
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257620052370: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (5000/10000) - 2025/09/05 13:53:21 CET [2025/09/05 7:53:21 ET]
+Table '3922832841 10' 8-max Seat #2 is the button
+Seat 1: Augusto43 (50898 in chips) 
+Seat 2: frazaba (57770 in chips) 
+Seat 3: booms76140 (106375 in chips) 
+Seat 4: DogyLord (97168 in chips) 
+Seat 5: Cadoenn24350 (128330 in chips) 
+Seat 6: jrarcos (11750 in chips) 
+Seat 7: pipinoelbreve9 (110653 in chips) 
+Seat 8: aafil2putte (159040 in chips) 
+Augusto43: posts the ante 1000
+frazaba: posts the ante 1000
+booms76140: posts the ante 1000
+DogyLord: posts the ante 1000
+Cadoenn24350: posts the ante 1000
+jrarcos: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+aafil2putte: posts the ante 1000
+booms76140: posts small blind 5000
+DogyLord: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 9c]
+Cadoenn24350: folds 
+jrarcos: raises 750 to 10750 and is all-in
+pipinoelbreve9: folds 
+aafil2putte: raises 147290 to 158040 and is all-in
+Augusto43: folds 
+frazaba: folds 
+booms76140: folds 
+DogyLord: folds 
+Uncalled bet (147290) returned to aafil2putte
+*** FLOP *** [3s Td 4s]
+*** TURN *** [3s Td 4s] [Jd]
+*** RIVER *** [3s Td 4s Jd] [Ah]
+*** SHOW DOWN ***
+jrarcos: shows [As Ac] (three of a kind, Aces)
+aafil2putte: shows [Th Kd] (a pair of Tens)
+jrarcos collected 44500 from pot
+*** SUMMARY ***
+Total pot 44500 | Rake 0 
+Board [3s Td 4s Jd Ah]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba (button) folded before Flop (didn't bet)
+Seat 3: booms76140 (small blind) folded before Flop
+Seat 4: DogyLord (big blind) folded before Flop
+Seat 5: Cadoenn24350 folded before Flop (didn't bet)
+Seat 6: jrarcos showed [As Ac] and won (44500) with three of a kind, Aces
+Seat 7: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: aafil2putte showed [Th Kd] and lost with a pair of Tens
+
+
+
+PokerStars Hand #257620058501: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (5000/10000) - 2025/09/05 13:54:11 CET [2025/09/05 7:54:11 ET]
+Table '3922832841 10' 8-max Seat #3 is the button
+Seat 1: Augusto43 (49898 in chips) 
+Seat 2: frazaba (56770 in chips) 
+Seat 3: booms76140 (100375 in chips) 
+Seat 4: DogyLord (86168 in chips) 
+Seat 5: Cadoenn24350 (127330 in chips) 
+Seat 6: jrarcos (44500 in chips) 
+Seat 7: pipinoelbreve9 (109653 in chips) 
+Seat 8: aafil2putte (147290 in chips) 
+Augusto43: posts the ante 1000
+frazaba: posts the ante 1000
+booms76140: posts the ante 1000
+DogyLord: posts the ante 1000
+Cadoenn24350: posts the ante 1000
+jrarcos: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+aafil2putte: posts the ante 1000
+DogyLord: posts small blind 5000
+Cadoenn24350: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Qh]
+jrarcos: folds 
+pipinoelbreve9: calls 10000
+aafil2putte: raises 136290 to 146290 and is all-in
+Augusto43: folds 
+frazaba: folds 
+booms76140: folds 
+DogyLord: folds 
+Cadoenn24350: folds 
+pipinoelbreve9: folds 
+Uncalled bet (136290) returned to aafil2putte
+aafil2putte collected 43000 from pot
+*** SUMMARY ***
+Total pot 43000 | Rake 0 
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 3: booms76140 (button) folded before Flop (didn't bet)
+Seat 4: DogyLord (small blind) folded before Flop
+Seat 5: Cadoenn24350 (big blind) folded before Flop
+Seat 6: jrarcos folded before Flop (didn't bet)
+Seat 7: pipinoelbreve9 folded before Flop
+Seat 8: aafil2putte collected (43000)
+
+
+
+PokerStars Hand #257620063787: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (5000/10000) - 2025/09/05 13:54:54 CET [2025/09/05 7:54:54 ET]
+Table '3922832841 10' 8-max Seat #4 is the button
+Seat 1: Augusto43 (48898 in chips) 
+Seat 2: frazaba (55770 in chips) 
+Seat 3: booms76140 (99375 in chips) 
+Seat 4: DogyLord (80168 in chips) 
+Seat 5: Cadoenn24350 (116330 in chips) 
+Seat 6: jrarcos (43500 in chips) 
+Seat 7: pipinoelbreve9 (98653 in chips) 
+Seat 8: aafil2putte (179290 in chips) 
+Augusto43: posts the ante 1000
+frazaba: posts the ante 1000
+booms76140: posts the ante 1000
+DogyLord: posts the ante 1000
+Cadoenn24350: posts the ante 1000
+jrarcos: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+aafil2putte: posts the ante 1000
+Cadoenn24350: posts small blind 5000
+jrarcos: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 9d]
+pipinoelbreve9: calls 10000
+aafil2putte: folds 
+Augusto43: calls 10000
+frazaba has timed out
+frazaba: folds 
+frazaba is sitting out
+booms76140: folds 
+DogyLord: folds 
+Cadoenn24350: folds 
+jrarcos: checks 
+*** FLOP *** [7c 4d Ah]
+jrarcos: checks 
+pipinoelbreve9: checks 
+Augusto43: checks 
+*** TURN *** [7c 4d Ah] [Qc]
+jrarcos: checks 
+pipinoelbreve9: checks 
+Augusto43: bets 37898 and is all-in
+jrarcos: folds 
+pipinoelbreve9: folds 
+Uncalled bet (37898) returned to Augusto43
+Augusto43 collected 43000 from pot
+*** SUMMARY ***
+Total pot 43000 | Rake 0 
+Board [7c 4d Ah Qc]
+Seat 1: Augusto43 collected (43000)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 3: booms76140 folded before Flop (didn't bet)
+Seat 4: DogyLord (button) folded before Flop (didn't bet)
+Seat 5: Cadoenn24350 (small blind) folded before Flop
+Seat 6: jrarcos (big blind) folded on the Turn
+Seat 7: pipinoelbreve9 folded on the Turn
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257620100505: Tournament #3922832841, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (5000/10000) - 2025/09/05 14:00:57 CET [2025/09/05 8:00:57 ET]
+Table '3922832841 10' 8-max Seat #5 is the button
+Seat 1: Augusto43 (80898 in chips) 
+Seat 2: frazaba (54770 in chips) 
+Seat 3: booms76140 (98375 in chips) 
+Seat 4: DogyLord (79168 in chips) 
+Seat 5: Cadoenn24350 (110330 in chips) 
+Seat 6: jrarcos (32500 in chips) 
+Seat 7: pipinoelbreve9 (87653 in chips) 
+Seat 8: aafil2putte (178290 in chips) 
+Augusto43: posts the ante 1000
+frazaba: posts the ante 1000
+booms76140: posts the ante 1000
+DogyLord: posts the ante 1000
+Cadoenn24350: posts the ante 1000
+jrarcos: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+aafil2putte: posts the ante 1000
+jrarcos: posts small blind 5000
+pipinoelbreve9: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js Qh]
+aafil2putte: folds 
+Augusto43: folds 
+frazaba: folds 
+booms76140: folds 
+DogyLord: folds 
+Cadoenn24350: raises 20000 to 30000
+jrarcos: folds 
+pipinoelbreve9: raises 56653 to 86653 and is all-in
+Cadoenn24350: calls 56653
+*** FLOP *** [4h 4s 7s]
+*** TURN *** [4h 4s 7s] [6h]
+*** RIVER *** [4h 4s 7s 6h] [Ah]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Js Qh] (a pair of Fours)
+Cadoenn24350: shows [5s As] (two pair, Aces and Fours)
+Cadoenn24350 collected 186306 from pot
+*** SUMMARY ***
+Total pot 186306 | Rake 0 
+Board [4h 4s 7s 6h Ah]
+Seat 1: Augusto43 folded before Flop (didn't bet)
+Seat 2: frazaba folded before Flop (didn't bet)
+Seat 3: booms76140 folded before Flop (didn't bet)
+Seat 4: DogyLord folded before Flop (didn't bet)
+Seat 5: Cadoenn24350 (button) showed [5s As] and won (186306) with two pair, Aces and Fours
+Seat 6: jrarcos (small blind) folded before Flop
+Seat 7: pipinoelbreve9 (big blind) showed [Js Qh] and lost with a pair of Fours
+Seat 8: aafil2putte folded before Flop (didn't bet)
+
+
+

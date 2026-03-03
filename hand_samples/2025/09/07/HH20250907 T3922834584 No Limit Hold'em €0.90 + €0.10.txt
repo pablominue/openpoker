@@ -1,0 +1,519 @@
+﻿PokerStars Hand #257650119872: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:42:51 CET [2025/09/07 13:42:51 ET]
+Table '3922834584 41' 6-max Seat #6 is the button
+Seat 1: MatiuStars (75105 in chips) 
+Seat 2: pipinoelbreve9 (50000 in chips) 
+Seat 3: JPhiRoy (102118 in chips) 
+Seat 4: macmoatib (92727 in chips) 
+Seat 5: Momowww29 (74571 in chips) 
+Seat 6: glotis11488 (108556 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+macmoatib: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+MatiuStars: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 5h]
+JPhiRoy: folds 
+macmoatib: calls 1200
+Momowww29: folds 
+glotis11488: folds 
+MatiuStars: calls 600
+pipinoelbreve9: checks 
+*** FLOP *** [3d 7d Jh]
+MatiuStars: bets 1200
+pipinoelbreve9: folds 
+macmoatib: folds 
+Uncalled bet (1200) returned to MatiuStars
+MatiuStars collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [3d 7d Jh]
+Seat 1: MatiuStars (small blind) collected (4500)
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: JPhiRoy folded before Flop (didn't bet)
+Seat 4: macmoatib folded on the Flop
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650130618: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:43:29 CET [2025/09/07 13:43:29 ET]
+Table '3922834584 41' 6-max Seat #1 is the button
+Seat 1: MatiuStars (78255 in chips) 
+Seat 2: pipinoelbreve9 (48650 in chips) 
+Seat 3: JPhiRoy (101968 in chips) 
+Seat 4: macmoatib (91377 in chips) 
+Seat 5: Momowww29 (74421 in chips) 
+Seat 6: glotis11488 (108406 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+macmoatib: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+pipinoelbreve9: posts small blind 600
+JPhiRoy: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 6c]
+macmoatib: folds 
+Momowww29: folds 
+glotis11488: folds 
+MatiuStars: calls 1200
+pipinoelbreve9: calls 600
+JPhiRoy: checks 
+*** FLOP *** [Qc 2s Ts]
+pipinoelbreve9: checks 
+JPhiRoy: checks 
+MatiuStars: bets 1200
+pipinoelbreve9: folds 
+JPhiRoy: folds 
+Uncalled bet (1200) returned to MatiuStars
+MatiuStars collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [Qc 2s Ts]
+Seat 1: MatiuStars (button) collected (4500)
+Seat 2: pipinoelbreve9 (small blind) folded on the Flop
+Seat 3: JPhiRoy (big blind) folded on the Flop
+Seat 4: macmoatib folded before Flop (didn't bet)
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650147838: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:44:31 CET [2025/09/07 13:44:31 ET]
+Table '3922834584 41' 6-max Seat #2 is the button
+Seat 1: MatiuStars (81405 in chips) 
+Seat 2: pipinoelbreve9 (47300 in chips) 
+Seat 3: JPhiRoy (100618 in chips) 
+Seat 4: macmoatib (91227 in chips) 
+Seat 5: Momowww29 (74271 in chips) 
+Seat 6: glotis11488 (108256 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+macmoatib: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+JPhiRoy: posts small blind 600
+macmoatib: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 2d]
+Momowww29: folds 
+glotis11488: calls 1200
+MatiuStars: calls 1200
+pipinoelbreve9: folds 
+JPhiRoy: folds 
+macmoatib: checks 
+*** FLOP *** [3s As 3c]
+macmoatib: bets 2550
+glotis11488: raises 10200 to 12750
+MatiuStars: folds 
+macmoatib: calls 10200
+*** TURN *** [3s As 3c] [Tc]
+macmoatib: bets 77127 and is all-in
+glotis11488: calls 77127
+*** RIVER *** [3s As 3c Tc] [Ts]
+*** SHOW DOWN ***
+macmoatib: shows [Jc Ac] (two pair, Aces and Tens)
+glotis11488: shows [Ad Kc] (two pair, Aces and Tens - King kicker)
+glotis11488 collected 184854 from pot
+macmoatib finished the tournament
+*** SUMMARY ***
+Total pot 184854 | Rake 0 
+Board [3s As 3c Tc Ts]
+Seat 1: MatiuStars folded on the Flop
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: JPhiRoy (small blind) folded before Flop
+Seat 4: macmoatib (big blind) showed [Jc Ac] and lost with two pair, Aces and Tens
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 showed [Ad Kc] and won (184854) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #257650162477: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:45:23 CET [2025/09/07 13:45:23 ET]
+Table '3922834584 41' 6-max Seat #3 is the button
+Seat 1: MatiuStars (80055 in chips) 
+Seat 2: pipinoelbreve9 (47150 in chips) 
+Seat 3: JPhiRoy (99868 in chips) 
+Seat 5: Momowww29 (74121 in chips) 
+Seat 6: glotis11488 (201883 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+Momowww29: posts small blind 600
+glotis11488: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 6d]
+macmoatib is sitting out
+MatiuStars: calls 1200
+pipinoelbreve9: folds 
+JPhiRoy: calls 1200
+macmoatib is disconnected 
+macmoatib has returned
+Momowww29: calls 600
+glotis11488: checks 
+*** FLOP *** [4c Tc 5s]
+Momowww29: checks 
+glotis11488: checks 
+MatiuStars: checks 
+JPhiRoy: checks 
+*** TURN *** [4c Tc 5s] [Jc]
+Momowww29: bets 3000
+glotis11488: folds 
+MatiuStars: calls 3000
+JPhiRoy: folds 
+*** RIVER *** [4c Tc 5s Jc] [Qc]
+Momowww29: checks 
+MatiuStars: checks 
+*** SHOW DOWN ***
+Momowww29: shows [5c 3c] (a flush, Queen high)
+MatiuStars: mucks hand 
+Momowww29 collected 11550 from pot
+*** SUMMARY ***
+Total pot 11550 | Rake 0 
+Board [4c Tc 5s Jc Qc]
+Seat 1: MatiuStars mucked [Jd Kd]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: JPhiRoy (button) folded on the Turn
+Seat 5: Momowww29 (small blind) showed [5c 3c] and won (11550) with a flush, Queen high
+Seat 6: glotis11488 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257650192899: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:47:11 CET [2025/09/07 13:47:11 ET]
+Table '3922834584 41' 6-max Seat #5 is the button
+Seat 1: MatiuStars (75705 in chips) 
+Seat 2: pipinoelbreve9 (47000 in chips) 
+Seat 3: JPhiRoy (98518 in chips) 
+Seat 4: macmoatib (50000 in chips) 
+Seat 5: Momowww29 (81321 in chips) 
+Seat 6: glotis11488 (200533 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+macmoatib: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+glotis11488: posts small blind 600
+MatiuStars: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 8s]
+pipinoelbreve9: folds 
+JPhiRoy: folds 
+macmoatib: folds 
+Momowww29: folds 
+glotis11488: calls 600
+MatiuStars: raises 1200 to 2400
+glotis11488: calls 1200
+*** FLOP *** [Qd Kd Kc]
+glotis11488: checks 
+MatiuStars: checks 
+*** TURN *** [Qd Kd Kc] [Ks]
+glotis11488: checks 
+MatiuStars: bets 1200
+glotis11488: folds 
+Uncalled bet (1200) returned to MatiuStars
+MatiuStars collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | Rake 0 
+Board [Qd Kd Kc Ks]
+Seat 1: MatiuStars (big blind) collected (5700)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: JPhiRoy folded before Flop (didn't bet)
+Seat 4: macmoatib folded before Flop (didn't bet)
+Seat 5: Momowww29 (button) folded before Flop (didn't bet)
+Seat 6: glotis11488 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #257650210710: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level IX (600/1200) - 2025/09/07 19:48:15 CET [2025/09/07 13:48:15 ET]
+Table '3922834584 41' 6-max Seat #6 is the button
+Seat 1: MatiuStars (78855 in chips) 
+Seat 2: pipinoelbreve9 (46850 in chips) 
+Seat 3: JPhiRoy (98368 in chips) 
+Seat 4: macmoatib (49850 in chips) 
+Seat 5: Momowww29 (81171 in chips) 
+Seat 6: glotis11488 (197983 in chips) 
+MatiuStars: posts the ante 150
+pipinoelbreve9: posts the ante 150
+JPhiRoy: posts the ante 150
+macmoatib: posts the ante 150
+Momowww29: posts the ante 150
+glotis11488: posts the ante 150
+MatiuStars: posts small blind 600
+pipinoelbreve9: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Th]
+JPhiRoy: folds 
+macmoatib: calls 1200
+Momowww29: folds 
+glotis11488: folds 
+MatiuStars: calls 600
+pipinoelbreve9: checks 
+*** FLOP *** [Tc 3h Kd]
+MatiuStars: bets 1200
+pipinoelbreve9: calls 1200
+macmoatib: calls 1200
+*** TURN *** [Tc 3h Kd] [9c]
+MatiuStars: bets 7200
+pipinoelbreve9: folds 
+macmoatib: calls 7200
+*** RIVER *** [Tc 3h Kd 9c] [6h]
+MatiuStars: bets 8400
+macmoatib: calls 8400
+*** SHOW DOWN ***
+MatiuStars: shows [Td 3c] (two pair, Tens and Threes)
+macmoatib: mucks hand 
+MatiuStars collected 39300 from pot
+*** SUMMARY ***
+Total pot 39300 | Rake 0 
+Board [Tc 3h Kd 9c 6h]
+Seat 1: MatiuStars (small blind) showed [Td 3c] and won (39300) with two pair, Tens and Threes
+Seat 2: pipinoelbreve9 (big blind) folded on the Turn
+Seat 3: JPhiRoy folded before Flop (didn't bet)
+Seat 4: macmoatib mucked [Ks Qc]
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650226108: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/07 19:49:10 CET [2025/09/07 13:49:10 ET]
+Table '3922834584 41' 6-max Seat #1 is the button
+Seat 1: MatiuStars (100005 in chips) 
+Seat 2: pipinoelbreve9 (44300 in chips) 
+Seat 3: JPhiRoy (98218 in chips) 
+Seat 4: macmoatib (31700 in chips) 
+Seat 5: Momowww29 (81021 in chips) 
+Seat 6: glotis11488 (197833 in chips) 
+MatiuStars: posts the ante 175
+pipinoelbreve9: posts the ante 175
+JPhiRoy: posts the ante 175
+macmoatib: posts the ante 175
+Momowww29: posts the ante 175
+glotis11488: posts the ante 175
+pipinoelbreve9: posts small blind 700
+JPhiRoy: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 6s]
+macmoatib: raises 30125 to 31525 and is all-in
+Momowww29: folds 
+glotis11488: folds 
+MatiuStars: calls 31525
+pipinoelbreve9: folds 
+JPhiRoy: folds 
+*** FLOP *** [Js 4d 5s]
+*** TURN *** [Js 4d 5s] [2s]
+*** RIVER *** [Js 4d 5s 2s] [Kh]
+*** SHOW DOWN ***
+macmoatib: shows [9d Ts] (high card King)
+MatiuStars: shows [Qs Td] (high card King - Queen kicker)
+MatiuStars collected 66200 from pot
+macmoatib finished the tournament
+*** SUMMARY ***
+Total pot 66200 | Rake 0 
+Board [Js 4d 5s 2s Kh]
+Seat 1: MatiuStars (button) showed [Qs Td] and won (66200) with high card King
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: JPhiRoy (big blind) folded before Flop
+Seat 4: macmoatib showed [9d Ts] and lost with high card King
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650233095: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/07 19:49:34 CET [2025/09/07 13:49:34 ET]
+Table '3922834584 41' 6-max Seat #2 is the button
+Seat 1: MatiuStars (134505 in chips) 
+Seat 2: pipinoelbreve9 (43425 in chips) 
+Seat 3: JPhiRoy (96643 in chips) 
+Seat 5: Momowww29 (80846 in chips) 
+Seat 6: glotis11488 (197658 in chips) 
+MatiuStars: posts the ante 175
+pipinoelbreve9: posts the ante 175
+JPhiRoy: posts the ante 175
+Momowww29: posts the ante 175
+glotis11488: posts the ante 175
+JPhiRoy: posts small blind 700
+Momowww29: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Jd]
+glotis11488: folds 
+MatiuStars: calls 1400
+pipinoelbreve9: calls 1400
+JPhiRoy: folds 
+Momowww29: checks 
+*** FLOP *** [Qd Qh 9h]
+Momowww29: checks 
+MatiuStars: checks 
+pipinoelbreve9: bets 2888
+Momowww29: folds 
+MatiuStars: folds 
+Uncalled bet (2888) returned to pipinoelbreve9
+pipinoelbreve9 collected 5775 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 5775 | Rake 0 
+Board [Qd Qh 9h]
+Seat 1: MatiuStars folded on the Flop
+Seat 2: pipinoelbreve9 (button) collected (5775)
+Seat 3: JPhiRoy (small blind) folded before Flop
+Seat 5: Momowww29 (big blind) folded on the Flop
+Seat 6: glotis11488 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650249342: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/07 19:50:32 CET [2025/09/07 13:50:32 ET]
+Table '3922834584 41' 6-max Seat #3 is the button
+Seat 1: MatiuStars (132930 in chips) 
+Seat 2: pipinoelbreve9 (47625 in chips) 
+Seat 3: JPhiRoy (95768 in chips) 
+Seat 4: nicolas76560 (50000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Momowww29 (79271 in chips) 
+Seat 6: glotis11488 (197483 in chips) 
+nicolas76560 will be allowed to play after the button
+MatiuStars: posts the ante 175
+pipinoelbreve9: posts the ante 175
+JPhiRoy: posts the ante 175
+Momowww29: posts the ante 175
+glotis11488: posts the ante 175
+Momowww29: posts small blind 700
+glotis11488: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 3s]
+MatiuStars: calls 1400
+pipinoelbreve9: calls 1400
+JPhiRoy: folds 
+Momowww29: calls 700
+glotis11488: checks 
+*** FLOP *** [7s 6d Jd]
+Momowww29: checks 
+glotis11488: checks 
+MatiuStars: bets 1400
+pipinoelbreve9: calls 1400
+Momowww29: raises 4200 to 5600
+glotis11488: folds 
+MatiuStars: calls 4200
+pipinoelbreve9: folds 
+*** TURN *** [7s 6d Jd] [5s]
+Momowww29: bets 8400
+MatiuStars: calls 8400
+*** RIVER *** [7s 6d Jd 5s] [6h]
+Momowww29: checks 
+MatiuStars: checks 
+*** SHOW DOWN ***
+Momowww29: shows [Jc Kd] (two pair, Jacks and Sixes)
+glotis11488 is disconnected 
+MatiuStars: mucks hand 
+Momowww29 collected 35875 from pot
+*** SUMMARY ***
+Total pot 35875 | Rake 0 
+Board [7s 6d Jd 5s 6h]
+Seat 1: MatiuStars mucked [8s Qc]
+Seat 2: pipinoelbreve9 folded on the Flop
+Seat 3: JPhiRoy (button) folded before Flop (didn't bet)
+Seat 5: Momowww29 (small blind) showed [Jc Kd] and won (35875) with two pair, Jacks and Sixes
+Seat 6: glotis11488 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257650272916: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/07 19:51:57 CET [2025/09/07 13:51:57 ET]
+Table '3922834584 41' 6-max Seat #5 is the button
+Seat 1: MatiuStars (117355 in chips) 
+Seat 2: pipinoelbreve9 (44650 in chips) 
+Seat 3: JPhiRoy (95593 in chips) 
+Seat 4: nicolas76560 (50000 in chips) 
+Seat 5: Momowww29 (99571 in chips) 
+Seat 6: glotis11488 (195908 in chips) 
+MatiuStars: posts the ante 175
+pipinoelbreve9: posts the ante 175
+JPhiRoy: posts the ante 175
+nicolas76560: posts the ante 175
+Momowww29: posts the ante 175
+glotis11488: posts the ante 175
+glotis11488: posts small blind 700
+MatiuStars: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 3s]
+pipinoelbreve9: folds 
+JPhiRoy: folds 
+nicolas76560: folds 
+Momowww29: folds 
+glotis11488: calls 700
+MatiuStars: checks 
+*** FLOP *** [6s 7d Ac]
+glotis11488: bets 3850
+MatiuStars: folds 
+Uncalled bet (3850) returned to glotis11488
+glotis11488 collected 3850 from pot
+glotis11488: doesn't show hand 
+*** SUMMARY ***
+Total pot 3850 | Rake 0 
+Board [6s 7d Ac]
+Seat 1: MatiuStars (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: JPhiRoy folded before Flop (didn't bet)
+Seat 4: nicolas76560 folded before Flop (didn't bet)
+Seat 5: Momowww29 (button) folded before Flop (didn't bet)
+Seat 6: glotis11488 (small blind) collected (3850)
+
+
+
+PokerStars Hand #257650281748: Tournament #3922834584, €0.90+€0.10 EUR Hold'em No Limit - Level X (700/1400) - 2025/09/07 19:52:28 CET [2025/09/07 13:52:28 ET]
+Table '3922834584 41' 6-max Seat #6 is the button
+Seat 1: MatiuStars (115780 in chips) 
+Seat 2: pipinoelbreve9 (44475 in chips) 
+Seat 3: JPhiRoy (95418 in chips) 
+Seat 4: nicolas76560 (49825 in chips) 
+Seat 5: Momowww29 (99396 in chips) 
+Seat 6: glotis11488 (198183 in chips) 
+MatiuStars: posts the ante 175
+pipinoelbreve9: posts the ante 175
+JPhiRoy: posts the ante 175
+nicolas76560: posts the ante 175
+Momowww29: posts the ante 175
+glotis11488: posts the ante 175
+MatiuStars: posts small blind 700
+pipinoelbreve9: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 9d]
+JPhiRoy: folds 
+nicolas76560: calls 1400
+Momowww29: folds 
+glotis11488: folds 
+MatiuStars: calls 700
+pipinoelbreve9: raises 2800 to 4200
+nicolas76560: calls 2800
+MatiuStars: calls 2800
+*** FLOP *** [8d 2h 8s]
+MatiuStars: bets 1400
+pipinoelbreve9: raises 8225 to 9625
+nicolas76560: folds 
+MatiuStars: calls 8225
+*** TURN *** [8d 2h 8s] [Td]
+MatiuStars: bets 36400
+pipinoelbreve9: calls 30475 and is all-in
+Uncalled bet (5925) returned to MatiuStars
+*** RIVER *** [8d 2h 8s Td] [4c]
+*** SHOW DOWN ***
+MatiuStars: shows [Qh 8c] (three of a kind, Eights)
+pipinoelbreve9: shows [9s 9d] (two pair, Nines and Eights)
+MatiuStars collected 93850 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 93850 | Rake 0 
+Board [8d 2h 8s Td 4c]
+Seat 1: MatiuStars (small blind) showed [Qh 8c] and won (93850) with three of a kind, Eights
+Seat 2: pipinoelbreve9 (big blind) showed [9s 9d] and lost with two pair, Nines and Eights
+Seat 3: JPhiRoy folded before Flop (didn't bet)
+Seat 4: nicolas76560 folded on the Flop
+Seat 5: Momowww29 folded before Flop (didn't bet)
+Seat 6: glotis11488 (button) folded before Flop (didn't bet)
+
+
+

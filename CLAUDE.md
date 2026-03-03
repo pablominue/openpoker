@@ -247,6 +247,29 @@ Scenario key convention:
 - 3-bets: `3bet_{hero_pos}_vs_{raiser_pos}` (e.g. `3bet_BTN_vs_CO`)
 - Calls: `call_{hero_pos}_vs_{raiser_pos}` (e.g. `call_BB_vs_BTN`)
 
+### Phase 8 – AI Poker Agent ✅
+- [x] `AIConversation`, `AIMessage`, `AIDocument` DB models
+- [x] `ai/` Docker service — Pathway-style RAG pipeline (in-memory vector store, Ollama embeddings)
+- [x] `GET/POST /api/ai/conversations` — CRUD for chat conversations per player
+- [x] `POST /api/ai/conversations/{id}/messages` — SSE streaming chat via local Ollama
+- [x] `POST/GET/DELETE /api/ai/documents` — upload PDF/text, index in RAG, manage
+- [x] Context assembly: player stats + ranges (SQL), hands (SQL filter/select), GTO spots (JSON files), documents (RAG)
+- [x] `AIPage` (`/ai`) — two-panel chat UI with conversation history sidebar, context picker panel
+- [x] Hand picker modal — filter by position, multi-select, passes hand IDs as context
+- [x] GTO spot picker — multi-select from solved trainer spots
+- [x] Document manager — upload PDF/TXT/MD, checkbox to include in context, per-doc chunk count
+- [x] Context badge strip — visual indicator of active sources with one-click removal
+- [x] Streaming responses with typing indicator, stop button, auto-scroll
+- [x] AppNav "AI" link + App.tsx `/ai` route (full-height layout)
+- [x] `finetune/` directory — export_data.py + prepare_dataset.py for future fine-tuning
+
+AI Service setup:
+- Default model: `OLLAMA_MODEL=qwen2.5:14b` (RTX4060 8GB with Q4_K_M) or `qwen2.5:32b` (Mac Studio)
+- Embedding model: `OLLAMA_EMBED_MODEL=nomic-embed-text`
+- Ollama must run on host machine; Docker reaches it via `host.docker.internal:11434`
+- New Docker service `ai-service` (port 5001) + new volume `ai-docs`
+- Schema migration: `docker compose down -v && docker compose up --build` if DB already exists
+
 
 ## Key Notes
 

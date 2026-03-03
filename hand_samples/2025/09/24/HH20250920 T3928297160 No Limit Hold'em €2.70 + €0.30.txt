@@ -1,0 +1,47 @@
+﻿PokerStars Hand #257822383724: Tournament #3928297160, €1.35+€1.35+€0.30 EUR Hold'em No Limit - Level XIII (350/700) - 2025/09/20 23:25:21 CET [2025/09/20 17:25:21 ET]
+Table '3928297160 15' 6-max Seat #3 is the button
+Seat 1: killermanute11 (8610 in chips, €1.35 bounty) 
+Seat 2: flavien6912 (73146 in chips, €6.72 bounty) 
+Seat 3: HBenedicto (10001 in chips, €2.35 bounty) 
+Seat 4: kisko87 (23250 in chips, €1.35 bounty) 
+Seat 5: pipinoelbreve9 (10000 in chips, €1.35 bounty) 
+Seat 6: baldufo (14934 in chips, €1.35 bounty) 
+killermanute11: posts the ante 85
+flavien6912: posts the ante 85
+HBenedicto: posts the ante 85
+kisko87: posts the ante 85
+pipinoelbreve9: posts the ante 85
+baldufo: posts the ante 85
+kisko87: posts small blind 350
+pipinoelbreve9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Js]
+baldufo: folds 
+killermanute11: folds 
+flavien6912: raises 1400 to 2100
+flavien6912 is disconnected 
+HBenedicto: folds 
+kisko87: folds 
+pipinoelbreve9: raises 7815 to 9915 and is all-in
+flavien6912: calls 7815
+*** FLOP *** [3d 2d 2s]
+*** TURN *** [3d 2d 2s] [8s]
+*** RIVER *** [3d 2d 2s 8s] [Kd]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qh Js] (a pair of Deuces)
+flavien6912: shows [Kh Jh] (two pair, Kings and Deuces)
+flavien6912 collected 20690 from pot
+flavien6912 wins €0.68 for eliminating pipinoelbreve9 and their own bounty increases by €0.67 to €7.39
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 20690 | Rake 0 
+Board [3d 2d 2s 8s Kd]
+Seat 1: killermanute11 folded before Flop (didn't bet)
+Seat 2: flavien6912 showed [Kh Jh] and won (20690) with two pair, Kings and Deuces
+Seat 3: HBenedicto (button) folded before Flop (didn't bet)
+Seat 4: kisko87 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) showed [Qh Js] and lost with a pair of Deuces
+Seat 6: baldufo folded before Flop (didn't bet)
+
+
+

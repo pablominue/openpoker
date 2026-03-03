@@ -1,0 +1,100 @@
+﻿PokerStars Hand #257625416552: Tournament #3922832850, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 22:25:13 CET [2025/09/05 16:25:13 ET]
+Table '3922832850 21' 8-max Seat #7 is the button
+Seat 1: penn ar 29 (37580 in chips) 
+Seat 2: iznazio13 (8145 in chips) 
+Seat 3: acecook666 (9860 in chips) 
+Seat 4: JackDan'sPok (36618 in chips) 
+Seat 5: potolopoker (6980 in chips) is sitting out
+Seat 6: pipinoelbreve9 (10000 in chips) 
+Seat 7: chichi6442 (19290 in chips) 
+penn ar 29: posts the ante 70
+iznazio13: posts the ante 70
+acecook666: posts the ante 70
+JackDan'sPok: posts the ante 70
+potolopoker: posts the ante 70
+pipinoelbreve9: posts the ante 70
+chichi6442: posts the ante 70
+penn ar 29: posts small blind 350
+iznazio13: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Qh]
+acecook666: calls 700
+JackDan'sPok: folds 
+potolopoker: folds 
+pipinoelbreve9: raises 2100 to 2800
+chichi6442: folds 
+penn ar 29: folds 
+iznazio13: folds 
+acecook666: folds 
+Uncalled bet (2100) returned to pipinoelbreve9
+pipinoelbreve9 collected 2940 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 2940 | Rake 0 
+Seat 1: penn ar 29 (small blind) folded before Flop
+Seat 2: iznazio13 (big blind) folded before Flop
+Seat 3: acecook666 folded before Flop
+Seat 4: JackDan'sPok folded before Flop (didn't bet)
+Seat 5: potolopoker folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (2940)
+Seat 7: chichi6442 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625424533: Tournament #3922832850, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/09/05 22:25:46 CET [2025/09/05 16:25:46 ET]
+Table '3922832850 21' 8-max Seat #1 is the button
+Seat 1: penn ar 29 (37160 in chips) 
+Seat 2: iznazio13 (7375 in chips) 
+Seat 3: acecook666 (9090 in chips) 
+Seat 4: JackDan'sPok (36548 in chips) 
+Seat 5: potolopoker (6910 in chips) is sitting out
+Seat 6: pipinoelbreve9 (12170 in chips) 
+Seat 7: chichi6442 (19220 in chips) 
+Seat 8: pierrebull (10000 in chips) 
+penn ar 29: posts the ante 70
+iznazio13: posts the ante 70
+acecook666: posts the ante 70
+JackDan'sPok: posts the ante 70
+potolopoker: posts the ante 70
+pipinoelbreve9: posts the ante 70
+chichi6442: posts the ante 70
+pierrebull: posts the ante 70
+iznazio13: posts small blind 350
+acecook666: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh Ah]
+JackDan'sPok: folds 
+potolopoker: folds 
+pipinoelbreve9: raises 1400 to 2100
+chichi6442: folds 
+pierrebull: folds 
+penn ar 29: folds 
+iznazio13: calls 1750
+acecook666: calls 1400
+*** FLOP *** [Kc 9c 3c]
+iznazio13: checks 
+acecook666: checks 
+pipinoelbreve9: bets 10000 and is all-in
+iznazio13: calls 5205 and is all-in
+acecook666: folds 
+Uncalled bet (4795) returned to pipinoelbreve9
+*** TURN *** [Kc 9c 3c] [7c]
+*** RIVER *** [Kc 9c 3c 7c] [7h]
+*** SHOW DOWN ***
+iznazio13: shows [Ac 2c] (a flush, Ace high)
+pipinoelbreve9: shows [Jh Ah] (a pair of Sevens)
+iznazio13 collected 17270 from pot
+*** SUMMARY ***
+Total pot 17270 | Rake 0 
+Board [Kc 9c 3c 7c 7h]
+Seat 1: penn ar 29 (button) folded before Flop (didn't bet)
+Seat 2: iznazio13 (small blind) showed [Ac 2c] and won (17270) with a flush, Ace high
+Seat 3: acecook666 (big blind) folded on the Flop
+Seat 4: JackDan'sPok folded before Flop (didn't bet)
+Seat 5: potolopoker folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 showed [Jh Ah] and lost with a pair of Sevens
+Seat 7: chichi6442 folded before Flop (didn't bet)
+Seat 8: pierrebull folded before Flop (didn't bet)
+
+
+

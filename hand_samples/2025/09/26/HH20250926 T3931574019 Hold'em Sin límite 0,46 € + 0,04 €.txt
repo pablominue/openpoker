@@ -1,0 +1,670 @@
+﻿PokerStars Hand #257892803764: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:53:11 CET [2025/09/26 6:53:11 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: chanante007 (500 in chips) 
+Seat 3: KuzabrutoMK (500 in chips) 
+chanante007: posts small blind 10
+KuzabrutoMK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 8h]
+pipinoelbreve9: folds 
+chanante007: calls 10
+KuzabrutoMK: checks 
+*** FLOP *** [4d Kh Ts]
+chanante007: checks 
+KuzabrutoMK: checks 
+*** TURN *** [4d Kh Ts] [9d]
+chanante007: checks 
+KuzabrutoMK: bets 20
+chanante007: calls 20
+*** RIVER *** [4d Kh Ts 9d] [3c]
+chanante007: checks 
+KuzabrutoMK: bets 40
+chanante007: folds 
+Uncalled bet (40) returned to KuzabrutoMK
+KuzabrutoMK collected 80 from pot
+KuzabrutoMK: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Kh Ts 9d 3c]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: chanante007 (small blind) folded on the River
+Seat 3: KuzabrutoMK (big blind) collected (80)
+
+
+
+PokerStars Hand #257892805501: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:53:29 CET [2025/09/26 6:53:29 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: chanante007 (460 in chips) 
+Seat 3: KuzabrutoMK (540 in chips) 
+KuzabrutoMK: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Ts]
+chanante007: calls 20
+KuzabrutoMK: calls 10
+pipinoelbreve9: checks 
+*** FLOP *** [5d 9d 5c]
+KuzabrutoMK: checks 
+pipinoelbreve9: checks 
+chanante007: checks 
+*** TURN *** [5d 9d 5c] [3s]
+KuzabrutoMK: checks 
+pipinoelbreve9: checks 
+chanante007: checks 
+*** RIVER *** [5d 9d 5c 3s] [7d]
+KuzabrutoMK: checks 
+pipinoelbreve9: checks 
+chanante007: checks 
+*** SHOW DOWN ***
+KuzabrutoMK: shows [Jc Td] (a pair of Fives)
+pipinoelbreve9: mucks hand 
+chanante007: shows [Qh Th] (a pair of Fives - Queen kicker)
+chanante007 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 9d 5c 3s 7d]
+Seat 1: pipinoelbreve9 (big blind) mucked [6c Ts]
+Seat 2: chanante007 (button) showed [Qh Th] and won (60) with a pair of Fives
+Seat 3: KuzabrutoMK (small blind) showed [Jc Td] and lost with a pair of Fives
+
+
+
+PokerStars Hand #257892807389: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:53:48 CET [2025/09/26 6:53:48 ET]
+Table '3931574019 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (480 in chips) 
+Seat 2: chanante007 (500 in chips) 
+Seat 3: KuzabrutoMK (520 in chips) 
+pipinoelbreve9: posts small blind 10
+chanante007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ad]
+KuzabrutoMK: folds 
+pipinoelbreve9: raises 40 to 60
+chanante007: calls 40
+*** FLOP *** [7h 5h 2s]
+pipinoelbreve9: bets 60
+chanante007: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 120 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 5h 2s]
+Seat 1: pipinoelbreve9 (small blind) collected (120)
+Seat 2: chanante007 (big blind) folded on the Flop
+Seat 3: KuzabrutoMK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257892808967: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:54:04 CET [2025/09/26 6:54:04 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (540 in chips) 
+Seat 2: chanante007 (440 in chips) 
+Seat 3: KuzabrutoMK (520 in chips) 
+chanante007: posts small blind 10
+KuzabrutoMK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 4s]
+pipinoelbreve9: folds 
+chanante007: calls 10
+KuzabrutoMK: checks 
+*** FLOP *** [9c 2s 6d]
+chanante007: checks 
+KuzabrutoMK: bets 20
+chanante007: calls 20
+*** TURN *** [9c 2s 6d] [Qh]
+chanante007: bets 20
+KuzabrutoMK: raises 20 to 40
+chanante007: calls 20
+*** RIVER *** [9c 2s 6d Qh] [9d]
+chanante007: checks 
+KuzabrutoMK: checks 
+*** SHOW DOWN ***
+chanante007: shows [Qc 8c] (two pair, Queens and Nines)
+KuzabrutoMK: mucks hand 
+chanante007 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 2s 6d Qh 9d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: chanante007 (small blind) showed [Qc 8c] and won (160) with two pair, Queens and Nines
+Seat 3: KuzabrutoMK (big blind) mucked [5c Ad]
+
+
+
+PokerStars Hand #257892811850: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:54:34 CET [2025/09/26 6:54:34 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (540 in chips) 
+Seat 2: chanante007 (520 in chips) 
+Seat 3: KuzabrutoMK (440 in chips) 
+KuzabrutoMK: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Kc]
+chanante007: calls 20
+KuzabrutoMK: folds 
+pipinoelbreve9: raises 80 to 100
+chanante007: calls 80
+*** FLOP *** [3c 7c 6s]
+pipinoelbreve9: bets 105
+chanante007: folds 
+Uncalled bet (105) returned to pipinoelbreve9
+pipinoelbreve9 collected 210 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3c 7c 6s]
+Seat 1: pipinoelbreve9 (big blind) collected (210)
+Seat 2: chanante007 (button) folded on the Flop
+Seat 3: KuzabrutoMK (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892813381: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:54:50 CET [2025/09/26 6:54:50 ET]
+Table '3931574019 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (650 in chips) 
+Seat 2: chanante007 (420 in chips) 
+Seat 3: KuzabrutoMK (430 in chips) 
+pipinoelbreve9: posts small blind 10
+chanante007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Qh]
+KuzabrutoMK: calls 20
+pipinoelbreve9: raises 80 to 100
+chanante007: calls 80
+KuzabrutoMK: calls 80
+*** FLOP *** [Js As 6s]
+pipinoelbreve9: bets 550 and is all-in
+chanante007: calls 320 and is all-in
+KuzabrutoMK: folds 
+Uncalled bet (230) returned to pipinoelbreve9
+*** TURN *** [Js As 6s] [2c]
+*** RIVER *** [Js As 6s 2c] [9h]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks Qh] (high card Ace)
+chanante007: shows [Ts Ah] (a pair of Aces)
+chanante007 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Js As 6s 2c 9h]
+Seat 1: pipinoelbreve9 (small blind) showed [Ks Qh] and lost with high card Ace
+Seat 2: chanante007 (big blind) showed [Ts Ah] and won (940) with a pair of Aces
+Seat 3: KuzabrutoMK (button) folded on the Flop
+
+
+
+PokerStars Hand #257892816362: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:55:21 CET [2025/09/26 6:55:21 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (230 in chips) 
+Seat 2: chanante007 (940 in chips) 
+Seat 3: KuzabrutoMK (330 in chips) 
+chanante007: posts small blind 15
+KuzabrutoMK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 2d]
+pipinoelbreve9: folds 
+chanante007: calls 15
+KuzabrutoMK: checks 
+*** FLOP *** [8d 7s Kd]
+chanante007: checks 
+KuzabrutoMK: checks 
+*** TURN *** [8d 7s Kd] [Ad]
+chanante007: bets 30
+KuzabrutoMK: calls 30
+*** RIVER *** [8d 7s Kd Ad] [Js]
+chanante007: checks 
+KuzabrutoMK: checks 
+*** SHOW DOWN ***
+chanante007: shows [Qd 4d] (a flush, Ace high)
+KuzabrutoMK: mucks hand 
+chanante007 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 7s Kd Ad Js]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: chanante007 (small blind) showed [Qd 4d] and won (120) with a flush, Ace high
+Seat 3: KuzabrutoMK (big blind) mucked [6s Jd]
+
+
+
+PokerStars Hand #257892817696: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:55:38 CET [2025/09/26 6:55:38 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (230 in chips) 
+Seat 2: chanante007 (1000 in chips) 
+Seat 3: KuzabrutoMK (270 in chips) 
+KuzabrutoMK: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 9c]
+chanante007: calls 30
+KuzabrutoMK: folds 
+pipinoelbreve9: raises 200 to 230 and is all-in
+chanante007: folds 
+Uncalled bet (200) returned to pipinoelbreve9
+pipinoelbreve9 collected 75 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (75)
+Seat 2: chanante007 (button) folded before Flop
+Seat 3: KuzabrutoMK (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892818492: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:55:48 CET [2025/09/26 6:55:48 ET]
+Table '3931574019 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (275 in chips) 
+Seat 2: chanante007 (970 in chips) 
+Seat 3: KuzabrutoMK (255 in chips) 
+pipinoelbreve9: posts small blind 15
+chanante007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Qh]
+KuzabrutoMK: raises 30 to 60
+pipinoelbreve9: raises 215 to 275 and is all-in
+chanante007: calls 245
+KuzabrutoMK: calls 195 and is all-in
+*** FLOP *** [4c 3c Kh]
+*** TURN *** [4c 3c Kh] [5d]
+*** RIVER *** [4c 3c Kh 5d] [6c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks Qh] (a pair of Kings)
+chanante007: shows [Jh Kd] (a pair of Kings - lower kicker)
+pipinoelbreve9 collected 40 from side pot
+KuzabrutoMK: shows [As Td] (high card Ace)
+pipinoelbreve9 collected 765 from main pot
+KuzabrutoMK finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 805 Main pot 765. Side pot 40. | Rake 0 
+Board [4c 3c Kh 5d 6c]
+Seat 1: pipinoelbreve9 (small blind) showed [Ks Qh] and won (805) with a pair of Kings
+Seat 2: chanante007 (big blind) showed [Jh Kd] and lost with a pair of Kings
+Seat 3: KuzabrutoMK (button) showed [As Td] and lost with high card Ace
+
+
+
+PokerStars Hand #257892820102: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:07 CET [2025/09/26 6:56:07 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (805 in chips) 
+Seat 2: chanante007 (695 in chips) 
+chanante007: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Js]
+chanante007: calls 15
+pipinoelbreve9: raises 60 to 90
+chanante007: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (60)
+Seat 2: chanante007 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892820969: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:18 CET [2025/09/26 6:56:18 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (835 in chips) 
+Seat 2: chanante007 (665 in chips) 
+pipinoelbreve9: posts small blind 15
+chanante007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 2c]
+pipinoelbreve9: folds 
+Uncalled bet (15) returned to chanante007
+chanante007 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 2: chanante007 (big blind) collected (30)
+
+
+
+PokerStars Hand #257892821395: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:23 CET [2025/09/26 6:56:23 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (820 in chips) 
+Seat 2: chanante007 (680 in chips) 
+chanante007: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Ts]
+chanante007: folds 
+Uncalled bet (15) returned to pipinoelbreve9
+pipinoelbreve9 collected 30 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (30)
+Seat 2: chanante007 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892821747: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:28 CET [2025/09/26 6:56:28 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (835 in chips) 
+Seat 2: chanante007 (665 in chips) 
+pipinoelbreve9: posts small blind 15
+chanante007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Jd]
+pipinoelbreve9: folds 
+Uncalled bet (15) returned to chanante007
+chanante007 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 2: chanante007 (big blind) collected (30)
+
+
+
+PokerStars Hand #257892822173: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:33 CET [2025/09/26 6:56:33 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (820 in chips) 
+Seat 2: chanante007 (680 in chips) 
+chanante007: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 6d]
+chanante007: calls 15
+pipinoelbreve9: checks 
+*** FLOP *** [5c 2s 7s]
+pipinoelbreve9: bets 30
+chanante007: calls 30
+*** TURN *** [5c 2s 7s] [2c]
+pipinoelbreve9: bets 60
+chanante007: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 120 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 2s 7s 2c]
+Seat 1: pipinoelbreve9 (big blind) collected (120)
+Seat 2: chanante007 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #257892823496: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:56:49 CET [2025/09/26 6:56:49 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (880 in chips) 
+Seat 2: chanante007 (620 in chips) 
+pipinoelbreve9: posts small blind 15
+chanante007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 2h]
+pipinoelbreve9: calls 15
+chanante007: checks 
+*** FLOP *** [8c 2s 7d]
+chanante007: checks 
+pipinoelbreve9: bets 30
+chanante007: folds 
+Uncalled bet (30) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 2s 7d]
+Seat 1: pipinoelbreve9 (button) (small blind) collected (60)
+Seat 2: chanante007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257892824501: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:57:01 CET [2025/09/26 6:57:01 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (910 in chips) 
+Seat 2: chanante007 (590 in chips) 
+chanante007: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 8h]
+chanante007: calls 15
+pipinoelbreve9: checks 
+*** FLOP *** [Kc Jd 9h]
+pipinoelbreve9: checks 
+chanante007: bets 30
+pipinoelbreve9: folds 
+Uncalled bet (30) returned to chanante007
+chanante007 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Jd 9h]
+Seat 1: pipinoelbreve9 (big blind) folded on the Flop
+Seat 2: chanante007 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #257892825657: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:57:15 CET [2025/09/26 6:57:15 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (880 in chips) 
+Seat 2: chanante007 (620 in chips) 
+pipinoelbreve9: posts small blind 20
+chanante007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Qd]
+pipinoelbreve9: calls 20
+chanante007: checks 
+*** FLOP *** [2h As 2s]
+chanante007: checks 
+pipinoelbreve9: checks 
+*** TURN *** [2h As 2s] [9c]
+chanante007: checks 
+pipinoelbreve9: bets 40
+chanante007: calls 40
+*** RIVER *** [2h As 2s 9c] [Ac]
+chanante007: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+chanante007: shows [Qh 5d] (two pair, Aces and Deuces)
+pipinoelbreve9: shows [4c Qd] (two pair, Aces and Deuces)
+chanante007 collected 80 from pot
+pipinoelbreve9 collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h As 2s 9c Ac]
+Seat 1: pipinoelbreve9 (button) (small blind) showed [4c Qd] and won (80) with two pair, Aces and Deuces
+Seat 2: chanante007 (big blind) showed [Qh 5d] and won (80) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #257892827164: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:57:33 CET [2025/09/26 6:57:33 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (880 in chips) 
+Seat 2: chanante007 (620 in chips) 
+chanante007: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Qd]
+chanante007: folds 
+Uncalled bet (20) returned to pipinoelbreve9
+pipinoelbreve9 collected 40 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (40)
+Seat 2: chanante007 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892827679: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:57:40 CET [2025/09/26 6:57:40 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (900 in chips) 
+Seat 2: chanante007 (600 in chips) 
+pipinoelbreve9: posts small blind 20
+chanante007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 9s]
+pipinoelbreve9: folds 
+Uncalled bet (20) returned to chanante007
+chanante007 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 2: chanante007 (big blind) collected (40)
+
+
+
+PokerStars Hand #257892828144: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:57:45 CET [2025/09/26 6:57:45 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (880 in chips) 
+Seat 2: chanante007 (620 in chips) 
+chanante007: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 5d]
+chanante007: calls 20
+pipinoelbreve9: checks 
+*** FLOP *** [3d 5h 4d]
+pipinoelbreve9: bets 40
+chanante007: folds 
+Uncalled bet (40) returned to pipinoelbreve9
+pipinoelbreve9 collected 80 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 5h 4d]
+Seat 1: pipinoelbreve9 (big blind) collected (80)
+Seat 2: chanante007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257892828947: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:57:55 CET [2025/09/26 6:57:55 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (920 in chips) 
+Seat 2: chanante007 (580 in chips) 
+pipinoelbreve9: posts small blind 20
+chanante007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Jh]
+pipinoelbreve9: calls 20
+chanante007: checks 
+*** FLOP *** [7c 8d 9h]
+chanante007: checks 
+pipinoelbreve9: bets 40
+chanante007: calls 40
+*** TURN *** [7c 8d 9h] [4d]
+chanante007: checks 
+pipinoelbreve9: bets 40
+chanante007: folds 
+Uncalled bet (40) returned to pipinoelbreve9
+pipinoelbreve9 collected 160 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c 8d 9h 4d]
+Seat 1: pipinoelbreve9 (button) (small blind) collected (160)
+Seat 2: chanante007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257892830169: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:58:10 CET [2025/09/26 6:58:10 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (1000 in chips) 
+Seat 2: chanante007 (500 in chips) 
+chanante007: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 2s]
+chanante007: raises 40 to 80
+pipinoelbreve9: folds 
+Uncalled bet (40) returned to chanante007
+chanante007 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 2: chanante007 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #257892830677: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:58:16 CET [2025/09/26 6:58:16 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (960 in chips) 
+Seat 2: chanante007 (540 in chips) 
+pipinoelbreve9: posts small blind 20
+chanante007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Th]
+pipinoelbreve9: raises 80 to 120
+chanante007: folds 
+Uncalled bet (80) returned to pipinoelbreve9
+pipinoelbreve9 collected 80 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) collected (80)
+Seat 2: chanante007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257892831369: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:58:25 CET [2025/09/26 6:58:25 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (1000 in chips) 
+Seat 2: chanante007 (500 in chips) 
+chanante007: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 3c]
+chanante007: calls 20
+pipinoelbreve9: raises 80 to 120
+chanante007: folds 
+Uncalled bet (80) returned to pipinoelbreve9
+pipinoelbreve9 collected 80 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (80)
+Seat 2: chanante007 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892831998: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:58:32 CET [2025/09/26 6:58:32 ET]
+Table '3931574019 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (1040 in chips) 
+Seat 2: chanante007 (460 in chips) 
+pipinoelbreve9: posts small blind 20
+chanante007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d Js]
+pipinoelbreve9: folds 
+Uncalled bet (20) returned to chanante007
+chanante007 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 2: chanante007 (big blind) collected (40)
+
+
+
+PokerStars Hand #257892832431: Tournament #3931574019, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:58:37 CET [2025/09/26 6:58:37 ET]
+Table '3931574019 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (1020 in chips) 
+Seat 2: chanante007 (480 in chips) 
+chanante007: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 9s]
+chanante007: calls 20
+pipinoelbreve9: raises 80 to 120
+chanante007: raises 360 to 480 and is all-in
+pipinoelbreve9: calls 360
+*** FLOP *** [Th 2c Jd]
+*** TURN *** [Th 2c Jd] [7s]
+*** RIVER *** [Th 2c Jd 7s] [8c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks 9s] (a straight, Seven to Jack)
+chanante007: shows [Qd Kd] (high card King)
+pipinoelbreve9 collected 960 from pot
+chanante007 finished the tournament in 2nd place
+pipinoelbreve9 wins the tournament - congratulations!
+pipinoelbreve9 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Th 2c Jd 7s 8c]
+Seat 1: pipinoelbreve9 (big blind) showed [Ks 9s] and won (960) with a straight, Seven to Jack
+Seat 2: chanante007 (button) (small blind) showed [Qd Kd] and lost with high card King
+
+
+

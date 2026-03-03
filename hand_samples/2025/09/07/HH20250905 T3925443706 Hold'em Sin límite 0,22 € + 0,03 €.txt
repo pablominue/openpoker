@@ -1,0 +1,958 @@
+﻿PokerStars Hand #257625853561: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:55:15 CET [2025/09/05 16:55:15 ET]
+Table '3925443706 3' 6-max Seat #1 is the button
+Seat 1: 9876543210abc (5000 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 3: titowil12 (5000 in chips, €0.17 bounty) 
+Seat 4: sento64 (5000 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5000 in chips, €0.17 bounty) 
+9876543210abc: posts the ante 5
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts small blind 25
+titowil12: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 3s]
+sento64: folds 
+cabeza da479: calls 50
+9876543210abc: calls 50
+pipinoelbreve9 has timed out
+pipinoelbreve9: folds 
+pipinoelbreve9 is sitting out
+titowil12: checks 
+*** FLOP *** [7s 9h Kd]
+titowil12: checks 
+cabeza da479: bets 50
+9876543210abc: folds 
+titowil12: folds 
+Uncalled bet (50) returned to cabeza da479
+cabeza da479 collected 200 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7s 9h Kd]
+Seat 1: 9876543210abc (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: titowil12 (big blind) folded on the Flop
+Seat 4: sento64 folded before Flop (didn't bet)
+Seat 6: cabeza da479 collected (200)
+
+
+
+PokerStars Hand #257625867744: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:56:40 CET [2025/09/05 16:56:40 ET]
+Table '3925443706 3' 6-max Seat #2 is the button
+Seat 2: pipinoelbreve9 (4970 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4945 in chips, €0.17 bounty) 
+Seat 4: sento64 (4995 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5000 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5145 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+titowil12: posts small blind 25
+sento64: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s As]
+fabyphiphi: folds 
+cabeza da479: calls 50
+pipinoelbreve9: folds 
+titowil12: raises 50 to 100
+sento64: calls 50
+cabeza da479: calls 50
+*** FLOP *** [4c 2c Js]
+titowil12: checks 
+sento64: checks 
+cabeza da479: bets 650
+titowil12: folds 
+sento64: folds 
+Uncalled bet (650) returned to cabeza da479
+cabeza da479 collected 325 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [4c 2c Js]
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: titowil12 (small blind) folded on the Flop
+Seat 4: sento64 (big blind) folded on the Flop
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 collected (325)
+
+
+
+PokerStars Hand #257625875120: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:57:23 CET [2025/09/05 16:57:23 ET]
+Table '3925443706 3' 6-max Seat #3 is the button
+Seat 2: pipinoelbreve9 (4965 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4840 in chips, €0.17 bounty) 
+Seat 4: sento64 (4890 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (4995 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5365 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+sento64: posts small blind 25
+fabyphiphi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 6h]
+cabeza da479: calls 50
+pipinoelbreve9: folds 
+titowil12: folds 
+sento64: calls 25
+fabyphiphi: checks 
+*** FLOP *** [8d 4s Th]
+sento64: checks 
+fabyphiphi: checks 
+cabeza da479: checks 
+*** TURN *** [8d 4s Th] [3s]
+sento64: checks 
+fabyphiphi: checks 
+cabeza da479: checks 
+*** RIVER *** [8d 4s Th 3s] [6d]
+sento64: checks 
+fabyphiphi: bets 175
+cabeza da479: folds 
+sento64: folds 
+Uncalled bet (175) returned to fabyphiphi
+fabyphiphi collected 175 from pot
+fabyphiphi: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Board [8d 4s Th 3s 6d]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: titowil12 (button) folded before Flop (didn't bet)
+Seat 4: sento64 (small blind) folded on the River
+Seat 5: fabyphiphi (big blind) collected (175)
+Seat 6: cabeza da479 folded on the River
+
+
+
+PokerStars Hand #257625880436: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:57:55 CET [2025/09/05 16:57:55 ET]
+Table '3925443706 3' 6-max Seat #4 is the button
+Seat 2: pipinoelbreve9 (4960 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4835 in chips, €0.17 bounty) 
+Seat 4: sento64 (4835 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5115 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5310 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+fabyphiphi: posts small blind 25
+cabeza da479: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 7h]
+pipinoelbreve9: folds 
+titowil12: calls 50
+sento64: calls 50
+fabyphiphi: calls 25
+cabeza da479: checks 
+*** FLOP *** [Ts 2c 9c]
+fabyphiphi: checks 
+cabeza da479: checks 
+titowil12: checks 
+sento64: checks 
+*** TURN *** [Ts 2c 9c] [2d]
+fabyphiphi: checks 
+cabeza da479: checks 
+titowil12: checks 
+sento64: checks 
+*** RIVER *** [Ts 2c 9c 2d] [Js]
+fabyphiphi: bets 225
+cabeza da479: folds 
+titowil12: folds 
+sento64: calls 225
+*** SHOW DOWN ***
+fabyphiphi: shows [2h 8d] (three of a kind, Deuces)
+sento64: mucks hand 
+fabyphiphi collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Ts 2c 9c 2d Js]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: titowil12 folded on the River
+Seat 4: sento64 (button) mucked [Jc Qd]
+Seat 5: fabyphiphi (small blind) showed [2h 8d] and won (675) with three of a kind, Deuces
+Seat 6: cabeza da479 (big blind) folded on the River
+
+
+
+PokerStars Hand #257625886150: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:58:29 CET [2025/09/05 16:58:29 ET]
+Table '3925443706 3' 6-max Seat #5 is the button
+Seat 2: pipinoelbreve9 (4955 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4780 in chips, €0.17 bounty) 
+Seat 4: sento64 (4555 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5510 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5255 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+cabeza da479: posts small blind 25
+pipinoelbreve9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 3h]
+titowil12: calls 50
+sento64: calls 50
+fabyphiphi: raises 5455 to 5505 and is all-in
+cabeza da479: folds 
+pipinoelbreve9: folds 
+titowil12: folds 
+sento64: folds 
+Uncalled bet (5455) returned to fabyphiphi
+fabyphiphi collected 250 from pot
+fabyphiphi: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: titowil12 folded before Flop
+Seat 4: sento64 folded before Flop
+Seat 5: fabyphiphi (button) collected (250)
+Seat 6: cabeza da479 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257625892111: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:59:03 CET [2025/09/05 16:59:03 ET]
+Table '3925443706 3' 6-max Seat #6 is the button
+Seat 2: pipinoelbreve9 (4900 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4725 in chips, €0.17 bounty) 
+Seat 4: sento64 (4500 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5705 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5225 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts small blind 25
+titowil12: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 7h]
+sento64: raises 600 to 650
+fabyphiphi: folds 
+cabeza da479: folds 
+pipinoelbreve9: folds 
+titowil12: folds 
+Uncalled bet (600) returned to sento64
+sento64 collected 150 from pot
+sento64: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: titowil12 (big blind) folded before Flop
+Seat 4: sento64 collected (150)
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625894852: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:59:19 CET [2025/09/05 16:59:19 ET]
+Table '3925443706 3' 6-max Seat #2 is the button
+Seat 2: pipinoelbreve9 (4870 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4670 in chips, €0.17 bounty) 
+Seat 4: sento64 (4595 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5700 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5220 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+titowil12: posts small blind 25
+sento64: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 3c]
+fabyphiphi: folds 
+cabeza da479: calls 50
+pipinoelbreve9: folds 
+titowil12: calls 25
+sento64: raises 4540 to 4590 and is all-in
+cabeza da479: folds 
+titowil12: folds 
+Uncalled bet (4540) returned to sento64
+sento64 collected 175 from pot
+sento64: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: titowil12 (small blind) folded before Flop
+Seat 4: sento64 (big blind) collected (175)
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 folded before Flop
+
+
+
+PokerStars Hand #257625897377: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 22:59:34 CET [2025/09/05 16:59:34 ET]
+Table '3925443706 3' 6-max Seat #3 is the button
+Seat 1: borgan free (5000 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4865 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4615 in chips, €0.17 bounty) 
+Seat 4: sento64 (4715 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5695 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5165 in chips, €0.17 bounty) 
+borgan free: posts the ante 5
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+sento64: posts small blind 25
+fabyphiphi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Jc]
+borgan free is disconnected 
+cabeza da479: folds 
+borgan free is connected 
+borgan free is disconnected 
+borgan free is connected 
+borgan free: raises 50 to 100
+pipinoelbreve9: folds 
+titowil12: calls 100
+sento64: folds 
+fabyphiphi: calls 50
+*** FLOP *** [Jh 7d Ks]
+fabyphiphi: checks 
+borgan free: checks 
+titowil12: checks 
+*** TURN *** [Jh 7d Ks] [Ts]
+fabyphiphi: checks 
+borgan free: checks 
+titowil12: checks 
+*** RIVER *** [Jh 7d Ks Ts] [9c]
+fabyphiphi: checks 
+borgan free: bets 500
+titowil12: calls 500
+fabyphiphi: folds 
+*** SHOW DOWN ***
+borgan free: shows [2s Qc] (a straight, Nine to King)
+titowil12: shows [7h Qs] (a straight, Nine to King)
+borgan free collected 678 from pot
+titowil12 collected 677 from pot
+*** SUMMARY ***
+Total pot 1355 | Rake 0 
+Board [Jh 7d Ks Ts 9c]
+Seat 1: borgan free showed [2s Qc] and won (678) with a straight, Nine to King
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: titowil12 (button) showed [7h Qs] and won (677) with a straight, Nine to King
+Seat 4: sento64 (small blind) folded before Flop
+Seat 5: fabyphiphi (big blind) folded on the River
+Seat 6: cabeza da479 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625903931: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/05 23:00:12 CET [2025/09/05 17:00:12 ET]
+Table '3925443706 3' 6-max Seat #4 is the button
+Seat 1: borgan free (5073 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4860 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4687 in chips, €0.17 bounty) 
+Seat 4: sento64 (4685 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5590 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5160 in chips, €0.17 bounty) 
+borgan free: posts the ante 5
+pipinoelbreve9: posts the ante 5
+titowil12: posts the ante 5
+sento64: posts the ante 5
+fabyphiphi: posts the ante 5
+cabeza da479: posts the ante 5
+fabyphiphi: posts small blind 25
+cabeza da479: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 6d]
+borgan free: calls 50
+pipinoelbreve9: folds 
+borgan free is disconnected 
+titowil12: folds 
+sento64: folds 
+fabyphiphi: raises 5535 to 5585 and is all-in
+cabeza da479: folds 
+borgan free is disconnected 
+borgan free is connected 
+borgan free: folds 
+Uncalled bet (5535) returned to fabyphiphi
+fabyphiphi collected 180 from pot
+fabyphiphi: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: borgan free folded before Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: titowil12 folded before Flop (didn't bet)
+Seat 4: sento64 (button) folded before Flop (didn't bet)
+Seat 5: fabyphiphi (small blind) collected (180)
+Seat 6: cabeza da479 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257625910189: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:00:47 CET [2025/09/05 17:00:47 ET]
+Table '3925443706 3' 6-max Seat #5 is the button
+Seat 1: borgan free (5018 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4855 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4682 in chips, €0.17 bounty) 
+Seat 4: sento64 (4680 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5715 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5105 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+titowil12: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+cabeza da479: posts small blind 30
+borgan free: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 5h]
+pipinoelbreve9: folds 
+titowil12: folds 
+sento64: calls 60
+fabyphiphi: folds 
+cabeza da479: calls 30
+borgan free: checks 
+*** FLOP *** [Td Qh 2d]
+cabeza da479: checks 
+borgan free: checks 
+sento64: bets 120
+cabeza da479: folds 
+borgan free: folds 
+Uncalled bet (120) returned to sento64
+sento64 collected 240 from pot
+sento64: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Td Qh 2d]
+Seat 1: borgan free (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: titowil12 folded before Flop (didn't bet)
+Seat 4: sento64 collected (240)
+Seat 5: fabyphiphi (button) folded before Flop (didn't bet)
+Seat 6: cabeza da479 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257625917641: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:01:22 CET [2025/09/05 17:01:22 ET]
+Table '3925443706 3' 6-max Seat #6 is the button
+Seat 1: borgan free (4948 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4845 in chips, €0.17 bounty) is sitting out
+Seat 3: titowil12 (4672 in chips, €0.17 bounty) 
+Seat 4: sento64 (4850 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5705 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5035 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+titowil12: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+borgan free: posts small blind 30
+pipinoelbreve9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 7c]
+titowil12: calls 60
+sento64: folds 
+fabyphiphi: calls 60
+cabeza da479: calls 60
+borgan free: raises 540 to 600
+pipinoelbreve9: folds 
+titowil12: folds 
+fabyphiphi: folds 
+cabeza da479: folds 
+Uncalled bet (540) returned to borgan free
+borgan free collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: borgan free (small blind) collected (360)
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: titowil12 folded before Flop
+Seat 4: sento64 folded before Flop (didn't bet)
+Seat 5: fabyphiphi folded before Flop
+Seat 6: cabeza da479 (button) folded before Flop
+
+
+
+PokerStars Hand #257625926460: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:02:01 CET [2025/09/05 17:02:01 ET]
+Table '3925443706 3' 6-max Seat #1 is the button
+Seat 1: borgan free (5238 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4775 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4840 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5635 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (4965 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts small blind 30
+sento64: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 8h]
+fabyphiphi: folds 
+cabeza da479: calls 60
+borgan free: folds 
+pipinoelbreve9: folds 
+sento64: checks 
+*** FLOP *** [2c Th 7c]
+sento64: checks 
+cabeza da479: checks 
+*** TURN *** [2c Th 7c] [7h]
+sento64: checks 
+cabeza da479: bets 60
+sento64: calls 60
+*** RIVER *** [2c Th 7c 7h] [6d]
+sento64: checks 
+cabeza da479: bets 60
+sento64: folds 
+Uncalled bet (60) returned to cabeza da479
+cabeza da479 collected 320 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2c Th 7c 7h 6d]
+Seat 1: borgan free (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: sento64 (big blind) folded on the River
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 collected (320)
+
+
+
+PokerStars Hand #257625932598: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:02:25 CET [2025/09/05 17:02:25 ET]
+Table '3925443706 3' 6-max Seat #2 is the button
+Seat 1: borgan free (5228 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4735 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4710 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5625 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5155 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+sento64: posts small blind 30
+fabyphiphi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Jh]
+cabeza da479: folds 
+borgan free: calls 60
+pipinoelbreve9: folds 
+sento64: calls 30
+fabyphiphi: checks 
+*** FLOP *** [8s Ac Qh]
+sento64: bets 115
+fabyphiphi: folds 
+borgan free: calls 115
+*** TURN *** [8s Ac Qh] [Td]
+sento64: bets 230
+borgan free: folds 
+Uncalled bet (230) returned to sento64
+sento64 collected 460 from pot
+sento64: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [8s Ac Qh Td]
+Seat 1: borgan free folded on the Turn
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: sento64 (small blind) collected (460)
+Seat 5: fabyphiphi (big blind) folded on the Flop
+Seat 6: cabeza da479 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625940078: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:02:56 CET [2025/09/05 17:02:56 ET]
+Table '3925443706 3' 6-max Seat #4 is the button
+Seat 1: borgan free (5043 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4725 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4985 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5555 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5145 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+fabyphiphi: posts small blind 30
+cabeza da479: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ac]
+borgan free: calls 60
+pipinoelbreve9: folds 
+sento64: calls 60
+fabyphiphi: calls 30
+cabeza da479: checks 
+*** FLOP *** [6c Qd 4d]
+fabyphiphi: checks 
+borgan free is disconnected 
+cabeza da479: checks 
+borgan free is connected 
+borgan free is disconnected 
+borgan free is connected 
+borgan free: checks 
+sento64: checks 
+*** TURN *** [6c Qd 4d] [Jh]
+fabyphiphi: checks 
+cabeza da479: checks 
+borgan free: checks 
+sento64: checks 
+*** RIVER *** [6c Qd 4d Jh] [Ts]
+fabyphiphi: bets 290
+cabeza da479: folds 
+borgan free: calls 290
+sento64: folds 
+*** SHOW DOWN ***
+fabyphiphi: shows [9h 8d] (a straight, Eight to Queen)
+borgan free: mucks hand 
+fabyphiphi collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [6c Qd 4d Jh Ts]
+Seat 1: borgan free mucked [3s Jd]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: sento64 (button) folded on the River
+Seat 5: fabyphiphi (small blind) showed [9h 8d] and won (870) with a straight, Eight to Queen
+Seat 6: cabeza da479 (big blind) folded on the River
+
+
+
+PokerStars Hand #257625960559: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:04:17 CET [2025/09/05 17:04:17 ET]
+Table '3925443706 3' 6-max Seat #5 is the button
+Seat 1: borgan free (4683 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4715 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4915 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (6065 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5075 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+cabeza da479: posts small blind 30
+borgan free: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Ad]
+pipinoelbreve9: folds 
+sento64: folds 
+fabyphiphi: calls 60
+cabeza da479: calls 30
+borgan free: raises 230 to 290
+fabyphiphi: calls 230
+cabeza da479: calls 230
+*** FLOP *** [4c 5h 6h]
+cabeza da479: bets 4775 and is all-in
+borgan free: folds 
+fabyphiphi: folds 
+Uncalled bet (4775) returned to cabeza da479
+cabeza da479 collected 920 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4c 5h 6h]
+Seat 1: borgan free (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: sento64 folded before Flop (didn't bet)
+Seat 5: fabyphiphi (button) folded on the Flop
+Seat 6: cabeza da479 (small blind) collected (920)
+
+
+
+PokerStars Hand #257625970716: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/05 23:04:57 CET [2025/09/05 17:04:57 ET]
+Table '3925443706 3' 6-max Seat #6 is the button
+Seat 1: borgan free (4383 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4705 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4905 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5765 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (5695 in chips, €0.17 bounty) 
+borgan free: posts the ante 10
+pipinoelbreve9: posts the ante 10
+sento64: posts the ante 10
+fabyphiphi: posts the ante 10
+cabeza da479: posts the ante 10
+borgan free: posts small blind 30
+pipinoelbreve9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 5c]
+sento64: folds 
+fabyphiphi: folds 
+cabeza da479: calls 60
+borgan free: raises 230 to 290
+pipinoelbreve9: folds 
+cabeza da479: calls 230
+*** FLOP *** [4c 2h 4s]
+borgan free: bets 60
+cabeza da479: calls 60
+*** TURN *** [4c 2h 4s] [Jd]
+borgan free: bets 810
+cabeza da479: calls 810
+*** RIVER *** [4c 2h 4s Jd] [Ah]
+borgan free: checks 
+cabeza da479: bets 2430
+borgan free: folds 
+Uncalled bet (2430) returned to cabeza da479
+cabeza da479 collected 2430 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 2430 | Rake 0 
+Board [4c 2h 4s Jd Ah]
+Seat 1: borgan free (small blind) folded on the River
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: sento64 folded before Flop (didn't bet)
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 (button) collected (2430)
+
+
+
+PokerStars Hand #257625978793: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:05:29 CET [2025/09/05 17:05:29 ET]
+Table '3925443706 3' 6-max Seat #1 is the button
+Seat 1: borgan free (3213 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4635 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (4895 in chips, €0.17 bounty) 
+Seat 5: fabyphiphi (5755 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6955 in chips, €0.17 bounty) 
+borgan free: posts the ante 12
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+pipinoelbreve9: posts small blind 40
+sento64: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Qh]
+fabyphiphi: folds 
+cabeza da479: calls 80
+borgan free: raises 3121 to 3201 and is all-in
+pipinoelbreve9: folds 
+sento64: calls 3121
+cabeza da479: folds 
+*** FLOP *** [Qc Td 2s]
+*** TURN *** [Qc Td 2s] [7s]
+*** RIVER *** [Qc Td 2s 7s] [Js]
+*** SHOW DOWN ***
+sento64: shows [Ac Kd] (a straight, Ten to Ace)
+borgan free: shows [4h 2h] (a pair of Deuces)
+sento64 collected 6582 from pot
+sento64 wins €0.12 for eliminating borgan free and their own bounty increases by €0.05 to €0.22
+borgan free finished the tournament
+*** SUMMARY ***
+Total pot 6582 | Rake 0 
+Board [Qc Td 2s 7s Js]
+Seat 1: borgan free (button) showed [4h 2h] and lost with a pair of Deuces
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: sento64 (big blind) showed [Ac Kd] and won (6582) with a straight, Ten to Ace
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 folded before Flop
+
+
+
+PokerStars Hand #257625983410: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:05:48 CET [2025/09/05 17:05:48 ET]
+Table '3925443706 3' 6-max Seat #2 is the button
+Seat 2: pipinoelbreve9 (4583 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (8264 in chips, €0.22 bounty) 
+Seat 5: fabyphiphi (5743 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6863 in chips, €0.17 bounty) 
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+sento64: posts small blind 40
+fabyphiphi: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 5h]
+cabeza da479: calls 80
+pipinoelbreve9: folds 
+sento64: calls 40
+fabyphiphi: checks 
+*** FLOP *** [6h Tc 8d]
+sento64: checks 
+fabyphiphi: checks 
+cabeza da479: checks 
+*** TURN *** [6h Tc 8d] [3h]
+sento64: checks 
+fabyphiphi: checks 
+cabeza da479: bets 80
+sento64: calls 80
+fabyphiphi: calls 80
+*** RIVER *** [6h Tc 8d 3h] [9h]
+sento64: checks 
+fabyphiphi: bets 160
+cabeza da479: folds 
+sento64: calls 160
+*** SHOW DOWN ***
+fabyphiphi: shows [9s Ks] (a pair of Nines)
+sento64: shows [6c 7s] (a straight, Six to Ten)
+sento64 collected 848 from pot
+*** SUMMARY ***
+Total pot 848 | Rake 0 
+Board [6h Tc 8d 3h 9h]
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: sento64 (small blind) showed [6c 7s] and won (848) with a straight, Six to Ten
+Seat 5: fabyphiphi (big blind) showed [9s Ks] and lost with a pair of Nines
+Seat 6: cabeza da479 folded on the River
+
+
+
+PokerStars Hand #257625994626: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:06:33 CET [2025/09/05 17:06:33 ET]
+Table '3925443706 3' 6-max Seat #4 is the button
+Seat 1: fekkerito (5000 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4571 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (8780 in chips, €0.22 bounty) 
+Seat 5: fabyphiphi (5411 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6691 in chips, €0.17 bounty) 
+fekkerito: posts the ante 12
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+fabyphiphi: posts small blind 40
+cabeza da479: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 3s]
+fekkerito: folds 
+pipinoelbreve9: folds 
+sento64: calls 80
+fabyphiphi: calls 40
+cabeza da479: raises 300 to 380
+sento64: folds 
+fabyphiphi: folds 
+Uncalled bet (300) returned to cabeza da479
+cabeza da479 collected 300 from pot
+cabeza da479: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: fekkerito folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: sento64 (button) folded before Flop
+Seat 5: fabyphiphi (small blind) folded before Flop
+Seat 6: cabeza da479 (big blind) collected (300)
+
+
+
+PokerStars Hand #257625999693: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:06:53 CET [2025/09/05 17:06:53 ET]
+Table '3925443706 3' 6-max Seat #5 is the button
+Seat 1: fekkerito (4988 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4559 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (8688 in chips, €0.22 bounty) 
+Seat 5: fabyphiphi (5319 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6899 in chips, €0.17 bounty) 
+fekkerito: posts the ante 12
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+cabeza da479: posts small blind 40
+fekkerito: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Qh]
+pipinoelbreve9: folds 
+sento64: calls 80
+fabyphiphi: calls 80
+cabeza da479: calls 40
+fekkerito: checks 
+*** FLOP *** [3h Kc 9d]
+cabeza da479: checks 
+fekkerito: checks 
+sento64: checks 
+fabyphiphi: checks 
+*** TURN *** [3h Kc 9d] [Qd]
+cabeza da479: checks 
+fekkerito: checks 
+sento64: checks 
+fabyphiphi: bets 160
+cabeza da479: folds 
+fekkerito: folds 
+sento64: folds 
+Uncalled bet (160) returned to fabyphiphi
+fabyphiphi collected 380 from pot
+fabyphiphi: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [3h Kc 9d Qd]
+Seat 1: fekkerito (big blind) folded on the Turn
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: sento64 folded on the Turn
+Seat 5: fabyphiphi (button) collected (380)
+Seat 6: cabeza da479 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #257626011643: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:07:42 CET [2025/09/05 17:07:42 ET]
+Table '3925443706 3' 6-max Seat #6 is the button
+Seat 1: fekkerito (4896 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4547 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (8596 in chips, €0.22 bounty) 
+Seat 5: fabyphiphi (5607 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6807 in chips, €0.17 bounty) 
+fekkerito: posts the ante 12
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+fekkerito: posts small blind 40
+pipinoelbreve9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 4s]
+sento64: folds 
+fabyphiphi: folds 
+cabeza da479: folds 
+fekkerito: folds 
+Uncalled bet (40) returned to pipinoelbreve9
+pipinoelbreve9 collected 140 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: fekkerito (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) collected (140)
+Seat 4: sento64 folded before Flop (didn't bet)
+Seat 5: fabyphiphi folded before Flop (didn't bet)
+Seat 6: cabeza da479 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257626016119: Tournament #3925443706, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/05 23:08:00 CET [2025/09/05 17:08:00 ET]
+Table '3925443706 3' 6-max Seat #1 is the button
+Seat 1: fekkerito (4844 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4635 in chips, €0.17 bounty) is sitting out
+Seat 4: sento64 (8584 in chips, €0.22 bounty) 
+Seat 5: fabyphiphi (5595 in chips, €0.17 bounty) 
+Seat 6: cabeza da479 (6795 in chips, €0.17 bounty) 
+fekkerito: posts the ante 12
+pipinoelbreve9: posts the ante 12
+sento64: posts the ante 12
+fabyphiphi: posts the ante 12
+cabeza da479: posts the ante 12
+pipinoelbreve9: posts small blind 40
+sento64: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 3d]
+fabyphiphi: calls 80
+mr.gazpa is disconnected 
+cabeza da479: calls 80
+fekkerito: folds 
+pipinoelbreve9: folds 
+sento64: checks 
+*** FLOP *** [Qh 3c 2d]
+sento64: checks 
+fabyphiphi: checks 
+cabeza da479: checks 
+*** TURN *** [Qh 3c 2d] [6c]
+sento64: bets 80
+fabyphiphi: folds 
+cabeza da479: calls 80
+*** RIVER *** [Qh 3c 2d 6c] [5h]
+sento64: bets 500
+cabeza da479: calls 500
+*** SHOW DOWN ***
+sento64: shows [4d 5d] (a straight, Deuce to Six)
+cabeza da479: mucks hand 
+sento64 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Qh 3c 2d 6c 5h]
+Seat 1: fekkerito (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: sento64 (big blind) showed [4d 5d] and won (1500) with a straight, Deuce to Six
+Seat 5: fabyphiphi folded on the Turn
+Seat 6: cabeza da479 mucked [Qd 7c]
+
+
+

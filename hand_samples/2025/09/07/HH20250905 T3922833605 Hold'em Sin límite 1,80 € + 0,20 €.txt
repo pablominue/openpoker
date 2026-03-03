@@ -1,0 +1,256 @@
+﻿PokerStars Hand #257624739861: Tournament #3922833605, €0.90+€0.90+€0.20 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/05 21:34:40 CET [2025/09/05 15:34:40 ET]
+Table '3922833605 9' 8-max Seat #3 is the button
+Seat 1: IZIAIZIA (19568 in chips, €0.90 bounty) 
+Seat 2: pipinoelbreve9 (10000 in chips, €0.90 bounty) 
+Seat 3: jaimesc6 (26080 in chips, €0.90 bounty) 
+Seat 4: Benig4 (6820 in chips, €0.90 bounty) 
+Seat 6: Sophie59450 (12026 in chips, €1.35 bounty) 
+Seat 7: luíscsp (19108 in chips, €1.35 bounty) 
+Seat 8: papitenerife (24422 in chips, €1.80 bounty) 
+IZIAIZIA: posts the ante 60
+pipinoelbreve9: posts the ante 60
+jaimesc6: posts the ante 60
+Benig4: posts the ante 60
+Sophie59450: posts the ante 60
+luíscsp: posts the ante 60
+papitenerife: posts the ante 60
+Benig4: posts small blind 250
+Sophie59450: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 8s]
+luíscsp: folds 
+papitenerife: calls 500
+IZIAIZIA: folds 
+pipinoelbreve9: folds 
+jaimesc6: folds 
+Benig4: folds 
+Sophie59450: checks 
+*** FLOP *** [8d Ad 4c]
+Sophie59450: checks 
+papitenerife: checks 
+*** TURN *** [8d Ad 4c] [Kc]
+Sophie59450: checks 
+papitenerife: checks 
+*** RIVER *** [8d Ad 4c Kc] [8c]
+Sophie59450: checks 
+papitenerife: bets 1500
+Sophie59450: folds 
+Uncalled bet (1500) returned to papitenerife
+papitenerife collected 1670 from pot
+papitenerife: doesn't show hand 
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Board [8d Ad 4c Kc 8c]
+Seat 1: IZIAIZIA folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: jaimesc6 (button) folded before Flop (didn't bet)
+Seat 4: Benig4 (small blind) folded before Flop
+Seat 6: Sophie59450 (big blind) folded on the River
+Seat 7: luíscsp folded before Flop (didn't bet)
+Seat 8: papitenerife collected (1670)
+
+
+
+PokerStars Hand #257624751522: Tournament #3922833605, €0.90+€0.90+€0.20 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/05 21:35:31 CET [2025/09/05 15:35:31 ET]
+Table '3922833605 9' 8-max Seat #4 is the button
+Seat 1: IZIAIZIA (19508 in chips, €0.90 bounty) 
+Seat 2: pipinoelbreve9 (9940 in chips, €0.90 bounty) 
+Seat 3: jaimesc6 (26020 in chips, €0.90 bounty) 
+Seat 4: Benig4 (6510 in chips, €0.90 bounty) 
+Seat 6: Sophie59450 (11466 in chips, €1.35 bounty) 
+Seat 7: luíscsp (19048 in chips, €1.35 bounty) 
+Seat 8: papitenerife (25532 in chips, €1.80 bounty) 
+IZIAIZIA: posts the ante 70
+pipinoelbreve9: posts the ante 70
+jaimesc6: posts the ante 70
+Benig4: posts the ante 70
+Sophie59450: posts the ante 70
+luíscsp: posts the ante 70
+papitenerife: posts the ante 70
+Sophie59450: posts small blind 300
+luíscsp: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 6s]
+papitenerife: raises 1800 to 2400
+IZIAIZIA: folds 
+pipinoelbreve9: folds 
+jaimesc6: folds 
+Benig4: calls 2400
+Sophie59450: folds 
+luíscsp: folds 
+*** FLOP *** [Ts Qh Qc]
+papitenerife: bets 4800
+Benig4: calls 4040 and is all-in
+Uncalled bet (760) returned to papitenerife
+*** TURN *** [Ts Qh Qc] [2s]
+*** RIVER *** [Ts Qh Qc 2s] [Qs]
+*** SHOW DOWN ***
+papitenerife: shows [Kd Ad] (three of a kind, Queens)
+Benig4: shows [Kh Kc] (a full house, Queens full of Kings)
+Benig4 collected 14270 from pot
+*** SUMMARY ***
+Total pot 14270 | Rake 0 
+Board [Ts Qh Qc 2s Qs]
+Seat 1: IZIAIZIA folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: jaimesc6 folded before Flop (didn't bet)
+Seat 4: Benig4 (button) showed [Kh Kc] and won (14270) with a full house, Queens full of Kings
+Seat 6: Sophie59450 (small blind) folded before Flop
+Seat 7: luíscsp (big blind) folded before Flop
+Seat 8: papitenerife showed [Kd Ad] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #257624759413: Tournament #3922833605, €0.90+€0.90+€0.20 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/05 21:36:05 CET [2025/09/05 15:36:05 ET]
+Table '3922833605 9' 8-max Seat #6 is the button
+Seat 1: IZIAIZIA (19438 in chips, €0.90 bounty) 
+Seat 2: pipinoelbreve9 (9870 in chips, €0.90 bounty) 
+Seat 3: jaimesc6 (25950 in chips, €0.90 bounty) 
+Seat 4: Benig4 (14270 in chips, €0.90 bounty) 
+Seat 6: Sophie59450 (11096 in chips, €1.35 bounty) 
+Seat 7: luíscsp (18378 in chips, €1.35 bounty) 
+Seat 8: papitenerife (19022 in chips, €1.80 bounty) 
+IZIAIZIA: posts the ante 70
+pipinoelbreve9: posts the ante 70
+jaimesc6: posts the ante 70
+Benig4: posts the ante 70
+Sophie59450: posts the ante 70
+luíscsp: posts the ante 70
+papitenerife: posts the ante 70
+luíscsp: posts small blind 300
+papitenerife: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Kc]
+IZIAIZIA: folds 
+pipinoelbreve9: folds 
+jaimesc6: raises 600 to 1200
+Benig4: folds 
+Sophie59450: folds 
+luíscsp: folds 
+papitenerife: calls 600
+*** FLOP *** [2h Ks Ts]
+papitenerife: checks 
+jaimesc6: bets 1200
+papitenerife: folds 
+Uncalled bet (1200) returned to jaimesc6
+jaimesc6 collected 3190 from pot
+jaimesc6: doesn't show hand 
+*** SUMMARY ***
+Total pot 3190 | Rake 0 
+Board [2h Ks Ts]
+Seat 1: IZIAIZIA folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: jaimesc6 collected (3190)
+Seat 4: Benig4 folded before Flop (didn't bet)
+Seat 6: Sophie59450 (button) folded before Flop (didn't bet)
+Seat 7: luíscsp (small blind) folded before Flop
+Seat 8: papitenerife (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257624764441: Tournament #3922833605, €0.90+€0.90+€0.20 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/05 21:36:27 CET [2025/09/05 15:36:27 ET]
+Table '3922833605 9' 8-max Seat #7 is the button
+Seat 1: IZIAIZIA (19368 in chips, €0.90 bounty) 
+Seat 2: pipinoelbreve9 (9800 in chips, €0.90 bounty) 
+Seat 3: jaimesc6 (27870 in chips, €0.90 bounty) 
+Seat 4: Benig4 (14200 in chips, €0.90 bounty) 
+Seat 6: Sophie59450 (11026 in chips, €1.35 bounty) 
+Seat 7: luíscsp (18008 in chips, €1.35 bounty) 
+Seat 8: papitenerife (17752 in chips, €1.80 bounty) 
+IZIAIZIA: posts the ante 70
+pipinoelbreve9: posts the ante 70
+jaimesc6: posts the ante 70
+Benig4: posts the ante 70
+Sophie59450: posts the ante 70
+luíscsp: posts the ante 70
+papitenerife: posts the ante 70
+papitenerife: posts small blind 300
+IZIAIZIA: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 9h]
+Mojo HB is disconnected 
+pipinoelbreve9: folds 
+jaimesc6: raises 600 to 1200
+Benig4: folds 
+Sophie59450: folds 
+luíscsp: folds 
+papitenerife: calls 900
+IZIAIZIA: raises 4090 to 5290
+jaimesc6: calls 4090
+papitenerife: folds 
+*** FLOP *** [3s Ts 6c]
+IZIAIZIA: bets 14008 and is all-in
+jaimesc6: calls 14008
+*** TURN *** [3s Ts 6c] [5h]
+*** RIVER *** [3s Ts 6c 5h] [3d]
+*** SHOW DOWN ***
+IZIAIZIA: shows [Qh Ad] (a pair of Threes)
+jaimesc6: shows [4c 4h] (two pair, Fours and Threes)
+jaimesc6 collected 40286 from pot
+jaimesc6 wins €0.45 for eliminating IZIAIZIA and their own bounty increases by €0.45 to €1.35
+IZIAIZIA finished the tournament
+*** SUMMARY ***
+Total pot 40286 | Rake 0 
+Board [3s Ts 6c 5h 3d]
+Seat 1: IZIAIZIA (big blind) showed [Qh Ad] and lost with a pair of Threes
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: jaimesc6 showed [4c 4h] and won (40286) with two pair, Fours and Threes
+Seat 4: Benig4 folded before Flop (didn't bet)
+Seat 6: Sophie59450 folded before Flop (didn't bet)
+Seat 7: luíscsp (button) folded before Flop (didn't bet)
+Seat 8: papitenerife (small blind) folded before Flop
+
+
+
+PokerStars Hand #257624774792: Tournament #3922833605, €0.90+€0.90+€0.20 EUR Hold'em No Limit - Level XII (300/600) - 2025/09/05 21:37:13 CET [2025/09/05 15:37:13 ET]
+Table '3922833605 9' 8-max Seat #8 is the button
+Seat 2: pipinoelbreve9 (9730 in chips, €0.90 bounty) 
+Seat 3: jaimesc6 (48788 in chips, €1.35 bounty) 
+Seat 4: Benig4 (14130 in chips, €0.90 bounty) 
+Seat 5: Mojo HB (10000 in chips, €0.90 bounty) 
+Seat 6: Sophie59450 (10956 in chips, €1.35 bounty) 
+Seat 7: luíscsp (17938 in chips, €1.35 bounty) 
+Seat 8: papitenerife (16482 in chips, €1.80 bounty) 
+pipinoelbreve9: posts the ante 70
+jaimesc6: posts the ante 70
+Benig4: posts the ante 70
+Mojo HB: posts the ante 70
+Sophie59450: posts the ante 70
+luíscsp: posts the ante 70
+papitenerife: posts the ante 70
+pipinoelbreve9: posts small blind 300
+jaimesc6: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 2c]
+Benig4: folds 
+Mojo HB: folds 
+Sophie59450: calls 600
+luíscsp: folds 
+papitenerife: folds 
+pipinoelbreve9: raises 9000 to 9600
+jaimesc6: folds 
+Sophie59450: raises 1286 to 10886 and is all-in
+pipinoelbreve9: calls 60 and is all-in
+Uncalled bet (1226) returned to Sophie59450
+*** FLOP *** [2h 6h 5h]
+*** TURN *** [2h 6h 5h] [Td]
+*** RIVER *** [2h 6h 5h Td] [4d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kd 2c] (a pair of Deuces)
+Sophie59450: shows [Jh 9h] (a flush, Jack high)
+Sophie59450 collected 20410 from pot
+Sophie59450 wins €0.45 for eliminating pipinoelbreve9 and their own bounty increases by €0.45 to €1.80
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 20410 | Rake 0 
+Board [2h 6h 5h Td 4d]
+Seat 2: pipinoelbreve9 (small blind) showed [Kd 2c] and lost with a pair of Deuces
+Seat 3: jaimesc6 (big blind) folded before Flop
+Seat 4: Benig4 folded before Flop (didn't bet)
+Seat 5: Mojo HB folded before Flop (didn't bet)
+Seat 6: Sophie59450 showed [Jh 9h] and won (20410) with a flush, Jack high
+Seat 7: luíscsp folded before Flop (didn't bet)
+Seat 8: papitenerife (button) folded before Flop (didn't bet)
+
+
+

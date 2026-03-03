@@ -1,0 +1,439 @@
+﻿PokerStars Hand #257623000526: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:11:46 CET [2025/09/05 13:11:46 ET]
+Table '3922833597 9' 8-max Seat #2 is the button
+Seat 1: metalbang76 (8730 in chips) 
+Seat 2: mannor56 (4018 in chips) 
+Seat 3: Chmich (11649 in chips) 
+Seat 4: Jcamone (8580 in chips) 
+Seat 5: Joaquimornelas (17955 in chips) 
+Seat 6: Saritah2000 (9975 in chips) 
+Seat 8: pipinoelbreve9 (10000 in chips) 
+metalbang76: posts the ante 30
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Chmich: posts small blind 125
+Jcamone: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Qc]
+Joaquimornelas: folds 
+Saritah2000: folds 
+pipinoelbreve9: raises 500 to 750
+metalbang76: calls 750
+mannor56: folds 
+Chmich: folds 
+Jcamone: folds 
+*** FLOP *** [4c 4h Qd]
+pipinoelbreve9: bets 793
+metalbang76: calls 793
+*** TURN *** [4c 4h Qd] [5d]
+pipinoelbreve9: bets 3000
+metalbang76: raises 4157 to 7157 and is all-in
+pipinoelbreve9: calls 4157
+*** RIVER *** [4c 4h Qd 5d] [Ad]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ac Qc] (two pair, Aces and Queens)
+metalbang76: shows [Tc Th] (two pair, Tens and Fours)
+pipinoelbreve9 collected 17985 from pot
+metalbang76 finished the tournament
+*** SUMMARY ***
+Total pot 17985 | Rake 0 
+Board [4c 4h Qd 5d Ad]
+Seat 1: metalbang76 showed [Tc Th] and lost with two pair, Tens and Fours
+Seat 2: mannor56 (button) folded before Flop (didn't bet)
+Seat 3: Chmich (small blind) folded before Flop
+Seat 4: Jcamone (big blind) folded before Flop
+Seat 5: Joaquimornelas folded before Flop (didn't bet)
+Seat 6: Saritah2000 folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 showed [Ac Qc] and won (17985) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #257623007840: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:12:25 CET [2025/09/05 13:12:25 ET]
+Table '3922833597 9' 8-max Seat #3 is the button
+Seat 2: mannor56 (3988 in chips) 
+Seat 3: Chmich (11494 in chips) 
+Seat 4: Jcamone (8300 in chips) 
+Seat 5: Joaquimornelas (17925 in chips) 
+Seat 6: Saritah2000 (9945 in chips) 
+Seat 8: pipinoelbreve9 (19255 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Jcamone: posts small blind 125
+Joaquimornelas: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Ts]
+Saritah2000: folds 
+pipinoelbreve9: folds 
+mannor56: calls 250
+Chmich: folds 
+Jcamone: calls 125
+Joaquimornelas: checks 
+*** FLOP *** [4d 4h 9s]
+Jcamone: checks 
+Joaquimornelas: checks 
+mannor56: checks 
+*** TURN *** [4d 4h 9s] [Kd]
+Jcamone: checks 
+Joaquimornelas: checks 
+mannor56: bets 3708 and is all-in
+Jcamone: folds 
+Joaquimornelas: folds 
+Uncalled bet (3708) returned to mannor56
+mannor56 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [4d 4h 9s Kd]
+Seat 2: mannor56 collected (930)
+Seat 3: Chmich (button) folded before Flop (didn't bet)
+Seat 4: Jcamone (small blind) folded on the Turn
+Seat 5: Joaquimornelas (big blind) folded on the Turn
+Seat 6: Saritah2000 folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257623016276: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:13:10 CET [2025/09/05 13:13:10 ET]
+Table '3922833597 9' 8-max Seat #4 is the button
+Seat 2: mannor56 (4638 in chips) 
+Seat 3: Chmich (11464 in chips) 
+Seat 4: Jcamone (8020 in chips) 
+Seat 5: Joaquimornelas (17645 in chips) 
+Seat 6: Saritah2000 (9915 in chips) 
+Seat 7: pinginsilver (10500 in chips) 
+Seat 8: pipinoelbreve9 (19225 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pinginsilver: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Joaquimornelas: posts small blind 125
+Saritah2000: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 7c]
+pinginsilver: folds 
+pipinoelbreve9: folds 
+mannor56: folds 
+Chmich: folds 
+Jcamone: folds 
+Joaquimornelas: calls 125
+Saritah2000: raises 500 to 750
+Joaquimornelas: folds 
+Uncalled bet (500) returned to Saritah2000
+Saritah2000 collected 710 from pot
+Saritah2000: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 2: mannor56 folded before Flop (didn't bet)
+Seat 3: Chmich folded before Flop (didn't bet)
+Seat 4: Jcamone (button) folded before Flop (didn't bet)
+Seat 5: Joaquimornelas (small blind) folded before Flop
+Seat 6: Saritah2000 (big blind) collected (710)
+Seat 7: pinginsilver folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257623021966: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:13:39 CET [2025/09/05 13:13:39 ET]
+Table '3922833597 9' 8-max Seat #5 is the button
+Seat 2: mannor56 (4608 in chips) 
+Seat 3: Chmich (11434 in chips) 
+Seat 4: Jcamone (7990 in chips) 
+Seat 5: Joaquimornelas (17365 in chips) 
+Seat 6: Saritah2000 (10345 in chips) 
+Seat 7: pinginsilver (10470 in chips) 
+Seat 8: pipinoelbreve9 (19195 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pinginsilver: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Saritah2000: posts small blind 125
+pinginsilver: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Kc]
+pipinoelbreve9: calls 250
+mannor56: folds 
+Chmich: folds 
+Jcamone: folds 
+Joaquimornelas: calls 250
+Saritah2000: calls 125
+pinginsilver: checks 
+*** FLOP *** [Qc Ts 8c]
+Saritah2000: checks 
+pinginsilver: bets 605
+pipinoelbreve9: folds 
+Joaquimornelas: folds 
+Saritah2000: calls 605
+*** TURN *** [Qc Ts 8c] [6d]
+Saritah2000: checks 
+pinginsilver: bets 1210
+Saritah2000: calls 1210
+*** RIVER *** [Qc Ts 8c 6d] [9s]
+Saritah2000: checks 
+pinginsilver: bets 2420
+Saritah2000: calls 2420
+*** SHOW DOWN ***
+pinginsilver: shows [Ah 3h] (high card Ace)
+Saritah2000: shows [Td Jc] (a straight, Eight to Queen)
+Saritah2000 collected 9680 from pot
+*** SUMMARY ***
+Total pot 9680 | Rake 0 
+Board [Qc Ts 8c 6d 9s]
+Seat 2: mannor56 folded before Flop (didn't bet)
+Seat 3: Chmich folded before Flop (didn't bet)
+Seat 4: Jcamone folded before Flop (didn't bet)
+Seat 5: Joaquimornelas (button) folded on the Flop
+Seat 6: Saritah2000 (small blind) showed [Td Jc] and won (9680) with a straight, Eight to Queen
+Seat 7: pinginsilver (big blind) showed [Ah 3h] and lost with high card Ace
+Seat 8: pipinoelbreve9 folded on the Flop
+
+
+
+PokerStars Hand #257623033193: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:14:38 CET [2025/09/05 13:14:38 ET]
+Table '3922833597 9' 8-max Seat #6 is the button
+Seat 2: mannor56 (4578 in chips) 
+Seat 3: Chmich (11404 in chips) 
+Seat 4: Jcamone (7960 in chips) 
+Seat 5: Joaquimornelas (17085 in chips) 
+Seat 6: Saritah2000 (15510 in chips) 
+Seat 7: pinginsilver (5955 in chips) 
+Seat 8: pipinoelbreve9 (18915 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pinginsilver: posts the ante 30
+pipinoelbreve9: posts the ante 30
+pinginsilver: posts small blind 125
+pipinoelbreve9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 4c]
+mannor56: raises 4298 to 4548 and is all-in
+Chmich: folds 
+Jcamone: folds 
+Joaquimornelas: folds 
+Saritah2000: folds 
+pinginsilver: folds 
+pipinoelbreve9: folds 
+Uncalled bet (4298) returned to mannor56
+mannor56 collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 2: mannor56 collected (835)
+Seat 3: Chmich folded before Flop (didn't bet)
+Seat 4: Jcamone folded before Flop (didn't bet)
+Seat 5: Joaquimornelas folded before Flop (didn't bet)
+Seat 6: Saritah2000 (button) folded before Flop (didn't bet)
+Seat 7: pinginsilver (small blind) folded before Flop
+Seat 8: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257623036649: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:14:55 CET [2025/09/05 13:14:55 ET]
+Table '3922833597 9' 8-max Seat #7 is the button
+Seat 2: mannor56 (5133 in chips) 
+Seat 3: Chmich (11374 in chips) 
+Seat 4: Jcamone (7930 in chips) 
+Seat 5: Joaquimornelas (17055 in chips) 
+Seat 6: Saritah2000 (15480 in chips) 
+Seat 7: pinginsilver (5800 in chips) 
+Seat 8: pipinoelbreve9 (18635 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pinginsilver: posts the ante 30
+pipinoelbreve9: posts the ante 30
+pipinoelbreve9: posts small blind 125
+mannor56: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 7h]
+Chmich: folds 
+Jcamone: raises 500 to 750
+Joaquimornelas: folds 
+Saritah2000: folds 
+pinginsilver: folds 
+pipinoelbreve9: folds 
+mannor56: calls 500
+*** FLOP *** [Qh Kc Ah]
+mannor56: bets 250
+Jcamone: raises 500 to 750
+mannor56: calls 500
+*** TURN *** [Qh Kc Ah] [Tc]
+mannor56: checks 
+Jcamone: checks 
+*** RIVER *** [Qh Kc Ah Tc] [2h]
+mannor56: bets 3603 and is all-in
+Jcamone: folds 
+Uncalled bet (3603) returned to mannor56
+mannor56 collected 3335 from pot
+*** SUMMARY ***
+Total pot 3335 | Rake 0 
+Board [Qh Kc Ah Tc 2h]
+Seat 2: mannor56 (big blind) collected (3335)
+Seat 3: Chmich folded before Flop (didn't bet)
+Seat 4: Jcamone folded on the River
+Seat 5: Joaquimornelas folded before Flop (didn't bet)
+Seat 6: Saritah2000 folded before Flop (didn't bet)
+Seat 7: pinginsilver (button) folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257623043729: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/05 19:15:32 CET [2025/09/05 13:15:32 ET]
+Table '3922833597 9' 8-max Seat #8 is the button
+Seat 2: mannor56 (6938 in chips) 
+Seat 3: Chmich (11344 in chips) 
+Seat 4: Jcamone (6400 in chips) 
+Seat 5: Joaquimornelas (17025 in chips) 
+Seat 6: Saritah2000 (15450 in chips) 
+Seat 7: pinginsilver (5770 in chips) 
+Seat 8: pipinoelbreve9 (18480 in chips) 
+mannor56: posts the ante 30
+Chmich: posts the ante 30
+Jcamone: posts the ante 30
+Joaquimornelas: posts the ante 30
+Saritah2000: posts the ante 30
+pinginsilver: posts the ante 30
+pipinoelbreve9: posts the ante 30
+mannor56: posts small blind 125
+Chmich: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 4h]
+Jcamone: folds 
+Joaquimornelas: folds 
+Saritah2000: raises 250 to 500
+pinginsilver: folds 
+pipinoelbreve9: raises 750 to 1250
+mannor56: folds 
+Chmich: folds 
+Saritah2000: folds 
+Uncalled bet (750) returned to pipinoelbreve9
+pipinoelbreve9 collected 1585 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1585 | Rake 0 
+Seat 2: mannor56 (small blind) folded before Flop
+Seat 3: Chmich (big blind) folded before Flop
+Seat 4: Jcamone folded before Flop (didn't bet)
+Seat 5: Joaquimornelas folded before Flop (didn't bet)
+Seat 6: Saritah2000 folded before Flop
+Seat 7: pinginsilver folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 (button) collected (1585)
+
+
+
+PokerStars Hand #257623051250: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level IX (150/300) - 2025/09/05 19:16:12 CET [2025/09/05 13:16:12 ET]
+Table '3922833597 9' 8-max Seat #2 is the button
+Seat 2: mannor56 (6783 in chips) 
+Seat 3: Chmich (11064 in chips) 
+Seat 4: Jcamone (6370 in chips) 
+Seat 5: Joaquimornelas (16995 in chips) 
+Seat 6: Saritah2000 (14920 in chips) 
+Seat 7: pinginsilver (5740 in chips) 
+Seat 8: pipinoelbreve9 (19535 in chips) 
+mannor56: posts the ante 40
+Chmich: posts the ante 40
+Jcamone: posts the ante 40
+Joaquimornelas: posts the ante 40
+Saritah2000: posts the ante 40
+pinginsilver: posts the ante 40
+pipinoelbreve9: posts the ante 40
+Chmich: posts small blind 150
+Jcamone: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Qc]
+Joaquimornelas: calls 300
+Saritah2000: folds 
+pinginsilver: folds 
+pipinoelbreve9: raises 1200 to 1500
+mannor56: folds 
+Chmich: folds 
+Jcamone: folds 
+Joaquimornelas: calls 1200
+*** FLOP *** [2c 4s 5s]
+Joaquimornelas: checks 
+pipinoelbreve9: bets 2830
+Joaquimornelas: raises 12625 to 15455 and is all-in
+pipinoelbreve9: calls 12625
+*** TURN *** [2c 4s 5s] [2s]
+*** RIVER *** [2c 4s 5s 2s] [4c]
+*** SHOW DOWN ***
+Joaquimornelas: shows [6h 3h] (a straight, Deuce to Six)
+pipinoelbreve9: shows [Qd Qc] (two pair, Queens and Fours)
+Joaquimornelas collected 34640 from pot
+*** SUMMARY ***
+Total pot 34640 | Rake 0 
+Board [2c 4s 5s 2s 4c]
+Seat 2: mannor56 (button) folded before Flop (didn't bet)
+Seat 3: Chmich (small blind) folded before Flop
+Seat 4: Jcamone (big blind) folded before Flop
+Seat 5: Joaquimornelas showed [6h 3h] and won (34640) with a straight, Deuce to Six
+Seat 6: Saritah2000 folded before Flop (didn't bet)
+Seat 7: pinginsilver folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 showed [Qd Qc] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #257623058566: Tournament #3922833597, €0.90+€0.10 EUR Hold'em No Limit - Level IX (150/300) - 2025/09/05 19:16:50 CET [2025/09/05 13:16:50 ET]
+Table '3922833597 9' 8-max Seat #3 is the button
+Seat 2: mannor56 (6743 in chips) 
+Seat 3: Chmich (10874 in chips) 
+Seat 4: Jcamone (6030 in chips) 
+Seat 5: Joaquimornelas (34640 in chips) 
+Seat 6: Saritah2000 (14880 in chips) 
+Seat 7: pinginsilver (5700 in chips) 
+Seat 8: pipinoelbreve9 (2540 in chips) 
+mannor56: posts the ante 40
+Chmich: posts the ante 40
+Jcamone: posts the ante 40
+Joaquimornelas: posts the ante 40
+Saritah2000: posts the ante 40
+pinginsilver: posts the ante 40
+pipinoelbreve9: posts the ante 40
+Jcamone: posts small blind 150
+Joaquimornelas: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 8c]
+Saritah2000: raises 300 to 600
+pinginsilver: folds 
+pipinoelbreve9: raises 1900 to 2500 and is all-in
+mannor56: folds 
+Chmich: folds 
+Jcamone: folds 
+Joaquimornelas: calls 2200
+Saritah2000: folds 
+*** FLOP *** [2c 5s Qc]
+*** TURN *** [2c 5s Qc] [6s]
+*** RIVER *** [2c 5s Qc 6s] [5h]
+*** SHOW DOWN ***
+Joaquimornelas: shows [As Qd] (two pair, Queens and Fives)
+pipinoelbreve9: shows [Tc 8c] (a pair of Fives)
+Joaquimornelas collected 6030 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 6030 | Rake 0 
+Board [2c 5s Qc 6s 5h]
+Seat 2: mannor56 folded before Flop (didn't bet)
+Seat 3: Chmich (button) folded before Flop (didn't bet)
+Seat 4: Jcamone (small blind) folded before Flop
+Seat 5: Joaquimornelas (big blind) showed [As Qd] and won (6030) with two pair, Queens and Fives
+Seat 6: Saritah2000 folded before Flop
+Seat 7: pinginsilver folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 showed [Tc 8c] and lost with a pair of Fives
+
+
+

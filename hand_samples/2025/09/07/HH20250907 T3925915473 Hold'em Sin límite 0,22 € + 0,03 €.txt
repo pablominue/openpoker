@@ -1,0 +1,3239 @@
+﻿PokerStars Hand #257645527836: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 13:00:54 CET [2025/09/07 7:00:54 ET]
+Table '3925915473 8' 6-max Seat #1 is the button
+Seat 1: Gjay974 (5355 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 3: Seebiks (5000 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (3750 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6115 in chips, €0.17 bounty) 
+Gjay974: posts the ante 10
+pipinoelbreve9: posts the ante 10
+Seebiks: posts the ante 10
+zumbao11: posts the ante 10
+mike130507: posts the ante 10
+pipinoelbreve9: posts small blind 30
+Seebiks: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 5c]
+zumbao11: folds 
+mike130507: folds 
+Gjay974: raises 5285 to 5345 and is all-in
+pipinoelbreve9: folds 
+Seebiks: folds 
+Uncalled bet (5285) returned to Gjay974
+Gjay974 collected 200 from pot
+Gjay974: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Gjay974 (button) collected (200)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Seebiks (big blind) folded before Flop
+Seat 4: zumbao11 folded before Flop (didn't bet)
+Seat 5: mike130507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645529764: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 13:01:12 CET [2025/09/07 7:01:12 ET]
+Table '3925915473 8' 6-max Seat #2 is the button
+Seat 1: Gjay974 (5485 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4960 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4930 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (3740 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6105 in chips, €0.17 bounty) 
+Gjay974: posts the ante 10
+pipinoelbreve9: posts the ante 10
+Seebiks: posts the ante 10
+zumbao11: posts the ante 10
+mike130507: posts the ante 10
+Seebiks: posts small blind 30
+zumbao11: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 8h]
+mike130507: calls 60
+Gjay974: calls 60
+pipinoelbreve9: calls 60
+Seebiks: folds 
+zumbao11: checks 
+*** FLOP *** [Js 3h 6d]
+zumbao11: checks 
+mike130507: checks 
+Gjay974: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Js 3h 6d] [Qs]
+zumbao11: checks 
+mike130507: checks 
+Gjay974: checks 
+pipinoelbreve9: bets 160
+zumbao11: calls 160
+mike130507: calls 160
+Gjay974: folds 
+*** RIVER *** [Js 3h 6d Qs] [Th]
+zumbao11: checks 
+mike130507: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+zumbao11: shows [2h 5s] (high card Queen)
+mike130507: shows [8s Td] (a pair of Tens)
+pipinoelbreve9: mucks hand 
+mike130507 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Js 3h 6d Qs Th]
+Seat 1: Gjay974 folded on the Turn
+Seat 2: pipinoelbreve9 (button) mucked [Ac 8h]
+Seat 3: Seebiks (small blind) folded before Flop
+Seat 4: zumbao11 (big blind) showed [2h 5s] and lost with high card Queen
+Seat 5: mike130507 showed [8s Td] and won (800) with a pair of Tens
+
+
+
+PokerStars Hand #257645540484: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:02:51 CET [2025/09/07 7:02:51 ET]
+Table '3925915473 8' 6-max Seat #3 is the button
+Seat 1: Gjay974 (5415 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4730 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4890 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (3510 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6675 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (5000 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+zumbao11: posts small blind 40
+mike130507: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Ts]
+LuísFerreira92: calls 80
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: folds 
+zumbao11: calls 40
+mike130507: checks 
+*** FLOP *** [7h 3s 6c]
+zumbao11: checks 
+mike130507: checks 
+LuísFerreira92: checks 
+*** TURN *** [7h 3s 6c] [Kh]
+zumbao11: bets 312
+mike130507: folds 
+LuísFerreira92: folds 
+Uncalled bet (312) returned to zumbao11
+zumbao11 collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | Rake 0 
+Board [7h 3s 6c Kh]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Seebiks (button) folded before Flop (didn't bet)
+Seat 4: zumbao11 (small blind) collected (312)
+Seat 5: mike130507 (big blind) folded on the Turn
+Seat 6: LuísFerreira92 folded on the Turn
+
+
+
+PokerStars Hand #257645544922: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:03:31 CET [2025/09/07 7:03:31 ET]
+Table '3925915473 8' 6-max Seat #4 is the button
+Seat 1: Gjay974 (5403 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4718 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4878 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (3730 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6583 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4908 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+mike130507: posts small blind 40
+LuísFerreira92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 2c]
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: calls 80
+zumbao11: calls 80
+mike130507: calls 40
+LuísFerreira92: checks 
+*** FLOP *** [8d 4s Jh]
+mike130507: checks 
+LuísFerreira92: checks 
+Seebiks: checks 
+zumbao11: bets 392
+mike130507: calls 392
+LuísFerreira92: folds 
+Seebiks: folds 
+*** TURN *** [8d 4s Jh] [Qc]
+mike130507: checks 
+zumbao11: checks 
+*** RIVER *** [8d 4s Jh Qc] [Qs]
+mike130507: checks 
+zumbao11: checks 
+*** SHOW DOWN ***
+mike130507: shows [6c 5s] (a pair of Queens)
+zumbao11: shows [Td Kc] (a pair of Queens - King kicker)
+zumbao11 collected 1176 from pot
+*** SUMMARY ***
+Total pot 1176 | Rake 0 
+Board [8d 4s Jh Qc Qs]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Seebiks folded on the Flop
+Seat 4: zumbao11 (button) showed [Td Kc] and won (1176) with a pair of Queens
+Seat 5: mike130507 (small blind) showed [6c 5s] and lost with a pair of Queens
+Seat 6: LuísFerreira92 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257645549661: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:04:14 CET [2025/09/07 7:04:14 ET]
+Table '3925915473 8' 6-max Seat #5 is the button
+Seat 1: Gjay974 (5391 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (4706 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4786 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4422 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6099 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4816 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+LuísFerreira92: posts small blind 40
+Gjay974: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Js]
+pipinoelbreve9: raises 160 to 240
+Seebiks: folds 
+zumbao11: calls 240
+mike130507: calls 240
+LuísFerreira92: folds 
+Gjay974: folds 
+*** FLOP *** [9s 3h 3d]
+pipinoelbreve9: bets 456
+zumbao11: folds 
+mike130507: calls 456
+*** TURN *** [9s 3h 3d] [Qd]
+pipinoelbreve9: bets 3998 and is all-in
+mike130507: folds 
+Uncalled bet (3998) returned to pipinoelbreve9
+pipinoelbreve9 collected 1824 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1824 | Rake 0 
+Board [9s 3h 3d Qd]
+Seat 1: Gjay974 (big blind) folded before Flop
+Seat 2: pipinoelbreve9 collected (1824)
+Seat 3: Seebiks folded before Flop (didn't bet)
+Seat 4: zumbao11 folded on the Flop
+Seat 5: mike130507 (button) folded on the Turn
+Seat 6: LuísFerreira92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645554255: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:04:56 CET [2025/09/07 7:04:56 ET]
+Table '3925915473 8' 6-max Seat #6 is the button
+Seat 1: Gjay974 (5299 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5822 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4774 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4170 in chips, €0.17 bounty) 
+Seat 5: mike130507 (5391 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4764 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+Gjay974: posts small blind 40
+pipinoelbreve9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 2h]
+Seebiks: calls 80
+zumbao11: raises 80 to 160
+mike130507: folds 
+LuísFerreira92: folds 
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: calls 80
+*** FLOP *** [Ts 2s 7c]
+Seebiks: checks 
+zumbao11: bets 512
+Seebiks: calls 512
+*** TURN *** [Ts 2s 7c] [Kh]
+Seebiks: checks 
+zumbao11: bets 3486 and is all-in
+Seebiks: folds 
+Uncalled bet (3486) returned to zumbao11
+zumbao11 collected 1536 from pot
+*** SUMMARY ***
+Total pot 1536 | Rake 0 
+Board [Ts 2s 7c Kh]
+Seat 1: Gjay974 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: Seebiks folded on the Turn
+Seat 4: zumbao11 collected (1536)
+Seat 5: mike130507 folded before Flop (didn't bet)
+Seat 6: LuísFerreira92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645560810: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:05:54 CET [2025/09/07 7:05:54 ET]
+Table '3925915473 8' 6-max Seat #1 is the button
+Seat 1: Gjay974 (5247 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5730 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4090 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (5022 in chips, €0.17 bounty) 
+Seat 5: mike130507 (5379 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4752 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+pipinoelbreve9: posts small blind 40
+Seebiks: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Tc]
+zumbao11: raises 272 to 352
+mike130507: folds 
+LuísFerreira92: calls 352
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: calls 272
+*** FLOP *** [2h 2d 9d]
+Seebiks: checks 
+zumbao11: checks 
+LuísFerreira92: checks 
+*** TURN *** [2h 2d 9d] [4c]
+Seebiks: checks 
+zumbao11: checks 
+LuísFerreira92: checks 
+*** RIVER *** [2h 2d 9d 4c] [3s]
+Seebiks: bets 1168
+zumbao11: folds 
+LuísFerreira92: folds 
+Uncalled bet (1168) returned to Seebiks
+Seebiks collected 1168 from pot
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [2h 2d 9d 4c 3s]
+Seat 1: Gjay974 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Seebiks (big blind) collected (1168)
+Seat 4: zumbao11 folded on the River
+Seat 5: mike130507 folded before Flop (didn't bet)
+Seat 6: LuísFerreira92 folded on the River
+
+
+
+PokerStars Hand #257645564713: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 13:06:29 CET [2025/09/07 7:06:29 ET]
+Table '3925915473 8' 6-max Seat #2 is the button
+Seat 1: Gjay974 (5235 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5678 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4894 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4658 in chips, €0.17 bounty) 
+Seat 5: mike130507 (5367 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4388 in chips, €0.17 bounty) 
+Gjay974: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Seebiks: posts the ante 12
+zumbao11: posts the ante 12
+mike130507: posts the ante 12
+LuísFerreira92: posts the ante 12
+Seebiks: posts small blind 40
+zumbao11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 7s]
+mike130507: calls 80
+LuísFerreira92: folds 
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+pipinoelbreve9: calls 80
+Seebiks: calls 40
+zumbao11: checks 
+*** FLOP *** [2c 7d Jd]
+Seebiks: checks 
+zumbao11: bets 392
+mike130507: folds 
+pipinoelbreve9: folds 
+Seebiks: folds 
+Uncalled bet (392) returned to zumbao11
+zumbao11 collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | Rake 0 
+Board [2c 7d Jd]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) folded on the Flop
+Seat 3: Seebiks (small blind) folded on the Flop
+Seat 4: zumbao11 (big blind) collected (392)
+Seat 5: mike130507 folded on the Flop
+Seat 6: LuísFerreira92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645570185: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:07:18 CET [2025/09/07 7:07:18 ET]
+Table '3925915473 8' 6-max Seat #3 is the button
+Seat 1: Gjay974 (5223 in chips, €0.17 bounty) is sitting out
+Seat 2: pipinoelbreve9 (5586 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4802 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4958 in chips, €0.17 bounty) 
+Seat 5: mike130507 (5275 in chips, €0.17 bounty) 
+Seat 6: LuísFerreira92 (4376 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+Seebiks: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+LuísFerreira92: posts the ante 14
+zumbao11: posts small blind 45
+mike130507: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 8c]
+LuísFerreira92: raises 180 to 270
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: folds 
+zumbao11: calls 225
+mike130507: calls 180
+*** FLOP *** [2h 3c As]
+zumbao11: checks 
+mike130507: checks 
+LuísFerreira92: checks 
+*** TURN *** [2h 3c As] [7c]
+zumbao11: bets 447
+mike130507: calls 447
+LuísFerreira92: folds 
+*** RIVER *** [2h 3c As 7c] [6c]
+Gjay974 has returned
+zumbao11: checks 
+mike130507: bets 894
+zumbao11: folds 
+Uncalled bet (894) returned to mike130507
+mike130507 collected 1788 from pot
+*** SUMMARY ***
+Total pot 1788 | Rake 0 
+Board [2h 3c As 7c 6c]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Seebiks (button) folded before Flop (didn't bet)
+Seat 4: zumbao11 (small blind) folded on the River
+Seat 5: mike130507 (big blind) collected (1788)
+Seat 6: LuísFerreira92 folded on the Turn
+
+
+
+PokerStars Hand #257645574522: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:07:58 CET [2025/09/07 7:07:58 ET]
+Table '3925915473 8' 6-max Seat #4 is the button
+Seat 1: Gjay974 (5209 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5572 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4788 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4227 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6332 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+Seebiks: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+mike130507: posts small blind 45
+Gjay974: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Th]
+pipinoelbreve9: folds 
+Seebiks: folds 
+zumbao11: raises 295 to 385
+mike130507: folds 
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+Uncalled bet (295) returned to zumbao11
+zumbao11 collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | Rake 0 
+Seat 1: Gjay974 (big blind) folded before Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Seebiks folded before Flop (didn't bet)
+Seat 4: zumbao11 (button) collected (295)
+Seat 5: mike130507 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645577361: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:08:24 CET [2025/09/07 7:08:24 ET]
+Table '3925915473 8' 6-max Seat #5 is the button
+Seat 1: Gjay974 (5105 in chips, €0.17 bounty) is sitting out
+Seat 2: pipinoelbreve9 (5558 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4774 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4418 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6273 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+Seebiks: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+Gjay974: posts small blind 45
+pipinoelbreve9: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d 5h]
+Seebiks: calls 90
+zumbao11: folds 
+mike130507: folds 
+Gjay974: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [Td 3c 9h]
+pipinoelbreve9: checks 
+Seebiks: bets 295
+pipinoelbreve9: folds 
+Uncalled bet (295) returned to Seebiks
+Seebiks collected 295 from pot
+Gjay974 has returned
+*** SUMMARY ***
+Total pot 295 | Rake 0 
+Board [Td 3c 9h]
+Seat 1: Gjay974 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: Seebiks collected (295)
+Seat 4: zumbao11 folded before Flop (didn't bet)
+Seat 5: mike130507 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645578933: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:08:38 CET [2025/09/07 7:08:38 ET]
+Table '3925915473 8' 6-max Seat #1 is the button
+Seat 1: Gjay974 (5046 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5454 in chips, €0.17 bounty) 
+Seat 3: Seebiks (4965 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4404 in chips, €0.17 bounty) 
+Seat 5: mike130507 (6259 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+Seebiks: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+pipinoelbreve9: posts small blind 45
+Seebiks: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 7s]
+zumbao11: calls 90
+mike130507: raises 180 to 270
+Gjay974: folds 
+pipinoelbreve9: folds 
+Seebiks: calls 180
+zumbao11: calls 180
+*** FLOP *** [8d Th Jh]
+Seebiks: checks 
+pobret@hur is disconnected 
+zumbao11: checks 
+mike130507: bets 463
+Seebiks: calls 463
+zumbao11: folds 
+*** TURN *** [8d Th Jh] [Qd]
+Seebiks: bets 90
+mike130507: raises 1016 to 1106
+Seebiks: calls 1016
+*** RIVER *** [8d Th Jh Qd] [Kc]
+Seebiks: bets 3112 and is all-in
+mike130507: calls 3112
+*** SHOW DOWN ***
+Seebiks: shows [Ks Td] (two pair, Kings and Tens)
+mike130507: shows [Ad Kd] (a straight, Ten to Ace)
+mike130507 collected 10287 from pot
+mike130507 wins €0.12 for eliminating Seebiks and their own bounty increases by €0.05 to €0.22
+Seebiks finished the tournament
+*** SUMMARY ***
+Total pot 10287 | Rake 0 
+Board [8d Th Jh Qd Kc]
+Seat 1: Gjay974 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Seebiks (big blind) showed [Ks Td] and lost with two pair, Kings and Tens
+Seat 4: zumbao11 folded on the Flop
+Seat 5: mike130507 showed [Ad Kd] and won (10287) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #257645587528: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:09:56 CET [2025/09/07 7:09:56 ET]
+Table '3925915473 8' 6-max Seat #2 is the button
+Seat 1: Gjay974 (5032 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5395 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4120 in chips, €0.17 bounty) 
+Seat 5: mike130507 (11581 in chips, €0.22 bounty) 
+Seat 6: pobret@hur (5000 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+pobret@hur: posts the ante 14
+zumbao11: posts small blind 45
+mike130507: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 3s]
+pobret@hur: folds 
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+pipinoelbreve9: raises 180 to 270
+Gjay974 has returned
+zumbao11: folds 
+mike130507: calls 180
+*** FLOP *** [3d 9h Jc]
+mike130507: checks 
+pipinoelbreve9: bets 238
+mike130507: folds 
+Uncalled bet (238) returned to pipinoelbreve9
+pipinoelbreve9 collected 655 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 655 | Rake 0 
+Board [3d 9h Jc]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) collected (655)
+Seat 4: zumbao11 (small blind) folded before Flop
+Seat 5: mike130507 (big blind) folded on the Flop
+Seat 6: pobret@hur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645593647: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 13:10:51 CET [2025/09/07 7:10:51 ET]
+Table '3925915473 8' 6-max Seat #4 is the button
+Seat 1: Gjay974 (5018 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5766 in chips, €0.17 bounty) 
+Seat 3: pedroj.gomla (5000 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4061 in chips, €0.17 bounty) 
+Seat 5: mike130507 (11297 in chips, €0.22 bounty) 
+Seat 6: pobret@hur (4986 in chips, €0.17 bounty) 
+Gjay974: posts the ante 14
+pipinoelbreve9: posts the ante 14
+pedroj.gomla: posts the ante 14
+zumbao11: posts the ante 14
+mike130507: posts the ante 14
+pobret@hur: posts the ante 14
+mike130507: posts small blind 45
+pobret@hur: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d Js]
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+pipinoelbreve9: folds 
+pedroj.gomla: calls 90
+Gjay974 has returned
+zumbao11: calls 90
+mike130507: folds 
+pobret@hur: checks 
+*** FLOP *** [Ks Tc 7d]
+pobret@hur: checks 
+pedroj.gomla: checks 
+zumbao11 has timed out
+zumbao11: checks 
+*** TURN *** [Ks Tc 7d] [Th]
+pobret@hur: checks 
+pedroj.gomla: checks 
+zumbao11: checks 
+*** RIVER *** [Ks Tc 7d Th] [8h]
+pobret@hur: checks 
+pedroj.gomla: checks 
+zumbao11: checks 
+*** SHOW DOWN ***
+pobret@hur: shows [7h 4d] (two pair, Tens and Sevens)
+pedroj.gomla: mucks hand 
+zumbao11: shows [Qd 8c] (two pair, Tens and Eights)
+zumbao11 collected 399 from pot
+*** SUMMARY ***
+Total pot 399 | Rake 0 
+Board [Ks Tc 7d Th 8h]
+Seat 1: Gjay974 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: pedroj.gomla mucked [Qh 6d]
+Seat 4: zumbao11 (button) showed [Qd 8c] and won (399) with two pair, Tens and Eights
+Seat 5: mike130507 (small blind) folded before Flop
+Seat 6: pobret@hur (big blind) showed [7h 4d] and lost with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #257645602349: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:12:10 CET [2025/09/07 7:12:10 ET]
+Table '3925915473 8' 6-max Seat #5 is the button
+Seat 1: Gjay974 (5004 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (5752 in chips, €0.17 bounty) 
+Seat 3: pedroj.gomla (4896 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4356 in chips, €0.17 bounty) 
+Seat 5: mike130507 (11238 in chips, €0.22 bounty) 
+Seat 6: pobret@hur (4882 in chips, €0.17 bounty) 
+Gjay974: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pedroj.gomla: posts the ante 15
+zumbao11: posts the ante 15
+mike130507: posts the ante 15
+pobret@hur: posts the ante 15
+pobret@hur: posts small blind 50
+Gjay974: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 2d]
+pipinoelbreve9: folds 
+pedroj.gomla: folds 
+zumbao11: calls 100
+mike130507: folds 
+pobret@hur: folds 
+Gjay974 has timed out
+Gjay974: checks 
+*** FLOP *** [Th 6h 7s]
+Gjay974 has timed out
+Gjay974: checks 
+zumbao11: bets 340
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+Uncalled bet (340) returned to zumbao11
+zumbao11 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Th 6h 7s]
+Seat 1: Gjay974 (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: pedroj.gomla folded before Flop (didn't bet)
+Seat 4: zumbao11 collected (340)
+Seat 5: mike130507 (button) folded before Flop (didn't bet)
+Seat 6: pobret@hur (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645609242: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:13:12 CET [2025/09/07 7:13:12 ET]
+Table '3925915473 8' 6-max Seat #6 is the button
+Seat 1: Gjay974 (4889 in chips, €0.17 bounty) is sitting out
+Seat 2: pipinoelbreve9 (5737 in chips, €0.17 bounty) 
+Seat 3: pedroj.gomla (4881 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4581 in chips, €0.17 bounty) 
+Seat 5: mike130507 (11223 in chips, €0.22 bounty) 
+Seat 6: pobret@hur (4817 in chips, €0.17 bounty) 
+Gjay974: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pedroj.gomla: posts the ante 15
+zumbao11: posts the ante 15
+mike130507: posts the ante 15
+pobret@hur: posts the ante 15
+Gjay974: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 8d]
+pedroj.gomla: calls 100
+zumbao11: folds 
+Gjay974 has returned
+mike130507: calls 100
+pobret@hur: calls 100
+Gjay974 has timed out
+Gjay974: folds 
+Gjay974 is sitting out
+pipinoelbreve9: checks 
+*** FLOP *** [4s Tc 2d]
+pipinoelbreve9: checks 
+pedroj.gomla: bets 200
+mike130507: calls 200
+pobret@hur: calls 200
+pipinoelbreve9: raises 5422 to 5622 and is all-in
+pedroj.gomla: folds 
+mike130507: folds 
+pobret@hur: folds 
+Uncalled bet (5422) returned to pipinoelbreve9
+pipinoelbreve9 collected 1340 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [4s Tc 2d]
+Seat 1: Gjay974 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) collected (1340)
+Seat 3: pedroj.gomla folded on the Flop
+Seat 4: zumbao11 folded before Flop (didn't bet)
+Seat 5: mike130507 folded on the Flop
+Seat 6: pobret@hur (button) folded on the Flop
+
+
+
+PokerStars Hand #257645614352: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:13:57 CET [2025/09/07 7:13:57 ET]
+Table '3925915473 8' 6-max Seat #1 is the button
+Seat 1: Gjay974 (4824 in chips, €0.17 bounty) is sitting out
+Seat 2: pipinoelbreve9 (6762 in chips, €0.17 bounty) 
+Seat 3: pedroj.gomla (4566 in chips, €0.17 bounty) 
+Seat 4: zumbao11 (4566 in chips, €0.17 bounty) 
+Seat 5: mike130507 (10908 in chips, €0.22 bounty) 
+Seat 6: pobret@hur (4502 in chips, €0.17 bounty) 
+Gjay974: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pedroj.gomla: posts the ante 15
+zumbao11: posts the ante 15
+mike130507: posts the ante 15
+pobret@hur: posts the ante 15
+pipinoelbreve9: posts small blind 50
+pedroj.gomla: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Jh]
+zumbao11: folds 
+mike130507: raises 200 to 300
+pobret@hur: folds 
+Gjay974: folds 
+pipinoelbreve9: calls 250
+pedroj.gomla: calls 200
+*** FLOP *** [Jd 9c Jc]
+pipinoelbreve9: checks 
+pedroj.gomla: checks 
+mike130507: checks 
+*** TURN *** [Jd 9c Jc] [7d]
+pipinoelbreve9: bets 495
+pedroj.gomla: calls 495
+mike130507: raises 1238 to 1733
+pipinoelbreve9: raises 4714 to 6447 and is all-in
+pedroj.gomla: folds 
+mike130507: calls 4714
+*** RIVER *** [Jd 9c Jc 7d] [Td]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [6h Jh] (three of a kind, Jacks)
+mike130507: shows [Js Ks] (three of a kind, Jacks - King kicker)
+mike130507 collected 14379 from pot
+mike130507 wins €0.12 for eliminating pipinoelbreve9 and their own bounty increases by €0.05 to €0.27
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 14379 | Rake 0 
+Board [Jd 9c Jc 7d Td]
+Seat 1: Gjay974 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [6h Jh] and lost with three of a kind, Jacks
+Seat 3: pedroj.gomla (big blind) folded on the Turn
+Seat 4: zumbao11 folded before Flop (didn't bet)
+Seat 5: mike130507 showed [Js Ks] and won (14379) with three of a kind, Jacks
+Seat 6: pobret@hur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645624138: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:15:23 CET [2025/09/07 7:15:23 ET]
+Table '3925915473 2' 6-max Seat #6 is the button
+Seat 1: sucatas k (2545 in chips, €0.17 bounty) 
+Seat 2: supervagabond11 (5317 in chips, €0.17 bounty) 
+Seat 3: ptdkbe (4903 in chips, €0.17 bounty) 
+Seat 4: artelha2 (17639 in chips, €0.24 bounty) 
+Seat 5: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 6: Vinimo049 (4709 in chips, €0.17 bounty) 
+sucatas k: posts the ante 15
+supervagabond11: posts the ante 15
+ptdkbe: posts the ante 15
+artelha2: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Vinimo049: posts the ante 15
+sucatas k: posts small blind 50
+supervagabond11: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Qc]
+ptdkbe: folds 
+artelha2: raises 100 to 200
+pipinoelbreve9: folds 
+Vinimo049: calls 200
+sucatas k: calls 150
+supervagabond11: raises 5102 to 5302 and is all-in
+artelha2: folds 
+Vinimo049: folds 
+sucatas k: calls 2330 and is all-in
+Uncalled bet (2772) returned to supervagabond11
+*** FLOP *** [5s 4d 3c]
+*** TURN *** [5s 4d 3c] [Kc]
+*** RIVER *** [5s 4d 3c Kc] [Ah]
+*** SHOW DOWN ***
+sucatas k: shows [Th 8h] (high card Ace)
+supervagabond11: shows [Ks As] (two pair, Aces and Kings)
+supervagabond11 collected 5550 from pot
+supervagabond11 wins €0.12 for eliminating sucatas k and their own bounty increases by €0.05 to €0.22
+sucatas k finished the tournament
+*** SUMMARY ***
+Total pot 5550 | Rake 0 
+Board [5s 4d 3c Kc Ah]
+Seat 1: sucatas k (small blind) showed [Th 8h] and lost with high card Ace
+Seat 2: supervagabond11 (big blind) showed [Ks As] and won (5550) with two pair, Aces and Kings
+Seat 3: ptdkbe folded before Flop (didn't bet)
+Seat 4: artelha2 folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Vinimo049 (button) folded before Flop
+
+
+
+PokerStars Hand #257645627639: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:15:54 CET [2025/09/07 7:15:54 ET]
+Table '3925915473 2' 6-max Seat #2 is the button
+Seat 2: supervagabond11 (8322 in chips, €0.22 bounty) 
+Seat 3: ptdkbe (4888 in chips, €0.17 bounty) 
+Seat 4: artelha2 (17424 in chips, €0.24 bounty) 
+Seat 5: pipinoelbreve9 (4985 in chips, €0.17 bounty) 
+Seat 6: Vinimo049 (4494 in chips, €0.17 bounty) 
+supervagabond11: posts the ante 15
+ptdkbe: posts the ante 15
+artelha2: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Vinimo049: posts the ante 15
+ptdkbe: posts small blind 50
+artelha2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 4s]
+pipinoelbreve9: folds 
+Vinimo049: calls 100
+supervagabond11: folds 
+ptdkbe: folds 
+artelha2: checks 
+*** FLOP *** [4h Kd Ah]
+artelha2: checks 
+Vinimo049: checks 
+*** TURN *** [4h Kd Ah] [9c]
+artelha2: checks 
+Vinimo049: checks 
+*** RIVER *** [4h Kd Ah 9c] [2d]
+artelha2: bets 100
+Vinimo049: folds 
+Uncalled bet (100) returned to artelha2
+artelha2 collected 325 from pot
+artelha2: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [4h Kd Ah 9c 2d]
+Seat 2: supervagabond11 (button) folded before Flop (didn't bet)
+Seat 3: ptdkbe (small blind) folded before Flop
+Seat 4: artelha2 (big blind) collected (325)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Vinimo049 folded on the River
+
+
+
+PokerStars Hand #257645632070: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 13:16:33 CET [2025/09/07 7:16:33 ET]
+Table '3925915473 2' 6-max Seat #3 is the button
+Seat 2: supervagabond11 (8307 in chips, €0.22 bounty) 
+Seat 3: ptdkbe (4823 in chips, €0.17 bounty) 
+Seat 4: artelha2 (17634 in chips, €0.24 bounty) 
+Seat 5: pipinoelbreve9 (4970 in chips, €0.17 bounty) 
+Seat 6: Vinimo049 (4379 in chips, €0.17 bounty) 
+supervagabond11: posts the ante 15
+ptdkbe: posts the ante 15
+artelha2: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Vinimo049: posts the ante 15
+artelha2: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Td]
+Vinimo049: folds 
+supervagabond11: calls 100
+ptdkbe: calls 100
+artelha2: calls 50
+pipinoelbreve9: checks 
+*** FLOP *** [9h 4h 6h]
+artelha2: bets 100
+pipinoelbreve9: calls 100
+supervagabond11: folds 
+ptdkbe: folds 
+*** TURN *** [9h 4h 6h] [Kd]
+artelha2: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [9h 4h 6h Kd] [9s]
+artelha2: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+artelha2: shows [Tc 7s] (a pair of Nines)
+pipinoelbreve9: mucks hand 
+artelha2 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [9h 4h 6h Kd 9s]
+Seat 2: supervagabond11 folded on the Flop
+Seat 3: ptdkbe (button) folded on the Flop
+Seat 4: artelha2 (small blind) showed [Tc 7s] and won (675) with a pair of Nines
+Seat 5: pipinoelbreve9 (big blind) mucked [5h Td]
+Seat 6: Vinimo049 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645637594: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:17:22 CET [2025/09/07 7:17:22 ET]
+Table '3925915473 2' 6-max Seat #4 is the button
+Seat 2: supervagabond11 (8192 in chips, €0.22 bounty) 
+Seat 3: ptdkbe (4708 in chips, €0.17 bounty) 
+Seat 4: artelha2 (18094 in chips, €0.24 bounty) 
+Seat 5: pipinoelbreve9 (4755 in chips, €0.17 bounty) 
+Seat 6: Vinimo049 (4364 in chips, €0.17 bounty) 
+supervagabond11: posts the ante 18
+ptdkbe: posts the ante 18
+artelha2: posts the ante 18
+pipinoelbreve9: posts the ante 18
+Vinimo049: posts the ante 18
+pipinoelbreve9: posts small blind 60
+Vinimo049: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 3c]
+supervagabond11: calls 120
+ptdkbe: folds 
+artelha2: raises 240 to 360
+pipinoelbreve9: raises 480 to 840
+Vinimo049: folds 
+supervagabond11: folds 
+artelha2: raises 4320 to 5160
+pipinoelbreve9: calls 3897 and is all-in
+Uncalled bet (423) returned to artelha2
+*** FLOP *** [8h Ad 2s]
+*** TURN *** [8h Ad 2s] [6s]
+*** RIVER *** [8h Ad 2s 6s] [2d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ac 3c] (two pair, Aces and Deuces)
+artelha2: shows [Ks As] (two pair, Aces and Deuces - King kicker)
+artelha2 collected 9804 from pot
+artelha2 wins €0.12 for eliminating pipinoelbreve9 and their own bounty increases by €0.05 to €0.29
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 9804 | Rake 0 
+Board [8h Ad 2s 6s 2d]
+Seat 2: supervagabond11 folded before Flop
+Seat 3: ptdkbe folded before Flop (didn't bet)
+Seat 4: artelha2 (button) showed [Ks As] and won (9804) with two pair, Aces and Deuces
+Seat 5: pipinoelbreve9 (small blind) showed [Ac 3c] and lost with two pair, Aces and Deuces
+Seat 6: Vinimo049 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645647601: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:18:53 CET [2025/09/07 7:18:53 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: Geomau69 (10570 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (8969 in chips, €0.17 bounty) 
+Seat 3: BLF889 (4742 in chips, €0.17 bounty) 
+Seat 4: maikplatinas (4982 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4161 in chips, €0.17 bounty) 
+Geomau69: posts the ante 18
+stephdu76540: posts the ante 18
+BLF889: posts the ante 18
+maikplatinas: posts the ante 18
+pipinoelbreve9: posts the ante 18
+keke31337: posts the ante 18
+stephdu76540: posts small blind 60
+BLF889: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 5d]
+maikplatinas: folds 
+pipinoelbreve9: raises 240 to 360
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+Uncalled bet (240) returned to pipinoelbreve9
+pipinoelbreve9 collected 408 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 408 | Rake 0 
+Seat 1: Geomau69 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) folded before Flop
+Seat 3: BLF889 (big blind) folded before Flop
+Seat 4: maikplatinas folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (408)
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645650166: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:19:16 CET [2025/09/07 7:19:16 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: Geomau69 (10552 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (8891 in chips, €0.17 bounty) 
+Seat 3: BLF889 (4604 in chips, €0.17 bounty) 
+Seat 4: maikplatinas (4964 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5270 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4143 in chips, €0.17 bounty) 
+Geomau69: posts the ante 18
+stephdu76540: posts the ante 18
+BLF889: posts the ante 18
+maikplatinas: posts the ante 18
+pipinoelbreve9: posts the ante 18
+keke31337: posts the ante 18
+BLF889: posts small blind 60
+maikplatinas: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 6h]
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: raises 120 to 240
+maikplatinas: raises 720 to 960
+BLF889: calls 720
+*** FLOP *** [6c 5h 3d]
+BLF889: bets 360
+maikplatinas: raises 3600 to 3960
+BLF889: folds 
+Uncalled bet (3600) returned to maikplatinas
+maikplatinas collected 2748 from pot
+*** SUMMARY ***
+Total pot 2748 | Rake 0 
+Board [6c 5h 3d]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) folded on the Flop
+Seat 4: maikplatinas (big blind) collected (2748)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645655522: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:20:04 CET [2025/09/07 7:20:04 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: Geomau69 (10534 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (8873 in chips, €0.17 bounty) 
+Seat 3: BLF889 (3266 in chips, €0.17 bounty) 
+Seat 4: maikplatinas (6374 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5252 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4125 in chips, €0.17 bounty) 
+Geomau69: posts the ante 18
+stephdu76540: posts the ante 18
+BLF889: posts the ante 18
+maikplatinas: posts the ante 18
+pipinoelbreve9: posts the ante 18
+keke31337: posts the ante 18
+maikplatinas: posts small blind 60
+pipinoelbreve9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 8d]
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+maikplatinas: raises 120 to 240
+pipinoelbreve9: raises 840 to 1080
+maikplatinas: raises 840 to 1920
+pipinoelbreve9: calls 840
+*** FLOP *** [5s Qd 3s]
+maikplatinas: checks 
+pipinoelbreve9: bets 3314 and is all-in
+maikplatinas: calls 3314
+*** TURN *** [5s Qd 3s] [6d]
+*** RIVER *** [5s Qd 3s 6d] [Jd]
+*** SHOW DOWN ***
+maikplatinas: shows [Qs Ad] (a pair of Queens)
+pipinoelbreve9: shows [7d 8d] (a flush, Queen high)
+pipinoelbreve9 collected 10576 from pot
+*** SUMMARY ***
+Total pot 10576 | Rake 0 
+Board [5s Qd 3s 6d Jd]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 4: maikplatinas (small blind) showed [Qs Ad] and lost with a pair of Queens
+Seat 5: pipinoelbreve9 (big blind) showed [7d 8d] and won (10576) with a flush, Queen high
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645659210: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:20:38 CET [2025/09/07 7:20:38 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: Geomau69 (10516 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (8855 in chips, €0.17 bounty) 
+Seat 3: BLF889 (3248 in chips, €0.17 bounty) 
+Seat 4: maikplatinas (1122 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (10576 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4107 in chips, €0.17 bounty) 
+Geomau69: posts the ante 18
+stephdu76540: posts the ante 18
+BLF889: posts the ante 18
+maikplatinas: posts the ante 18
+pipinoelbreve9: posts the ante 18
+keke31337: posts the ante 18
+pipinoelbreve9: posts small blind 60
+keke31337: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Kd]
+Geomau69: folds 
+stephdu76540: calls 120
+BLF889: raises 528 to 648
+maikplatinas: raises 456 to 1104 and is all-in
+pipinoelbreve9: folds 
+keke31337: folds 
+stephdu76540: calls 984
+BLF889: calls 456
+*** FLOP *** [7c Jc Qh]
+stephdu76540: bets 7733 and is all-in
+BLF889: calls 2126 and is all-in
+Uncalled bet (5607) returned to stephdu76540
+*** TURN *** [7c Jc Qh] [9c]
+*** RIVER *** [7c Jc Qh 9c] [2s]
+*** SHOW DOWN ***
+stephdu76540: shows [Td Jd] (a pair of Jacks)
+BLF889: shows [Js Jh] (three of a kind, Jacks)
+BLF889 collected 4252 from side pot
+maikplatinas: shows [5s 5c] (a pair of Fives)
+BLF889 collected 3600 from main pot
+BLF889 wins €0.12 for eliminating maikplatinas and their own bounty increases by €0.05 to €0.22
+maikplatinas finished the tournament
+*** SUMMARY ***
+Total pot 7852 Main pot 3600. Side pot 4252. | Rake 0 
+Board [7c Jc Qh 9c 2s]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 showed [Td Jd] and lost with a pair of Jacks
+Seat 3: BLF889 showed [Js Jh] and won (7852) with three of a kind, Jacks
+Seat 4: maikplatinas (button) showed [5s 5c] and lost with a pair of Fives
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: keke31337 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645664157: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 13:21:22 CET [2025/09/07 7:21:22 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: Geomau69 (10498 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5607 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7852 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10498 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3969 in chips, €0.17 bounty) 
+Geomau69: posts the ante 18
+stephdu76540: posts the ante 18
+BLF889: posts the ante 18
+pipinoelbreve9: posts the ante 18
+keke31337: posts the ante 18
+keke31337: posts small blind 60
+Geomau69: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 5s]
+stephdu76540: calls 120
+BLF889: folds 
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: checks 
+*** FLOP *** [4h 8c 2d]
+Geomau69: bets 120
+stephdu76540: raises 5349 to 5469 and is all-in
+Geomau69: folds 
+Uncalled bet (5349) returned to stephdu76540
+stephdu76540 collected 630 from pot
+stephdu76540: doesn't show hand 
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [4h 8c 2d]
+Seat 1: Geomau69 (big blind) folded on the Flop
+Seat 2: stephdu76540 collected (630)
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: keke31337 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645668437: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:21:59 CET [2025/09/07 7:21:59 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: Geomau69 (10240 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5979 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7834 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10480 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3891 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+Geomau69: posts small blind 70
+stephdu76540: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 9c]
+BLF889: folds 
+pipinoelbreve9: folds 
+keke31337: calls 140
+Geomau69: calls 70
+stephdu76540: checks 
+*** FLOP *** [Ad Jc 2s]
+Geomau69: checks 
+stephdu76540: checks 
+keke31337: checks 
+*** TURN *** [Ad Jc 2s] [2c]
+Geomau69: checks 
+stephdu76540: checks 
+keke31337: bets 525
+Geomau69: folds 
+stephdu76540: folds 
+Uncalled bet (525) returned to keke31337
+keke31337 collected 525 from pot
+keke31337: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [Ad Jc 2s 2c]
+Seat 1: Geomau69 (small blind) folded on the Turn
+Seat 2: stephdu76540 (big blind) folded on the Turn
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 (button) collected (525)
+
+
+
+PokerStars Hand #257645672308: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:22:34 CET [2025/09/07 7:22:34 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: Geomau69 (10079 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5818 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7813 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10459 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4255 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+stephdu76540: posts small blind 70
+BLF889: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 7c]
+pipinoelbreve9: calls 140
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: calls 70
+BLF889: checks 
+*** FLOP *** [6h 6s Qh]
+stephdu76540: checks 
+BLF889: checks 
+pipinoelbreve9: checks 
+*** TURN *** [6h 6s Qh] [2h]
+stephdu76540: bets 263
+BLF889: calls 263
+pipinoelbreve9: folds 
+*** RIVER *** [6h 6s Qh 2h] [Kd]
+stephdu76540: bets 1051
+BLF889: folds 
+Uncalled bet (1051) returned to stephdu76540
+stephdu76540 collected 1051 from pot
+stephdu76540: doesn't show hand 
+*** SUMMARY ***
+Total pot 1051 | Rake 0 
+Board [6h 6s Qh 2h Kd]
+Seat 1: Geomau69 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) collected (1051)
+Seat 3: BLF889 (big blind) folded on the River
+Seat 5: pipinoelbreve9 folded on the Turn
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645677160: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:23:17 CET [2025/09/07 7:23:17 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: Geomau69 (10058 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6445 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7389 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10298 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4234 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+BLF889: posts small blind 70
+pipinoelbreve9: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 2c]
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: raises 140 to 280
+pipinoelbreve9: folds 
+Uncalled bet (140) returned to BLF889
+BLF889 collected 385 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 385 | Rake 0 
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) collected (385)
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645680919: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:23:50 CET [2025/09/07 7:23:50 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: Geomau69 (10037 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6424 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7613 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10137 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4213 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+pipinoelbreve9: posts small blind 70
+keke31337: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 8h]
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+pipinoelbreve9: raises 280 to 420
+keke31337: folds 
+Uncalled bet (280) returned to pipinoelbreve9
+pipinoelbreve9 collected 385 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 385 | Rake 0 
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (385)
+Seat 6: keke31337 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645683018: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:24:08 CET [2025/09/07 7:24:08 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: Geomau69 (10016 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6403 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7592 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10361 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4052 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+keke31337: posts small blind 70
+Geomau69: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 4c]
+stephdu76540: folds 
+BLF889: raises 280 to 420
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+Uncalled bet (280) returned to BLF889
+BLF889 collected 455 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 455 | Rake 0 
+Seat 1: Geomau69 (big blind) folded before Flop
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 collected (455)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: keke31337 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645684756: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:24:24 CET [2025/09/07 7:24:24 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: Geomau69 (9855 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6382 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7886 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (10340 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3961 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+Geomau69: posts small blind 70
+stephdu76540: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 3d]
+BLF889: raises 280 to 420
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: calls 280
+*** FLOP *** [8c Th Kh]
+stephdu76540: checks 
+BLF889: checks 
+*** TURN *** [8c Th Kh] [6c]
+stephdu76540: checks 
+BLF889: checks 
+*** RIVER *** [8c Th Kh 6c] [5c]
+stephdu76540: checks 
+BLF889: checks 
+*** SHOW DOWN ***
+stephdu76540: shows [6d Ac] (a pair of Sixes)
+BLF889: mucks hand 
+stephdu76540 collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | Rake 0 
+Board [8c Th Kh 6c 5c]
+Seat 1: Geomau69 (small blind) folded before Flop
+Seat 2: stephdu76540 (big blind) showed [6d Ac] and won (1015) with a pair of Sixes
+Seat 3: BLF889 mucked [2c 2d]
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645688388: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:24:56 CET [2025/09/07 7:24:56 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: Geomau69 (9764 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6956 in chips, €0.17 bounty) 
+Seat 3: BLF889 (7445 in chips, €0.22 bounty) 
+Seat 4: 1983282 (6032 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (10319 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3940 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+1983282: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+stephdu76540: posts small blind 70
+BLF889: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d Qh]
+1983282: calls 140
+pipinoelbreve9: folds 
+keke31337: calls 140
+Geomau69: folds 
+stephdu76540: calls 70
+BLF889: checks 
+*** FLOP *** [7d 8h Kh]
+stephdu76540: checks 
+BLF889: checks 
+1983282: checks 
+keke31337: checks 
+*** TURN *** [7d 8h Kh] [Qd]
+stephdu76540: checks 
+BLF889: bets 686
+1983282: calls 686
+keke31337: folds 
+stephdu76540: calls 686
+*** RIVER *** [7d 8h Kh Qd] [6c]
+stephdu76540: checks 
+BLF889: bets 840
+1983282: calls 840
+stephdu76540: folds 
+*** SHOW DOWN ***
+BLF889: shows [4c Qs] (a pair of Queens)
+1983282: mucks hand 
+BLF889 collected 4424 from pot
+*** SUMMARY ***
+Total pot 4424 | Rake 0 
+Board [7d 8h Kh Qd 6c]
+Seat 1: Geomau69 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) folded on the River
+Seat 3: BLF889 (big blind) showed [4c Qs] and won (4424) with a pair of Queens
+Seat 4: 1983282 mucked [9c 8c]
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 folded on the Turn
+
+
+
+PokerStars Hand #257645696095: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:26:04 CET [2025/09/07 7:26:04 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: Geomau69 (9743 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6109 in chips, €0.17 bounty) 
+Seat 3: BLF889 (10182 in chips, €0.22 bounty) 
+Seat 4: 1983282 (4345 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (10298 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3779 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+1983282: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+BLF889: posts small blind 70
+1983282: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Th]
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: calls 140
+BLF889: folds 
+1983282: raises 476 to 616
+stephdu76540: calls 476
+*** FLOP *** [9c 2h 3s]
+1983282: checks 
+stephdu76540: bets 5472 and is all-in
+1983282: folds 
+Uncalled bet (5472) returned to stephdu76540
+stephdu76540 collected 1428 from pot
+stephdu76540: doesn't show hand 
+*** SUMMARY ***
+Total pot 1428 | Rake 0 
+Board [9c 2h 3s]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 (button) collected (1428)
+Seat 3: BLF889 (small blind) folded before Flop
+Seat 4: 1983282 (big blind) folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645701234: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 13:26:50 CET [2025/09/07 7:26:50 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: Geomau69 (9722 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6900 in chips, €0.17 bounty) 
+Seat 3: BLF889 (10091 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3708 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (10277 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3758 in chips, €0.17 bounty) 
+Geomau69: posts the ante 21
+stephdu76540: posts the ante 21
+BLF889: posts the ante 21
+1983282: posts the ante 21
+pipinoelbreve9: posts the ante 21
+keke31337: posts the ante 21
+1983282: posts small blind 70
+pipinoelbreve9: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 4s]
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+1983282: raises 406 to 546
+pipinoelbreve9: folds 
+Uncalled bet (406) returned to 1983282
+1983282 collected 406 from pot
+*** SUMMARY ***
+Total pot 406 | Rake 0 
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 4: 1983282 (small blind) collected (406)
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645704882: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:27:22 CET [2025/09/07 7:27:22 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: Geomau69 (9701 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6879 in chips, €0.17 bounty) 
+Seat 3: BLF889 (10070 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3953 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (10116 in chips, €0.17 bounty) 
+Seat 6: keke31337 (3737 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+pipinoelbreve9: posts small blind 80
+keke31337: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 6d]
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+1983282: folds 
+pipinoelbreve9: raises 320 to 480
+keke31337: calls 320
+*** FLOP *** [Ac 4c 2s]
+pipinoelbreve9: checks 
+keke31337: bets 1104
+pipinoelbreve9: folds 
+Uncalled bet (1104) returned to keke31337
+keke31337 collected 1104 from pot
+keke31337: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Board [Ac 4c 2s]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: 1983282 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded on the Flop
+Seat 6: keke31337 (big blind) collected (1104)
+
+
+
+PokerStars Hand #257645709580: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:28:04 CET [2025/09/07 7:28:04 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: Geomau69 (9677 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6855 in chips, €0.17 bounty) 
+Seat 3: BLF889 (10046 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3929 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9612 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4337 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+keke31337: posts small blind 80
+Geomau69: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 6c]
+stephdu76540: folds 
+BLF889: raises 160 to 320
+1983282: calls 320
+pipinoelbreve9: raises 640 to 960
+keke31337: folds 
+Geomau69: folds 
+BLF889: folds 
+1983282: calls 640
+*** FLOP *** [4d 7s 9s]
+1983282: bets 160
+pipinoelbreve9: raises 8468 to 8628 and is all-in
+1983282: calls 2785 and is all-in
+Uncalled bet (5683) returned to pipinoelbreve9
+*** TURN *** [4d 7s 9s] [Th]
+*** RIVER *** [4d 7s 9s Th] [5h]
+*** SHOW DOWN ***
+1983282: shows [5d 8h] (a pair of Fives)
+pipinoelbreve9: shows [5c 6c] (a pair of Fives - lower kicker)
+1983282 collected 8514 from pot
+*** SUMMARY ***
+Total pot 8514 | Rake 0 
+Board [4d 7s 9s Th 5h]
+Seat 1: Geomau69 (big blind) folded before Flop
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded before Flop
+Seat 4: 1983282 showed [5d 8h] and won (8514) with a pair of Fives
+Seat 5: pipinoelbreve9 (button) showed [5c 6c] and lost with a pair of Fives
+Seat 6: keke31337 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645713671: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:28:40 CET [2025/09/07 7:28:40 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: Geomau69 (9493 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6831 in chips, €0.17 bounty) 
+Seat 3: BLF889 (9702 in chips, €0.22 bounty) 
+Seat 4: 1983282 (8514 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5683 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4233 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+Geomau69: posts small blind 80
+stephdu76540: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Tc]
+BLF889: folds 
+1983282: calls 160
+pipinoelbreve9: folds 
+keke31337: calls 160
+Geomau69: calls 80
+stephdu76540: checks 
+*** FLOP *** [8s 9d Qs]
+Geomau69: checks 
+stephdu76540: checks 
+1983282: checks 
+keke31337: checks 
+*** TURN *** [8s 9d Qs] [3h]
+Geomau69: bets 160
+stephdu76540: folds 
+1983282: folds 
+keke31337: calls 160
+*** RIVER *** [8s 9d Qs 3h] [Ts]
+Geomau69: checks 
+keke31337: bets 640
+Geomau69: folds 
+Uncalled bet (640) returned to keke31337
+keke31337 collected 1104 from pot
+keke31337: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Board [8s 9d Qs 3h Ts]
+Seat 1: Geomau69 (small blind) folded on the River
+Seat 2: stephdu76540 (big blind) folded on the Turn
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: 1983282 folded on the Turn
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 (button) collected (1104)
+
+
+
+PokerStars Hand #257645718709: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:29:25 CET [2025/09/07 7:29:25 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: Geomau69 (9149 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6647 in chips, €0.17 bounty) 
+Seat 3: BLF889 (9678 in chips, €0.22 bounty) 
+Seat 4: 1983282 (8330 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5659 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4993 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+stephdu76540: posts small blind 80
+BLF889: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Kc]
+1983282: calls 160
+pipinoelbreve9: calls 160
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: checks 
+*** FLOP *** [Td 6h 7c]
+BLF889: checks 
+1983282: checks 
+pipinoelbreve9: bets 320
+BLF889: calls 320
+1983282: calls 320
+*** TURN *** [Td 6h 7c] [3s]
+BLF889: bets 832
+1983282: calls 832
+pipinoelbreve9: folds 
+*** RIVER *** [Td 6h 7c 3s] [Ac]
+BLF889: bets 3328
+1983282: calls 3328
+*** SHOW DOWN ***
+BLF889: shows [9d 8s] (a straight, Six to Ten)
+1983282: mucks hand 
+BLF889 collected 9984 from pot
+*** SUMMARY ***
+Total pot 9984 | Rake 0 
+Board [Td 6h 7c 3s Ac]
+Seat 1: Geomau69 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) folded before Flop
+Seat 3: BLF889 (big blind) showed [9d 8s] and won (9984) with a straight, Six to Ten
+Seat 4: 1983282 mucked [Jd Ah]
+Seat 5: pipinoelbreve9 folded on the Turn
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645725565: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:30:24 CET [2025/09/07 7:30:24 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: Geomau69 (9125 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6543 in chips, €0.17 bounty) 
+Seat 3: BLF889 (14998 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3666 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5155 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4969 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+BLF889: posts small blind 80
+1983282: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Jc]
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: calls 160
+stephdu76540: folds 
+BLF889: raises 320 to 480
+1983282: calls 320
+Geomau69: calls 320
+*** FLOP *** [As 4h Kd]
+BLF889 has timed out
+BLF889: checks 
+1983282: checks 
+Geomau69: bets 800
+BLF889: calls 800
+1983282: folds 
+*** TURN *** [As 4h Kd] [9s]
+BLF889: checks 
+Geomau69: bets 1760
+BLF889: folds 
+Uncalled bet (1760) returned to Geomau69
+Geomau69 collected 3184 from pot
+Geomau69: doesn't show hand 
+*** SUMMARY ***
+Total pot 3184 | Rake 0 
+Board [As 4h Kd 9s]
+Seat 1: Geomau69 collected (3184)
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) folded on the Turn
+Seat 4: 1983282 (big blind) folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645733900: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 13:31:35 CET [2025/09/07 7:31:35 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: Geomau69 (11005 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (6519 in chips, €0.17 bounty) 
+Seat 3: BLF889 (13694 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3162 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (5131 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4945 in chips, €0.17 bounty) 
+Geomau69: posts the ante 24
+stephdu76540: posts the ante 24
+BLF889: posts the ante 24
+1983282: posts the ante 24
+pipinoelbreve9: posts the ante 24
+keke31337: posts the ante 24
+1983282: posts small blind 80
+pipinoelbreve9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 6s]
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: raises 240 to 400
+BLF889: raises 240 to 640
+1983282: folds 
+pipinoelbreve9: folds 
+stephdu76540: calls 240
+*** FLOP *** [4s 6h 5d]
+stephdu76540: checks 
+BLF889 has timed out
+BLF889: checks 
+*** TURN *** [4s 6h 5d] [7h]
+stephdu76540: checks 
+BLF889: checks 
+*** RIVER *** [4s 6h 5d 7h] [Js]
+stephdu76540: checks 
+BLF889: checks 
+*** SHOW DOWN ***
+stephdu76540: shows [Kh Qd] (high card King)
+BLF889: shows [Ad Ks] (high card Ace)
+BLF889 collected 1664 from pot
+*** SUMMARY ***
+Total pot 1664 | Rake 0 
+Board [4s 6h 5d 7h Js]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 showed [Kh Qd] and lost with high card King
+Seat 3: BLF889 (button) showed [Ad Ks] and won (1664) with high card Ace
+Seat 4: 1983282 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645739451: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:32:23 CET [2025/09/07 7:32:23 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: Geomau69 (10981 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5855 in chips, €0.17 bounty) 
+Seat 3: BLF889 (14694 in chips, €0.22 bounty) 
+Seat 4: 1983282 (3058 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (4947 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4921 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+1983282: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+pipinoelbreve9: posts small blind 90
+keke31337: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 7d]
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: calls 180
+1983282: raises 792 to 972
+pipinoelbreve9: folds 
+keke31337: folds 
+BLF889: calls 792
+*** FLOP *** [Td 5c Ac]
+BLF889: checks 
+1983282: checks 
+*** TURN *** [Td 5c Ac] [Qh]
+BLF889: bets 540
+1983282: calls 540
+*** RIVER *** [Td 5c Ac Qh] [Ah]
+BLF889: checks 
+1983282: checks 
+*** SHOW DOWN ***
+BLF889: shows [2c Kc] (a pair of Aces)
+1983282: mucks hand 
+BLF889 collected 3456 from pot
+*** SUMMARY ***
+Total pot 3456 | Rake 0 
+Board [Td 5c Ac Qh Ah]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 showed [2c Kc] and won (3456) with a pair of Aces
+Seat 4: 1983282 (button) mucked [9s Jd]
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: keke31337 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645745229: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:33:12 CET [2025/09/07 7:33:12 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: Geomau69 (10954 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5828 in chips, €0.17 bounty) 
+Seat 3: BLF889 (16611 in chips, €0.22 bounty) 
+Seat 4: 1983282 (1519 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (4830 in chips, €0.17 bounty) 
+Seat 6: keke31337 (4714 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+1983282: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+keke31337: posts small blind 90
+Geomau69: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Qd]
+stephdu76540: folds 
+BLF889: folds 
+1983282: raises 1312 to 1492 and is all-in
+pipinoelbreve9: raises 3311 to 4803 and is all-in
+keke31337: folds 
+Geomau69: folds 
+Uncalled bet (3311) returned to pipinoelbreve9
+*** FLOP *** [5s Ah Ac]
+*** TURN *** [5s Ah Ac] [9d]
+*** RIVER *** [5s Ah Ac 9d] [7c]
+*** SHOW DOWN ***
+1983282: shows [8h Ks] (a pair of Aces)
+pipinoelbreve9: shows [Kd Qd] (a pair of Aces - King+Queen kicker)
+pipinoelbreve9 collected 3416 from pot
+pipinoelbreve9 wins €0.12 for eliminating 1983282 and their own bounty increases by €0.05 to €0.22
+1983282 finished the tournament
+*** SUMMARY ***
+Total pot 3416 | Rake 0 
+Board [5s Ah Ac 9d 7c]
+Seat 1: Geomau69 (big blind) folded before Flop
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: 1983282 showed [8h Ks] and lost with a pair of Aces
+Seat 5: pipinoelbreve9 (button) showed [Kd Qd] and won (3416) with a pair of Aces
+Seat 6: keke31337 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645749291: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:33:47 CET [2025/09/07 7:33:47 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: Geomau69 (10747 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5801 in chips, €0.17 bounty) 
+Seat 3: BLF889 (16584 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (6727 in chips, €0.22 bounty) 
+Seat 6: keke31337 (4597 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+Geomau69: posts small blind 90
+stephdu76540: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 2c]
+BLF889: raises 180 to 360
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: calls 180
+*** FLOP *** [9h 4d 4h]
+stephdu76540: checks 
+BLF889: bets 473
+stephdu76540: folds 
+Uncalled bet (473) returned to BLF889
+BLF889 collected 945 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [9h 4d 4h]
+Seat 1: Geomau69 (small blind) folded before Flop
+Seat 2: stephdu76540 (big blind) folded on the Flop
+Seat 3: BLF889 collected (945)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645752218: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:34:12 CET [2025/09/07 7:34:12 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: Geomau69 (10630 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5414 in chips, €0.17 bounty) 
+Seat 3: BLF889 (17142 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (6700 in chips, €0.22 bounty) 
+Seat 6: keke31337 (4570 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+stephdu76540: posts small blind 90
+BLF889: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 5d]
+pipinoelbreve9: folds 
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: calls 90
+BLF889: checks 
+*** FLOP *** [Js Qh Jc]
+stephdu76540: checks 
+BLF889: checks 
+*** TURN *** [Js Qh Jc] [Tc]
+stephdu76540: checks 
+BLF889: checks 
+*** RIVER *** [Js Qh Jc Tc] [Ks]
+stephdu76540: checks 
+BLF889: bets 248
+stephdu76540: folds 
+Uncalled bet (248) returned to BLF889
+BLF889 collected 495 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Board [Js Qh Jc Tc Ks]
+Seat 1: Geomau69 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) folded on the River
+Seat 3: BLF889 (big blind) collected (495)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645760178: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:35:21 CET [2025/09/07 7:35:21 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: Geomau69 (10603 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5207 in chips, €0.17 bounty) 
+Seat 3: BLF889 (17430 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (6673 in chips, €0.22 bounty) 
+Seat 6: keke31337 (4543 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+BLF889: posts small blind 90
+pipinoelbreve9: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Js]
+keke31337: folds 
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: raises 180 to 360
+pipinoelbreve9: calls 180
+*** FLOP *** [9c 4d 2h]
+BLF889: bets 180
+pipinoelbreve9: folds 
+Uncalled bet (180) returned to BLF889
+BLF889 collected 855 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 855 | Rake 0 
+Board [9c 4d 2h]
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) collected (855)
+Seat 5: pipinoelbreve9 (big blind) folded on the Flop
+Seat 6: keke31337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645762820: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:35:43 CET [2025/09/07 7:35:43 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: Geomau69 (10576 in chips, €0.32 bounty) 
+Seat 2: stephdu76540 (5180 in chips, €0.17 bounty) 
+Seat 3: BLF889 (17898 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (6286 in chips, €0.22 bounty) 
+Seat 6: keke31337 (4516 in chips, €0.17 bounty) 
+Geomau69: posts the ante 27
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+pipinoelbreve9: posts small blind 90
+keke31337: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 7c]
+Geomau69: folds 
+stephdu76540: folds 
+BLF889: folds 
+pipinoelbreve9: raises 360 to 540
+keke31337: folds 
+Uncalled bet (360) returned to pipinoelbreve9
+pipinoelbreve9 collected 495 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: Geomau69 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (495)
+Seat 6: keke31337 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645766308: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 13:36:13 CET [2025/09/07 7:36:13 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 2: stephdu76540 (5153 in chips, €0.17 bounty) 
+Seat 3: BLF889 (17871 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5000 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (6574 in chips, €0.22 bounty) 
+Seat 6: keke31337 (4309 in chips, €0.17 bounty) 
+stephdu76540: posts the ante 27
+BLF889: posts the ante 27
+SSK68: posts the ante 27
+pipinoelbreve9: posts the ante 27
+keke31337: posts the ante 27
+keke31337: posts small blind 90
+stephdu76540: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 4s]
+BLF889: calls 180
+SSK68: calls 180
+pipinoelbreve9: folds 
+keke31337: calls 90
+stephdu76540: checks 
+*** FLOP *** [Qd Jd 4c]
+keke31337: bets 540
+stephdu76540: folds 
+BLF889: folds 
+SSK68: calls 540
+*** TURN *** [Qd Jd 4c] [6h]
+keke31337: checks 
+SSK68: bets 968
+keke31337: calls 968
+*** RIVER *** [Qd Jd 4c 6h] [5c]
+keke31337: checks 
+SSK68: bets 1936
+keke31337: folds 
+Uncalled bet (1936) returned to SSK68
+SSK68 collected 3871 from pot
+SSK68: doesn't show hand 
+*** SUMMARY ***
+Total pot 3871 | Rake 0 
+Board [Qd Jd 4c 6h 5c]
+Seat 2: stephdu76540 (big blind) folded on the Flop
+Seat 3: BLF889 folded on the Flop
+Seat 4: SSK68 collected (3871)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: keke31337 (small blind) folded on the River
+
+
+
+PokerStars Hand #257645775323: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 13:37:30 CET [2025/09/07 7:37:30 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 2: stephdu76540 (4946 in chips, €0.17 bounty) 
+Seat 3: BLF889 (17664 in chips, €0.22 bounty) 
+Seat 4: SSK68 (7156 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (6547 in chips, €0.22 bounty) 
+Seat 6: keke31337 (2594 in chips, €0.17 bounty) 
+stephdu76540: posts the ante 30
+BLF889: posts the ante 30
+SSK68: posts the ante 30
+pipinoelbreve9: posts the ante 30
+keke31337: posts the ante 30
+stephdu76540: posts small blind 100
+BLF889: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 4c]
+SSK68: calls 200
+pipinoelbreve9: folds 
+keke31337: folds 
+stephdu76540: calls 100
+BLF889 has timed out
+BLF889: checks 
+*** FLOP *** [6h 5h 9c]
+stephdu76540: checks 
+BLF889: bets 375
+SSK68: calls 375
+stephdu76540: calls 375
+*** TURN *** [6h 5h 9c] [Jc]
+stephdu76540: checks 
+BLF889: bets 1000
+SSK68: calls 1000
+stephdu76540: raises 3341 to 4341 and is all-in
+BLF889: folds 
+SSK68: folds 
+Uncalled bet (3341) returned to stephdu76540
+stephdu76540 collected 4875 from pot
+stephdu76540: doesn't show hand 
+*** SUMMARY ***
+Total pot 4875 | Rake 0 
+Board [6h 5h 9c Jc]
+Seat 2: stephdu76540 (small blind) collected (4875)
+Seat 3: BLF889 (big blind) folded on the Turn
+Seat 4: SSK68 folded on the Turn
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: keke31337 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645783670: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 13:38:41 CET [2025/09/07 7:38:41 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 2: stephdu76540 (8216 in chips, €0.17 bounty) 
+Seat 3: BLF889 (16059 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5551 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (6517 in chips, €0.22 bounty) 
+Seat 6: keke31337 (2564 in chips, €0.17 bounty) 
+stephdu76540: posts the ante 30
+BLF889: posts the ante 30
+SSK68: posts the ante 30
+pipinoelbreve9: posts the ante 30
+keke31337: posts the ante 30
+BLF889: posts small blind 100
+SSK68: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 8d]
+pipinoelbreve9: calls 200
+keke31337: calls 200
+stephdu76540: calls 200
+BLF889: folds 
+SSK68: checks 
+*** FLOP *** [7s 8c 7d]
+SSK68: checks 
+pipinoelbreve9: bets 525
+keke31337: raises 525 to 1050
+stephdu76540: folds 
+SSK68: folds 
+pipinoelbreve9: raises 1950 to 3000
+keke31337: calls 1284 and is all-in
+Uncalled bet (666) returned to pipinoelbreve9
+*** TURN *** [7s 8c 7d] [9c]
+*** RIVER *** [7s 8c 7d 9c] [6c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Td 8d] (a straight, Six to Ten)
+keke31337: shows [Qc Qh] (two pair, Queens and Sevens)
+pipinoelbreve9 collected 5718 from pot
+pipinoelbreve9 wins €0.12 for eliminating keke31337 and their own bounty increases by €0.05 to €0.27
+keke31337 finished the tournament
+*** SUMMARY ***
+Total pot 5718 | Rake 0 
+Board [7s 8c 7d 9c 6c]
+Seat 2: stephdu76540 (button) folded on the Flop
+Seat 3: BLF889 (small blind) folded before Flop
+Seat 4: SSK68 (big blind) folded on the Flop
+Seat 5: pipinoelbreve9 showed [Td 8d] and won (5718) with a straight, Six to Ten
+Seat 6: keke31337 showed [Qc Qh] and lost with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #257645788481: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 13:39:22 CET [2025/09/07 7:39:22 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: 1983282 (5000 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (7986 in chips, €0.17 bounty) 
+Seat 3: BLF889 (15929 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5321 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9671 in chips, €0.27 bounty) 
+1983282: posts the ante 30
+stephdu76540: posts the ante 30
+BLF889: posts the ante 30
+SSK68: posts the ante 30
+pipinoelbreve9: posts the ante 30
+SSK68: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 7d]
+1983282: raises 200 to 400
+stephdu76540: folds 
+BLF889 has timed out
+BLF889: folds 
+BLF889 is sitting out
+SSK68: folds 
+BLF889 has returned
+pipinoelbreve9: calls 200
+*** FLOP *** [Jh Ah Td]
+pipinoelbreve9: checks 
+1983282: checks 
+*** TURN *** [Jh Ah Td] [4d]
+pipinoelbreve9: bets 525
+1983282: calls 525
+*** RIVER *** [Jh Ah Td 4d] [Ks]
+pipinoelbreve9: checks 
+1983282: bets 4045 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (4045) returned to 1983282
+1983282 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [Jh Ah Td 4d Ks]
+Seat 1: 1983282 collected (2100)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 4: SSK68 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded on the River
+
+
+
+PokerStars Hand #257645796509: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 13:40:30 CET [2025/09/07 7:40:30 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: 1983282 (6145 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (7956 in chips, €0.17 bounty) 
+Seat 3: BLF889 (15899 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5191 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (8716 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (5000 in chips, €0.17 bounty) 
+1983282: posts the ante 30
+stephdu76540: posts the ante 30
+BLF889: posts the ante 30
+SSK68: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Isidro54: posts the ante 30
+pipinoelbreve9: posts small blind 100
+Isidro54: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 2s]
+1983282: calls 200
+stephdu76540: folds 
+BLF889: calls 200
+SSK68: folds 
+pipinoelbreve9: calls 100
+Isidro54 has timed out
+Isidro54: checks 
+*** FLOP *** [Kd 7c 4d]
+Isidro54 is disconnected 
+pipinoelbreve9: checks 
+Isidro54 has timed out while disconnected
+Isidro54: checks 
+1983282: checks 
+Isidro54 is disconnected 
+BLF889: checks 
+*** TURN *** [Kd 7c 4d] [3d]
+pipinoelbreve9: bets 490
+Isidro54 has timed out
+Isidro54: folds 
+Isidro54 is sitting out
+1983282: calls 490
+Isidro54 has returned
+BLF889: folds 
+*** RIVER *** [Kd 7c 4d 3d] [Qs]
+pipinoelbreve9: checks 
+1983282: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks 2s] (a pair of Kings)
+1983282: mucks hand 
+pipinoelbreve9 collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | Rake 0 
+Board [Kd 7c 4d 3d Qs]
+Seat 1: 1983282 mucked [7d 6s]
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded on the Turn
+Seat 4: SSK68 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) showed [Ks 2s] and won (1960) with a pair of Kings
+Seat 6: Isidro54 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257645810859: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 13:42:31 CET [2025/09/07 7:42:31 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: 1983282 (5425 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (7926 in chips, €0.17 bounty) 
+Seat 3: BLF889 (15669 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5161 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9956 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (4770 in chips, €0.17 bounty) 
+1983282: posts the ante 38
+stephdu76540: posts the ante 38
+BLF889: posts the ante 38
+SSK68: posts the ante 38
+pipinoelbreve9: posts the ante 38
+Isidro54: posts the ante 38
+Isidro54: posts small blind 125
+1983282: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 2d]
+stephdu76540: folds 
+BLF889: folds 
+SSK68: calls 250
+pipinoelbreve9: folds 
+Isidro54: calls 125
+1983282: raises 978 to 1228
+SSK68: folds 
+Isidro54: calls 978
+*** FLOP *** [Kd Ks 6s]
+Isidro54: checks 
+1983282: checks 
+*** TURN *** [Kd Ks 6s] [Jd]
+Isidro54: bets 1467
+1983282: calls 1467
+*** RIVER *** [Kd Ks 6s Jd] [4d]
+Isidro54: bets 2037 and is all-in
+1983282: folds 
+Uncalled bet (2037) returned to Isidro54
+Isidro54 collected 5868 from pot
+Isidro54: doesn't show hand 
+*** SUMMARY ***
+Total pot 5868 | Rake 0 
+Board [Kd Ks 6s Jd 4d]
+Seat 1: 1983282 (big blind) folded on the River
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: SSK68 folded before Flop
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: Isidro54 (small blind) collected (5868)
+
+
+
+PokerStars Hand #257645817227: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 13:43:25 CET [2025/09/07 7:43:25 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: 1983282 (2692 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (7888 in chips, €0.17 bounty) 
+Seat 3: BLF889 (15631 in chips, €0.22 bounty) 
+Seat 4: SSK68 (4873 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9918 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (7905 in chips, €0.17 bounty) 
+1983282: posts the ante 38
+stephdu76540: posts the ante 38
+BLF889: posts the ante 38
+SSK68: posts the ante 38
+pipinoelbreve9: posts the ante 38
+Isidro54: posts the ante 38
+1983282: posts small blind 125
+stephdu76540: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 8s]
+BLF889: folds 
+SSK68: calls 250
+pipinoelbreve9: raises 750 to 1000
+Isidro54: calls 1000
+1983282: raises 1654 to 2654 and is all-in
+stephdu76540: raises 5196 to 7850 and is all-in
+SSK68: folds 
+pipinoelbreve9: folds 
+Isidro54: folds 
+Uncalled bet (5196) returned to stephdu76540
+*** FLOP *** [5c 3h 7c]
+*** TURN *** [5c 3h 7c] [3d]
+*** RIVER *** [5c 3h 7c 3d] [Kd]
+*** SHOW DOWN ***
+1983282: shows [5d Ac] (two pair, Fives and Threes)
+stephdu76540: shows [7d 7h] (a full house, Sevens full of Threes)
+stephdu76540 collected 7786 from pot
+stephdu76540 wins €0.12 for eliminating 1983282 and their own bounty increases by €0.05 to €0.22
+1983282 finished the tournament
+*** SUMMARY ***
+Total pot 7786 | Rake 0 
+Board [5c 3h 7c 3d Kd]
+Seat 1: 1983282 (small blind) showed [5d Ac] and lost with two pair, Fives and Threes
+Seat 2: stephdu76540 (big blind) showed [7d 7h] and won (7786) with a full house, Sevens full of Threes
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: SSK68 folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop
+Seat 6: Isidro54 (button) folded before Flop
+
+
+
+PokerStars Hand #257645822747: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 13:44:11 CET [2025/09/07 7:44:11 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 2: stephdu76540 (12982 in chips, €0.22 bounty) 
+Seat 3: BLF889 (15593 in chips, €0.22 bounty) 
+Seat 4: SSK68 (4585 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (8880 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (6867 in chips, €0.17 bounty) 
+stephdu76540: posts the ante 38
+BLF889: posts the ante 38
+SSK68: posts the ante 38
+pipinoelbreve9: posts the ante 38
+Isidro54: posts the ante 38
+BLF889: posts small blind 125
+SSK68: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 4c]
+pipinoelbreve9: calls 250
+Isidro54: calls 250
+stephdu76540: folds 
+BLF889: raises 250 to 500
+SSK68: calls 250
+pipinoelbreve9: folds 
+Isidro54: calls 250
+*** FLOP *** [3c Ah 2c]
+graz009 is disconnected 
+BLF889: checks 
+SSK68: bets 970
+Isidro54: folds 
+BLF889 has timed out
+BLF889: folds 
+BLF889 is sitting out
+Uncalled bet (970) returned to SSK68
+SSK68 collected 1940 from pot
+SSK68: doesn't show hand 
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [3c Ah 2c]
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) folded on the Flop
+Seat 4: SSK68 (big blind) collected (1940)
+Seat 5: pipinoelbreve9 folded before Flop
+Seat 6: Isidro54 folded on the Flop
+
+
+
+PokerStars Hand #257645830598: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 13:45:14 CET [2025/09/07 7:45:14 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: graz009 (5000 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (12944 in chips, €0.22 bounty) 
+Seat 3: BLF889 (15055 in chips, €0.22 bounty) is sitting out
+Seat 4: SSK68 (5987 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (8592 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (6329 in chips, €0.17 bounty) 
+graz009: posts the ante 38
+stephdu76540: posts the ante 38
+BLF889: posts the ante 38
+SSK68: posts the ante 38
+pipinoelbreve9: posts the ante 38
+Isidro54: posts the ante 38
+SSK68: posts small blind 125
+pipinoelbreve9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 5c]
+BLF889 has returned
+Isidro54: calls 250
+graz009: folds 
+stephdu76540: folds 
+BLF889: raises 250 to 500
+SSK68: calls 375
+pipinoelbreve9: folds 
+Isidro54: calls 250
+*** FLOP *** [7c 2d 2h]
+SSK68: checks 
+Isidro54: bets 500
+BLF889 has timed out
+BLF889: folds 
+BLF889 is sitting out
+SSK68: folds 
+Uncalled bet (500) returned to Isidro54
+BLF889 has returned
+Isidro54 collected 1978 from pot
+Isidro54: doesn't show hand 
+*** SUMMARY ***
+Total pot 1978 | Rake 0 
+Board [7c 2d 2h]
+Seat 1: graz009 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded on the Flop
+Seat 4: SSK68 (small blind) folded on the Flop
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: Isidro54 collected (1978)
+
+
+
+PokerStars Hand #257645837366: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 13:46:09 CET [2025/09/07 7:46:09 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: graz009 (4962 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (12906 in chips, €0.22 bounty) 
+Seat 3: BLF889 (14517 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5449 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (8304 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (7769 in chips, €0.17 bounty) 
+graz009: posts the ante 38
+stephdu76540: posts the ante 38
+BLF889: posts the ante 38
+SSK68: posts the ante 38
+pipinoelbreve9: posts the ante 38
+Isidro54: posts the ante 38
+pipinoelbreve9: posts small blind 125
+Isidro54: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 3c]
+graz009: raises 250 to 500
+stephdu76540: folds 
+BLF889: folds 
+SSK68: folds 
+pipinoelbreve9: calls 375
+Isidro54: calls 250
+*** FLOP *** [Tc Td Ah]
+pipinoelbreve9: checks 
+Isidro54: checks 
+graz009: checks 
+*** TURN *** [Tc Td Ah] [2h]
+pipinoelbreve9: checks 
+Isidro54: checks 
+graz009: bets 500
+pipinoelbreve9: folds 
+Isidro54: folds 
+Uncalled bet (500) returned to graz009
+graz009 collected 1728 from pot
+graz009: doesn't show hand 
+*** SUMMARY ***
+Total pot 1728 | Rake 0 
+Board [Tc Td Ah 2h]
+Seat 1: graz009 collected (1728)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: SSK68 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded on the Turn
+Seat 6: Isidro54 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257645843666: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:47:00 CET [2025/09/07 7:47:00 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: graz009 (6152 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (12868 in chips, €0.22 bounty) 
+Seat 3: BLF889 (14479 in chips, €0.22 bounty) 
+Seat 4: SSK68 (5411 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (7766 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (7231 in chips, €0.17 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+SSK68: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Isidro54: posts the ante 50
+Isidro54: posts small blind 150
+graz009: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 7s]
+stephdu76540: calls 300
+BLF889: folds 
+SSK68: raises 300 to 600
+pipinoelbreve9: folds 
+Isidro54: raises 2100 to 2700
+graz009: folds 
+stephdu76540: folds 
+SSK68: calls 2100
+*** FLOP *** [Qc 2h 3d]
+Isidro54: bets 3150
+SSK68: calls 2661 and is all-in
+Uncalled bet (489) returned to Isidro54
+*** TURN *** [Qc 2h 3d] [8h]
+*** RIVER *** [Qc 2h 3d 8h] [Qd]
+*** SHOW DOWN ***
+Isidro54: shows [9h 9d] (two pair, Queens and Nines)
+SSK68: shows [Td Kh] (a pair of Queens)
+Isidro54 collected 11622 from pot
+Isidro54 wins €0.12 for eliminating SSK68 and their own bounty increases by €0.05 to €0.22
+SSK68 finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 11622 | Rake 0 
+Board [Qc 2h 3d 8h Qd]
+Seat 1: graz009 (big blind) folded before Flop
+Seat 2: stephdu76540 folded before Flop
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: SSK68 showed [Td Kh] and lost with a pair of Queens
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: Isidro54 (small blind) showed [9h 9d] and won (11622) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #257645850816: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:47:57 CET [2025/09/07 7:47:57 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: graz009 (5802 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (12518 in chips, €0.22 bounty) 
+Seat 3: BLF889 (14429 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (7716 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (13442 in chips, €0.22 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Isidro54: posts the ante 50
+graz009: posts small blind 150
+stephdu76540: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 5c]
+BLF889 has timed out
+BLF889: folds 
+BLF889 is sitting out
+pipinoelbreve9: folds 
+BLF889 has returned
+Isidro54: calls 300
+graz009: folds 
+stephdu76540: checks 
+*** FLOP *** [Ac 2h As]
+stephdu76540: checks 
+Isidro54: checks 
+*** TURN *** [Ac 2h As] [Qd]
+stephdu76540: checks 
+Isidro54: checks 
+*** RIVER *** [Ac 2h As Qd] [4d]
+stephdu76540: checks 
+Isidro54: bets 1000
+stephdu76540: calls 1000
+*** SHOW DOWN ***
+Isidro54: shows [Ad 9c] (three of a kind, Aces)
+stephdu76540: mucks hand 
+Isidro54 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [Ac 2h As Qd 4d]
+Seat 1: graz009 (small blind) folded before Flop
+Seat 2: stephdu76540 (big blind) mucked [7s 4c]
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Isidro54 (button) showed [Ad 9c] and won (3000) with three of a kind, Aces
+
+
+
+PokerStars Hand #257645857057: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:48:47 CET [2025/09/07 7:48:47 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: graz009 (5602 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (11168 in chips, €0.22 bounty) 
+Seat 3: BLF889 (14379 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (7666 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (15092 in chips, €0.22 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Isidro54: posts the ante 50
+stephdu76540: posts small blind 150
+BLF889: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 9c]
+pipinoelbreve9: folds 
+Isidro54: calls 300
+graz009: folds 
+stephdu76540: calls 150
+BLF889: raises 300 to 600
+Isidro54: calls 300
+stephdu76540: calls 300
+*** FLOP *** [8s 2d 2h]
+stephdu76540: checks 
+BLF889: bets 600
+Isidro54: calls 600
+stephdu76540: calls 600
+*** TURN *** [8s 2d 2h] [4d]
+stephdu76540: checks 
+BLF889: bets 13129 and is all-in
+Isidro54: calls 13129
+stephdu76540: calls 9918 and is all-in
+*** RIVER *** [8s 2d 2h 4d] [5h]
+*** SHOW DOWN ***
+BLF889: shows [Ah Ac] (two pair, Aces and Deuces)
+Isidro54: shows [As 8h] (two pair, Eights and Deuces)
+BLF889 collected 6422 from side pot
+stephdu76540: shows [Js 2s] (three of a kind, Deuces)
+stephdu76540 collected 33604 from main pot
+*** SUMMARY ***
+Total pot 40026 Main pot 33604. Side pot 6422. | Rake 0 
+Board [8s 2d 2h 4d 5h]
+Seat 1: graz009 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) showed [Js 2s] and won (33604) with three of a kind, Deuces
+Seat 3: BLF889 (big blind) showed [Ah Ac] and won (6422) with two pair, Aces and Deuces
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Isidro54 showed [As 8h] and lost with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #257645863511: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:49:38 CET [2025/09/07 7:49:38 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: graz009 (5552 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (33604 in chips, €0.22 bounty) 
+Seat 3: BLF889 (6422 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (7616 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (713 in chips, €0.22 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Isidro54: posts the ante 50
+BLF889: posts small blind 150
+pipinoelbreve9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Kh]
+Isidro54: folds 
+graz009: calls 300
+stephdu76540: folds 
+BLF889: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [5d 4d 2d]
+pipinoelbreve9: checks 
+graz009: bets 500
+pipinoelbreve9: folds 
+Uncalled bet (500) returned to graz009
+graz009 collected 1000 from pot
+graz009: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5d 4d 2d]
+Seat 1: graz009 collected (1000)
+Seat 2: stephdu76540 (button) folded before Flop (didn't bet)
+Seat 3: BLF889 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded on the Flop
+Seat 6: Isidro54 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645867690: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:50:12 CET [2025/09/07 7:50:12 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: graz009 (6202 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (33554 in chips, €0.22 bounty) 
+Seat 3: BLF889 (6222 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (7266 in chips, €0.27 bounty) 
+Seat 6: Isidro54 (663 in chips, €0.22 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Isidro54: posts the ante 50
+pipinoelbreve9: posts small blind 150
+Isidro54: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 7s]
+graz009: folds 
+stephdu76540: folds 
+BLF889: folds 
+pipinoelbreve9: raises 300 to 600
+Isidro54: raises 13 to 613 and is all-in
+pipinoelbreve9: calls 13
+*** FLOP *** [As 8d Jh]
+*** TURN *** [As 8d Jh] [9c]
+*** RIVER *** [As 8d Jh 9c] [5c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad 7s] (a pair of Aces)
+Isidro54: shows [5s Qc] (a pair of Fives)
+pipinoelbreve9 collected 1476 from pot
+pipinoelbreve9 wins €0.15 for eliminating Isidro54 and their own bounty increases by €0.07 to €0.34
+Isidro54 finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 1476 | Rake 0 
+Board [As 8d Jh 9c 5c]
+Seat 1: graz009 folded before Flop (didn't bet)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) showed [Ad 7s] and won (1476) with a pair of Aces
+Seat 6: Isidro54 (big blind) showed [5s Qc] and lost with a pair of Fives
+
+
+
+PokerStars Hand #257645872122: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:50:46 CET [2025/09/07 7:50:46 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: graz009 (6152 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (33504 in chips, €0.22 bounty) 
+Seat 3: BLF889 (6172 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (8079 in chips, €0.34 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+pipinoelbreve9: posts the ante 50
+graz009: posts small blind 150
+stephdu76540: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 5h]
+Phantomas18 is disconnected 
+BLF889: folds 
+pipinoelbreve9: raises 600 to 900
+graz009: calls 750
+stephdu76540: folds 
+*** FLOP *** [5c 5s Ks]
+graz009: checks 
+pipinoelbreve9: bets 850
+graz009: folds 
+Uncalled bet (850) returned to pipinoelbreve9
+pipinoelbreve9 collected 2300 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [5c 5s Ks]
+Seat 1: graz009 (small blind) folded on the Flop
+Seat 2: stephdu76540 (big blind) folded before Flop
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) collected (2300)
+
+
+
+PokerStars Hand #257645875818: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 13:51:16 CET [2025/09/07 7:51:16 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: graz009 (5202 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (33154 in chips, €0.22 bounty) 
+Seat 3: BLF889 (6122 in chips, €0.22 bounty) 
+Seat 4: chicho197619 (14624 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9429 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (7681 in chips, €0.17 bounty) 
+graz009: posts the ante 50
+stephdu76540: posts the ante 50
+BLF889: posts the ante 50
+chicho197619: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Phantomas18: posts the ante 50
+stephdu76540: posts small blind 150
+BLF889: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Jh]
+chicho197619: calls 300
+pipinoelbreve9: folds 
+Phantomas18: folds 
+graz009: folds 
+stephdu76540: calls 150
+BLF889: raises 600 to 900
+chicho197619: calls 600
+stephdu76540: calls 600
+*** FLOP *** [6s 8d Ac]
+stephdu76540: checks 
+BLF889 has timed out
+BLF889: checks 
+chicho197619: checks 
+*** TURN *** [6s 8d Ac] [Ks]
+stephdu76540: checks 
+BLF889: bets 5172 and is all-in
+chicho197619: folds 
+stephdu76540: folds 
+Uncalled bet (5172) returned to BLF889
+BLF889 collected 3000 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [6s 8d Ac Ks]
+Seat 1: graz009 (button) folded before Flop (didn't bet)
+Seat 2: stephdu76540 (small blind) folded on the Turn
+Seat 3: BLF889 (big blind) collected (3000)
+Seat 4: chicho197619 folded on the Turn
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Phantomas18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645883628: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 13:52:18 CET [2025/09/07 7:52:18 ET]
+Table '3925915473 9' 6-max Seat #2 is the button
+Seat 1: graz009 (5152 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (32204 in chips, €0.22 bounty) 
+Seat 3: BLF889 (8172 in chips, €0.22 bounty) 
+Seat 4: chicho197619 (13674 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9379 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (7631 in chips, €0.17 bounty) 
+graz009: posts the ante 60
+stephdu76540: posts the ante 60
+BLF889: posts the ante 60
+chicho197619: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Phantomas18: posts the ante 60
+BLF889: posts small blind 200
+chicho197619: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Qs]
+pipinoelbreve9: folds 
+Phantomas18: folds 
+graz009: calls 400
+stephdu76540: raises 1760 to 2160
+BLF889: folds 
+chicho197619: folds 
+graz009: calls 1760
+*** FLOP *** [4h 5c Ah]
+graz009: bets 400
+stephdu76540: raises 3040 to 3440
+graz009: calls 2532 and is all-in
+Uncalled bet (508) returned to stephdu76540
+*** TURN *** [4h 5c Ah] [Ad]
+*** RIVER *** [4h 5c Ah Ad] [Tc]
+*** SHOW DOWN ***
+graz009: shows [4s Ac] (a full house, Aces full of Fours)
+stephdu76540: shows [Js As] (three of a kind, Aces)
+graz009 collected 11144 from pot
+*** SUMMARY ***
+Total pot 11144 | Rake 0 
+Board [4h 5c Ah Ad Tc]
+Seat 1: graz009 showed [4s Ac] and won (11144) with a full house, Aces full of Fours
+Seat 2: stephdu76540 (button) showed [Js As] and lost with three of a kind, Aces
+Seat 3: BLF889 (small blind) folded before Flop
+Seat 4: chicho197619 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Phantomas18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645888710: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 13:52:57 CET [2025/09/07 7:52:57 ET]
+Table '3925915473 9' 6-max Seat #3 is the button
+Seat 1: graz009 (11144 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (27052 in chips, €0.22 bounty) 
+Seat 3: BLF889 (7912 in chips, €0.22 bounty) 
+Seat 4: chicho197619 (13214 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (9319 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (7571 in chips, €0.17 bounty) 
+graz009: posts the ante 60
+stephdu76540: posts the ante 60
+BLF889: posts the ante 60
+chicho197619: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Phantomas18: posts the ante 60
+chicho197619: posts small blind 200
+pipinoelbreve9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s As]
+Phantomas18: folds 
+graz009: calls 400
+stephdu76540: folds 
+BLF889: calls 400
+chicho197619: calls 200
+pipinoelbreve9: checks 
+*** FLOP *** [5c 2c 9c]
+chicho197619: checks 
+pipinoelbreve9: checks 
+graz009: checks 
+BLF889: checks 
+*** TURN *** [5c 2c 9c] [Kc]
+chicho197619: checks 
+pipinoelbreve9: checks 
+graz009: checks 
+BLF889: bets 7452 and is all-in
+chicho197619: folds 
+pipinoelbreve9: folds 
+graz009: folds 
+Uncalled bet (7452) returned to BLF889
+BLF889 collected 1960 from pot
+BLF889: doesn't show hand 
+*** SUMMARY ***
+Total pot 1960 | Rake 0 
+Board [5c 2c 9c Kc]
+Seat 1: graz009 folded on the Turn
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 (button) collected (1960)
+Seat 4: chicho197619 (small blind) folded on the Turn
+Seat 5: pipinoelbreve9 (big blind) folded on the Turn
+Seat 6: Phantomas18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257645898825: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 13:54:18 CET [2025/09/07 7:54:18 ET]
+Table '3925915473 9' 6-max Seat #4 is the button
+Seat 1: graz009 (10684 in chips, €0.17 bounty) 
+Seat 2: stephdu76540 (26992 in chips, €0.22 bounty) 
+Seat 3: BLF889 (9412 in chips, €0.22 bounty) 
+Seat 4: chicho197619 (12754 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (8859 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (7511 in chips, €0.17 bounty) 
+graz009: posts the ante 60
+stephdu76540: posts the ante 60
+BLF889: posts the ante 60
+chicho197619: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Phantomas18: posts the ante 60
+pipinoelbreve9: posts small blind 200
+Phantomas18: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Kc]
+graz009: raises 400 to 800
+stephdu76540: folds 
+BLF889: calls 800
+chicho197619: calls 800
+pipinoelbreve9: calls 600
+Phantomas18: folds 
+*** FLOP *** [As Ad 2d]
+pipinoelbreve9: checks 
+graz009: bets 400
+BLF889: calls 400
+chicho197619: folds 
+pipinoelbreve9: folds 
+*** TURN *** [As Ad 2d] [3s]
+graz009: bets 400
+BLF889: folds 
+Uncalled bet (400) returned to graz009
+graz009 collected 4760 from pot
+graz009: doesn't show hand 
+*** SUMMARY ***
+Total pot 4760 | Rake 0 
+Board [As Ad 2d 3s]
+Seat 1: graz009 collected (4760)
+Seat 2: stephdu76540 folded before Flop (didn't bet)
+Seat 3: BLF889 folded on the Turn
+Seat 4: chicho197619 (button) folded on the Flop
+Seat 5: pipinoelbreve9 (small blind) folded on the Flop
+Seat 6: Phantomas18 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257645935216: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 14:00:18 CET [2025/09/07 8:00:18 ET]
+Table '3925915473 9' 6-max Seat #5 is the button
+Seat 1: graz009 (14184 in chips, €0.17 bounty) 
+Seat 2: vit54910 (28035 in chips, €0.41 bounty) 
+Seat 3: BLF889 (8152 in chips, €0.22 bounty) 
+Seat 4: chicho197619 (11894 in chips, €0.17 bounty) 
+Seat 5: pipinoelbreve9 (7999 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (7051 in chips, €0.17 bounty) 
+graz009: posts the ante 60
+vit54910: posts the ante 60
+BLF889: posts the ante 60
+chicho197619: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Phantomas18: posts the ante 60
+Phantomas18: posts small blind 200
+graz009: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 4c]
+vit54910: calls 400
+BLF889: folds 
+chicho197619: raises 11434 to 11834 and is all-in
+pipinoelbreve9: folds 
+Phantomas18: folds 
+graz009: folds 
+vit54910: calls 11434
+*** FLOP *** [7s 6h 5s]
+*** TURN *** [7s 6h 5s] [Kc]
+*** RIVER *** [7s 6h 5s Kc] [Kh]
+*** SHOW DOWN ***
+vit54910: shows [Ah 5c] (two pair, Kings and Fives)
+chicho197619: shows [Jd As] (a pair of Kings)
+vit54910 collected 24628 from pot
+vit54910 wins €0.12 for eliminating chicho197619 and their own bounty increases by €0.05 to €0.46
+chicho197619 finished the tournament in 29th place
+*** SUMMARY ***
+Total pot 24628 | Rake 0 
+Board [7s 6h 5s Kc Kh]
+Seat 1: graz009 (big blind) folded before Flop
+Seat 2: vit54910 showed [Ah 5c] and won (24628) with two pair, Kings and Fives
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 4: chicho197619 showed [Jd As] and lost with a pair of Kings
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: Phantomas18 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257645943578: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 14:01:31 CET [2025/09/07 8:01:31 ET]
+Table '3925915473 9' 6-max Seat #6 is the button
+Seat 1: graz009 (13724 in chips, €0.17 bounty) 
+Seat 2: vit54910 (40769 in chips, €0.46 bounty) 
+Seat 3: BLF889 (8092 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (7939 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (6791 in chips, €0.17 bounty) 
+graz009: posts the ante 60
+vit54910: posts the ante 60
+BLF889: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Phantomas18: posts the ante 60
+graz009: posts small blind 200
+vit54910: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Jh]
+BLF889: folds 
+pipinoelbreve9: calls 400
+Phantomas18: calls 400
+graz009: calls 200
+vit54910: checks 
+*** FLOP *** [7h Jd 7c]
+graz009: checks 
+vit54910: checks 
+pipinoelbreve9: bets 950
+Phantomas18: raises 5381 to 6331 and is all-in
+graz009: folds 
+vit54910: folds 
+pipinoelbreve9: calls 5381
+*** TURN *** [7h Jd 7c] [8c]
+*** RIVER *** [7h Jd 7c 8c] [5s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [4h Jh] (two pair, Jacks and Sevens)
+Phantomas18: shows [Js Qc] (two pair, Jacks and Sevens - Queen kicker)
+Phantomas18 collected 14562 from pot
+*** SUMMARY ***
+Total pot 14562 | Rake 0 
+Board [7h Jd 7c 8c 5s]
+Seat 1: graz009 (small blind) folded on the Flop
+Seat 2: vit54910 (big blind) folded on the Flop
+Seat 3: BLF889 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [4h Jh] and lost with two pair, Jacks and Sevens
+Seat 6: Phantomas18 (button) showed [Js Qc] and won (14562) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #257645948933: Tournament #3925915473, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 14:02:13 CET [2025/09/07 8:02:13 ET]
+Table '3925915473 9' 6-max Seat #1 is the button
+Seat 1: graz009 (13264 in chips, €0.17 bounty) 
+Seat 2: vit54910 (40309 in chips, €0.46 bounty) 
+Seat 3: BLF889 (8032 in chips, €0.22 bounty) 
+Seat 5: pipinoelbreve9 (1148 in chips, €0.34 bounty) 
+Seat 6: Phantomas18 (14562 in chips, €0.17 bounty) 
+graz009: posts the ante 80
+vit54910: posts the ante 80
+BLF889: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Phantomas18: posts the ante 80
+vit54910: posts small blind 250
+BLF889: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 3d]
+pipinoelbreve9: raises 568 to 1068 and is all-in
+Phantomas18: calls 1068
+graz009: calls 1068
+vit54910: calls 818
+BLF889: folds 
+*** FLOP *** [4s 9c Th]
+vit54910: checks 
+Phantomas18: bets 5172
+graz009: raises 6944 to 12116 and is all-in
+vit54910: folds 
+Phantomas18: calls 6944
+*** TURN *** [4s 9c Th] [5h]
+*** RIVER *** [4s 9c Th 5h] [5s]
+*** SHOW DOWN ***
+Phantomas18: shows [9s 8c] (two pair, Nines and Fives)
+graz009: shows [Ac Kc] (a pair of Fives)
+Phantomas18 collected 24232 from side pot
+pipinoelbreve9: shows [3c 3d] (two pair, Fives and Threes)
+Phantomas18 collected 5172 from main pot
+Phantomas18 wins €0.12 for eliminating graz009 and their own bounty increases by €0.05 to €0.22
+Phantomas18 wins €0.23 for eliminating pipinoelbreve9 and their own bounty increases by €0.11 to €0.33
+graz009 finished the tournament in 27th place
+pipinoelbreve9 finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 29404 Main pot 5172. Side pot 24232. | Rake 0 
+Board [4s 9c Th 5h 5s]
+Seat 1: graz009 (button) showed [Ac Kc] and lost with a pair of Fives
+Seat 2: vit54910 (small blind) folded on the Flop
+Seat 3: BLF889 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 showed [3c 3d] and lost with two pair, Fives and Threes
+Seat 6: Phantomas18 showed [9s 8c] and won (29404) with two pair, Nines and Fives
+
+
+

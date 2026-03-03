@@ -1,0 +1,47 @@
+﻿PokerStars Hand #257986491318: Tournament #3931542323, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level XIV (400/800) - 2025/10/03 21:43:39 CET [2025/10/03 15:43:39 ET]
+Table '3931542323 15' 6-max Seat #4 is the button
+Seat 1: Geoff9234 (20700 in chips) 
+Seat 2: pipinoelbreve9 (10000 in chips) 
+Seat 3: rugby 28 (22024 in chips) 
+Seat 4: frenki290 (15500 in chips) 
+Seat 5: special7even (43389 in chips) 
+Seat 6: anocas5 (7298 in chips) 
+Geoff9234: posts the ante 100
+pipinoelbreve9: posts the ante 100
+rugby 28: posts the ante 100
+frenki290: posts the ante 100
+special7even: posts the ante 100
+anocas5: posts the ante 100
+special7even: posts small blind 400
+anocas5: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Ad]
+Geoff9234: folds 
+pipinoelbreve9: raises 1600 to 2400
+rugby 28: folds 
+frenki290: folds 
+special7even: raises 40889 to 43289 and is all-in
+anocas5: folds 
+pipinoelbreve9: calls 7500 and is all-in
+Uncalled bet (33389) returned to special7even
+*** FLOP *** [6s Qh Kc]
+*** TURN *** [6s Qh Kc] [2c]
+*** RIVER *** [6s Qh Kc 2c] [3h]
+*** SHOW DOWN ***
+special7even: shows [Kd Qd] (two pair, Kings and Queens)
+pipinoelbreve9: shows [7s Ad] (high card Ace)
+special7even collected 21200 from pot
+special7even wins the €0.45 bounty for eliminating pipinoelbreve9
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 21200 | Rake 0 
+Board [6s Qh Kc 2c 3h]
+Seat 1: Geoff9234 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 showed [7s Ad] and lost with high card Ace
+Seat 3: rugby 28 folded before Flop (didn't bet)
+Seat 4: frenki290 (button) folded before Flop (didn't bet)
+Seat 5: special7even (small blind) showed [Kd Qd] and won (21200) with two pair, Kings and Queens
+Seat 6: anocas5 (big blind) folded before Flop
+
+
+

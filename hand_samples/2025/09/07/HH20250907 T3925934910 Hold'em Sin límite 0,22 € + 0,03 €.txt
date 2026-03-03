@@ -1,0 +1,5057 @@
+﻿PokerStars Hand #257646317950: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:45:29 CET [2025/09/07 8:45:29 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: joelprk535jl (5000 in chips, €0.17 bounty) 
+Seat 3: amsdome (5000 in chips, €0.17 bounty) 
+Seat 4: marck206 (5000 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5000 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+amsdome: posts small blind 25
+marck206: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 9d]
+Llama Mojada: raises 50 to 100
+pipinoelbreve9 has timed out
+pipinoelbreve9: folds 
+pipinoelbreve9 is sitting out
+joelprk535jl: raises 50 to 150
+amsdome: folds 
+marck206: folds 
+Llama Mojada: calls 50
+*** FLOP *** [6s 3h Ac]
+pipinoelbreve9 has returned
+Llama Mojada: checks 
+joelprk535jl: bets 200
+Llama Mojada: calls 200
+*** TURN *** [6s 3h Ac] [3d]
+Llama Mojada: checks 
+joelprk535jl: checks 
+*** RIVER *** [6s 3h Ac 3d] [2s]
+Llama Mojada: bets 600
+joelprk535jl: folds 
+Uncalled bet (600) returned to Llama Mojada
+Llama Mojada collected 800 from pot
+Llama Mojada: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [6s 3h Ac 3d 2s]
+Seat 1: joelprk535jl (button) folded on the River
+Seat 3: amsdome (small blind) folded before Flop
+Seat 4: marck206 (big blind) folded before Flop
+Seat 5: Llama Mojada collected (800)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646335503: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:47:25 CET [2025/09/07 8:47:25 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 1: joelprk535jl (4645 in chips, €0.17 bounty) 
+Seat 2: IBZ84 (5000 in chips, €0.17 bounty) 
+Seat 3: amsdome (4970 in chips, €0.17 bounty) 
+Seat 4: marck206 (4945 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5445 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4995 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+IBZ84: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+marck206: posts small blind 25
+Llama Mojada: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d Tc]
+pipinoelbreve9: folds 
+joelprk535jl: raises 50 to 100
+IBZ84: folds 
+amsdome: folds 
+marck206: folds 
+Llama Mojada: calls 50
+*** FLOP *** [Ah Kc Jc]
+Llama Mojada: checks 
+joelprk535jl: checks 
+*** TURN *** [Ah Kc Jc] [3s]
+Llama Mojada: checks 
+joelprk535jl: bets 255
+Llama Mojada: folds 
+Uncalled bet (255) returned to joelprk535jl
+joelprk535jl collected 255 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Ah Kc Jc 3s]
+Seat 1: joelprk535jl collected (255)
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: amsdome (button) folded before Flop (didn't bet)
+Seat 4: marck206 (small blind) folded before Flop
+Seat 5: Llama Mojada (big blind) folded on the Turn
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646341622: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:48:06 CET [2025/09/07 8:48:06 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: joelprk535jl (4795 in chips, €0.17 bounty) 
+Seat 3: amsdome (4965 in chips, €0.17 bounty) 
+Seat 4: marck206 (4915 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5340 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4990 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+Llama Mojada: posts small blind 25
+pipinoelbreve9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 4h]
+joelprk535jl: folds 
+amsdome: raises 50 to 100
+marck206: folds 
+Llama Mojada: folds 
+pipinoelbreve9: folds 
+Uncalled bet (50) returned to amsdome
+amsdome collected 150 from pot
+amsdome: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: joelprk535jl folded before Flop (didn't bet)
+Seat 3: amsdome collected (150)
+Seat 4: marck206 (button) folded before Flop (didn't bet)
+Seat 5: Llama Mojada (small blind) folded before Flop
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646346068: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:48:35 CET [2025/09/07 8:48:35 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 1: joelprk535jl (4790 in chips, €0.17 bounty) 
+Seat 3: amsdome (5060 in chips, €0.17 bounty) 
+Seat 4: marck206 (4910 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5310 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4935 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+pipinoelbreve9: posts small blind 25
+joelprk535jl: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c Jd]
+amsdome: folds 
+marck206: folds 
+Llama Mojada: folds 
+pipinoelbreve9: folds 
+Uncalled bet (25) returned to joelprk535jl
+joelprk535jl collected 75 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: joelprk535jl (big blind) collected (75)
+Seat 3: amsdome folded before Flop (didn't bet)
+Seat 4: marck206 folded before Flop (didn't bet)
+Seat 5: Llama Mojada (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646347801: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:48:46 CET [2025/09/07 8:48:46 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: joelprk535jl (4835 in chips, €0.17 bounty) 
+Seat 3: amsdome (5055 in chips, €0.17 bounty) 
+Seat 4: marck206 (4905 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5305 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4905 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+joelprk535jl: posts small blind 25
+amsdome: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Jc]
+marck206: calls 50
+Llama Mojada: calls 50
+pipinoelbreve9: calls 50
+joelprk535jl: raises 275 to 325
+amsdome: folds 
+marck206: folds 
+Llama Mojada: calls 275
+pipinoelbreve9: folds 
+*** FLOP *** [7c 2h 8h]
+joelprk535jl: bets 825
+Llama Mojada: folds 
+Uncalled bet (825) returned to joelprk535jl
+joelprk535jl collected 825 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [7c 2h 8h]
+Seat 1: joelprk535jl (small blind) collected (825)
+Seat 3: amsdome (big blind) folded before Flop
+Seat 4: marck206 folded before Flop
+Seat 5: Llama Mojada folded on the Flop
+Seat 6: pipinoelbreve9 (button) folded before Flop
+
+
+
+PokerStars Hand #257646354501: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:49:30 CET [2025/09/07 8:49:30 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: joelprk535jl (5330 in chips, €0.17 bounty) 
+Seat 3: amsdome (5000 in chips, €0.17 bounty) 
+Seat 4: marck206 (4850 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4975 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4850 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+amsdome: posts small blind 25
+marck206: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 3h]
+Llama Mojada: raises 50 to 100
+pipinoelbreve9: folds 
+joelprk535jl: calls 100
+amsdome: folds 
+marck206: folds 
+*** FLOP *** [7s 9s Js]
+Llama Mojada: bets 99
+joelprk535jl: raises 99 to 198
+Llama Mojada: calls 99
+*** TURN *** [7s 9s Js] [Ks]
+Llama Mojada: checks 
+joelprk535jl: checks 
+*** RIVER *** [7s 9s Js Ks] [Kd]
+Llama Mojada: bets 230
+joelprk535jl: calls 230
+*** SHOW DOWN ***
+Llama Mojada: shows [8d 9d] (two pair, Kings and Nines)
+joelprk535jl: shows [Qh Jc] (two pair, Kings and Jacks)
+joelprk535jl collected 1156 from pot
+*** SUMMARY ***
+Total pot 1156 | Rake 0 
+Board [7s 9s Js Ks Kd]
+Seat 1: joelprk535jl (button) showed [Qh Jc] and won (1156) with two pair, Kings and Jacks
+Seat 3: amsdome (small blind) folded before Flop
+Seat 4: marck206 (big blind) folded before Flop
+Seat 5: Llama Mojada showed [8d 9d] and lost with two pair, Kings and Nines
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646359556: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level I (25/50) - 2025/09/07 14:50:04 CET [2025/09/07 8:50:04 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 1: joelprk535jl (5953 in chips, €0.17 bounty) 
+Seat 3: amsdome (4970 in chips, €0.17 bounty) 
+Seat 4: marck206 (4795 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4442 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4845 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 5
+amsdome: posts the ante 5
+marck206: posts the ante 5
+Llama Mojada: posts the ante 5
+pipinoelbreve9: posts the ante 5
+marck206: posts small blind 25
+Llama Mojada: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 4d]
+pipinoelbreve9 has timed out
+pipinoelbreve9: folds 
+pipinoelbreve9 is sitting out
+pipinoelbreve9 has returned
+joelprk535jl: raises 50 to 100
+amsdome: calls 100
+marck206: folds 
+Llama Mojada: folds 
+*** FLOP *** [Js 9c 6s]
+joelprk535jl: bets 50
+amsdome: raises 400 to 450
+joelprk535jl: calls 400
+*** TURN *** [Js 9c 6s] [9h]
+joelprk535jl: checks 
+amsdome: bets 1200
+joelprk535jl: calls 1200
+*** RIVER *** [Js 9c 6s 9h] [Ac]
+joelprk535jl: checks 
+amsdome: bets 3215 and is all-in
+joelprk535jl: folds 
+Uncalled bet (3215) returned to amsdome
+amsdome collected 3600 from pot
+amsdome: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Board [Js 9c 6s 9h Ac]
+Seat 1: joelprk535jl folded on the River
+Seat 3: amsdome (button) collected (3600)
+Seat 4: marck206 (small blind) folded before Flop
+Seat 5: Llama Mojada (big blind) folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646372543: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 14:51:30 CET [2025/09/07 8:51:30 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: joelprk535jl (4198 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (5000 in chips, €0.17 bounty) 
+Seat 4: marck206 (4765 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4387 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (4840 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+marck206: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+Llama Mojada: posts small blind 30
+pipinoelbreve9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8h]
+vaxko95 is disconnected 
+joelprk535jl: folds 
+Lolopedro1968: calls 60
+marck206: folds 
+Llama Mojada: calls 30
+pipinoelbreve9: checks 
+*** FLOP *** [8s 5s 7d]
+Llama Mojada: bets 60
+pipinoelbreve9: raises 180 to 240
+Lolopedro1968: calls 240
+Llama Mojada: calls 180
+*** TURN *** [8s 5s 7d] [7s]
+Llama Mojada: checks 
+pipinoelbreve9: bets 415
+Lolopedro1968: calls 415
+Llama Mojada: folds 
+*** RIVER *** [8s 5s 7d 7s] [Ah]
+pipinoelbreve9: bets 4115 and is all-in
+Lolopedro1968: folds 
+Uncalled bet (4115) returned to pipinoelbreve9
+pipinoelbreve9 collected 1780 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Board [8s 5s 7d 7s Ah]
+Seat 1: joelprk535jl folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 folded on the River
+Seat 4: marck206 (button) folded before Flop (didn't bet)
+Seat 5: Llama Mojada (small blind) folded on the Turn
+Seat 6: pipinoelbreve9 (big blind) collected (1780)
+
+
+
+PokerStars Hand #257646377928: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 14:52:06 CET [2025/09/07 8:52:06 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 1: joelprk535jl (4188 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (4275 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (5000 in chips, €0.17 bounty) 
+Seat 4: marck206 (4755 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4077 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5895 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+vaxko95: posts the ante 10
+marck206: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+pipinoelbreve9: posts small blind 30
+joelprk535jl: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 3h]
+Lolopedro1968: calls 60
+vaxko95: folds 
+marck206: folds 
+Llama Mojada: calls 60
+pipinoelbreve9: folds 
+joelprk535jl has timed out
+joelprk535jl: checks 
+*** FLOP *** [Kd Jc 2h]
+joelprk535jl has timed out
+joelprk535jl: checks 
+Lolopedro1968: checks 
+Llama Mojada: checks 
+*** TURN *** [Kd Jc 2h] [Ts]
+joelprk535jl: bets 270
+Lolopedro1968: folds 
+Llama Mojada: folds 
+Uncalled bet (270) returned to joelprk535jl
+joelprk535jl collected 270 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Kd Jc 2h Ts]
+Seat 1: joelprk535jl (big blind) collected (270)
+Seat 2: Lolopedro1968 folded on the Turn
+Seat 3: vaxko95 folded before Flop (didn't bet)
+Seat 4: marck206 folded before Flop (didn't bet)
+Seat 5: Llama Mojada (button) folded on the Turn
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646386687: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 14:53:04 CET [2025/09/07 8:53:04 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: joelprk535jl (4388 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (4205 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (4990 in chips, €0.17 bounty) 
+Seat 4: marck206 (4745 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4007 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5855 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+vaxko95: posts the ante 10
+marck206: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+joelprk535jl: posts small blind 30
+Lolopedro1968: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Jc]
+vaxko95: folds 
+marck206: folds 
+Llama Mojada: folds 
+pipinoelbreve9: raises 120 to 180
+joelprk535jl: calls 150
+Lolopedro1968: calls 120
+*** FLOP *** [Qd Qc 7h]
+joelprk535jl: checks 
+Lolopedro1968: checks 
+pipinoelbreve9: bets 240
+joelprk535jl: raises 240 to 480
+Lolopedro1968: folds 
+pipinoelbreve9: folds 
+Uncalled bet (240) returned to joelprk535jl
+joelprk535jl collected 1080 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Qd Qc 7h]
+Seat 1: joelprk535jl (small blind) collected (1080)
+Seat 2: Lolopedro1968 (big blind) folded on the Flop
+Seat 3: vaxko95 folded before Flop (didn't bet)
+Seat 4: marck206 folded before Flop (didn't bet)
+Seat 5: Llama Mojada folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded on the Flop
+
+
+
+PokerStars Hand #257646395830: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 14:54:05 CET [2025/09/07 8:54:05 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: joelprk535jl (5038 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (4015 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (4980 in chips, €0.17 bounty) 
+Seat 4: marck206 (4735 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (3997 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5425 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+vaxko95: posts the ante 10
+marck206: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+Lolopedro1968: posts small blind 30
+vaxko95: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 8d]
+marck206: folds 
+Llama Mojada: folds 
+pipinoelbreve9: folds 
+joelprk535jl: raises 60 to 120
+Lolopedro1968: calls 90
+vaxko95: calls 60
+*** FLOP *** [3s 5c Tc]
+Lolopedro1968: checks 
+vaxko95: checks 
+joelprk535jl: bets 660
+Lolopedro1968: folds 
+vaxko95: folds 
+Uncalled bet (660) returned to joelprk535jl
+joelprk535jl collected 420 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3s 5c Tc]
+Seat 1: joelprk535jl (button) collected (420)
+Seat 2: Lolopedro1968 (small blind) folded on the Flop
+Seat 3: vaxko95 (big blind) folded on the Flop
+Seat 4: marck206 folded before Flop (didn't bet)
+Seat 5: Llama Mojada folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646402457: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 14:54:49 CET [2025/09/07 8:54:49 ET]
+Table '3925934910 1' 6-max Seat #2 is the button
+Seat 1: joelprk535jl (5328 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (3885 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (4850 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (3987 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5415 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+vaxko95: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+vaxko95: posts small blind 30
+Llama Mojada: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 8h]
+pipinoelbreve9: folds 
+joelprk535jl: raises 60 to 120
+Lolopedro1968: calls 120
+vaxko95: raises 470 to 590
+Llama Mojada: folds 
+joelprk535jl: calls 470
+Lolopedro1968: calls 470
+*** FLOP *** [Qs Ad Kc]
+vaxko95: checks 
+joelprk535jl: checks 
+Lolopedro1968: bets 1880
+vaxko95: folds 
+joelprk535jl: calls 1880
+*** TURN *** [Qs Ad Kc] [9c]
+joelprk535jl: checks 
+Lolopedro1968: checks 
+*** RIVER *** [Qs Ad Kc 9c] [9s]
+joelprk535jl: bets 2820
+Lolopedro1968: calls 1405 and is all-in
+Uncalled bet (1415) returned to joelprk535jl
+*** SHOW DOWN ***
+joelprk535jl: shows [Jc Qh] (two pair, Queens and Nines)
+Lolopedro1968: shows [3s Ks] (two pair, Kings and Nines)
+Lolopedro1968 collected 8450 from pot
+*** SUMMARY ***
+Total pot 8450 | Rake 0 
+Board [Qs Ad Kc 9c 9s]
+Seat 1: joelprk535jl showed [Jc Qh] and lost with two pair, Queens and Nines
+Seat 2: Lolopedro1968 (button) showed [3s Ks] and won (8450) with two pair, Kings and Nines
+Seat 3: vaxko95 (small blind) folded on the Flop
+Seat 5: Llama Mojada (big blind) folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646445495: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level II (30/60) - 2025/09/07 15:01:17 CET [2025/09/07 9:01:17 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 1: joelprk535jl (1443 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (8450 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (4250 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Llama Mojada (3917 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5405 in chips, €0.17 bounty) 
+lucho1950 will be allowed to play after the button
+joelprk535jl: posts the ante 10
+Lolopedro1968: posts the ante 10
+vaxko95: posts the ante 10
+Llama Mojada: posts the ante 10
+pipinoelbreve9: posts the ante 10
+Llama Mojada: posts small blind 30
+pipinoelbreve9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Tc]
+joelprk535jl: folds 
+Lolopedro1968: calls 60
+vaxko95: folds 
+Llama Mojada: calls 30
+pipinoelbreve9: checks 
+*** FLOP *** [Qs 8c As]
+Llama Mojada: bets 60
+pipinoelbreve9: calls 60
+Lolopedro1968: folds 
+*** TURN *** [Qs 8c As] [8d]
+Llama Mojada: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [Qs 8c As 8d] [Kd]
+Llama Mojada: bets 263
+pipinoelbreve9: folds 
+Uncalled bet (263) returned to Llama Mojada
+Llama Mojada collected 350 from pot
+Llama Mojada: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Qs 8c As 8d Kd]
+Seat 1: joelprk535jl folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 folded on the Flop
+Seat 3: vaxko95 (button) folded before Flop (didn't bet)
+Seat 5: Llama Mojada (small blind) collected (350)
+Seat 6: pipinoelbreve9 (big blind) folded on the River
+
+
+
+PokerStars Hand #257646451478: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 15:02:00 CET [2025/09/07 9:02:00 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 1: joelprk535jl (1433 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (8380 in chips, €0.17 bounty) 
+Seat 3: vaxko95 (4240 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (5000 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (4137 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5275 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 12
+Lolopedro1968: posts the ante 12
+vaxko95: posts the ante 12
+lucho1950: posts the ante 12
+Llama Mojada: posts the ante 12
+pipinoelbreve9: posts the ante 12
+pipinoelbreve9: posts small blind 40
+joelprk535jl: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Qd]
+Lolopedro1968: folds 
+vaxko95: raises 160 to 240
+lucho1950: folds 
+Llama Mojada: calls 240
+pipinoelbreve9: folds 
+joelprk535jl: calls 160
+*** FLOP *** [2s 5s 3d]
+joelprk535jl: bets 1181 and is all-in
+vaxko95: raises 2807 to 3988 and is all-in
+Llama Mojada: calls 3885 and is all-in
+Uncalled bet (103) returned to vaxko95
+*** TURN *** [2s 5s 3d] [8h]
+*** RIVER *** [2s 5s 3d 8h] [9s]
+*** SHOW DOWN ***
+vaxko95: shows [4h 4s] (a pair of Fours)
+Llama Mojada: shows [4d 5d] (a pair of Fives)
+Llama Mojada collected 5408 from side pot
+joelprk535jl: shows [6d 7d] (a straight, Five to Nine)
+joelprk535jl collected 4375 from main pot
+*** SUMMARY ***
+Total pot 9783 Main pot 4375. Side pot 5408. | Rake 0 
+Board [2s 5s 3d 8h 9s]
+Seat 1: joelprk535jl (big blind) showed [6d 7d] and won (4375) with a straight, Five to Nine
+Seat 2: Lolopedro1968 folded before Flop (didn't bet)
+Seat 3: vaxko95 showed [4h 4s] and lost with a pair of Fours
+Seat 4: lucho1950 folded before Flop (didn't bet)
+Seat 5: Llama Mojada (button) showed [4d 5d] and won (5408) with a pair of Fives
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646457614: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 15:02:40 CET [2025/09/07 9:02:40 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: joelprk535jl (4375 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (8368 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (4988 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5408 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5223 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 12
+Lolopedro1968: posts the ante 12
+lucho1950: posts the ante 12
+Llama Mojada: posts the ante 12
+pipinoelbreve9: posts the ante 12
+joelprk535jl: posts small blind 40
+Lolopedro1968: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 6c]
+lucho1950: calls 80
+Llama Mojada: folds 
+pipinoelbreve9: raises 240 to 320
+martinuz16 is disconnected 
+joelprk535jl: folds 
+Lolopedro1968: calls 240
+lucho1950: calls 240
+*** FLOP *** [4s 5s 7h]
+Lolopedro1968: checks 
+lucho1950: checks 
+pipinoelbreve9: bets 610
+Lolopedro1968: calls 610
+lucho1950: folds 
+*** TURN *** [4s 5s 7h] [4h]
+Lolopedro1968: checks 
+pipinoelbreve9: bets 1140
+Lolopedro1968: folds 
+Uncalled bet (1140) returned to pipinoelbreve9
+pipinoelbreve9 collected 2280 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 2280 | Rake 0 
+Board [4s 5s 7h 4h]
+Seat 1: joelprk535jl (small blind) folded before Flop
+Seat 2: Lolopedro1968 (big blind) folded on the Turn
+Seat 4: lucho1950 folded on the Flop
+Seat 5: Llama Mojada folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) collected (2280)
+
+
+
+PokerStars Hand #257646468515: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 15:03:52 CET [2025/09/07 9:03:52 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: joelprk535jl (4323 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7426 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (5000 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (4656 in chips, €0.17 bounty) 
+Seat 5: Llama Mojada (5396 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (6561 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 12
+Lolopedro1968: posts the ante 12
+martinuz16: posts the ante 12
+lucho1950: posts the ante 12
+Llama Mojada: posts the ante 12
+pipinoelbreve9: posts the ante 12
+Lolopedro1968: posts small blind 40
+martinuz16: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Qc]
+lucho1950: calls 80
+Llama Mojada: folds 
+pipinoelbreve9: calls 80
+joelprk535jl: calls 80
+Lolopedro1968: calls 40
+martinuz16: checks 
+*** FLOP *** [4d 5s 7d]
+Lolopedro1968: checks 
+martinuz16: checks 
+lucho1950: bets 80
+pipinoelbreve9: calls 80
+joelprk535jl: calls 80
+Lolopedro1968: folds 
+martinuz16: calls 80
+*** TURN *** [4d 5s 7d] [9c]
+martinuz16: checks 
+lucho1950: bets 396
+pipinoelbreve9: folds 
+joelprk535jl: calls 396
+martinuz16: calls 396
+*** RIVER *** [4d 5s 7d 9c] [Qs]
+martinuz16: checks 
+lucho1950: bets 80
+joelprk535jl: calls 80
+martinuz16: calls 80
+*** SHOW DOWN ***
+lucho1950: shows [8d 9d] (a pair of Nines)
+joelprk535jl: shows [Ac 9h] (a pair of Nines - Ace kicker)
+martinuz16: shows [6h Qh] (a pair of Queens)
+martinuz16 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | Rake 0 
+Board [4d 5s 7d 9c Qs]
+Seat 1: joelprk535jl (button) showed [Ac 9h] and lost with a pair of Nines
+Seat 2: Lolopedro1968 (small blind) folded on the Flop
+Seat 3: martinuz16 (big blind) showed [6h Qh] and won (2220) with a pair of Queens
+Seat 4: lucho1950 showed [8d 9d] and lost with a pair of Nines
+Seat 5: Llama Mojada folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded on the Turn
+
+
+
+PokerStars Hand #257646480971: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 15:05:14 CET [2025/09/07 9:05:14 ET]
+Table '3925934910 1' 6-max Seat #2 is the button
+Seat 1: joelprk535jl (3675 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7334 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (6572 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (4008 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (6389 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 12
+Lolopedro1968: posts the ante 12
+martinuz16: posts the ante 12
+lucho1950: posts the ante 12
+pipinoelbreve9: posts the ante 12
+martinuz16: posts small blind 40
+lucho1950: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Kc]
+pipinoelbreve9: calls 80
+joelprk535jl: folds 
+Lolopedro1968: calls 80
+martinuz16: calls 40
+lucho1950: checks 
+*** FLOP *** [Qc Js Qh]
+martinuz16: bets 80
+lucho1950: folds 
+pipinoelbreve9: calls 80
+Lolopedro1968: calls 80
+*** TURN *** [Qc Js Qh] [9s]
+martinuz16: checks 
+pipinoelbreve9: checks 
+Lolopedro1968: checks 
+*** RIVER *** [Qc Js Qh 9s] [5c]
+martinuz16: bets 620
+pipinoelbreve9: folds 
+Lolopedro1968: folds 
+Uncalled bet (620) returned to martinuz16
+martinuz16 collected 620 from pot
+martinuz16: doesn't show hand 
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Qc Js Qh 9s 5c]
+Seat 1: joelprk535jl folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 (button) folded on the River
+Seat 3: martinuz16 (small blind) collected (620)
+Seat 4: lucho1950 (big blind) folded on the Flop
+Seat 6: pipinoelbreve9 folded on the River
+
+
+
+PokerStars Hand #257646491082: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level III (40/80) - 2025/09/07 15:06:22 CET [2025/09/07 9:06:22 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 1: joelprk535jl (3663 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7162 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (7020 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3916 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (6217 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 12
+Lolopedro1968: posts the ante 12
+martinuz16: posts the ante 12
+lucho1950: posts the ante 12
+pipinoelbreve9: posts the ante 12
+lucho1950: posts small blind 40
+pipinoelbreve9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 9h]
+joelprk535jl: raises 560 to 640
+Lolopedro1968: folds 
+martinuz16: calls 640
+lucho1950: folds 
+pipinoelbreve9: calls 560
+*** FLOP *** [Qc 5s 2c]
+pipinoelbreve9: checks 
+joelprk535jl: bets 1010
+martinuz16: calls 1010
+pipinoelbreve9: folds 
+*** TURN *** [Qc 5s 2c] [8h]
+joelprk535jl: bets 2001 and is all-in
+martinuz16: calls 2001
+*** RIVER *** [Qc 5s 2c 8h] [4d]
+*** SHOW DOWN ***
+joelprk535jl: shows [Jc Js] (a pair of Jacks)
+martinuz16: shows [8s Ac] (a pair of Eights)
+joelprk535jl collected 8042 from pot
+*** SUMMARY ***
+Total pot 8042 | Rake 0 
+Board [Qc 5s 2c 8h 4d]
+Seat 1: joelprk535jl showed [Jc Js] and won (8042) with a pair of Jacks
+Seat 2: Lolopedro1968 folded before Flop (didn't bet)
+Seat 3: martinuz16 (button) showed [8s Ac] and lost with a pair of Eights
+Seat 4: lucho1950 (small blind) folded before Flop
+Seat 6: pipinoelbreve9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257646500185: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:07:22 CET [2025/09/07 9:07:22 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: joelprk535jl (8042 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7150 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3357 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3864 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5565 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 14
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+pipinoelbreve9: posts the ante 14
+pipinoelbreve9: posts small blind 45
+joelprk535jl: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 5h]
+Lolopedro1968: calls 90
+martinuz16: folds 
+lucho1950: folds 
+pipinoelbreve9: calls 45
+joelprk535jl: checks 
+*** FLOP *** [8c 7s Qc]
+pipinoelbreve9: checks 
+joelprk535jl: checks 
+Lolopedro1968: bets 340
+pipinoelbreve9: calls 340
+KOKOALA54 is disconnected 
+joelprk535jl has timed out
+joelprk535jl: folds 
+joelprk535jl is sitting out
+*** TURN *** [8c 7s Qc] [6s]
+joelprk535jl has returned
+pipinoelbreve9: checks 
+Lolopedro1968: checks 
+*** RIVER *** [8c 7s Qc 6s] [4s]
+pipinoelbreve9: bets 510
+Lolopedro1968: raises 6196 to 6706 and is all-in
+pipinoelbreve9: calls 4611 and is all-in
+Uncalled bet (1585) returned to Lolopedro1968
+*** SHOW DOWN ***
+Lolopedro1968: shows [4h 4d] (three of a kind, Fours)
+pipinoelbreve9: shows [6d 5h] (a straight, Four to Eight)
+pipinoelbreve9 collected 11262 from pot
+*** SUMMARY ***
+Total pot 11262 | Rake 0 
+Board [8c 7s Qc 6s 4s]
+Seat 1: joelprk535jl (big blind) folded on the Flop
+Seat 2: Lolopedro1968 showed [4h 4d] and lost with three of a kind, Fours
+Seat 3: martinuz16 folded before Flop (didn't bet)
+Seat 4: lucho1950 (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) showed [6d 5h] and won (11262) with a straight, Four to Eight
+
+
+
+PokerStars Hand #257646510150: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:08:28 CET [2025/09/07 9:08:28 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: joelprk535jl (7938 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (1585 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3343 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3850 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (5000 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (11262 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 14
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+KOKOALA54: posts the ante 14
+pipinoelbreve9: posts the ante 14
+joelprk535jl: posts small blind 45
+Lolopedro1968: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 3d]
+martinuz16: folds 
+lucho1950: folds 
+KOKOALA54: folds 
+pipinoelbreve9: folds 
+joelprk535jl: raises 90 to 180
+Lolopedro1968: calls 90
+*** FLOP *** [5s 3s Kd]
+joelprk535jl: bets 444
+Lolopedro1968: folds 
+Uncalled bet (444) returned to joelprk535jl
+joelprk535jl collected 444 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Board [5s 3s Kd]
+Seat 1: joelprk535jl (small blind) collected (444)
+Seat 2: Lolopedro1968 (big blind) folded on the Flop
+Seat 3: martinuz16 folded before Flop (didn't bet)
+Seat 4: lucho1950 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646514054: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:08:54 CET [2025/09/07 9:08:54 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: joelprk535jl (8188 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (1391 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3329 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3836 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (4986 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (11248 in chips, €0.17 bounty) 
+joelprk535jl: posts the ante 14
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+KOKOALA54: posts the ante 14
+pipinoelbreve9: posts the ante 14
+Lolopedro1968: posts small blind 45
+martinuz16: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Jc]
+lucho1950 has timed out
+lucho1950: folds 
+lucho1950 is sitting out
+KOKOALA54: folds 
+pipinoelbreve9: raises 180 to 270
+joelprk535jl: calls 270
+Lolopedro1968: folds 
+martinuz16: raises 3045 to 3315 and is all-in
+pipinoelbreve9: calls 3045
+joelprk535jl: calls 3045
+*** FLOP *** [8c 3s Qc]
+pipinoelbreve9: bets 7919 and is all-in
+joelprk535jl: calls 4859 and is all-in
+Uncalled bet (3060) returned to pipinoelbreve9
+*** TURN *** [8c 3s Qc] [4c]
+*** RIVER *** [8c 3s Qc 4c] [3h]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ah Jc] (a pair of Threes)
+joelprk535jl: shows [7d Ks] (a pair of Threes - lower kicker)
+pipinoelbreve9 collected 9718 from side pot
+martinuz16: shows [Jh Ad] (a pair of Threes)
+martinuz16 collected 5037 from main pot
+pipinoelbreve9 collected 5037 from main pot
+pipinoelbreve9 wins €0.12 for eliminating joelprk535jl and their own bounty increases by €0.05 to €0.22
+joelprk535jl finished the tournament
+*** SUMMARY ***
+Total pot 19792 Main pot 10074. Side pot 9718. | Rake 0 
+Board [8c 3s Qc 4c 3h]
+Seat 1: joelprk535jl (button) showed [7d Ks] and lost with a pair of Threes
+Seat 2: Lolopedro1968 (small blind) folded before Flop
+Seat 3: martinuz16 (big blind) showed [Jh Ad] and won (5037) with a pair of Threes
+Seat 4: lucho1950 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 showed [Ah Jc] and won (14755) with a pair of Threes
+
+
+
+PokerStars Hand #257646527056: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:10:19 CET [2025/09/07 9:10:19 ET]
+Table '3925934910 1' 6-max Seat #2 is the button
+Seat 2: Lolopedro1968 (1332 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (5037 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3822 in chips, €0.17 bounty) is sitting out
+Seat 5: KOKOALA54 (4972 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17815 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+KOKOALA54: posts the ante 14
+pipinoelbreve9: posts the ante 14
+martinuz16: posts small blind 45
+lucho1950: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h Tc]
+KOKOALA54: folds 
+pipinoelbreve9: folds 
+Lolopedro1968: raises 1228 to 1318 and is all-in
+lucho1950 has returned
+martinuz16: calls 1273
+lucho1950: folds 
+*** FLOP *** [Ts Kd 6d]
+*** TURN *** [Ts Kd 6d] [4c]
+*** RIVER *** [Ts Kd 6d 4c] [4d]
+*** SHOW DOWN ***
+martinuz16: shows [2d 2s] (two pair, Fours and Deuces)
+Lolopedro1968: shows [Kh Ah] (two pair, Kings and Fours)
+Lolopedro1968 collected 2796 from pot
+*** SUMMARY ***
+Total pot 2796 | Rake 0 
+Board [Ts Kd 6d 4c 4d]
+Seat 2: Lolopedro1968 (button) showed [Kh Ah] and won (2796) with two pair, Kings and Fours
+Seat 3: martinuz16 (small blind) showed [2d 2s] and lost with two pair, Fours and Deuces
+Seat 4: lucho1950 (big blind) folded before Flop
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646534051: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:11:05 CET [2025/09/07 9:11:05 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 2: Lolopedro1968 (2796 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3705 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3718 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (4958 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17801 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+KOKOALA54: posts the ante 14
+pipinoelbreve9: posts the ante 14
+lucho1950: posts small blind 45
+KOKOALA54: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 3h]
+pipinoelbreve9: folds 
+Lolopedro1968: raises 2692 to 2782 and is all-in
+martinuz16: folds 
+lucho1950: folds 
+KOKOALA54: calls 2692
+*** FLOP *** [5c 5s 8h]
+*** TURN *** [5c 5s 8h] [Jd]
+*** RIVER *** [5c 5s 8h Jd] [9c]
+*** SHOW DOWN ***
+KOKOALA54: shows [Ts Js] (two pair, Jacks and Fives)
+Lolopedro1968: shows [Ks Kh] (two pair, Kings and Fives)
+Lolopedro1968 collected 5679 from pot
+*** SUMMARY ***
+Total pot 5679 | Rake 0 
+Board [5c 5s 8h Jd 9c]
+Seat 2: Lolopedro1968 showed [Ks Kh] and won (5679) with two pair, Kings and Fives
+Seat 3: martinuz16 (button) folded before Flop (didn't bet)
+Seat 4: lucho1950 (small blind) folded before Flop
+Seat 5: KOKOALA54 (big blind) showed [Ts Js] and lost with two pair, Jacks and Fives
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646537930: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IV (45/90) - 2025/09/07 15:11:31 CET [2025/09/07 9:11:31 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 2: Lolopedro1968 (5679 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3691 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3659 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (2162 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17787 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 14
+martinuz16: posts the ante 14
+lucho1950: posts the ante 14
+KOKOALA54: posts the ante 14
+pipinoelbreve9: posts the ante 14
+KOKOALA54: posts small blind 45
+pipinoelbreve9: posts big blind 90
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 5d]
+Lolopedro1968: calls 90
+martinuz16: folds 
+lucho1950: calls 90
+KOKOALA54: raises 2058 to 2148 and is all-in
+pipinoelbreve9: folds 
+Lolopedro1968: folds 
+lucho1950: calls 2058
+*** FLOP *** [3s 3d Ad]
+*** TURN *** [3s 3d Ad] [6s]
+*** RIVER *** [3s 3d Ad 6s] [2c]
+*** SHOW DOWN ***
+KOKOALA54: shows [Tc Ah] (two pair, Aces and Threes)
+lucho1950: shows [Ac 4h] (two pair, Aces and Threes - lower kicker)
+KOKOALA54 collected 4546 from pot
+*** SUMMARY ***
+Total pot 4546 | Rake 0 
+Board [3s 3d Ad 6s 2c]
+Seat 2: Lolopedro1968 folded before Flop
+Seat 3: martinuz16 folded before Flop (didn't bet)
+Seat 4: lucho1950 (button) showed [Ac 4h] and lost with two pair, Aces and Threes
+Seat 5: KOKOALA54 (small blind) showed [Tc Ah] and won (4546) with two pair, Aces and Threes
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646543410: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:12:07 CET [2025/09/07 9:12:07 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 2: Lolopedro1968 (5575 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3677 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (1497 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (4546 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17683 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 15
+martinuz16: posts the ante 15
+lucho1950: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pipinoelbreve9: posts small blind 50
+Lolopedro1968: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Th]
+martinuz16: folds 
+lucho1950: raises 1382 to 1482 and is all-in
+KOKOALA54: calls 1482
+pipinoelbreve9: folds 
+Lolopedro1968: folds 
+*** FLOP *** [9c Ks 3d]
+*** TURN *** [9c Ks 3d] [3s]
+*** RIVER *** [9c Ks 3d 3s] [8d]
+*** SHOW DOWN ***
+lucho1950: shows [Qd Ad] (a pair of Threes)
+KOKOALA54: shows [Tc Qc] (a pair of Threes - lower kicker)
+lucho1950 collected 3189 from pot
+*** SUMMARY ***
+Total pot 3189 | Rake 0 
+Board [9c Ks 3d 3s 8d]
+Seat 2: Lolopedro1968 (big blind) folded before Flop
+Seat 3: martinuz16 folded before Flop (didn't bet)
+Seat 4: lucho1950 showed [Qd Ad] and won (3189) with a pair of Threes
+Seat 5: KOKOALA54 (button) showed [Tc Qc] and lost with a pair of Threes
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646547183: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:12:32 CET [2025/09/07 9:12:32 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 2: Lolopedro1968 (5460 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3662 in chips, €0.17 bounty) 
+Seat 4: lucho1950 (3189 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3049 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17618 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 15
+martinuz16: posts the ante 15
+lucho1950: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Lolopedro1968: posts small blind 50
+martinuz16: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Jd]
+lucho1950: folds 
+KOKOALA54: folds 
+pipinoelbreve9: calls 100
+Lolopedro1968: calls 50
+martinuz16: checks 
+*** FLOP *** [Th Ac 5d]
+Lolopedro1968: checks 
+martinuz16: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Th Ac 5d] [Ah]
+Lolopedro1968: bets 100
+martinuz16: folds 
+pipinoelbreve9: folds 
+Uncalled bet (100) returned to Lolopedro1968
+Lolopedro1968 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Th Ac 5d Ah]
+Seat 2: Lolopedro1968 (small blind) collected (375)
+Seat 3: martinuz16 (big blind) folded on the Turn
+Seat 4: lucho1950 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded on the Turn
+
+
+
+PokerStars Hand #257646553085: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:13:11 CET [2025/09/07 9:13:11 ET]
+Table '3925934910 1' 6-max Seat #2 is the button
+Seat 1: Dcbarber2006 (5000 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (5720 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3547 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3034 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17503 in chips, €0.22 bounty) 
+Dcbarber2006: posts the ante 15
+Lolopedro1968: posts the ante 15
+martinuz16: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+martinuz16: posts small blind 50
+KOKOALA54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Ts]
+pipinoelbreve9: folds 
+Dcbarber2006: calls 100
+Lolopedro1968: folds 
+martinuz16: folds 
+KOKOALA54: checks 
+*** FLOP *** [Qd 6d 6h]
+KOKOALA54: checks 
+Dcbarber2006: checks 
+*** TURN *** [Qd 6d 6h] [8c]
+KOKOALA54: bets 100
+Dcbarber2006: calls 100
+*** RIVER *** [Qd 6d 6h 8c] [Th]
+KOKOALA54: bets 100
+Dcbarber2006: calls 100
+*** SHOW DOWN ***
+KOKOALA54: shows [8h Qh] (two pair, Queens and Eights)
+Dcbarber2006: mucks hand 
+KOKOALA54 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Board [Qd 6d 6h 8c Th]
+Seat 1: Dcbarber2006 mucked [Jd Ad]
+Seat 2: Lolopedro1968 (button) folded before Flop (didn't bet)
+Seat 3: martinuz16 (small blind) folded before Flop
+Seat 5: KOKOALA54 (big blind) showed [8h Qh] and won (725) with two pair, Queens and Eights
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646556889: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:13:36 CET [2025/09/07 9:13:36 ET]
+Table '3925934910 1' 6-max Seat #3 is the button
+Seat 1: Dcbarber2006 (4685 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (5705 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3482 in chips, €0.17 bounty) 
+Seat 4: frncisco60 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: KOKOALA54 (3444 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17488 in chips, €0.22 bounty) 
+frncisco60 will be allowed to play after the button
+Dcbarber2006: posts the ante 15
+Lolopedro1968: posts the ante 15
+martinuz16: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+KOKOALA54: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 2h]
+Dcbarber2006: folds 
+Lolopedro1968: folds 
+martinuz16: folds 
+KOKOALA54: calls 50
+pipinoelbreve9: checks 
+*** FLOP *** [7d Ah Ac]
+KOKOALA54: checks 
+pipinoelbreve9: checks 
+*** TURN *** [7d Ah Ac] [6d]
+KOKOALA54: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [7d Ah Ac 6d] [5d]
+KOKOALA54: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+KOKOALA54: shows [3h 6h] (two pair, Aces and Sixes)
+pipinoelbreve9: mucks hand 
+KOKOALA54 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [7d Ah Ac 6d 5d]
+Seat 1: Dcbarber2006 folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 folded before Flop (didn't bet)
+Seat 3: martinuz16 (button) folded before Flop (didn't bet)
+Seat 5: KOKOALA54 (small blind) showed [3h 6h] and won (275) with two pair, Aces and Sixes
+Seat 6: pipinoelbreve9 (big blind) mucked [Kh 2h]
+
+
+
+PokerStars Hand #257646563120: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:14:17 CET [2025/09/07 9:14:17 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 2: Lolopedro1968 (5690 in chips, €0.17 bounty) 
+Seat 3: martinuz16 (3467 in chips, €0.17 bounty) 
+Seat 4: frncisco60 (5000 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3604 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17373 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 15
+martinuz16: posts the ante 15
+frncisco60: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pipinoelbreve9: posts small blind 50
+Lolopedro1968: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 5h]
+martinuz16: calls 100
+frncisco60: folds 
+KOKOALA54: calls 100
+pipinoelbreve9: folds 
+Lolopedro1968: checks 
+*** FLOP *** [3h Qs 4s]
+Lolopedro1968: checks 
+martinuz16: bets 425
+KOKOALA54: folds 
+Lolopedro1968: raises 425 to 850
+martinuz16: raises 2502 to 3352 and is all-in
+Lolopedro1968: calls 2502
+*** TURN *** [3h Qs 4s] [Ts]
+*** RIVER *** [3h Qs 4s Ts] [Jc]
+*** SHOW DOWN ***
+Lolopedro1968: shows [Qh Tc] (two pair, Queens and Tens)
+martinuz16: shows [Qc 6c] (a pair of Queens)
+Lolopedro1968 collected 7129 from pot
+Lolopedro1968 wins €0.12 for eliminating martinuz16 and their own bounty increases by €0.05 to €0.22
+martinuz16 finished the tournament
+*** SUMMARY ***
+Total pot 7129 | Rake 0 
+Board [3h Qs 4s Ts Jc]
+Seat 2: Lolopedro1968 (big blind) showed [Qh Tc] and won (7129) with two pair, Queens and Tens
+Seat 3: martinuz16 showed [Qc 6c] and lost with a pair of Queens
+Seat 4: frncisco60 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 (button) folded on the Flop
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646569264: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:14:57 CET [2025/09/07 9:14:57 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 2: Lolopedro1968 (9352 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (4985 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3489 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17308 in chips, €0.22 bounty) 
+Lolopedro1968: posts the ante 15
+frncisco60: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Lolopedro1968: posts small blind 50
+frncisco60: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 3h]
+KOKOALA54: folds 
+pipinoelbreve9: folds 
+Lolopedro1968: folds 
+Uncalled bet (50) returned to frncisco60
+frncisco60 collected 160 from pot
+frncisco60: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Lolopedro1968 (small blind) folded before Flop
+Seat 4: frncisco60 (big blind) collected (160)
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646571760: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:15:12 CET [2025/09/07 9:15:12 ET]
+Table '3925934910 1' 6-max Seat #2 is the button
+Seat 1: Camarlengo70 (4985 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (9287 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (5080 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3474 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17293 in chips, €0.22 bounty) 
+Camarlengo70: posts the ante 15
+Lolopedro1968: posts the ante 15
+frncisco60: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+frncisco60: posts small blind 50
+KOKOALA54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Qs]
+pipinoelbreve9: raises 200 to 300
+Camarlengo70: folds 
+Lolopedro1968: folds 
+frncisco60: calls 250
+KOKOALA54: folds 
+*** FLOP *** [2h Ad Kd]
+frncisco60: bets 100
+pipinoelbreve9: calls 100
+*** TURN *** [2h Ad Kd] [Js]
+frncisco60: bets 100
+pipinoelbreve9: calls 100
+*** RIVER *** [2h Ad Kd Js] [6c]
+frncisco60: checks 
+pipinoelbreve9: bets 1075
+frncisco60: folds 
+Uncalled bet (1075) returned to pipinoelbreve9
+pipinoelbreve9 collected 1175 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Board [2h Ad Kd Js 6c]
+Seat 1: Camarlengo70 folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 (button) folded before Flop (didn't bet)
+Seat 4: frncisco60 (small blind) folded on the River
+Seat 5: KOKOALA54 (big blind) folded before Flop
+Seat 6: pipinoelbreve9 collected (1175)
+
+
+
+PokerStars Hand #257646578479: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:15:55 CET [2025/09/07 9:15:55 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: Camarlengo70 (4970 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (9272 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (4565 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3359 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (17953 in chips, €0.22 bounty) 
+Camarlengo70: posts the ante 15
+Lolopedro1968: posts the ante 15
+frncisco60: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+KOKOALA54: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Kc]
+Camarlengo70: folds 
+Lolopedro1968: calls 100
+frncisco60: calls 100
+KOKOALA54: calls 50
+pipinoelbreve9: raises 500 to 600
+Lolopedro1968: calls 500
+frncisco60: calls 500
+KOKOALA54: calls 500
+*** FLOP *** [3c 8c 4h]
+KOKOALA54: checks 
+pipinoelbreve9: bets 838
+Lolopedro1968: calls 838
+frncisco60: folds 
+KOKOALA54: folds 
+*** TURN *** [3c 8c 4h] [5h]
+pipinoelbreve9: checks 
+Lolopedro1968: checks 
+*** RIVER *** [3c 8c 4h 5h] [3s]
+pipinoelbreve9: checks 
+Lolopedro1968: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad Kc] (a pair of Threes)
+Lolopedro1968: mucks hand 
+pipinoelbreve9 collected 4151 from pot
+*** SUMMARY ***
+Total pot 4151 | Rake 0 
+Board [3c 8c 4h 5h 3s]
+Seat 1: Camarlengo70 folded before Flop (didn't bet)
+Seat 2: Lolopedro1968 mucked [Ah Qh]
+Seat 4: frncisco60 (button) folded on the Flop
+Seat 5: KOKOALA54 (small blind) folded on the Flop
+Seat 6: pipinoelbreve9 (big blind) showed [Ad Kc] and won (4151) with a pair of Threes
+
+
+
+PokerStars Hand #257646584522: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/07 15:16:33 CET [2025/09/07 9:16:33 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 1: Camarlengo70 (4955 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7819 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (3950 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (2744 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (20651 in chips, €0.22 bounty) 
+Camarlengo70: posts the ante 15
+Lolopedro1968: posts the ante 15
+frncisco60: posts the ante 15
+KOKOALA54: posts the ante 15
+pipinoelbreve9: posts the ante 15
+pipinoelbreve9: posts small blind 50
+Camarlengo70: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Ad]
+Lolopedro1968: folds 
+frncisco60: folds 
+KOKOALA54: calls 100
+pipinoelbreve9: calls 50
+Camarlengo70: checks 
+*** FLOP *** [8d 9c 4s]
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+KOKOALA54: checks 
+*** TURN *** [8d 9c 4s] [Qd]
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+KOKOALA54: checks 
+*** RIVER *** [8d 9c 4s Qd] [Jc]
+pipinoelbreve9: checks 
+Camarlengo70: bets 100
+KOKOALA54: raises 100 to 200
+pipinoelbreve9: folds 
+Camarlengo70: calls 100
+*** SHOW DOWN ***
+KOKOALA54: shows [5s Ts] (a straight, Eight to Queen)
+Camarlengo70: mucks hand 
+KOKOALA54 collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [8d 9c 4s Qd Jc]
+Seat 1: Camarlengo70 (big blind) mucked [Qs 5h]
+Seat 2: Lolopedro1968 folded before Flop (didn't bet)
+Seat 4: frncisco60 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 (button) showed [5s Ts] and won (775) with a straight, Eight to Queen
+Seat 6: pipinoelbreve9 (small blind) folded on the River
+
+
+
+PokerStars Hand #257646592973: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:17:27 CET [2025/09/07 9:17:27 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: Camarlengo70 (4640 in chips, €0.17 bounty) 
+Seat 2: Lolopedro1968 (7804 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (3935 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3204 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (20536 in chips, €0.22 bounty) 
+Camarlengo70: posts the ante 18
+Lolopedro1968: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+Camarlengo70: posts small blind 60
+Lolopedro1968: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Ac]
+frncisco60: folds 
+KOKOALA54: folds 
+pipinoelbreve9: raises 240 to 360
+Camarlengo70: folds 
+Lolopedro1968: raises 870 to 1230
+pipinoelbreve9: raises 2610 to 3840
+Lolopedro1968: raises 3946 to 7786 and is all-in
+pipinoelbreve9: calls 3946
+*** FLOP *** [4s 8c 5d]
+*** TURN *** [4s 8c 5d] [5c]
+*** RIVER *** [4s 8c 5d 5c] [8h]
+*** SHOW DOWN ***
+Lolopedro1968: shows [Kh Ks] (two pair, Kings and Eights)
+pipinoelbreve9: shows [Ah Ac] (two pair, Aces and Eights)
+pipinoelbreve9 collected 15722 from pot
+pipinoelbreve9 wins €0.15 for eliminating Lolopedro1968 and their own bounty increases by €0.07 to €0.29
+Lolopedro1968 finished the tournament
+*** SUMMARY ***
+Total pot 15722 | Rake 0 
+Board [4s 8c 5d 5c 8h]
+Seat 1: Camarlengo70 (small blind) folded before Flop
+Seat 2: Lolopedro1968 (big blind) showed [Kh Ks] and lost with two pair, Kings and Eights
+Seat 4: frncisco60 folded before Flop (didn't bet)
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) showed [Ah Ac] and won (15722) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #257646598520: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:18:03 CET [2025/09/07 9:18:03 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: Camarlengo70 (4562 in chips, €0.17 bounty) 
+Seat 4: frncisco60 (3917 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3186 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (28454 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+frncisco60: posts small blind 60
+KOKOALA54: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 5d]
+pipinoelbreve9 has timed out
+pipinoelbreve9: folds 
+pipinoelbreve9 is sitting out
+pipinoelbreve9 has returned
+Camarlengo70: folds 
+frncisco60: calls 60
+KOKOALA54: checks 
+*** FLOP *** [7c 9h 6h]
+frncisco60: checks 
+KOKOALA54: bets 120
+frncisco60: calls 120
+*** TURN *** [7c 9h 6h] [Qh]
+frncisco60: checks 
+KOKOALA54: bets 120
+frncisco60: calls 120
+*** RIVER *** [7c 9h 6h Qh] [Ac]
+frncisco60: checks 
+KOKOALA54: bets 120
+frncisco60: calls 120
+*** SHOW DOWN ***
+KOKOALA54: shows [2h 8h] (a flush, Queen high)
+frncisco60: mucks hand 
+KOKOALA54 collected 1032 from pot
+*** SUMMARY ***
+Total pot 1032 | Rake 0 
+Board [7c 9h 6h Qh Ac]
+Seat 1: Camarlengo70 (button) folded before Flop (didn't bet)
+Seat 4: frncisco60 (small blind) mucked [Ah 8s]
+Seat 5: KOKOALA54 (big blind) showed [2h 8h] and won (1032) with a flush, Queen high
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646604673: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:18:42 CET [2025/09/07 9:18:42 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: Camarlengo70 (4544 in chips, €0.17 bounty) 
+Seat 2: joanaquare18 (1597 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (3419 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3720 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (28436 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+joanaquare18: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+KOKOALA54: posts small blind 60
+pipinoelbreve9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 7s]
+Camarlengo70: calls 120
+joanaquare18: folds 
+frncisco60: calls 120
+KOKOALA54: calls 60
+pipinoelbreve9: checks 
+*** FLOP *** [5h Qc 2s]
+KOKOALA54: checks 
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+frncisco60: checks 
+*** TURN *** [5h Qc 2s] [7d]
+KOKOALA54: checks 
+pipinoelbreve9: bets 285
+Camarlengo70: folds 
+frncisco60: folds 
+KOKOALA54: folds 
+Uncalled bet (285) returned to pipinoelbreve9
+pipinoelbreve9 collected 570 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [5h Qc 2s 7d]
+Seat 1: Camarlengo70 folded on the Turn
+Seat 2: joanaquare18 folded before Flop (didn't bet)
+Seat 4: frncisco60 (button) folded on the Turn
+Seat 5: KOKOALA54 (small blind) folded on the Turn
+Seat 6: pipinoelbreve9 (big blind) collected (570)
+
+
+
+PokerStars Hand #257646609544: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:19:12 CET [2025/09/07 9:19:12 ET]
+Table '3925934910 1' 6-max Seat #5 is the button
+Seat 1: Camarlengo70 (4406 in chips, €0.17 bounty) 
+Seat 2: joanaquare18 (1579 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (3281 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (3582 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (28868 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+joanaquare18: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+pipinoelbreve9: posts small blind 60
+Camarlengo70: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s As]
+joanaquare18: calls 120
+frncisco60: calls 120
+KOKOALA54: calls 120
+pipinoelbreve9: raises 720 to 840
+Camarlengo70: folds 
+joanaquare18: calls 720
+frncisco60: calls 720
+KOKOALA54: calls 720
+*** FLOP *** [2h Jc 2c]
+pipinoelbreve9: checks 
+joanaquare18: checks 
+frncisco60: bets 2423 and is all-in
+KOKOALA54: folds 
+pipinoelbreve9: folds 
+joanaquare18: folds 
+Uncalled bet (2423) returned to frncisco60
+frncisco60 collected 3570 from pot
+frncisco60: doesn't show hand 
+*** SUMMARY ***
+Total pot 3570 | Rake 0 
+Board [2h Jc 2c]
+Seat 1: Camarlengo70 (big blind) folded before Flop
+Seat 2: joanaquare18 folded on the Flop
+Seat 4: frncisco60 collected (3570)
+Seat 5: KOKOALA54 (button) folded on the Flop
+Seat 6: pipinoelbreve9 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257646615881: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:19:52 CET [2025/09/07 9:19:52 ET]
+Table '3925934910 1' 6-max Seat #6 is the button
+Seat 1: Camarlengo70 (4268 in chips, €0.17 bounty) 
+Seat 2: joanaquare18 (721 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (5993 in chips, €0.17 bounty) 
+Seat 5: KOKOALA54 (2724 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (28010 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+joanaquare18: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+Camarlengo70: posts small blind 60
+joanaquare18: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 3s]
+frncisco60: calls 120
+KOKOALA54: folds 
+pipinoelbreve9: calls 120
+Camarlengo70: folds 
+joanaquare18: raises 583 to 703 and is all-in
+frncisco60: calls 583
+pipinoelbreve9: folds 
+*** FLOP *** [6h 8h 5s]
+*** TURN *** [6h 8h 5s] [8c]
+*** RIVER *** [6h 8h 5s 8c] [Ad]
+*** SHOW DOWN ***
+joanaquare18: shows [Ts 9h] (a pair of Eights)
+frncisco60: shows [4d 4c] (two pair, Eights and Fours)
+frncisco60 collected 1676 from pot
+frncisco60 wins €0.15 for eliminating joanaquare18 and their own bounty increases by €0.07 to €0.24
+joanaquare18 finished the tournament
+*** SUMMARY ***
+Total pot 1676 | Rake 0 
+Board [6h 8h 5s 8c Ad]
+Seat 1: Camarlengo70 (small blind) folded before Flop
+Seat 2: joanaquare18 (big blind) showed [Ts 9h] and lost with a pair of Eights
+Seat 4: frncisco60 showed [4d 4c] and won (1676) with two pair, Eights and Fours
+Seat 5: KOKOALA54 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded before Flop
+
+
+
+PokerStars Hand #257646621854: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:20:29 CET [2025/09/07 9:20:29 ET]
+Table '3925934910 1' 6-max Seat #1 is the button
+Seat 1: Camarlengo70 (4190 in chips, €0.17 bounty) 
+Seat 4: frncisco60 (6948 in chips, €0.24 bounty) 
+Seat 5: KOKOALA54 (2706 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (27872 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+frncisco60: posts small blind 60
+KOKOALA54: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 8s]
+pipinoelbreve9: raises 240 to 360
+Camarlengo70: calls 360
+frncisco60: folds 
+KOKOALA54: calls 240
+*** FLOP *** [7c 4s Kc]
+KOKOALA54: checks 
+pipinoelbreve9: bets 486
+Camarlengo70: calls 486
+KOKOALA54: folds 
+*** TURN *** [7c 4s Kc] [3d]
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+*** RIVER *** [7c 4s Kc 3d] [Qh]
+pipinoelbreve9: checks 
+Camarlengo70: bets 120
+pipinoelbreve9: calls 120
+*** SHOW DOWN ***
+Camarlengo70: shows [Kh 5c] (a pair of Kings)
+pipinoelbreve9: mucks hand 
+Camarlengo70 collected 2424 from pot
+*** SUMMARY ***
+Total pot 2424 | Rake 0 
+Board [7c 4s Kc 3d Qh]
+Seat 1: Camarlengo70 (button) showed [Kh 5c] and won (2424) with a pair of Kings
+Seat 4: frncisco60 (small blind) folded before Flop
+Seat 5: KOKOALA54 (big blind) folded on the Flop
+Seat 6: pipinoelbreve9 mucked [As 8s]
+
+
+
+PokerStars Hand #257646630100: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 15:21:19 CET [2025/09/07 9:21:19 ET]
+Table '3925934910 1' 6-max Seat #4 is the button
+Seat 1: Camarlengo70 (5630 in chips, €0.17 bounty) 
+Seat 2: locomotive34 (4686 in chips, €0.22 bounty) 
+Seat 4: frncisco60 (6870 in chips, €0.24 bounty) 
+Seat 5: KOKOALA54 (2328 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (26888 in chips, €0.29 bounty) 
+Camarlengo70: posts the ante 18
+locomotive34: posts the ante 18
+frncisco60: posts the ante 18
+KOKOALA54: posts the ante 18
+pipinoelbreve9: posts the ante 18
+KOKOALA54: posts small blind 60
+pipinoelbreve9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 9h]
+Camarlengo70: calls 120
+locomotive34: raises 4548 to 4668 and is all-in
+frncisco60: folds 
+KOKOALA54: calls 2250 and is all-in
+pipinoelbreve9: folds 
+Camarlengo70: folds 
+Uncalled bet (2358) returned to locomotive34
+*** FLOP *** [Ac 4d Js]
+*** TURN *** [Ac 4d Js] [2s]
+*** RIVER *** [Ac 4d Js 2s] [5c]
+*** SHOW DOWN ***
+KOKOALA54: shows [Th Kd] (high card Ace)
+locomotive34: shows [8d 8h] (a pair of Eights)
+locomotive34 collected 4950 from pot
+locomotive34 wins €0.12 for eliminating KOKOALA54 and their own bounty increases by €0.05 to €0.27
+KOKOALA54 finished the tournament
+*** SUMMARY ***
+Total pot 4950 | Rake 0 
+Board [Ac 4d Js 2s 5c]
+Seat 1: Camarlengo70 folded before Flop
+Seat 2: locomotive34 showed [8d 8h] and won (4950) with a pair of Eights
+Seat 4: frncisco60 (button) folded before Flop (didn't bet)
+Seat 5: KOKOALA54 (small blind) showed [Th Kd] and lost with high card Ace
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646644603: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 15:22:49 CET [2025/09/07 9:22:49 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (5000 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (26750 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2935 in chips, €0.17 bounty) 
+Seat 4: angel_pastor35 (7515 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (15958 in chips, €0.27 bounty) 
+Seat 6: 4betAllien (14380 in chips, €0.22 bounty) 
+EnoGam: posts the ante 21
+pipinoelbreve9: posts the ante 21
+Barrasrz: posts the ante 21
+angel_pastor35: posts the ante 21
+joelprk535jl: posts the ante 21
+4betAllien: posts the ante 21
+angel_pastor35: posts small blind 70
+joelprk535jl: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Kh]
+4betAllien: folds 
+EnoGam: calls 140
+pipinoelbreve9: raises 560 to 700
+Barrasrz has timed out
+Barrasrz: folds 
+Barrasrz is sitting out
+angel_pastor35: calls 630
+joelprk535jl: calls 560
+Barrasrz has returned
+EnoGam: folds 
+*** FLOP *** [2s Ac Tc]
+angel_pastor35: bets 840
+joelprk535jl: folds 
+pipinoelbreve9: calls 840
+*** TURN *** [2s Ac Tc] [3s]
+angel_pastor35: bets 840
+pipinoelbreve9: calls 840
+*** RIVER *** [2s Ac Tc 3s] [Th]
+angel_pastor35: bets 700
+pipinoelbreve9: calls 700
+*** SHOW DOWN ***
+angel_pastor35: shows [Jc Kc] (a pair of Tens)
+pipinoelbreve9: shows [Ah Kh] (two pair, Aces and Tens)
+pipinoelbreve9 collected 7126 from pot
+*** SUMMARY ***
+Total pot 7126 | Rake 0 
+Board [2s Ac Tc 3s Th]
+Seat 1: EnoGam folded before Flop
+Seat 2: pipinoelbreve9 showed [Ah Kh] and won (7126) with two pair, Aces and Tens
+Seat 3: Barrasrz (button) folded before Flop (didn't bet)
+Seat 4: angel_pastor35 (small blind) showed [Jc Kc] and lost with a pair of Tens
+Seat 5: joelprk535jl (big blind) folded on the Flop
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646653388: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 15:23:43 CET [2025/09/07 9:23:43 ET]
+Table '3925934910 3' 6-max Seat #4 is the button
+Seat 1: EnoGam (4839 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30775 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2914 in chips, €0.17 bounty) 
+Seat 4: angel_pastor35 (4414 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (15237 in chips, €0.27 bounty) 
+Seat 6: 4betAllien (14359 in chips, €0.22 bounty) 
+EnoGam: posts the ante 21
+pipinoelbreve9: posts the ante 21
+Barrasrz: posts the ante 21
+angel_pastor35: posts the ante 21
+joelprk535jl: posts the ante 21
+4betAllien: posts the ante 21
+joelprk535jl: posts small blind 70
+4betAllien: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 3h]
+EnoGam: calls 140
+pipinoelbreve9: folds 
+Barrasrz: folds 
+angel_pastor35: calls 140
+joelprk535jl: raises 15076 to 15216 and is all-in
+4betAllien: folds 
+EnoGam: folds 
+angel_pastor35: folds 
+Uncalled bet (15076) returned to joelprk535jl
+joelprk535jl collected 686 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 686 | Rake 0 
+Seat 1: EnoGam folded before Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: angel_pastor35 (button) folded before Flop
+Seat 5: joelprk535jl (small blind) collected (686)
+Seat 6: 4betAllien (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646658094: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 15:24:13 CET [2025/09/07 9:24:13 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (4678 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30754 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2893 in chips, €0.17 bounty) 
+Seat 4: angel_pastor35 (4253 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (15762 in chips, €0.27 bounty) 
+Seat 6: 4betAllien (14198 in chips, €0.22 bounty) 
+EnoGam: posts the ante 21
+pipinoelbreve9: posts the ante 21
+Barrasrz: posts the ante 21
+angel_pastor35: posts the ante 21
+joelprk535jl: posts the ante 21
+4betAllien: posts the ante 21
+4betAllien: posts small blind 70
+EnoGam: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 6d]
+pipinoelbreve9: folds 
+Barrasrz has timed out
+Barrasrz: folds 
+Barrasrz is sitting out
+Barrasrz has returned
+angel_pastor35: folds 
+joelprk535jl: calls 140
+4betAllien: folds 
+EnoGam: checks 
+*** FLOP *** [3h 5s 7s]
+EnoGam: bets 280
+joelprk535jl: raises 280 to 560
+EnoGam: folds 
+Uncalled bet (280) returned to joelprk535jl
+joelprk535jl collected 1036 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1036 | Rake 0 
+Board [3h 5s 7s]
+Seat 1: EnoGam (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: angel_pastor35 folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) collected (1036)
+Seat 6: 4betAllien (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646666535: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 15:25:05 CET [2025/09/07 9:25:05 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (4237 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30733 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2872 in chips, €0.17 bounty) 
+Seat 4: angel_pastor35 (4232 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (16357 in chips, €0.27 bounty) 
+Seat 6: 4betAllien (14107 in chips, €0.22 bounty) 
+EnoGam: posts the ante 21
+pipinoelbreve9: posts the ante 21
+Barrasrz: posts the ante 21
+angel_pastor35: posts the ante 21
+joelprk535jl: posts the ante 21
+4betAllien: posts the ante 21
+EnoGam: posts small blind 70
+pipinoelbreve9: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Qd]
+Barrasrz has timed out
+Barrasrz: folds 
+Barrasrz is sitting out
+angel_pastor35: calls 140
+Barrasrz has returned
+joelprk535jl: calls 140
+4betAllien: calls 140
+EnoGam: calls 70
+pipinoelbreve9: checks 
+*** FLOP *** [2c 3h 6d]
+EnoGam: checks 
+pipinoelbreve9: checks 
+angel_pastor35: bets 280
+joelprk535jl: calls 280
+4betAllien: calls 280
+EnoGam: folds 
+pipinoelbreve9: folds 
+*** TURN *** [2c 3h 6d] [4h]
+angel_pastor35: bets 3791 and is all-in
+joelprk535jl: calls 3791
+4betAllien: calls 3791
+*** RIVER *** [2c 3h 6d 4h] [Kh]
+joelprk535jl: bets 6520
+4betAllien: folds 
+Uncalled bet (6520) returned to joelprk535jl
+*** SHOW DOWN ***
+joelprk535jl: shows [7h 9h] (a flush, King high)
+angel_pastor35: shows [9d 5d] (a straight, Deuce to Six)
+joelprk535jl collected 13039 from pot
+joelprk535jl wins €0.15 for eliminating angel_pastor35 and their own bounty increases by €0.07 to €0.34
+angel_pastor35 finished the tournament
+*** SUMMARY ***
+Total pot 13039 | Rake 0 
+Board [2c 3h 6d 4h Kh]
+Seat 1: EnoGam (small blind) folded on the Flop
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: angel_pastor35 showed [9d 5d] and lost with a straight, Deuce to Six
+Seat 5: joelprk535jl showed [7h 9h] and won (13039) with a flush, King high
+Seat 6: 4betAllien (button) folded on the River
+
+
+
+PokerStars Hand #257646679152: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 15:26:23 CET [2025/09/07 9:26:23 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (4076 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30572 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2851 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (25164 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (9875 in chips, €0.22 bounty) 
+EnoGam: posts the ante 21
+pipinoelbreve9: posts the ante 21
+Barrasrz: posts the ante 21
+joelprk535jl: posts the ante 21
+4betAllien: posts the ante 21
+pipinoelbreve9: posts small blind 70
+Barrasrz: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 2d]
+joelprk535jl: raises 140 to 280
+4betAllien: folds 
+EnoGam: calls 280
+pipinoelbreve9: folds 
+Barrasrz: folds 
+*** FLOP *** [8h Th Ad]
+joelprk535jl: bets 140
+EnoGam: raises 140 to 280
+joelprk535jl: calls 140
+*** TURN *** [8h Th Ad] [Ts]
+joelprk535jl: bets 718
+EnoGam: raises 2777 to 3495 and is all-in
+joelprk535jl: folds 
+Uncalled bet (2777) returned to EnoGam
+EnoGam collected 2871 from pot
+*** SUMMARY ***
+Total pot 2871 | Rake 0 
+Board [8h Th Ad Ts]
+Seat 1: EnoGam (button) collected (2871)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Barrasrz (big blind) folded before Flop
+Seat 5: joelprk535jl folded on the Turn
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646687202: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:27:13 CET [2025/09/07 9:27:13 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (5648 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30481 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2690 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (23865 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (9854 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+Barrasrz: posts small blind 80
+joelprk535jl: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Qh]
+4betAllien: calls 160
+EnoGam: folds 
+pipinoelbreve9: calls 160
+Barrasrz: folds 
+joelprk535jl: checks 
+*** FLOP *** [Qs 7s 7d]
+joelprk535jl: bets 160
+4betAllien: raises 500 to 660
+pipinoelbreve9: calls 660
+joelprk535jl: calls 500
+*** TURN *** [Qs 7s 7d] [8h]
+joelprk535jl: checks 
+4betAllien: checks 
+pipinoelbreve9: bets 1010
+joelprk535jl: calls 1010
+4betAllien: calls 1010
+*** RIVER *** [Qs 7s 7d 8h] [Jh]
+joelprk535jl: checks 
+4betAllien: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+joelprk535jl: shows [Kh Ts] (a pair of Sevens)
+4betAllien: shows [Ks 3s] (a pair of Sevens)
+pipinoelbreve9: shows [6h Qh] (two pair, Queens and Sevens)
+pipinoelbreve9 collected 5690 from pot
+*** SUMMARY ***
+Total pot 5690 | Rake 0 
+Board [Qs 7s 7d 8h Jh]
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) showed [6h Qh] and won (5690) with two pair, Queens and Sevens
+Seat 3: Barrasrz (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) showed [Kh Ts] and lost with a pair of Sevens
+Seat 6: 4betAllien showed [Ks 3s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #257646698580: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:28:21 CET [2025/09/07 9:28:21 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (5624 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (34317 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (2586 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (22011 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (8000 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+joelprk535jl: posts small blind 80
+4betAllien: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 8c]
+EnoGam: calls 160
+pipinoelbreve9: folds 
+Barrasrz: raises 2402 to 2562 and is all-in
+joelprk535jl: calls 2482
+4betAllien: folds 
+EnoGam: folds 
+*** FLOP *** [Ks 7h Qh]
+*** TURN *** [Ks 7h Qh] [Kc]
+*** RIVER *** [Ks 7h Qh Kc] [Tc]
+*** SHOW DOWN ***
+joelprk535jl: shows [3d Qd] (two pair, Kings and Queens)
+Barrasrz: shows [7d 7s] (a full house, Sevens full of Kings)
+Barrasrz collected 5564 from pot
+*** SUMMARY ***
+Total pot 5564 | Rake 0 
+Board [Ks 7h Qh Kc Tc]
+Seat 1: EnoGam folded before Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz (button) showed [7d 7s] and won (5564) with a full house, Sevens full of Kings
+Seat 5: joelprk535jl (small blind) showed [3d Qd] and lost with two pair, Kings and Queens
+Seat 6: 4betAllien (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646702491: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:28:45 CET [2025/09/07 9:28:45 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (5440 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (34293 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (5564 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (19425 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7816 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+4betAllien: posts small blind 80
+EnoGam: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 3h]
+pipinoelbreve9: folds 
+Barrasrz has timed out
+Barrasrz: folds 
+Barrasrz is sitting out
+joelprk535jl: folds 
+4betAllien: calls 80
+EnoGam: checks 
+*** FLOP *** [Ks 4s 3d]
+4betAllien: checks 
+EnoGam: checks 
+*** TURN *** [Ks 4s 3d] [7s]
+Barrasrz has returned
+4betAllien has timed out
+4betAllien: checks 
+EnoGam: checks 
+*** RIVER *** [Ks 4s 3d 7s] [Td]
+4betAllien has timed out
+4betAllien: checks 
+EnoGam: checks 
+*** SHOW DOWN ***
+4betAllien: shows [Ah Ts] (a pair of Tens)
+EnoGam: mucks hand 
+4betAllien collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Ks 4s 3d 7s Td]
+Seat 1: EnoGam (big blind) mucked [8s 5d]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) folded before Flop (didn't bet)
+Seat 6: 4betAllien (small blind) showed [Ah Ts] and won (440) with a pair of Tens
+
+
+
+PokerStars Hand #257646711534: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:29:40 CET [2025/09/07 9:29:40 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (5256 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (34269 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (5540 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (19401 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (8072 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+EnoGam: posts small blind 80
+pipinoelbreve9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 4d]
+Barrasrz: raises 5356 to 5516 and is all-in
+joelprk535jl: raises 5356 to 10872
+4betAllien: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+Uncalled bet (5356) returned to joelprk535jl
+*** FLOP *** [2s Ks 7h]
+*** TURN *** [2s Ks 7h] [Qc]
+*** RIVER *** [2s Ks 7h Qc] [4c]
+*** SHOW DOWN ***
+Barrasrz: shows [Ts Th] (a pair of Tens)
+joelprk535jl: shows [As Tc] (high card Ace)
+Barrasrz collected 11392 from pot
+*** SUMMARY ***
+Total pot 11392 | Rake 0 
+Board [2s Ks 7h Qc 4c]
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: Barrasrz showed [Ts Th] and won (11392) with a pair of Tens
+Seat 5: joelprk535jl showed [As Tc] and lost with high card Ace
+Seat 6: 4betAllien (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646715579: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:30:03 CET [2025/09/07 9:30:03 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (5152 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (34085 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11392 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (13861 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (8048 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+pipinoelbreve9: posts small blind 80
+Barrasrz: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Jc]
+joelprk535jl: raises 13677 to 13837 and is all-in
+4betAllien: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+Barrasrz: folds 
+Uncalled bet (13677) returned to joelprk535jl
+joelprk535jl collected 520 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: EnoGam (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Barrasrz (big blind) folded before Flop
+Seat 5: joelprk535jl collected (520)
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646718338: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:30:19 CET [2025/09/07 9:30:19 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (5128 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33981 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11208 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (14197 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (8024 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+Barrasrz: posts small blind 80
+joelprk535jl: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 7c]
+4betAllien has timed out
+4betAllien: folds 
+4betAllien is sitting out
+EnoGam: folds 
+pipinoelbreve9: folds 
+Barrasrz: folds 
+Uncalled bet (80) returned to joelprk535jl
+joelprk535jl collected 280 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: Barrasrz (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) collected (280)
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646721253: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:30:37 CET [2025/09/07 9:30:37 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (5104 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33957 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11104 in chips, €0.17 bounty) 
+Seat 4: nombell (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: joelprk535jl (14373 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (8000 in chips, €0.22 bounty) is sitting out
+nombell will be allowed to play after the button
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+joelprk535jl: posts small blind 80
+4betAllien: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Jc]
+EnoGam: calls 160
+pipinoelbreve9: folds 
+Barrasrz: folds 
+joelprk535jl: raises 600 to 760
+4betAllien: folds 
+4betAllien has returned
+EnoGam: calls 600
+*** FLOP *** [2c 4s Ad]
+joelprk535jl: checks 
+EnoGam: checks 
+*** TURN *** [2c 4s Ad] [Ah]
+joelprk535jl: bets 160
+EnoGam: calls 160
+*** RIVER *** [2c 4s Ad Ah] [9c]
+joelprk535jl: bets 13429 and is all-in
+EnoGam: folds 
+Uncalled bet (13429) returned to joelprk535jl
+joelprk535jl collected 2120 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [2c 4s Ad Ah 9c]
+Seat 1: EnoGam folded on the River
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) collected (2120)
+Seat 6: 4betAllien (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646727757: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 15:31:15 CET [2025/09/07 9:31:15 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (4160 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33933 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11080 in chips, €0.17 bounty) 
+Seat 4: nombell (5000 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (15549 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7816 in chips, €0.22 bounty) 
+EnoGam: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Barrasrz: posts the ante 24
+nombell: posts the ante 24
+joelprk535jl: posts the ante 24
+4betAllien: posts the ante 24
+4betAllien: posts small blind 80
+EnoGam: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8d]
+pipinoelbreve9: folds 
+Barrasrz: folds 
+nombell: calls 160
+joelprk535jl: calls 160
+4betAllien: folds 
+EnoGam: checks 
+*** FLOP *** [8c 9c 4c]
+EnoGam: checks 
+nombell: checks 
+joelprk535jl: bets 704
+EnoGam: folds 
+nombell: folds 
+Uncalled bet (704) returned to joelprk535jl
+joelprk535jl collected 704 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 704 | Rake 0 
+Board [8c 9c 4c]
+Seat 1: EnoGam (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: nombell folded on the Flop
+Seat 5: joelprk535jl (button) collected (704)
+Seat 6: 4betAllien (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646734819: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 15:31:57 CET [2025/09/07 9:31:57 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (3976 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33909 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11056 in chips, €0.17 bounty) 
+Seat 4: nombell (4816 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (16069 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7712 in chips, €0.22 bounty) 
+EnoGam: posts the ante 27
+pipinoelbreve9: posts the ante 27
+Barrasrz: posts the ante 27
+nombell: posts the ante 27
+joelprk535jl: posts the ante 27
+4betAllien: posts the ante 27
+EnoGam: posts small blind 90
+pipinoelbreve9: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 3s]
+Barrasrz: folds 
+nombell: folds 
+joelprk535jl: raises 180 to 360
+4betAllien: calls 360
+EnoGam: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [2s 4d Qh]
+joelprk535jl: bets 180
+4betAllien: folds 
+Uncalled bet (180) returned to joelprk535jl
+joelprk535jl collected 1152 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1152 | Rake 0 
+Board [2s 4d Qh]
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: joelprk535jl collected (1152)
+Seat 6: 4betAllien (button) folded on the Flop
+
+
+
+PokerStars Hand #257646742522: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 15:32:43 CET [2025/09/07 9:32:43 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (3859 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33702 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (11029 in chips, €0.17 bounty) 
+Seat 4: nombell (4789 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (16834 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7325 in chips, €0.22 bounty) 
+EnoGam: posts the ante 27
+pipinoelbreve9: posts the ante 27
+Barrasrz: posts the ante 27
+nombell: posts the ante 27
+joelprk535jl: posts the ante 27
+4betAllien: posts the ante 27
+pipinoelbreve9: posts small blind 90
+Barrasrz: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Ts]
+nombell: calls 180
+joelprk535jl: calls 180
+4betAllien: calls 180
+EnoGam: calls 180
+pipinoelbreve9: calls 90
+Barrasrz: checks 
+*** FLOP *** [Ks 6d 4h]
+pipinoelbreve9: checks 
+Barrasrz: checks 
+nombell: checks 
+joelprk535jl: checks 
+4betAllien: checks 
+EnoGam: checks 
+*** TURN *** [Ks 6d 4h] [Js]
+pipinoelbreve9: checks 
+Barrasrz: checks 
+nombell: checks 
+joelprk535jl: bets 1242
+4betAllien: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+Barrasrz: folds 
+nombell: calls 1242
+*** RIVER *** [Ks 6d 4h Js] [4d]
+nombell: checks 
+joelprk535jl: bets 3726
+nombell: folds 
+Uncalled bet (3726) returned to joelprk535jl
+joelprk535jl collected 3726 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 3726 | Rake 0 
+Board [Ks 6d 4h Js 4d]
+Seat 1: EnoGam (button) folded on the Turn
+Seat 2: pipinoelbreve9 (small blind) folded on the Turn
+Seat 3: Barrasrz (big blind) folded on the Turn
+Seat 4: nombell folded on the River
+Seat 5: joelprk535jl collected (3726)
+Seat 6: 4betAllien folded on the Turn
+
+
+
+PokerStars Hand #257646758596: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 15:34:18 CET [2025/09/07 9:34:18 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (3652 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (33495 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (10822 in chips, €0.17 bounty) 
+Seat 4: nombell (3340 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (19111 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7118 in chips, €0.22 bounty) 
+EnoGam: posts the ante 27
+pipinoelbreve9: posts the ante 27
+Barrasrz: posts the ante 27
+nombell: posts the ante 27
+joelprk535jl: posts the ante 27
+4betAllien: posts the ante 27
+Barrasrz: posts small blind 90
+nombell: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c Js]
+joelprk535jl: folds 
+4betAllien: folds 
+EnoGam: calls 180
+pipinoelbreve9: calls 180
+Barrasrz: folds 
+nombell: checks 
+*** FLOP *** [6d As Ad]
+nombell: checks 
+EnoGam: checks 
+pipinoelbreve9: checks 
+*** TURN *** [6d As Ad] [Jh]
+nombell: checks 
+EnoGam: bets 180
+pipinoelbreve9: calls 180
+nombell: folds 
+*** RIVER *** [6d As Ad Jh] [Ts]
+EnoGam: bets 720
+pipinoelbreve9: calls 720
+*** SHOW DOWN ***
+EnoGam: shows [2d Ah] (three of a kind, Aces)
+pipinoelbreve9: mucks hand 
+EnoGam collected 2592 from pot
+*** SUMMARY ***
+Total pot 2592 | Rake 0 
+Board [6d As Ad Jh Ts]
+Seat 1: EnoGam showed [2d Ah] and won (2592) with three of a kind, Aces
+Seat 2: pipinoelbreve9 (button) mucked [8c Js]
+Seat 3: Barrasrz (small blind) folded before Flop
+Seat 4: nombell (big blind) folded on the Turn
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646769290: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 15:35:20 CET [2025/09/07 9:35:20 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (5137 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (32388 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (10705 in chips, €0.17 bounty) 
+Seat 4: nombell (3133 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (19084 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (7091 in chips, €0.22 bounty) 
+EnoGam: posts the ante 27
+pipinoelbreve9: posts the ante 27
+Barrasrz: posts the ante 27
+nombell: posts the ante 27
+joelprk535jl: posts the ante 27
+4betAllien: posts the ante 27
+nombell: posts small blind 90
+joelprk535jl: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 4d]
+4betAllien: raises 270 to 450
+EnoGam: folds 
+pipinoelbreve9: folds 
+Barrasrz: calls 450
+nombell: calls 360
+joelprk535jl: calls 270
+*** FLOP *** [Js Ah Tc]
+nombell: checks 
+joelprk535jl: bets 180
+4betAllien: calls 180
+Barrasrz: calls 180
+nombell: raises 360 to 540
+joelprk535jl: calls 360
+4betAllien: calls 360
+Barrasrz: calls 360
+*** TURN *** [Js Ah Tc] [5s]
+nombell: bets 900
+joelprk535jl: calls 900
+4betAllien: calls 900
+Barrasrz: calls 900
+*** RIVER *** [Js Ah Tc 5s] [Qs]
+nombell: bets 1216 and is all-in
+joelprk535jl: raises 1216 to 2432
+4betAllien: raises 2742 to 5174 and is all-in
+Barrasrz: raises 3614 to 8788 and is all-in
+joelprk535jl: calls 6356
+*** SHOW DOWN ***
+Barrasrz: shows [Jh Kd] (a straight, Ten to Ace)
+joelprk535jl: shows [7s Kc] (a straight, Ten to Ace)
+joelprk535jl collected 3614 from side pot-2 
+Barrasrz collected 3614 from side pot-2 
+4betAllien: shows [Ts As] (a flush, Ace high)
+4betAllien collected 11874 from side pot-1 
+nombell: shows [Qc Kh] (a straight, Ten to Ace)
+4betAllien collected 12586 from main pot
+4betAllien wins €0.12 for eliminating nombell and their own bounty increases by €0.05 to €0.27
+nombell finished the tournament
+*** SUMMARY ***
+Total pot 31688 Main pot 12586. Side pot-1 11874. Side pot-2 7228. | Rake 0 
+Board [Js Ah Tc 5s Qs]
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz (button) showed [Jh Kd] and won (3614) with a straight, Ten to Ace
+Seat 4: nombell (small blind) showed [Qc Kh] and lost with a straight, Ten to Ace
+Seat 5: joelprk535jl (big blind) showed [7s Kc] and won (3614) with a straight, Ten to Ace
+Seat 6: 4betAllien showed [Ts As] and won (24460) with a flush, Ace high
+
+
+
+PokerStars Hand #257646789396: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:37:18 CET [2025/09/07 9:37:18 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (5110 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (32361 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (3614 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (11993 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (24460 in chips, €0.27 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+joelprk535jl: posts the ante 30
+4betAllien: posts the ante 30
+4betAllien: posts small blind 100
+EnoGam: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 4d]
+pipinoelbreve9: folds 
+Barrasrz: folds 
+joelprk535jl: raises 200 to 400
+4betAllien: folds 
+EnoGam: calls 200
+*** FLOP *** [Kc 5d As]
+EnoGam: checks 
+joelprk535jl: bets 1050
+EnoGam: calls 1050
+*** TURN *** [Kc 5d As] [8h]
+EnoGam: checks 
+joelprk535jl: bets 3150
+EnoGam: folds 
+Uncalled bet (3150) returned to joelprk535jl
+joelprk535jl collected 3150 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 3150 | Rake 0 
+Board [Kc 5d As 8h]
+Seat 1: EnoGam (big blind) folded on the Turn
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) collected (3150)
+Seat 6: 4betAllien (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646800267: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:38:22 CET [2025/09/07 9:38:22 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (3630 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (32331 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (3584 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (5000 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (13663 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (24330 in chips, €0.27 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+4betAllien: posts the ante 30
+EnoGam: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 6s]
+Barrasrz: folds 
+bertasso4: folds 
+joelprk535jl: raises 200 to 400
+4betAllien: folds 
+EnoGam: calls 300
+pipinoelbreve9: folds 
+*** FLOP *** [3c As Kd]
+EnoGam: checks 
+joelprk535jl: checks 
+*** TURN *** [3c As Kd] [Jd]
+EnoGam: bets 400
+joelprk535jl: calls 400
+*** RIVER *** [3c As Kd Jd] [2s]
+EnoGam: bets 400
+joelprk535jl: folds 
+Uncalled bet (400) returned to EnoGam
+EnoGam collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Board [3c As Kd Jd 2s]
+Seat 1: EnoGam (small blind) collected (1980)
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl folded on the River
+Seat 6: 4betAllien (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646806509: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:38:59 CET [2025/09/07 9:38:59 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (4780 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (32101 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (3554 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (4970 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (12833 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (24300 in chips, €0.27 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+4betAllien: posts the ante 30
+pipinoelbreve9: posts small blind 100
+Barrasrz: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 7h]
+bertasso4: folds 
+joelprk535jl: raises 200 to 400
+4betAllien: folds 
+EnoGam: folds 
+pipinoelbreve9: calls 300
+Barrasrz: folds 
+*** FLOP *** [2c Ac 5d]
+pipinoelbreve9: checks 
+joelprk535jl: bets 200
+pipinoelbreve9: folds 
+Uncalled bet (200) returned to joelprk535jl
+joelprk535jl collected 1180 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [2c Ac 5d]
+Seat 1: EnoGam (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded on the Flop
+Seat 3: Barrasrz (big blind) folded before Flop
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl collected (1180)
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646810787: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:39:24 CET [2025/09/07 9:39:24 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (4750 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (31671 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (3324 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (4940 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (13583 in chips, €0.34 bounty) 
+Seat 6: 4betAllien (24270 in chips, €0.27 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+4betAllien: posts the ante 30
+Barrasrz: posts small blind 100
+bertasso4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 7c]
+joelprk535jl: raises 200 to 400
+4betAllien: folds 
+EnoGam: calls 400
+pipinoelbreve9: folds 
+Barrasrz: raises 2894 to 3294 and is all-in
+bertasso4: folds 
+joelprk535jl: raises 2894 to 6188
+EnoGam: folds 
+Uncalled bet (2894) returned to joelprk535jl
+*** FLOP *** [As 9s Jc]
+*** TURN *** [As 9s Jc] [9c]
+*** RIVER *** [As 9s Jc 9c] [4c]
+*** SHOW DOWN ***
+Barrasrz: shows [9d Kd] (three of a kind, Nines)
+joelprk535jl: shows [Ad 8h] (two pair, Aces and Nines)
+Barrasrz collected 7368 from pot
+*** SUMMARY ***
+Total pot 7368 | Rake 0 
+Board [As 9s Jc 9c 4c]
+Seat 1: EnoGam folded before Flop
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: Barrasrz (small blind) showed [9d Kd] and won (7368) with three of a kind, Nines
+Seat 4: bertasso4 (big blind) folded before Flop
+Seat 5: joelprk535jl showed [Ad 8h] and lost with two pair, Aces and Nines
+Seat 6: 4betAllien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646817243: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:40:02 CET [2025/09/07 9:40:02 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (4320 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (31641 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (7368 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (4710 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (10259 in chips, €0.34 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+bertasso4: posts small blind 100
+joelprk535jl: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 8d]
+EnoGam: calls 200
+pipinoelbreve9: folds 
+Barrasrz: folds 
+bertasso4: folds 
+joelprk535jl: raises 10029 to 10229 and is all-in
+EnoGam: calls 4090 and is all-in
+Uncalled bet (5939) returned to joelprk535jl
+*** FLOP *** [Jd Ah 3s]
+*** TURN *** [Jd Ah 3s] [7d]
+*** RIVER *** [Jd Ah 3s 7d] [Qh]
+*** SHOW DOWN ***
+joelprk535jl: shows [6c Ad] (a pair of Aces)
+EnoGam: shows [5h As] (a pair of Aces)
+joelprk535jl collected 4415 from pot
+EnoGam collected 4415 from pot
+*** SUMMARY ***
+Total pot 8830 | Rake 0 
+Board [Jd Ah 3s 7d Qh]
+Seat 1: EnoGam showed [5h As] and won (4415) with a pair of Aces
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz (button) folded before Flop (didn't bet)
+Seat 4: bertasso4 (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) showed [6c Ad] and won (4415) with a pair of Aces
+
+
+
+PokerStars Hand #257646823105: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:40:35 CET [2025/09/07 9:40:35 ET]
+Table '3925934910 3' 6-max Seat #4 is the button
+Seat 1: EnoGam (4415 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (31611 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (7338 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (4580 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (10354 in chips, €0.34 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+joelprk535jl: posts small blind 100
+EnoGam: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 2d]
+pipinoelbreve9: folds 
+Barrasrz: folds 
+bertasso4: folds 
+joelprk535jl: calls 100
+EnoGam: checks 
+*** FLOP *** [3c 8d 3d]
+joelprk535jl: bets 200
+EnoGam: calls 200
+*** TURN *** [3c 8d 3d] [2c]
+joelprk535jl: bets 1400
+EnoGam: folds 
+Uncalled bet (1400) returned to joelprk535jl
+joelprk535jl collected 950 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [3c 8d 3d 2c]
+Seat 1: EnoGam (big blind) folded on the Turn
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: Barrasrz folded before Flop (didn't bet)
+Seat 4: bertasso4 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) collected (950)
+
+
+
+PokerStars Hand #257646829157: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 15:41:10 CET [2025/09/07 9:41:10 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (3985 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (31581 in chips, €0.29 bounty) 
+Seat 3: Barrasrz (7308 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (4550 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (10874 in chips, €0.34 bounty) 
+EnoGam: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Barrasrz: posts the ante 30
+bertasso4: posts the ante 30
+joelprk535jl: posts the ante 30
+EnoGam: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Qs]
+Barrasrz: raises 400 to 600
+bertasso4: folds 
+joelprk535jl: calls 600
+EnoGam: folds 
+pipinoelbreve9: calls 400
+*** FLOP *** [9s 3d Th]
+pipinoelbreve9: checks 
+Barrasrz: checks 
+joelprk535jl: bets 1025
+pipinoelbreve9: folds 
+Barrasrz: raises 5653 to 6678 and is all-in
+joelprk535jl: calls 5653
+*** TURN *** [9s 3d Th] [Kc]
+*** RIVER *** [9s 3d Th Kc] [2c]
+*** SHOW DOWN ***
+Barrasrz: shows [8s 8d] (a pair of Eights)
+joelprk535jl: shows [As 4c] (high card Ace)
+Barrasrz collected 15406 from pot
+*** SUMMARY ***
+Total pot 15406 | Rake 0 
+Board [9s 3d Th Kc 2c]
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: Barrasrz showed [8s 8d] and won (15406) with a pair of Eights
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) showed [As 4c] and lost with high card Ace
+
+
+
+PokerStars Hand #257646840139: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:42:14 CET [2025/09/07 9:42:14 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (3855 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30951 in chips, €0.29 bounty) 
+Seat 4: bertasso4 (4520 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (3566 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17876 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+pipinoelbreve9: posts small blind 125
+bertasso4: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 6c]
+joelprk535jl: raises 3250 to 3500
+Camarlengo70: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+bertasso4: raises 982 to 4482 and is all-in
+joelprk535jl: calls 28 and is all-in
+Uncalled bet (954) returned to bertasso4
+*** FLOP *** [9d 5h Ad]
+*** TURN *** [9d 5h Ad] [3d]
+*** RIVER *** [9d 5h Ad 3d] [Qd]
+*** SHOW DOWN ***
+bertasso4: shows [Ac 9s] (two pair, Aces and Nines)
+joelprk535jl: shows [Ks 4d] (a flush, Ace high)
+joelprk535jl collected 7371 from pot
+*** SUMMARY ***
+Total pot 7371 | Rake 0 
+Board [9d 5h Ad 3d Qd]
+Seat 1: EnoGam (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: bertasso4 (big blind) showed [Ac 9s] and lost with two pair, Aces and Nines
+Seat 5: joelprk535jl showed [Ks 4d] and won (7371) with a flush, Ace high
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646845535: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:42:45 CET [2025/09/07 9:42:45 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (3817 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30788 in chips, €0.29 bounty) 
+Seat 3: sub007 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: bertasso4 (954 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (7371 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17838 in chips, €0.43 bounty) 
+sub007 will be allowed to play after the button
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+bertasso4: posts small blind 125
+joelprk535jl: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Qh]
+sub007 is disconnected 
+Camarlengo70: folds 
+EnoGam: calls 250
+pipinoelbreve9: folds 
+bertasso4: folds 
+bertasso4 is sitting out
+joelprk535jl: checks 
+*** FLOP *** [Tc 7c 6s]
+joelprk535jl: checks 
+EnoGam: checks 
+*** TURN *** [Tc 7c 6s] [9c]
+joelprk535jl: bets 250
+EnoGam: calls 250
+*** RIVER *** [Tc 7c 6s 9c] [Qd]
+joelprk535jl: checks 
+EnoGam: bets 750
+joelprk535jl: folds 
+Uncalled bet (750) returned to EnoGam
+EnoGam collected 1315 from pot
+*** SUMMARY ***
+Total pot 1315 | Rake 0 
+Board [Tc 7c 6s 9c Qd]
+Seat 1: EnoGam collected (1315)
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: bertasso4 (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) folded on the River
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646851733: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:43:21 CET [2025/09/07 9:43:21 ET]
+Table '3925934910 3' 6-max Seat #4 is the button
+Seat 1: EnoGam (4594 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30750 in chips, €0.29 bounty) 
+Seat 3: sub007 (5000 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (791 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (6833 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17800 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+joelprk535jl: posts small blind 125
+Camarlengo70: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 3d]
+EnoGam: calls 250
+pipinoelbreve9: folds 
+sub007: calls 250
+bertasso4: folds 
+joelprk535jl: folds 
+Camarlengo70: checks 
+*** FLOP *** [4c Ah 2h]
+Camarlengo70: bets 250
+EnoGam: calls 250
+sub007: calls 250
+*** TURN *** [4c Ah 2h] [4h]
+Camarlengo70: bets 250
+EnoGam: calls 250
+sub007: folds 
+*** RIVER *** [4c Ah 2h 4h] [7s]
+Camarlengo70: checks 
+EnoGam: bets 500
+Camarlengo70: folds 
+Uncalled bet (500) returned to EnoGam
+EnoGam collected 2353 from pot
+*** SUMMARY ***
+Total pot 2353 | Rake 0 
+Board [4c Ah 2h 4h 7s]
+Seat 1: EnoGam collected (2353)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: sub007 folded on the Turn
+Seat 4: bertasso4 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) folded before Flop
+Seat 6: Camarlengo70 (big blind) folded on the River
+
+
+
+PokerStars Hand #257646855823: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:43:45 CET [2025/09/07 9:43:45 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (6159 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30712 in chips, €0.29 bounty) 
+Seat 3: sub007 (4462 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (753 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (6670 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17012 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+Camarlengo70: posts small blind 125
+EnoGam: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 3d]
+pipinoelbreve9: folds 
+sub007: folds 
+bertasso4: folds 
+joelprk535jl has timed out
+joelprk535jl: folds 
+joelprk535jl is sitting out
+Camarlengo70: calls 125
+EnoGam: checks 
+*** FLOP *** [Js Qc 8d]
+joelprk535jl has returned
+Camarlengo70: bets 250
+EnoGam: calls 250
+*** TURN *** [Js Qc 8d] [7d]
+Camarlengo70: bets 250
+EnoGam: calls 250
+*** RIVER *** [Js Qc 8d 7d] [7c]
+Camarlengo70: bets 250
+EnoGam: calls 250
+*** SHOW DOWN ***
+Camarlengo70: shows [6s Qs] (two pair, Queens and Sevens)
+EnoGam: mucks hand 
+Camarlengo70 collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | Rake 0 
+Board [Js Qc 8d 7d 7c]
+Seat 1: EnoGam (big blind) mucked [8s Jc]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: sub007 folded before Flop (didn't bet)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) folded before Flop (didn't bet)
+Seat 6: Camarlengo70 (small blind) showed [6s Qs] and won (2228) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #257646865283: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:44:39 CET [2025/09/07 9:44:39 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (5121 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30674 in chips, €0.29 bounty) 
+Seat 3: sub007 (4424 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (715 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (6632 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (18202 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+EnoGam: posts small blind 125
+pipinoelbreve9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h 9c]
+sub007: folds 
+bertasso4: folds 
+joelprk535jl: raises 250 to 500
+Camarlengo70: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+Uncalled bet (250) returned to joelprk535jl
+joelprk535jl collected 853 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 853 | Rake 0 
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: sub007 folded before Flop (didn't bet)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl collected (853)
+Seat 6: Camarlengo70 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646868380: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:44:57 CET [2025/09/07 9:44:57 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (4958 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30386 in chips, €0.29 bounty) 
+Seat 3: sub007 (4386 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (677 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (7197 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (18164 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+pipinoelbreve9: posts small blind 125
+sub007: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 5c]
+bertasso4: folds 
+joelprk535jl: folds 
+Camarlengo70: folds 
+EnoGam: calls 250
+pipinoelbreve9: calls 125
+sub007: checks 
+*** FLOP *** [Th Ah 2h]
+pipinoelbreve9: checks 
+sub007: checks 
+EnoGam: checks 
+*** TURN *** [Th Ah 2h] [9h]
+pipinoelbreve9: checks 
+sub007: checks 
+EnoGam: checks 
+*** RIVER *** [Th Ah 2h 9h] [Tc]
+Camarlengo70 is disconnected 
+pipinoelbreve9: checks 
+sub007: bets 750
+EnoGam: folds 
+pipinoelbreve9: folds 
+Uncalled bet (750) returned to sub007
+sub007 collected 978 from pot
+sub007: doesn't show hand 
+*** SUMMARY ***
+Total pot 978 | Rake 0 
+Board [Th Ah 2h 9h Tc]
+Seat 1: EnoGam (button) folded on the River
+Seat 2: pipinoelbreve9 (small blind) folded on the River
+Seat 3: sub007 (big blind) collected (978)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646874065: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:45:30 CET [2025/09/07 9:45:30 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (4670 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (30098 in chips, €0.29 bounty) 
+Seat 3: sub007 (5076 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (639 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (7159 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (18126 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+sub007: posts small blind 125
+bertasso4: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 9c]
+joelprk535jl: folds 
+Camarlengo70: folds 
+EnoGam: calls 250
+pipinoelbreve9: calls 250
+sub007: folds 
+bertasso4: folds 
+*** FLOP *** [8d 3c 6c]
+EnoGam: checks 
+pipinoelbreve9: checks 
+*** TURN *** [8d 3c 6c] [2h]
+EnoGam: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [8d 3c 6c 2h] [2s]
+EnoGam: bets 250
+pipinoelbreve9: calls 250
+*** SHOW DOWN ***
+EnoGam: shows [7s Kc] (a pair of Deuces)
+pipinoelbreve9: mucks hand 
+EnoGam collected 1603 from pot
+*** SUMMARY ***
+Total pot 1603 | Rake 0 
+Board [8d 3c 6c 2h 2s]
+Seat 1: EnoGam showed [7s Kc] and won (1603) with a pair of Deuces
+Seat 2: pipinoelbreve9 (button) mucked [Qs 9c]
+Seat 3: sub007 (small blind) folded before Flop
+Seat 4: bertasso4 (big blind) folded before Flop
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646878385: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:45:54 CET [2025/09/07 9:45:54 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (5735 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (29560 in chips, €0.29 bounty) 
+Seat 3: sub007 (4913 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (351 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (7121 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (18088 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+bertasso4: posts small blind 125
+joelprk535jl: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Js]
+Camarlengo70: folds 
+EnoGam: calls 250
+pipinoelbreve9: calls 250
+sub007: folds 
+bertasso4: folds 
+joelprk535jl: checks 
+*** FLOP *** [Kc 2c 4h]
+joelprk535jl: checks 
+EnoGam: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Kc 2c 4h] [As]
+joelprk535jl: bets 250
+EnoGam: calls 250
+pipinoelbreve9: calls 250
+*** RIVER *** [Kc 2c 4h As] [4s]
+joelprk535jl: bets 250
+EnoGam: calls 250
+pipinoelbreve9: folds 
+*** SHOW DOWN ***
+joelprk535jl: shows [3s Ah] (two pair, Aces and Fours)
+EnoGam: shows [3c Ad] (two pair, Aces and Fours)
+joelprk535jl collected 1177 from pot
+EnoGam collected 1176 from pot
+*** SUMMARY ***
+Total pot 2353 | Rake 0 
+Board [Kc 2c 4h As 4s]
+Seat 1: EnoGam showed [3c Ad] and won (1176) with two pair, Aces and Fours
+Seat 2: pipinoelbreve9 folded on the River
+Seat 3: sub007 (button) folded before Flop (didn't bet)
+Seat 4: bertasso4 (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) showed [3s Ah] and won (1177) with two pair, Aces and Fours
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646885326: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 15:46:33 CET [2025/09/07 9:46:33 ET]
+Table '3925934910 3' 6-max Seat #4 is the button
+Seat 1: EnoGam (6123 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (29022 in chips, €0.29 bounty) 
+Seat 3: sub007 (4875 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (188 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (7510 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (18050 in chips, €0.43 bounty) 
+EnoGam: posts the ante 38
+pipinoelbreve9: posts the ante 38
+sub007: posts the ante 38
+bertasso4: posts the ante 38
+joelprk535jl: posts the ante 38
+Camarlengo70: posts the ante 38
+joelprk535jl: posts small blind 125
+Camarlengo70: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 2d]
+EnoGam: calls 250
+pipinoelbreve9: folds 
+sub007: folds 
+bertasso4: folds 
+joelprk535jl: raises 250 to 500
+Camarlengo70: calls 250
+EnoGam: calls 250
+*** FLOP *** [Kh Kd 4d]
+joelprk535jl: bets 1728
+Camarlengo70: folds 
+EnoGam: calls 1728
+*** TURN *** [Kh Kd 4d] [7c]
+joelprk535jl: checks 
+EnoGam: checks 
+*** RIVER *** [Kh Kd 4d 7c] [Qc]
+joelprk535jl: bets 5244 and is all-in
+EnoGam: folds 
+Uncalled bet (5244) returned to joelprk535jl
+joelprk535jl collected 5184 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 5184 | Rake 0 
+Board [Kh Kd 4d 7c Qc]
+Seat 1: EnoGam folded on the River
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: sub007 folded before Flop (didn't bet)
+Seat 4: bertasso4 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) collected (5184)
+Seat 6: Camarlengo70 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257646893210: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:47:18 CET [2025/09/07 9:47:18 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (3857 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (28984 in chips, €0.29 bounty) 
+Seat 3: sub007 (4837 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (150 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (10428 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17512 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+bertasso4: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+Camarlengo70: posts small blind 150
+EnoGam: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 5d]
+pipinoelbreve9: folds 
+sub007: raises 600 to 900
+bertasso4: folds 
+joelprk535jl: folds 
+Camarlengo70: folds 
+EnoGam: calls 600
+*** FLOP *** [3d Jc Ad]
+EnoGam: checks 
+sub007: checks 
+*** TURN *** [3d Jc Ad] [4h]
+EnoGam: checks 
+sub007: bets 2250
+EnoGam: folds 
+Uncalled bet (2250) returned to sub007
+sub007 collected 2250 from pot
+sub007: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [3d Jc Ad 4h]
+Seat 1: EnoGam (big blind) folded on the Turn
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: sub007 collected (2250)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) folded before Flop (didn't bet)
+Seat 6: Camarlengo70 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646897401: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:47:42 CET [2025/09/07 9:47:42 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (2907 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (28934 in chips, €0.29 bounty) 
+Seat 3: sub007 (6137 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (100 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (10378 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17312 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+bertasso4: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+EnoGam: posts small blind 150
+pipinoelbreve9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Th]
+sub007: folds 
+bertasso4: folds 
+joelprk535jl: raises 300 to 600
+Camarlengo70: folds 
+EnoGam: folds 
+pipinoelbreve9: calls 300
+*** FLOP *** [2s Kd Qc]
+pipinoelbreve9: checks 
+joelprk535jl: bets 300
+pipinoelbreve9: calls 300
+*** TURN *** [2s Kd Qc] [Tc]
+pipinoelbreve9: checks 
+joelprk535jl: bets 1125
+pipinoelbreve9: calls 1125
+*** RIVER *** [2s Kd Qc Tc] [Qh]
+pipinoelbreve9: checks 
+joelprk535jl: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad Th] (two pair, Queens and Tens)
+joelprk535jl: shows [Kc Jc] (two pair, Kings and Queens)
+joelprk535jl collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [2s Kd Qc Tc Qh]
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) showed [Ad Th] and lost with two pair, Queens and Tens
+Seat 3: sub007 folded before Flop (didn't bet)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl showed [Kc Jc] and won (4500) with two pair, Kings and Queens
+Seat 6: Camarlengo70 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646904351: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:48:21 CET [2025/09/07 9:48:21 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (2707 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (26859 in chips, €0.29 bounty) 
+Seat 3: sub007 (6087 in chips, €0.17 bounty) 
+Seat 4: bertasso4 (50 in chips, €0.17 bounty) is sitting out
+Seat 5: joelprk535jl (12803 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (17262 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+bertasso4: posts the ante 50 and is all-in
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+pipinoelbreve9: posts small blind 150
+sub007: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 2h]
+bertasso4: folds 
+joelprk535jl: folds 
+Camarlengo70: calls 300
+EnoGam: folds 
+pipinoelbreve9: folds 
+sub007: checks 
+*** FLOP *** [Qs 3d Ad]
+sub007: checks 
+Camarlengo70: checks 
+*** TURN *** [Qs 3d Ad] [3c]
+sub007: checks 
+Camarlengo70: checks 
+*** RIVER *** [Qs 3d Ad 3c] [2d]
+sub007: bets 1200
+Camarlengo70: folds 
+Uncalled bet (1200) returned to sub007
+sub007 collected 1050 from pot
+sub007 wins €0.12 for eliminating bertasso4 and their own bounty increases by €0.05 to €0.22
+bertasso4 finished the tournament in 48th place
+sub007: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Qs 3d Ad 3c 2d]
+Seat 1: EnoGam (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: sub007 (big blind) collected (1050)
+Seat 4: bertasso4 folded before Flop (didn't bet)
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 folded on the River
+
+
+
+PokerStars Hand #257646909239: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:48:49 CET [2025/09/07 9:48:49 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (2657 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (26659 in chips, €0.29 bounty) 
+Seat 3: sub007 (6787 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (12753 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (16912 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+sub007: posts small blind 150
+joelprk535jl: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Ts]
+Camarlengo70: calls 300
+EnoGam: calls 300
+pipinoelbreve9: raises 1200 to 1500
+sub007: folds 
+joelprk535jl: calls 1200
+Camarlengo70: folds 
+EnoGam: folds 
+*** FLOP *** [2d 9d 6d]
+joelprk535jl: checks 
+pipinoelbreve9: bets 2000
+joelprk535jl: raises 4000 to 6000
+pipinoelbreve9: folds 
+Uncalled bet (4000) returned to joelprk535jl
+joelprk535jl collected 8000 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Board [2d 9d 6d]
+Seat 1: EnoGam folded before Flop
+Seat 2: pipinoelbreve9 (button) folded on the Flop
+Seat 3: sub007 (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) collected (8000)
+Seat 6: Camarlengo70 folded before Flop
+
+
+
+PokerStars Hand #257646917474: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:49:35 CET [2025/09/07 9:49:35 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (2307 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23109 in chips, €0.29 bounty) 
+Seat 3: sub007 (6587 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (17203 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (16562 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+joelprk535jl: posts small blind 150
+Camarlengo70: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 8h]
+EnoGam: folds 
+pipinoelbreve9: raises 600 to 900
+sub007: folds 
+joelprk535jl: folds 
+Camarlengo70: folds 
+Uncalled bet (600) returned to pipinoelbreve9
+pipinoelbreve9 collected 1000 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 collected (1000)
+Seat 3: sub007 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) folded before Flop
+Seat 6: Camarlengo70 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257646919432: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:49:46 CET [2025/09/07 9:49:46 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (2257 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23759 in chips, €0.29 bounty) 
+Seat 3: sub007 (6537 in chips, €0.22 bounty) 
+Seat 5: joelprk535jl (17003 in chips, €0.34 bounty) 
+Seat 6: Camarlengo70 (16212 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+sub007: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+Camarlengo70: posts small blind 150
+EnoGam: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 7d]
+pipinoelbreve9: folds 
+sub007: raises 600 to 900
+joelprk535jl: raises 600 to 1500
+Camarlengo70: folds 
+EnoGam: raises 707 to 2207 and is all-in
+sub007: raises 4280 to 6487 and is all-in
+joelprk535jl: calls 4987
+*** FLOP *** [2c 9h Js]
+*** TURN *** [2c 9h Js] [2s]
+*** RIVER *** [2c 9h Js 2s] [Kd]
+*** SHOW DOWN ***
+sub007: shows [Qd Ah] (a pair of Deuces)
+joelprk535jl: shows [9c Jd] (two pair, Jacks and Nines)
+joelprk535jl collected 8560 from side pot
+EnoGam: shows [Kc Jh] (two pair, Kings and Jacks)
+EnoGam collected 7021 from main pot
+joelprk535jl wins €0.15 for eliminating sub007 and their own bounty increases by €0.07 to €0.41
+sub007 finished the tournament in 46th place
+*** SUMMARY ***
+Total pot 15581 Main pot 7021. Side pot 8560. | Rake 0 
+Board [2c 9h Js 2s Kd]
+Seat 1: EnoGam (big blind) showed [Kc Jh] and won (7021) with two pair, Kings and Jacks
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: sub007 showed [Qd Ah] and lost with a pair of Deuces
+Seat 5: joelprk535jl (button) showed [9c Jd] and won (8560) with two pair, Jacks and Nines
+Seat 6: Camarlengo70 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257646924789: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:50:16 CET [2025/09/07 9:50:16 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (7021 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23709 in chips, €0.29 bounty) 
+Seat 5: joelprk535jl (19026 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (16012 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+EnoGam: posts small blind 150
+pipinoelbreve9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Td]
+joelprk535jl: folds 
+Camarlengo70: folds 
+EnoGam: calls 150
+pipinoelbreve9: raises 23359 to 23659 and is all-in
+EnoGam: folds 
+Uncalled bet (23359) returned to pipinoelbreve9
+pipinoelbreve9 collected 800 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) collected (800)
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646928592: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:50:38 CET [2025/09/07 9:50:38 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (6671 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (24159 in chips, €0.29 bounty) 
+Seat 3: marck206 (5335 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (18976 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (15962 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+marck206: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+pipinoelbreve9: posts small blind 150
+marck206: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 5h]
+joelprk535jl: folds 
+Camarlengo70: calls 300
+EnoGam: folds 
+pipinoelbreve9: folds 
+marck206: checks 
+*** FLOP *** [3d 8s 5d]
+marck206: checks 
+Camarlengo70: checks 
+*** TURN *** [3d 8s 5d] [3h]
+marck206: checks 
+Camarlengo70: checks 
+*** RIVER *** [3d 8s 5d 3h] [4d]
+marck206: bets 300
+Camarlengo70: folds 
+Uncalled bet (300) returned to marck206
+marck206 collected 1000 from pot
+marck206: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [3d 8s 5d 3h 4d]
+Seat 1: EnoGam (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: marck206 (big blind) collected (1000)
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 folded on the River
+
+
+
+PokerStars Hand #257646932852: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XII (150/300) - 2025/09/07 15:51:01 CET [2025/09/07 9:51:01 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (6621 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23959 in chips, €0.29 bounty) 
+Seat 3: marck206 (5985 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (18926 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (15612 in chips, €0.43 bounty) 
+EnoGam: posts the ante 50
+pipinoelbreve9: posts the ante 50
+marck206: posts the ante 50
+joelprk535jl: posts the ante 50
+Camarlengo70: posts the ante 50
+marck206: posts small blind 150
+joelprk535jl: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 6s]
+Camarlengo70: calls 300
+EnoGam: calls 300
+pipinoelbreve9: folds 
+marck206: folds 
+joelprk535jl: checks 
+*** FLOP *** [9s 5d 9c]
+joelprk535jl: bets 300
+Camarlengo70: calls 300
+EnoGam: calls 300
+*** TURN *** [9s 5d 9c] [As]
+joelprk535jl: checks 
+Camarlengo70: checks 
+EnoGam: checks 
+*** RIVER *** [9s 5d 9c As] [Ah]
+joelprk535jl: bets 2200
+Camarlengo70: calls 2200
+EnoGam: calls 2200
+*** SHOW DOWN ***
+joelprk535jl: shows [3d Ac] (a full house, Aces full of Nines)
+Camarlengo70: mucks hand 
+EnoGam: mucks hand 
+joelprk535jl collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [9s 5d 9c As Ah]
+Seat 1: EnoGam mucked [9h Th]
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: marck206 (small blind) folded before Flop
+Seat 5: joelprk535jl (big blind) showed [3d Ac] and won (8800) with a full house, Aces full of Nines
+Seat 6: Camarlengo70 mucked [Qh Qd]
+
+
+
+PokerStars Hand #257646941000: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:51:46 CET [2025/09/07 9:51:46 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (3771 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23909 in chips, €0.29 bounty) 
+Seat 3: marck206 (5785 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (24876 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (12762 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+joelprk535jl: posts small blind 200
+Camarlengo70: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Jc]
+EnoGam: folds 
+pipinoelbreve9: folds 
+marck206: folds 
+joelprk535jl: raises 400 to 800
+Camarlengo70: calls 400
+*** FLOP *** [Jd Qc Jh]
+joelprk535jl: bets 400
+Camarlengo70: folds 
+Uncalled bet (400) returned to joelprk535jl
+joelprk535jl collected 1900 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [Jd Qc Jh]
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: marck206 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) collected (1900)
+Seat 6: Camarlengo70 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257646944264: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:52:04 CET [2025/09/07 9:52:04 ET]
+Table '3925934910 3' 6-max Seat #5 is the button
+Seat 1: EnoGam (3711 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (23849 in chips, €0.29 bounty) 
+Seat 3: marck206 (5725 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (25916 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (11902 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+Camarlengo70: posts small blind 200
+EnoGam: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Ad]
+pipinoelbreve9: raises 800 to 1200
+marck206: folds 
+jlst95 is disconnected 
+joelprk535jl: folds 
+Camarlengo70: calls 1000
+EnoGam: raises 2451 to 3651 and is all-in
+pipinoelbreve9: folds 
+Camarlengo70: calls 2451
+*** FLOP *** [5d 7d Kd]
+*** TURN *** [5d 7d Kd] [3s]
+*** RIVER *** [5d 7d Kd 3s] [9d]
+*** SHOW DOWN ***
+Camarlengo70: shows [Ks Jh] (a pair of Kings)
+EnoGam: shows [Qh Kh] (a pair of Kings - Queen kicker)
+EnoGam collected 8802 from pot
+*** SUMMARY ***
+Total pot 8802 | Rake 0 
+Board [5d 7d Kd 3s 9d]
+Seat 1: EnoGam (big blind) showed [Qh Kh] and won (8802) with a pair of Kings
+Seat 2: pipinoelbreve9 folded before Flop
+Seat 3: marck206 folded before Flop (didn't bet)
+Seat 5: joelprk535jl (button) folded before Flop (didn't bet)
+Seat 6: Camarlengo70 (small blind) showed [Ks Jh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #257646948564: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:52:28 CET [2025/09/07 9:52:28 ET]
+Table '3925934910 3' 6-max Seat #6 is the button
+Seat 1: EnoGam (8802 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (22589 in chips, €0.29 bounty) 
+Seat 3: marck206 (5665 in chips, €0.17 bounty) 
+Seat 4: jlst95 (6750 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (25856 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (8191 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+jlst95: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+EnoGam: posts small blind 200
+pipinoelbreve9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 8d]
+marck206: folds 
+jlst95: folds 
+joelprk535jl: raises 400 to 800
+Camarlengo70: calls 800
+EnoGam: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [7h 2h 4c]
+joelprk535jl: bets 2560
+Camarlengo70: folds 
+Uncalled bet (2560) returned to joelprk535jl
+joelprk535jl collected 2560 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Board [7h 2h 4c]
+Seat 1: EnoGam (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: marck206 folded before Flop (didn't bet)
+Seat 4: jlst95 folded before Flop (didn't bet)
+Seat 5: joelprk535jl collected (2560)
+Seat 6: Camarlengo70 (button) folded on the Flop
+
+
+
+PokerStars Hand #257646952853: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:52:52 CET [2025/09/07 9:52:52 ET]
+Table '3925934910 3' 6-max Seat #1 is the button
+Seat 1: EnoGam (8542 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (22129 in chips, €0.29 bounty) 
+Seat 3: marck206 (5605 in chips, €0.17 bounty) 
+Seat 4: jlst95 (6690 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (27556 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (7331 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+jlst95: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+pipinoelbreve9: posts small blind 200
+marck206: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Th]
+jlst95: folds 
+joelprk535jl has timed out
+joelprk535jl: folds 
+joelprk535jl is sitting out
+Camarlengo70: calls 400
+EnoGam: calls 400
+pipinoelbreve9: raises 1960 to 2360
+marck206: folds 
+Camarlengo70: calls 1960
+EnoGam: folds 
+*** FLOP *** [6d Jh 8s]
+pipinoelbreve9: bets 2540
+Camarlengo70: calls 2540
+*** TURN *** [6d Jh 8s] [4h]
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+*** RIVER *** [6d Jh 8s 4h] [Jc]
+pipinoelbreve9: checks 
+Camarlengo70: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad Th] (a pair of Jacks)
+Camarlengo70: mucks hand 
+pipinoelbreve9 collected 10960 from pot
+*** SUMMARY ***
+Total pot 10960 | Rake 0 
+Board [6d Jh 8s 4h Jc]
+Seat 1: EnoGam (button) folded before Flop
+Seat 2: pipinoelbreve9 (small blind) showed [Ad Th] and won (10960) with a pair of Jacks
+Seat 3: marck206 (big blind) folded before Flop
+Seat 4: jlst95 folded before Flop (didn't bet)
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 mucked [Qh Kh]
+
+
+
+PokerStars Hand #257646961970: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:53:43 CET [2025/09/07 9:53:43 ET]
+Table '3925934910 3' 6-max Seat #2 is the button
+Seat 1: EnoGam (8082 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (28129 in chips, €0.29 bounty) 
+Seat 3: marck206 (5145 in chips, €0.17 bounty) 
+Seat 4: jlst95 (6630 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (27496 in chips, €0.41 bounty) is sitting out
+Seat 6: Camarlengo70 (2371 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+jlst95: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+marck206: posts small blind 200
+jlst95: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Qh]
+joelprk535jl: folds 
+Camarlengo70: folds 
+EnoGam: folds 
+pipinoelbreve9: raises 800 to 1200
+marck206: folds 
+jlst95: folds 
+Uncalled bet (800) returned to pipinoelbreve9
+pipinoelbreve9 collected 1360 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: EnoGam folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) collected (1360)
+Seat 3: marck206 (small blind) folded before Flop
+Seat 4: jlst95 (big blind) folded before Flop
+Seat 5: joelprk535jl folded before Flop (didn't bet)
+Seat 6: Camarlengo70 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646965425: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:54:01 CET [2025/09/07 9:54:01 ET]
+Table '3925934910 3' 6-max Seat #3 is the button
+Seat 1: EnoGam (8022 in chips, €0.17 bounty) 
+Seat 2: pipinoelbreve9 (29029 in chips, €0.29 bounty) 
+Seat 3: marck206 (4885 in chips, €0.17 bounty) 
+Seat 4: jlst95 (6170 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (27436 in chips, €0.41 bounty) is sitting out
+Seat 6: Camarlengo70 (2311 in chips, €0.43 bounty) 
+EnoGam: posts the ante 60
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+jlst95: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+jlst95: posts small blind 200
+joelprk535jl: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Ah]
+Camarlengo70: calls 400
+EnoGam: calls 400
+pipinoelbreve9: calls 400
+marck206: folds 
+joelprk535jl has returned
+jlst95: calls 200
+joelprk535jl: checks 
+*** FLOP *** [5s 3s 7s]
+jlst95: checks 
+joelprk535jl: bets 3200
+Camarlengo70: folds 
+EnoGam: folds 
+pipinoelbreve9: folds 
+jlst95: folds 
+Uncalled bet (3200) returned to joelprk535jl
+joelprk535jl collected 2360 from pot
+joelprk535jl: doesn't show hand 
+*** SUMMARY ***
+Total pot 2360 | Rake 0 
+Board [5s 3s 7s]
+Seat 1: EnoGam folded on the Flop
+Seat 2: pipinoelbreve9 folded on the Flop
+Seat 3: marck206 (button) folded before Flop (didn't bet)
+Seat 4: jlst95 (small blind) folded on the Flop
+Seat 5: joelprk535jl (big blind) collected (2360)
+Seat 6: Camarlengo70 folded on the Flop
+
+
+
+PokerStars Hand #257646974927: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 15:54:54 CET [2025/09/07 9:54:54 ET]
+Table '3925934910 3' 6-max Seat #4 is the button
+Seat 2: pipinoelbreve9 (28569 in chips, €0.29 bounty) 
+Seat 3: marck206 (4825 in chips, €0.17 bounty) 
+Seat 4: jlst95 (5710 in chips, €0.17 bounty) 
+Seat 5: joelprk535jl (29336 in chips, €0.41 bounty) 
+Seat 6: Camarlengo70 (1851 in chips, €0.43 bounty) 
+pipinoelbreve9: posts the ante 60
+marck206: posts the ante 60
+jlst95: posts the ante 60
+joelprk535jl: posts the ante 60
+Camarlengo70: posts the ante 60
+joelprk535jl: posts small blind 200
+Camarlengo70: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 4h]
+pipinoelbreve9: folds 
+marck206: folds 
+jlst95: folds 
+joelprk535jl: raises 400 to 800
+Camarlengo70: raises 991 to 1791 and is all-in
+joelprk535jl: calls 991
+*** FLOP *** [Tc Ks 9s]
+*** TURN *** [Tc Ks 9s] [Qs]
+*** RIVER *** [Tc Ks 9s Qs] [4d]
+*** SHOW DOWN ***
+joelprk535jl: shows [9d Td] (two pair, Tens and Nines)
+Camarlengo70: shows [Ad Ts] (a pair of Tens)
+joelprk535jl collected 3882 from pot
+joelprk535jl wins €0.29 for eliminating Camarlengo70 and their own bounty increases by €0.14 to €0.55
+Camarlengo70 finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 3882 | Rake 0 
+Board [Tc Ks 9s Qs 4d]
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: marck206 folded before Flop (didn't bet)
+Seat 4: jlst95 (button) folded before Flop (didn't bet)
+Seat 5: joelprk535jl (small blind) showed [9d Td] and won (3882) with two pair, Tens and Nines
+Seat 6: Camarlengo70 (big blind) showed [Ad Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #257647029934: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIII (200/400) - 2025/09/07 16:01:53 CET [2025/09/07 10:01:53 ET]
+Table '3925934910 13' 6-max Seat #6 is the button
+Seat 2: IBZ84 (11725 in chips, €0.32 bounty) 
+Seat 3: udenanon (11009 in chips, €0.22 bounty) 
+Seat 4: nombell (4010 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (28509 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (20116 in chips, €0.27 bounty) 
+IBZ84: posts the ante 60
+udenanon: posts the ante 60
+nombell: posts the ante 60
+pipinoelbreve9: posts the ante 60
+CátiaVentura: posts the ante 60
+IBZ84: posts small blind 200
+udenanon: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 5d]
+nombell: folds 
+pipinoelbreve9: folds 
+CátiaVentura: folds 
+IBZ84: calls 200
+udenanon: checks 
+*** FLOP *** [8d 5c Ts]
+IBZ84: checks 
+udenanon has timed out
+udenanon: checks 
+*** TURN *** [8d 5c Ts] [Js]
+IBZ84: bets 400
+udenanon: folds 
+Uncalled bet (400) returned to IBZ84
+IBZ84 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [8d 5c Ts Js]
+Seat 2: IBZ84 (small blind) collected (1100)
+Seat 3: udenanon (big blind) folded on the Turn
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: CátiaVentura (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647040638: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:02:54 CET [2025/09/07 10:02:54 ET]
+Table '3925934910 13' 6-max Seat #2 is the button
+Seat 2: IBZ84 (12365 in chips, €0.32 bounty) 
+Seat 3: udenanon (10549 in chips, €0.22 bounty) 
+Seat 4: nombell (3950 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (28449 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (20056 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+udenanon: posts small blind 250
+nombell: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 4d]
+pipinoelbreve9: folds 
+CátiaVentura: calls 500
+IBZ84: folds 
+udenanon: calls 250
+nombell: folds 
+*** FLOP *** [Ts 4c Qs]
+udenanon: checks 
+CátiaVentura: checks 
+*** TURN *** [Ts 4c Qs] [2s]
+udenanon: checks 
+CátiaVentura: checks 
+*** RIVER *** [Ts 4c Qs 2s] [3s]
+udenanon: checks 
+CátiaVentura: checks 
+*** SHOW DOWN ***
+udenanon: shows [Ah Kh] (high card Ace)
+CátiaVentura: shows [5h Ac] (a straight, Ace to Five)
+CátiaVentura collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [Ts 4c Qs 2s 3s]
+Seat 2: IBZ84 (button) folded before Flop (didn't bet)
+Seat 3: udenanon (small blind) showed [Ah Kh] and lost with high card Ace
+Seat 4: nombell (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: CátiaVentura showed [5h Ac] and won (1900) with a straight, Ace to Five
+
+
+
+PokerStars Hand #257647045502: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:03:21 CET [2025/09/07 10:03:21 ET]
+Table '3925934910 13' 6-max Seat #3 is the button
+Seat 2: IBZ84 (12285 in chips, €0.32 bounty) 
+Seat 3: udenanon (9969 in chips, €0.22 bounty) 
+Seat 4: nombell (3370 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (28369 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (21376 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+nombell: posts small blind 250
+pipinoelbreve9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 6s]
+CátiaVentura: calls 500
+IBZ84: folds 
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [4s 3s 2c]
+pipinoelbreve9: checks 
+CátiaVentura: checks 
+*** TURN *** [4s 3s 2c] [4c]
+pipinoelbreve9: bets 825
+CátiaVentura: calls 825
+*** RIVER *** [4s 3s 2c 4c] [9d]
+pipinoelbreve9: bets 1650
+CátiaVentura: calls 1650
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9s 6s] (two pair, Nines and Fours)
+CátiaVentura: mucks hand 
+pipinoelbreve9 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [4s 3s 2c 4c 9d]
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon (button) folded before Flop (didn't bet)
+Seat 4: nombell (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) showed [9s 6s] and won (6600) with two pair, Nines and Fours
+Seat 6: CátiaVentura mucked [8c 8h]
+
+
+
+PokerStars Hand #257647054675: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:04:12 CET [2025/09/07 10:04:12 ET]
+Table '3925934910 13' 6-max Seat #4 is the button
+Seat 2: IBZ84 (12205 in chips, €0.32 bounty) 
+Seat 3: udenanon (9889 in chips, €0.22 bounty) 
+Seat 4: nombell (3040 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (31914 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (18321 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+pipinoelbreve9: posts small blind 250
+CátiaVentura: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 8s]
+IBZ84: folds 
+udenanon: calls 500
+nombell: folds 
+pipinoelbreve9: raises 2000 to 2500
+CátiaVentura: folds 
+IBZ84 is disconnected 
+udenanon: calls 2000
+*** FLOP *** [Qc Kd 9c]
+IBZ84 is disconnected 
+pipinoelbreve9: bets 2450
+udenanon: folds 
+Uncalled bet (2450) returned to pipinoelbreve9
+pipinoelbreve9 collected 5900 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 5900 | Rake 0 
+Board [Qc Kd 9c]
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon folded on the Flop
+Seat 4: nombell (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (5900)
+Seat 6: CátiaVentura (big blind) folded before Flop
+
+
+
+PokerStars Hand #257647060340: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:04:43 CET [2025/09/07 10:04:43 ET]
+Table '3925934910 13' 6-max Seat #5 is the button
+Seat 2: IBZ84 (12125 in chips, €0.32 bounty) 
+Seat 3: udenanon (7309 in chips, €0.22 bounty) 
+Seat 4: nombell (2960 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (35234 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (17741 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+CátiaVentura: posts small blind 250
+IBZ84: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 7d]
+udenanon has timed out
+udenanon: folds 
+udenanon is sitting out
+nombell: folds 
+pipinoelbreve9: raises 1000 to 1500
+CátiaVentura: folds 
+udenanon has returned
+IBZ84: folds 
+Uncalled bet (1000) returned to pipinoelbreve9
+pipinoelbreve9 collected 1650 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 2: IBZ84 (big blind) folded before Flop
+Seat 3: udenanon folded before Flop (didn't bet)
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) collected (1650)
+Seat 6: CátiaVentura (small blind) folded before Flop
+
+
+
+PokerStars Hand #257647065890: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:05:11 CET [2025/09/07 10:05:11 ET]
+Table '3925934910 13' 6-max Seat #6 is the button
+Seat 2: IBZ84 (11545 in chips, €0.32 bounty) 
+Seat 3: udenanon (7229 in chips, €0.22 bounty) 
+Seat 4: nombell (2880 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (36304 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (17411 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+IBZ84: posts small blind 250
+udenanon: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Ac]
+nombell: folds 
+pipinoelbreve9: raises 1000 to 1500
+CátiaVentura: calls 1500
+IBZ84: folds 
+udenanon: folds 
+*** FLOP *** [Ad 6d 7s]
+pipinoelbreve9: bets 1575
+CátiaVentura: folds 
+Uncalled bet (1575) returned to pipinoelbreve9
+pipinoelbreve9 collected 4150 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 4150 | Rake 0 
+Board [Ad 6d 7s]
+Seat 2: IBZ84 (small blind) folded before Flop
+Seat 3: udenanon (big blind) folded before Flop
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (4150)
+Seat 6: CátiaVentura (button) folded on the Flop
+
+
+
+PokerStars Hand #257647071888: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:05:44 CET [2025/09/07 10:05:44 ET]
+Table '3925934910 13' 6-max Seat #2 is the button
+Seat 2: IBZ84 (11215 in chips, €0.32 bounty) 
+Seat 3: udenanon (6649 in chips, €0.22 bounty) 
+Seat 4: nombell (2800 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (38874 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (15831 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+udenanon: posts small blind 250
+nombell: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Qd]
+pipinoelbreve9: folds 
+CátiaVentura: folds 
+IBZ84: folds 
+udenanon: folds 
+Uncalled bet (250) returned to nombell
+nombell collected 900 from pot
+nombell: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 2: IBZ84 (button) folded before Flop (didn't bet)
+Seat 3: udenanon (small blind) folded before Flop
+Seat 4: nombell (big blind) collected (900)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: CátiaVentura folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647073512: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:05:52 CET [2025/09/07 10:05:52 ET]
+Table '3925934910 13' 6-max Seat #3 is the button
+Seat 2: IBZ84 (11135 in chips, €0.32 bounty) 
+Seat 3: udenanon (6319 in chips, €0.22 bounty) 
+Seat 4: nombell (3370 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (38794 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (15751 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+nombell: posts small blind 250
+pipinoelbreve9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 7c]
+CátiaVentura: calls 500
+IBZ84: folds 
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [Js 3s Ks]
+pipinoelbreve9: checks 
+CátiaVentura: checks 
+*** TURN *** [Js 3s Ks] [2d]
+pipinoelbreve9: checks 
+CátiaVentura: bets 2000
+pipinoelbreve9: folds 
+Uncalled bet (2000) returned to CátiaVentura
+CátiaVentura collected 1650 from pot
+CátiaVentura: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Js 3s Ks 2d]
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon (button) folded before Flop (didn't bet)
+Seat 4: nombell (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded on the Turn
+Seat 6: CátiaVentura collected (1650)
+
+
+
+PokerStars Hand #257647080425: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:06:28 CET [2025/09/07 10:06:28 ET]
+Table '3925934910 13' 6-max Seat #4 is the button
+Seat 2: IBZ84 (11055 in chips, €0.32 bounty) 
+Seat 3: udenanon (6239 in chips, €0.22 bounty) 
+Seat 4: nombell (3040 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (38214 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (16821 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+pipinoelbreve9: posts small blind 250
+CátiaVentura: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Js]
+IBZ84: folds 
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: folds 
+Uncalled bet (250) returned to CátiaVentura
+CátiaVentura collected 900 from pot
+CátiaVentura: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon folded before Flop (didn't bet)
+Seat 4: nombell (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: CátiaVentura (big blind) collected (900)
+
+
+
+PokerStars Hand #257647082383: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XIV (250/500) - 2025/09/07 16:06:38 CET [2025/09/07 10:06:38 ET]
+Table '3925934910 13' 6-max Seat #5 is the button
+Seat 2: IBZ84 (10975 in chips, €0.32 bounty) 
+Seat 3: udenanon (6159 in chips, €0.22 bounty) 
+Seat 4: nombell (2960 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (37884 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (17391 in chips, €0.27 bounty) 
+IBZ84: posts the ante 80
+udenanon: posts the ante 80
+nombell: posts the ante 80
+pipinoelbreve9: posts the ante 80
+CátiaVentura: posts the ante 80
+CátiaVentura: posts small blind 250
+IBZ84: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c Qh]
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: raises 1000 to 1500
+CátiaVentura: calls 1250
+IBZ84: folds 
+*** FLOP *** [Ks Qd Qc]
+CátiaVentura: checks 
+pipinoelbreve9: bets 1450
+CátiaVentura: calls 1450
+*** TURN *** [Ks Qd Qc] [9d]
+CátiaVentura: checks 
+pipinoelbreve9: bets 5300
+CátiaVentura: calls 5300
+*** RIVER *** [Ks Qd Qc 9d] [Ah]
+CátiaVentura: checks 
+pipinoelbreve9: bets 9000
+CátiaVentura: calls 9000
+*** SHOW DOWN ***
+pipinoelbreve9: shows [8c Qh] (three of a kind, Queens)
+CátiaVentura: mucks hand 
+pipinoelbreve9 collected 35400 from pot
+*** SUMMARY ***
+Total pot 35400 | Rake 0 
+Board [Ks Qd Qc 9d Ah]
+Seat 2: IBZ84 (big blind) folded before Flop
+Seat 3: udenanon folded before Flop (didn't bet)
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) showed [8c Qh] and won (35400) with three of a kind, Queens
+Seat 6: CátiaVentura (small blind) mucked [Kd 8d]
+
+
+
+PokerStars Hand #257647091432: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:07:26 CET [2025/09/07 10:07:26 ET]
+Table '3925934910 13' 6-max Seat #6 is the button
+Seat 2: IBZ84 (10395 in chips, €0.32 bounty) 
+Seat 3: udenanon (6079 in chips, €0.22 bounty) 
+Seat 4: nombell (2880 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (55954 in chips, €0.29 bounty) 
+Seat 6: CátiaVentura (61 in chips, €0.27 bounty) 
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+CátiaVentura: posts the ante 61 and is all-in
+IBZ84: posts small blind 300
+udenanon: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 3s]
+nombell: folds 
+pipinoelbreve9: calls 600
+IBZ84: calls 300
+udenanon: checks 
+*** FLOP *** [Js 8c Qc]
+IBZ84: bets 2221
+udenanon: folds 
+pipinoelbreve9: raises 6421 to 8642
+IBZ84: raises 1063 to 9705 and is all-in
+pipinoelbreve9: calls 1063
+*** TURN *** [Js 8c Qc] [5s]
+*** RIVER *** [Js 8c Qc 5s] [Jh]
+*** SHOW DOWN ***
+IBZ84: shows [Qh Jc] (a full house, Jacks full of Queens)
+pipinoelbreve9: shows [Qd 3s] (two pair, Queens and Jacks)
+IBZ84 collected 21326 from side pot
+CátiaVentura: shows [Ad Jd] (three of a kind, Jacks)
+IBZ84 collected 305 from main pot
+IBZ84 wins €0.19 for eliminating CátiaVentura and their own bounty increases by €0.08 to €0.40
+CátiaVentura finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 21631 Main pot 305. Side pot 21326. | Rake 0 
+Board [Js 8c Qc 5s Jh]
+Seat 2: IBZ84 (small blind) showed [Qh Jc] and won (21631) with a full house, Jacks full of Queens
+Seat 3: udenanon (big blind) folded on the Flop
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [Qd 3s] and lost with two pair, Queens and Jacks
+Seat 6: CátiaVentura (button) showed [Ad Jd] and lost with three of a kind, Jacks
+
+
+
+PokerStars Hand #257647098805: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:08:04 CET [2025/09/07 10:08:04 ET]
+Table '3925934910 13' 6-max Seat #2 is the button
+Seat 2: IBZ84 (21631 in chips, €0.40 bounty) 
+Seat 3: udenanon (5389 in chips, €0.22 bounty) 
+Seat 4: nombell (2790 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (45559 in chips, €0.29 bounty) 
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+udenanon: posts small blind 300
+nombell: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 2h]
+pipinoelbreve9: folds 
+IBZ84: folds 
+udenanon has timed out
+udenanon: folds 
+udenanon is sitting out
+Uncalled bet (300) returned to nombell
+nombell collected 960 from pot
+nombell: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 2: IBZ84 (button) folded before Flop (didn't bet)
+Seat 3: udenanon (small blind) folded before Flop
+Seat 4: nombell (big blind) collected (960)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647104879: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:08:35 CET [2025/09/07 10:08:35 ET]
+Table '3925934910 13' 6-max Seat #3 is the button
+Seat 1: JCassidy22 (30442 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (21541 in chips, €0.40 bounty) 
+Seat 3: udenanon (4999 in chips, €0.22 bounty) is sitting out
+Seat 4: nombell (3360 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (45469 in chips, €0.29 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+nombell: posts small blind 300
+pipinoelbreve9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 7c]
+JCassidy22: raises 1200 to 1800
+IBZ84: calls 1800
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [Ac Qs Js]
+JCassidy22: checks 
+IBZ84: checks 
+*** TURN *** [Ac Qs Js] [3d]
+JCassidy22: bets 2475
+IBZ84: calls 2475
+*** RIVER *** [Ac Qs Js 3d] [4c]
+JCassidy22: checks 
+IBZ84: checks 
+*** SHOW DOWN ***
+JCassidy22: shows [Jd Ts] (a pair of Jacks)
+IBZ84: shows [Ks Kd] (a pair of Kings)
+IBZ84 collected 9900 from pot
+*** SUMMARY ***
+Total pot 9900 | Rake 0 
+Board [Ac Qs Js 3d 4c]
+Seat 1: JCassidy22 showed [Jd Ts] and lost with a pair of Jacks
+Seat 2: IBZ84 showed [Ks Kd] and won (9900) with a pair of Kings
+Seat 3: udenanon (button) folded before Flop (didn't bet)
+Seat 4: nombell (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257647109440: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:08:59 CET [2025/09/07 10:08:59 ET]
+Table '3925934910 13' 6-max Seat #4 is the button
+Seat 1: JCassidy22 (26077 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (27076 in chips, €0.40 bounty) 
+Seat 3: udenanon (4909 in chips, €0.22 bounty) is sitting out
+Seat 4: nombell (2970 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (44779 in chips, €0.29 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+pipinoelbreve9: posts small blind 300
+JCassidy22: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Ah]
+udenanon has returned
+IBZ84: folds 
+udenanon: folds 
+nombell: folds 
+pipinoelbreve9: calls 300
+JCassidy22: checks 
+*** FLOP *** [Jc 4d Ad]
+pipinoelbreve9: bets 600
+JCassidy22: folds 
+Uncalled bet (600) returned to pipinoelbreve9
+pipinoelbreve9 collected 1650 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Jc 4d Ad]
+Seat 1: JCassidy22 (big blind) folded on the Flop
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon folded before Flop (didn't bet)
+Seat 4: nombell (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (1650)
+
+
+
+PokerStars Hand #257647114980: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:09:28 CET [2025/09/07 10:09:28 ET]
+Table '3925934910 13' 6-max Seat #5 is the button
+Seat 1: JCassidy22 (25387 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (26986 in chips, €0.40 bounty) 
+Seat 3: udenanon (4819 in chips, €0.22 bounty) 
+Seat 4: nombell (2880 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (45739 in chips, €0.29 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+JCassidy22: posts small blind 300
+IBZ84: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Qc]
+udenanon: calls 600
+nombell: folds 
+pipinoelbreve9: raises 1200 to 1800
+JCassidy22: folds 
+IBZ84: folds 
+udenanon: calls 1200
+*** FLOP *** [As Js Jh]
+udenanon: checks 
+pipinoelbreve9: bets 1875
+udenanon: folds 
+Uncalled bet (1875) returned to pipinoelbreve9
+pipinoelbreve9 collected 4950 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 4950 | Rake 0 
+Board [As Js Jh]
+Seat 1: JCassidy22 (small blind) folded before Flop
+Seat 2: IBZ84 (big blind) folded before Flop
+Seat 3: udenanon folded on the Flop
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) collected (4950)
+
+
+
+PokerStars Hand #257647120795: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:09:58 CET [2025/09/07 10:09:58 ET]
+Table '3925934910 13' 6-max Seat #1 is the button
+Seat 1: JCassidy22 (24997 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (26296 in chips, €0.40 bounty) 
+Seat 3: udenanon (2929 in chips, €0.22 bounty) 
+Seat 4: nombell (2790 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (48799 in chips, €0.29 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+IBZ84: posts small blind 300
+udenanon: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 5h]
+nombell: folds 
+pipinoelbreve9: folds 
+JCassidy22: raises 1200 to 1800
+IBZ84: folds 
+udenanon: folds 
+Uncalled bet (1200) returned to JCassidy22
+JCassidy22 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: JCassidy22 (button) collected (1950)
+Seat 2: IBZ84 (small blind) folded before Flop
+Seat 3: udenanon (big blind) folded before Flop
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647124342: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:10:17 CET [2025/09/07 10:10:17 ET]
+Table '3925934910 13' 6-max Seat #2 is the button
+Seat 1: JCassidy22 (26257 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (25906 in chips, €0.40 bounty) 
+Seat 3: udenanon (2239 in chips, €0.22 bounty) 
+Seat 4: nombell (2700 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (48709 in chips, €0.29 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+udenanon: posts small blind 300
+nombell: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 7h]
+pipinoelbreve9: folds 
+JCassidy22: raises 1200 to 1800
+IBZ84: folds 
+udenanon: folds 
+nombell: folds 
+Uncalled bet (1200) returned to JCassidy22
+JCassidy22 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: JCassidy22 collected (1950)
+Seat 2: IBZ84 (button) folded before Flop (didn't bet)
+Seat 3: udenanon (small blind) folded before Flop
+Seat 4: nombell (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647127481: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:10:33 CET [2025/09/07 10:10:33 ET]
+Table '3925934910 13' 6-max Seat #3 is the button
+Seat 1: JCassidy22 (27517 in chips, €0.22 bounty) 
+Seat 2: IBZ84 (25816 in chips, €0.40 bounty) 
+Seat 3: udenanon (1849 in chips, €0.22 bounty) 
+Seat 4: nombell (2010 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (48619 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (126183 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+udenanon: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+Santos_tp833: posts the ante 90
+nombell: posts small blind 300
+pipinoelbreve9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 3c]
+Santos_tp833: folds 
+JCassidy22: raises 1200 to 1800
+IBZ84: folds 
+udenanon: calls 1759 and is all-in
+nombell: folds 
+pipinoelbreve9: calls 1200
+*** FLOP *** [7s 3h 5s]
+pipinoelbreve9: checks 
+JCassidy22: bets 3100
+pipinoelbreve9: folds 
+Uncalled bet (3100) returned to JCassidy22
+*** TURN *** [7s 3h 5s] [Tc]
+*** RIVER *** [7s 3h 5s Tc] [9s]
+*** SHOW DOWN ***
+JCassidy22: shows [7d Qh] (a pair of Sevens)
+JCassidy22 collected 82 from side pot
+udenanon: shows [Js Ad] (high card Ace)
+JCassidy22 collected 6117 from main pot
+JCassidy22 wins €0.15 for eliminating udenanon and their own bounty increases by €0.07 to €0.29
+udenanon finished the tournament in 29th place
+*** SUMMARY ***
+Total pot 6199 Main pot 6117. Side pot 82. | Rake 0 
+Board [7s 3h 5s Tc 9s]
+Seat 1: JCassidy22 showed [7d Qh] and won (6199) with a pair of Sevens
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 3: udenanon (button) showed [Js Ad] and lost with high card Ace
+Seat 4: nombell (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded on the Flop
+Seat 6: Santos_tp833 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647136125: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:11:18 CET [2025/09/07 10:11:18 ET]
+Table '3925934910 13' 6-max Seat #4 is the button
+Seat 1: JCassidy22 (31826 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (25726 in chips, €0.40 bounty) 
+Seat 4: nombell (1620 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (46729 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (126093 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+Santos_tp833: posts the ante 90
+pipinoelbreve9: posts small blind 300
+Santos_tp833: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Kd]
+JCassidy22 has timed out
+JCassidy22: folds 
+JCassidy22 is sitting out
+IBZ84: folds 
+nombell: folds 
+JCassidy22 has returned
+pipinoelbreve9: raises 1200 to 1800
+Santos_tp833: raises 124203 to 126003 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (124203) returned to Santos_tp833
+Santos_tp833 collected 4050 from pot
+Santos_tp833: doesn't show hand 
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Seat 1: JCassidy22 folded before Flop (didn't bet)
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 4: nombell (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: Santos_tp833 (big blind) collected (4050)
+
+
+
+PokerStars Hand #257647141405: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:11:45 CET [2025/09/07 10:11:45 ET]
+Table '3925934910 13' 6-max Seat #5 is the button
+Seat 1: JCassidy22 (31736 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (25636 in chips, €0.40 bounty) 
+Seat 4: nombell (1530 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (44839 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (128253 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+Santos_tp833: posts the ante 90
+Santos_tp833: posts small blind 300
+JCassidy22: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 4d]
+IBZ84: folds 
+nombell: folds 
+pipinoelbreve9: folds 
+Santos_tp833: folds 
+Uncalled bet (300) returned to JCassidy22
+JCassidy22 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Seat 1: JCassidy22 (big blind) collected (1050)
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: Santos_tp833 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257647143992: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XV (300/600) - 2025/09/07 16:11:58 CET [2025/09/07 10:11:58 ET]
+Table '3925934910 13' 6-max Seat #6 is the button
+Seat 1: JCassidy22 (32396 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (25546 in chips, €0.40 bounty) 
+Seat 4: nombell (1440 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (44749 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (127863 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 90
+IBZ84: posts the ante 90
+nombell: posts the ante 90
+pipinoelbreve9: posts the ante 90
+Santos_tp833: posts the ante 90
+JCassidy22: posts small blind 300
+IBZ84: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc Ks]
+nombell: folds 
+pipinoelbreve9: raises 1200 to 1800
+Santos_tp833: folds 
+JCassidy22: folds 
+IBZ84: folds 
+Uncalled bet (1200) returned to pipinoelbreve9
+pipinoelbreve9 collected 1950 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: JCassidy22 (small blind) folded before Flop
+Seat 2: IBZ84 (big blind) folded before Flop
+Seat 4: nombell folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (1950)
+Seat 6: Santos_tp833 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647148223: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XVI (350/700) - 2025/09/07 16:12:20 CET [2025/09/07 10:12:20 ET]
+Table '3925934910 13' 6-max Seat #1 is the button
+Seat 1: JCassidy22 (32006 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (24856 in chips, €0.40 bounty) 
+Seat 4: nombell (1350 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (46009 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (127773 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 110
+IBZ84: posts the ante 110
+nombell: posts the ante 110
+pipinoelbreve9: posts the ante 110
+Santos_tp833: posts the ante 110
+IBZ84: posts small blind 350
+nombell: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 2h]
+pipinoelbreve9: folds 
+Santos_tp833: raises 1050 to 1750
+JCassidy22: calls 1750
+IBZ84 has timed out
+IBZ84: folds 
+IBZ84 is sitting out
+nombell: folds 
+*** FLOP *** [Qc Ah Jd]
+IBZ84 has returned
+Santos_tp833: checks 
+JCassidy22: bets 2550
+Santos_tp833: folds 
+Uncalled bet (2550) returned to JCassidy22
+JCassidy22 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Board [Qc Ah Jd]
+Seat 1: JCassidy22 (button) collected (5100)
+Seat 2: IBZ84 (small blind) folded before Flop
+Seat 4: nombell (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Santos_tp833 folded on the Flop
+
+
+
+PokerStars Hand #257647157182: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XVI (350/700) - 2025/09/07 16:13:07 CET [2025/09/07 10:13:07 ET]
+Table '3925934910 13' 6-max Seat #2 is the button
+Seat 1: JCassidy22 (35246 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (24396 in chips, €0.40 bounty) 
+Seat 4: nombell (540 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (45899 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (125913 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 110
+IBZ84: posts the ante 110
+nombell: posts the ante 110
+pipinoelbreve9: posts the ante 110
+Santos_tp833: posts the ante 110
+nombell: posts small blind 350
+pipinoelbreve9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 8s]
+Santos_tp833: raises 1050 to 1750
+JCassidy22: calls 1750
+IBZ84 has timed out
+IBZ84: folds 
+IBZ84 is sitting out
+nombell: folds 
+pipinoelbreve9: raises 5250 to 7000
+IBZ84 has returned
+Santos_tp833: raises 118803 to 125803 and is all-in
+JCassidy22: calls 33386 and is all-in
+pipinoelbreve9: calls 38789 and is all-in
+Uncalled bet (80014) returned to Santos_tp833
+*** FLOP *** [9d 5s 6d]
+*** TURN *** [9d 5s 6d] [Th]
+*** RIVER *** [9d 5s 6d Th] [6c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [8d 8s] (two pair, Eights and Sixes)
+Santos_tp833: shows [Ad Kd] (a pair of Sixes)
+pipinoelbreve9 collected 21306 from side pot
+JCassidy22: shows [As Ac] (two pair, Aces and Sixes)
+JCassidy22 collected 106308 from main pot
+*** SUMMARY ***
+Total pot 127614 Main pot 106308. Side pot 21306. | Rake 0 
+Board [9d 5s 6d Th 6c]
+Seat 1: JCassidy22 showed [As Ac] and won (106308) with two pair, Aces and Sixes
+Seat 2: IBZ84 (button) folded before Flop (didn't bet)
+Seat 4: nombell (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) showed [8d 8s] and won (21306) with two pair, Eights and Sixes
+Seat 6: Santos_tp833 showed [Ad Kd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #257647166428: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XVI (350/700) - 2025/09/07 16:13:54 CET [2025/09/07 10:13:54 ET]
+Table '3925934910 13' 6-max Seat #4 is the button
+Seat 1: JCassidy22 (106308 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (24286 in chips, €0.40 bounty) 
+Seat 4: nombell (80 in chips, €0.17 bounty) is sitting out
+Seat 5: pipinoelbreve9 (21306 in chips, €0.29 bounty) 
+Seat 6: Santos_tp833 (80014 in chips, €0.89 bounty) 
+JCassidy22: posts the ante 110
+IBZ84: posts the ante 110
+nombell: posts the ante 80 and is all-in
+pipinoelbreve9: posts the ante 110
+Santos_tp833: posts the ante 110
+pipinoelbreve9: posts small blind 350
+Santos_tp833: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Qc]
+JCassidy22 has timed out
+JCassidy22: folds 
+JCassidy22 is sitting out
+JCassidy22 has returned
+IBZ84: folds 
+nombell: folds 
+pipinoelbreve9: raises 1400 to 2100
+Santos_tp833: raises 77804 to 79904 and is all-in
+pipinoelbreve9: calls 19096 and is all-in
+Uncalled bet (58708) returned to Santos_tp833
+*** FLOP *** [As Jd 4d]
+*** TURN *** [As Jd 4d] [4c]
+*** RIVER *** [As Jd 4d 4c] [Jc]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9s Qc] (two pair, Jacks and Fours)
+Santos_tp833: shows [Qs 5d] (two pair, Jacks and Fours)
+pipinoelbreve9 collected 21456 from pot
+Santos_tp833 collected 21456 from pot
+pipinoelbreve9 wins €0.07 for splitting the elimination of nombell and their own bounty increases by €0.02 to €0.31
+Santos_tp833 wins €0.06 for splitting the elimination of nombell and their own bounty increases by €0.02 to €0.91
+nombell finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 42912 | Rake 0 
+Board [As Jd 4d 4c Jc]
+Seat 1: JCassidy22 folded before Flop (didn't bet)
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 4: nombell (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) showed [9s Qc] and won (21456) with two pair, Jacks and Fours
+Seat 6: Santos_tp833 (big blind) showed [Qs 5d] and won (21456) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #257647173869: Tournament #3925934910, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level XVI (350/700) - 2025/09/07 16:14:33 CET [2025/09/07 10:14:33 ET]
+Table '3925934910 13' 6-max Seat #5 is the button
+Seat 1: JCassidy22 (106198 in chips, €0.29 bounty) 
+Seat 2: IBZ84 (24176 in chips, €0.40 bounty) 
+Seat 5: pipinoelbreve9 (21456 in chips, €0.31 bounty) 
+Seat 6: Santos_tp833 (80164 in chips, €0.91 bounty) 
+JCassidy22: posts the ante 110
+IBZ84: posts the ante 110
+pipinoelbreve9: posts the ante 110
+Santos_tp833: posts the ante 110
+Santos_tp833: posts small blind 350
+JCassidy22: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Jh]
+IBZ84: folds 
+pipinoelbreve9: raises 1400 to 2100
+Santos_tp833: folds 
+JCassidy22: raises 1400 to 3500
+pipinoelbreve9: raises 17846 to 21346 and is all-in
+JCassidy22: calls 17846
+*** FLOP *** [Js 3h 9c]
+*** TURN *** [Js 3h 9c] [8d]
+*** RIVER *** [Js 3h 9c 8d] [7c]
+*** SHOW DOWN ***
+JCassidy22: shows [9s 9d] (three of a kind, Nines)
+pipinoelbreve9: shows [Ah Jh] (a pair of Jacks)
+JCassidy22 collected 43482 from pot
+JCassidy22 wins €0.21 for eliminating pipinoelbreve9 and their own bounty increases by €0.10 to €0.39
+pipinoelbreve9 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 43482 | Rake 0 
+Board [Js 3h 9c 8d 7c]
+Seat 1: JCassidy22 (big blind) showed [9s 9d] and won (43482) with three of a kind, Nines
+Seat 2: IBZ84 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) showed [Ah Jh] and lost with a pair of Jacks
+Seat 6: Santos_tp833 (small blind) folded before Flop
+
+
+

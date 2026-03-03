@@ -1,0 +1,136 @@
+﻿PokerStars Hand #257653194049: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 22:39:44 CET [2025/09/07 16:39:44 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: numero27m4 (9304 in chips, €0.73 bounty) 
+Seat 2: carlayou782 (4428 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (5000 in chips, €0.45 bounty) 
+Seat 5: Bossjul (48762 in chips, €1.17 bounty) 
+numero27m4: posts the ante 18
+carlayou782: posts the ante 18
+pipinoelbreve9: posts the ante 18
+Bossjul: posts the ante 18
+numero27m4: posts small blind 60
+carlayou782: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 8h]
+pipinoelbreve9: folds 
+Dimenos13 is disconnected 
+Bossjul: folds 
+fz@conqueso is disconnected 
+numero27m4: folds 
+Uncalled bet (60) returned to carlayou782
+carlayou782 collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Seat 1: numero27m4 (small blind) folded before Flop
+Seat 2: carlayou782 (big blind) collected (192)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Bossjul (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653199571: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/07 22:40:01 CET [2025/09/07 16:40:01 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: numero27m4 (9226 in chips, €0.73 bounty) 
+Seat 2: carlayou782 (4542 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4982 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (5000 in chips, €0.45 bounty) 
+Seat 5: Bossjul (48744 in chips, €1.17 bounty) 
+Seat 6: Dimenos13 (5000 in chips, €0.45 bounty) 
+numero27m4: posts the ante 18
+carlayou782: posts the ante 18
+pipinoelbreve9: posts the ante 18
+fz@conqueso: posts the ante 18
+Bossjul: posts the ante 18
+Dimenos13: posts the ante 18
+carlayou782: posts small blind 60
+pipinoelbreve9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 2c]
+fz@conqueso: raises 120 to 240
+Bossjul: calls 240
+Dimenos13: folds 
+numero27m4: calls 240
+carlayou782: folds 
+pipinoelbreve9: calls 120
+*** FLOP *** [2d 9h 9c]
+pipinoelbreve9: checks 
+fz@conqueso: checks 
+Bossjul: checks 
+numero27m4: bets 1128
+pipinoelbreve9: calls 1128
+fz@conqueso: folds 
+Bossjul: folds 
+*** TURN *** [2d 9h 9c] [7h]
+pipinoelbreve9: checks 
+numero27m4: bets 3720
+pipinoelbreve9: calls 3596 and is all-in
+Uncalled bet (124) returned to numero27m4
+*** RIVER *** [2d 9h 9c 7h] [4s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qc 2c] (two pair, Nines and Deuces)
+numero27m4: shows [9s Th] (three of a kind, Nines)
+numero27m4 collected 10576 from pot
+numero27m4 wins €0.31 for eliminating pipinoelbreve9 and their own bounty increases by €0.14 to €0.87
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 10576 | Rake 0 
+Board [2d 9h 9c 7h 4s]
+Seat 1: numero27m4 (button) showed [9s Th] and won (10576) with three of a kind, Nines
+Seat 2: carlayou782 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) showed [Qc 2c] and lost with two pair, Nines and Deuces
+Seat 4: fz@conqueso folded on the Flop
+Seat 5: Bossjul folded on the Flop
+Seat 6: Dimenos13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653245494: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 22:42:28 CET [2025/09/07 16:42:28 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: numero27m4 (14799 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (9061 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (5000 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (4651 in chips, €0.45 bounty) 
+Seat 5: Bossjul (44022 in chips, €1.17 bounty) 
+numero27m4: posts the ante 21
+carlayou782: posts the ante 21
+pipinoelbreve9: posts the ante 21
+fz@conqueso: posts the ante 21
+Bossjul: posts the ante 21
+Bossjul: posts small blind 70
+numero27m4: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 3d]
+carlayou782: calls 140
+pipinoelbreve9: folds 
+fz@conqueso: folds 
+Bossjul: calls 70
+numero27m4 has timed out
+numero27m4: checks 
+*** FLOP *** [8s 8c 7h]
+Bossjul: checks 
+numero27m4: checks 
+carlayou782: checks 
+*** TURN *** [8s 8c 7h] [7s]
+Bossjul: checks 
+numero27m4: checks 
+carlayou782: checks 
+*** RIVER *** [8s 8c 7h 7s] [Qs]
+Bossjul: checks 
+numero27m4: checks 
+carlayou782: checks 
+*** SHOW DOWN ***
+Bossjul: shows [Kd 2h] (two pair, Eights and Sevens)
+numero27m4: shows [9s As] (a flush, Ace high)
+carlayou782: mucks hand 
+numero27m4 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [8s 8c 7h 7s Qs]
+Seat 1: numero27m4 (big blind) showed [9s As] and won (525) with a flush, Ace high
+Seat 2: carlayou782 mucked [3c 2c]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: fz@conqueso (button) folded before Flop (didn't bet)
+Seat 5: Bossjul (small blind) showed [Kd 2h] and lost with two pair, Eights and Sevens
+
+
+

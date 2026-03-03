@@ -1,0 +1,1097 @@
+﻿PokerStars Hand #257822404737: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VI (75/150) - 2025/09/20 23:26:46 CET [2025/09/20 17:26:46 ET]
+Table '3928297769 20' 9-max Seat #1 is the button
+Seat 1: yanviclo (28076 in chips) 
+Seat 2: Zurzur54 (24830 in chips) 
+Seat 3: moumousse244 (24940 in chips) 
+Seat 4: CastorMat (24330 in chips) 
+Seat 5: dodzlimp (31402 in chips) 
+Seat 8: pipinoelbreve9 (25000 in chips) 
+yanviclo: posts the ante 20
+Zurzur54: posts the ante 20
+moumousse244: posts the ante 20
+CastorMat: posts the ante 20
+dodzlimp: posts the ante 20
+pipinoelbreve9: posts the ante 20
+Zurzur54: posts small blind 75
+moumousse244: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Td]
+dodzlimp is disconnected 
+pipinoelbreve9 is disconnected 
+CastorMat: folds 
+dodzlimp: folds 
+pipinoelbreve9: folds 
+yanviclo: raises 300 to 450
+Zurzur54: folds 
+moumousse244: folds 
+Uncalled bet (300) returned to yanviclo
+freddym73 is sitting out
+yanviclo collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: yanviclo (button) collected (495)
+Seat 2: Zurzur54 (small blind) folded before Flop
+Seat 3: moumousse244 (big blind) folded before Flop
+Seat 4: CastorMat folded before Flop (didn't bet)
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822416982: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VI (75/150) - 2025/09/20 23:27:36 CET [2025/09/20 17:27:36 ET]
+Table '3928297769 20' 9-max Seat #2 is the button
+Seat 1: yanviclo (28401 in chips) 
+Seat 2: Zurzur54 (24735 in chips) 
+Seat 3: moumousse244 (24770 in chips) 
+Seat 4: CastorMat (24310 in chips) 
+Seat 5: dodzlimp (31382 in chips) 
+Seat 6: tichasm (10918 in chips) 
+Seat 8: pipinoelbreve9 (24980 in chips) 
+Seat 9: freddym73 (24766 in chips) is sitting out
+yanviclo: posts the ante 20
+Zurzur54: posts the ante 20
+moumousse244: posts the ante 20
+CastorMat: posts the ante 20
+dodzlimp: posts the ante 20
+tichasm: posts the ante 20
+pipinoelbreve9: posts the ante 20
+freddym73: posts the ante 20
+moumousse244: posts small blind 75
+CastorMat: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Ad]
+dodzlimp: folds 
+tichasm: raises 300 to 450
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: folds 
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: folds 
+Uncalled bet (300) returned to tichasm
+tichasm collected 535 from pot
+tichasm: doesn't show hand 
+*** SUMMARY ***
+Total pot 535 | Rake 0 
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 (button) folded before Flop (didn't bet)
+Seat 3: moumousse244 (small blind) folded before Flop
+Seat 4: CastorMat (big blind) folded before Flop
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm collected (535)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822423253: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VI (75/150) - 2025/09/20 23:28:01 CET [2025/09/20 17:28:01 ET]
+Table '3928297769 20' 9-max Seat #3 is the button
+Seat 1: yanviclo (28381 in chips) 
+Seat 2: Zurzur54 (24715 in chips) 
+Seat 3: moumousse244 (24675 in chips) 
+Seat 4: CastorMat (24140 in chips) 
+Seat 5: dodzlimp (31362 in chips) 
+Seat 6: tichasm (11283 in chips) 
+Seat 8: pipinoelbreve9 (24960 in chips) 
+Seat 9: freddym73 (24746 in chips) is sitting out
+yanviclo: posts the ante 20
+Zurzur54: posts the ante 20
+moumousse244: posts the ante 20
+CastorMat: posts the ante 20
+dodzlimp: posts the ante 20
+tichasm: posts the ante 20
+pipinoelbreve9: posts the ante 20
+freddym73: posts the ante 20
+CastorMat: posts small blind 75
+dodzlimp: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Ts]
+tichasm: raises 150 to 300
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: raises 985 to 1285
+TujacGold is disconnected 
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: calls 985
+*** FLOP *** [6c 6h Qh]
+tichasm: bets 1478
+yanviclo: calls 1478
+*** TURN *** [6c 6h Qh] [4d]
+tichasm: bets 2956
+yanviclo: calls 2956
+*** RIVER *** [6c 6h Qh 4d] [Jc]
+tichasm: checks 
+yanviclo: checks 
+*** SHOW DOWN ***
+tichasm: shows [4s Kd] (two pair, Sixes and Fours)
+yanviclo: mucks hand 
+tichasm collected 11823 from pot
+*** SUMMARY ***
+Total pot 11823 | Rake 0 
+Board [6c 6h Qh 4d Jc]
+Seat 1: yanviclo mucked [Ac Kc]
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 (button) folded before Flop (didn't bet)
+Seat 4: CastorMat (small blind) folded before Flop
+Seat 5: dodzlimp (big blind) folded before Flop
+Seat 6: tichasm showed [4s Kd] and won (11823) with two pair, Sixes and Fours
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822436745: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VI (75/150) - 2025/09/20 23:28:56 CET [2025/09/20 17:28:56 ET]
+Table '3928297769 20' 9-max Seat #4 is the button
+Seat 1: yanviclo (22642 in chips) 
+Seat 2: Zurzur54 (24695 in chips) 
+Seat 3: moumousse244 (24655 in chips) 
+Seat 4: CastorMat (24045 in chips) 
+Seat 5: dodzlimp (31192 in chips) 
+Seat 6: tichasm (17367 in chips) 
+Seat 7: TujacGold (25000 in chips) 
+Seat 8: pipinoelbreve9 (24940 in chips) 
+Seat 9: freddym73 (24726 in chips) is sitting out
+yanviclo: posts the ante 20
+Zurzur54: posts the ante 20
+moumousse244: posts the ante 20
+CastorMat: posts the ante 20
+dodzlimp: posts the ante 20
+tichasm: posts the ante 20
+TujacGold: posts the ante 20
+pipinoelbreve9: posts the ante 20
+freddym73: posts the ante 20
+dodzlimp: posts small blind 75
+tichasm: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 4s]
+TujacGold: raises 300 to 450
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: folds 
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: calls 300
+*** FLOP *** [3h 9h Td]
+tichasm: checks 
+TujacGold: bets 600
+tichasm: calls 600
+*** TURN *** [3h 9h Td] [3c]
+tichasm: checks 
+TujacGold: bets 1050
+tichasm: folds 
+Uncalled bet (1050) returned to TujacGold
+TujacGold collected 2355 from pot
+TujacGold: doesn't show hand 
+*** SUMMARY ***
+Total pot 2355 | Rake 0 
+Board [3h 9h Td 3c]
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 folded before Flop (didn't bet)
+Seat 4: CastorMat (button) folded before Flop (didn't bet)
+Seat 5: dodzlimp (small blind) folded before Flop
+Seat 6: tichasm (big blind) folded on the Turn
+Seat 7: TujacGold collected (2355)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822451534: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VI (75/150) - 2025/09/20 23:29:57 CET [2025/09/20 17:29:57 ET]
+Table '3928297769 20' 9-max Seat #5 is the button
+Seat 1: yanviclo (22622 in chips) 
+Seat 2: Zurzur54 (24675 in chips) 
+Seat 3: moumousse244 (24635 in chips) 
+Seat 4: CastorMat (24025 in chips) 
+Seat 5: dodzlimp (31097 in chips) 
+Seat 6: tichasm (16297 in chips) 
+Seat 7: TujacGold (26285 in chips) 
+Seat 8: pipinoelbreve9 (24920 in chips) 
+Seat 9: freddym73 (24706 in chips) is sitting out
+yanviclo: posts the ante 20
+Zurzur54: posts the ante 20
+moumousse244: posts the ante 20
+CastorMat: posts the ante 20
+dodzlimp: posts the ante 20
+tichasm: posts the ante 20
+TujacGold: posts the ante 20
+pipinoelbreve9: posts the ante 20
+freddym73: posts the ante 20
+tichasm: posts small blind 75
+TujacGold: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 8h]
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: folds 
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: folds 
+dodzlimp: raises 180 to 330
+tichasm: raises 990 to 1320
+TujacGold: folds 
+dodzlimp: folds 
+Uncalled bet (990) returned to tichasm
+tichasm collected 990 from pot
+tichasm: doesn't show hand 
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 folded before Flop (didn't bet)
+Seat 4: CastorMat folded before Flop (didn't bet)
+Seat 5: dodzlimp (button) folded before Flop
+Seat 6: tichasm (small blind) collected (990)
+Seat 7: TujacGold (big blind) folded before Flop
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822463288: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VII (100/200) - 2025/09/20 23:30:41 CET [2025/09/20 17:30:41 ET]
+Table '3928297769 20' 9-max Seat #6 is the button
+Seat 1: yanviclo (22602 in chips) 
+Seat 2: Zurzur54 (24655 in chips) 
+Seat 3: moumousse244 (24615 in chips) 
+Seat 4: CastorMat (24005 in chips) 
+Seat 5: dodzlimp (30747 in chips) 
+Seat 6: tichasm (16937 in chips) 
+Seat 7: TujacGold (26115 in chips) 
+Seat 8: pipinoelbreve9 (24900 in chips) 
+Seat 9: freddym73 (24686 in chips) is sitting out
+yanviclo: posts the ante 25
+Zurzur54: posts the ante 25
+moumousse244: posts the ante 25
+CastorMat: posts the ante 25
+dodzlimp: posts the ante 25
+tichasm: posts the ante 25
+TujacGold: posts the ante 25
+pipinoelbreve9: posts the ante 25
+freddym73: posts the ante 25
+TujacGold: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Kh]
+freddym73: folds 
+yanviclo: folds 
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: raises 200 to 400
+dodzlimp: folds 
+tichasm: folds 
+TujacGold: calls 300
+pipinoelbreve9: calls 200
+*** FLOP *** [Qh 8c Ks]
+TujacGold: checks 
+pipinoelbreve9: checks 
+CastorMat: bets 400
+TujacGold: folds 
+pipinoelbreve9: calls 400
+*** TURN *** [Qh 8c Ks] [8h]
+pipinoelbreve9: checks 
+CastorMat: bets 800
+pipinoelbreve9: calls 800
+*** RIVER *** [Qh 8c Ks 8h] [5s]
+pipinoelbreve9: checks 
+CastorMat: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [5c Kh] (two pair, Kings and Eights)
+CastorMat: mucks hand 
+pipinoelbreve9 collected 3825 from pot
+*** SUMMARY ***
+Total pot 3825 | Rake 0 
+Board [Qh 8c Ks 8h 5s]
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 folded before Flop (didn't bet)
+Seat 4: CastorMat mucked [6h Ah]
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm (button) folded before Flop (didn't bet)
+Seat 7: TujacGold (small blind) folded on the Flop
+Seat 8: pipinoelbreve9 (big blind) showed [5c Kh] and won (3825) with two pair, Kings and Eights
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822479618: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VII (100/200) - 2025/09/20 23:31:43 CET [2025/09/20 17:31:43 ET]
+Table '3928297769 20' 9-max Seat #7 is the button
+Seat 1: yanviclo (22577 in chips) 
+Seat 2: Zurzur54 (24630 in chips) 
+Seat 3: moumousse244 (24590 in chips) 
+Seat 4: CastorMat (22380 in chips) 
+Seat 5: dodzlimp (30722 in chips) 
+Seat 6: tichasm (16912 in chips) 
+Seat 7: TujacGold (25690 in chips) 
+Seat 8: pipinoelbreve9 (27100 in chips) 
+Seat 9: freddym73 (24661 in chips) is sitting out
+yanviclo: posts the ante 25
+Zurzur54: posts the ante 25
+moumousse244: posts the ante 25
+CastorMat: posts the ante 25
+dodzlimp: posts the ante 25
+tichasm: posts the ante 25
+TujacGold: posts the ante 25
+pipinoelbreve9: posts the ante 25
+freddym73: posts the ante 25
+pipinoelbreve9: posts small blind 100
+freddym73: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 9c]
+yanviclo: folds 
+Zurzur54: folds 
+moumousse244: raises 400 to 600
+CastorMat: calls 600
+freddym73 has returned
+dodzlimp: folds 
+tichasm: raises 1200 to 1800
+TujacGold: folds 
+pipinoelbreve9: folds 
+freddym73: folds 
+moumousse244: folds 
+CastorMat: calls 1200
+*** FLOP *** [3d 8s Td]
+CastorMat: checks 
+tichasm: bets 2363
+CastorMat: calls 2363
+*** TURN *** [3d 8s Td] [Qd]
+CastorMat: checks 
+tichasm: checks 
+*** RIVER *** [3d 8s Td Qd] [6h]
+CastorMat: bets 18192 and is all-in
+tichasm: folds 
+Uncalled bet (18192) returned to CastorMat
+CastorMat collected 9451 from pot
+CastorMat: doesn't show hand 
+*** SUMMARY ***
+Total pot 9451 | Rake 0 
+Board [3d 8s Td Qd 6h]
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 folded before Flop
+Seat 4: CastorMat collected (9451)
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm folded on the River
+Seat 7: TujacGold (button) folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 (small blind) folded before Flop
+Seat 9: freddym73 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257822495687: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VII (100/200) - 2025/09/20 23:32:43 CET [2025/09/20 17:32:43 ET]
+Table '3928297769 20' 9-max Seat #8 is the button
+Seat 1: yanviclo (22552 in chips) 
+Seat 2: Zurzur54 (24605 in chips) 
+Seat 3: moumousse244 (23965 in chips) 
+Seat 4: CastorMat (27643 in chips) 
+Seat 5: dodzlimp (30697 in chips) 
+Seat 6: tichasm (12724 in chips) 
+Seat 7: TujacGold (25665 in chips) 
+Seat 8: pipinoelbreve9 (26975 in chips) 
+Seat 9: freddym73 (24436 in chips) 
+yanviclo: posts the ante 25
+Zurzur54: posts the ante 25
+moumousse244: posts the ante 25
+CastorMat: posts the ante 25
+dodzlimp: posts the ante 25
+tichasm: posts the ante 25
+TujacGold: posts the ante 25
+pipinoelbreve9: posts the ante 25
+freddym73: posts the ante 25
+freddym73: posts small blind 100
+yanviclo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 3c]
+Zurzur54: folds 
+moumousse244: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: calls 200
+TujacGold: calls 200
+pipinoelbreve9: raises 800 to 1000
+freddym73: folds 
+yanviclo: calls 800
+tichasm: calls 800
+TujacGold: calls 800
+*** FLOP *** [Qh 3s 5s]
+yanviclo: checks 
+tichasm: checks 
+TujacGold: checks 
+pipinoelbreve9: bets 2600
+yanviclo: folds 
+tichasm: folds 
+TujacGold: folds 
+Uncalled bet (2600) returned to pipinoelbreve9
+pipinoelbreve9 collected 4325 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 4325 | Rake 0 
+Board [Qh 3s 5s]
+Seat 1: yanviclo (big blind) folded on the Flop
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: moumousse244 folded before Flop (didn't bet)
+Seat 4: CastorMat folded before Flop (didn't bet)
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm folded on the Flop
+Seat 7: TujacGold folded on the Flop
+Seat 8: pipinoelbreve9 (button) collected (4325)
+Seat 9: freddym73 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257822513184: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VII (100/200) - 2025/09/20 23:33:48 CET [2025/09/20 17:33:48 ET]
+Table '3928297769 20' 9-max Seat #9 is the button
+Seat 1: yanviclo (21527 in chips) 
+Seat 2: Zurzur54 (24580 in chips) 
+Seat 3: moumousse244 (23940 in chips) 
+Seat 4: CastorMat (27618 in chips) 
+Seat 5: dodzlimp (30672 in chips) 
+Seat 6: tichasm (11699 in chips) 
+Seat 7: TujacGold (24640 in chips) 
+Seat 8: pipinoelbreve9 (30275 in chips) 
+Seat 9: freddym73 (24311 in chips) 
+yanviclo: posts the ante 25
+Zurzur54: posts the ante 25
+moumousse244: posts the ante 25
+CastorMat: posts the ante 25
+dodzlimp: posts the ante 25
+tichasm: posts the ante 25
+TujacGold: posts the ante 25
+pipinoelbreve9: posts the ante 25
+freddym73: posts the ante 25
+yanviclo: posts small blind 100
+Zurzur54: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 3d]
+moumousse244: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: folds 
+TujacGold: folds 
+pipinoelbreve9: folds 
+freddym73: raises 200 to 400
+yanviclo: calls 300
+Zurzur54: folds 
+*** FLOP *** [5c 2d Ad]
+yanviclo: checks 
+freddym73: bets 1225
+yanviclo: calls 1225
+*** TURN *** [5c 2d Ad] [Qd]
+yanviclo: checks 
+freddym73: checks 
+*** RIVER *** [5c 2d Ad Qd] [2h]
+yanviclo: checks 
+freddym73: checks 
+*** SHOW DOWN ***
+yanviclo: shows [8h 3c] (a pair of Deuces)
+freddym73: shows [Tc Qh] (two pair, Queens and Deuces)
+freddym73 collected 3675 from pot
+*** SUMMARY ***
+Total pot 3675 | Rake 0 
+Board [5c 2d Ad Qd 2h]
+Seat 1: yanviclo (small blind) showed [8h 3c] and lost with a pair of Deuces
+Seat 2: Zurzur54 (big blind) folded before Flop
+Seat 3: moumousse244 folded before Flop (didn't bet)
+Seat 4: CastorMat folded before Flop (didn't bet)
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm folded before Flop (didn't bet)
+Seat 7: TujacGold folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 (button) showed [Tc Qh] and won (3675) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #257822530631: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VII (100/200) - 2025/09/20 23:34:54 CET [2025/09/20 17:34:54 ET]
+Table '3928297769 20' 9-max Seat #1 is the button
+Seat 1: yanviclo (19877 in chips) 
+Seat 2: Zurzur54 (24355 in chips) 
+Seat 4: CastorMat (27593 in chips) 
+Seat 5: dodzlimp (30647 in chips) 
+Seat 6: tichasm (11674 in chips) 
+Seat 7: TujacGold (24615 in chips) 
+Seat 8: pipinoelbreve9 (30250 in chips) 
+Seat 9: freddym73 (26336 in chips) 
+yanviclo: posts the ante 25
+Zurzur54: posts the ante 25
+CastorMat: posts the ante 25
+dodzlimp: posts the ante 25
+tichasm: posts the ante 25
+TujacGold: posts the ante 25
+pipinoelbreve9: posts the ante 25
+freddym73: posts the ante 25
+Zurzur54: posts small blind 100
+CastorMat: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 8c]
+dodzlimp: folds 
+tichasm: raises 400 to 600
+TujacGold: folds 
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: calls 600
+Zurzur54: folds 
+CastorMat: folds 
+*** FLOP *** [As 6s Qh]
+malhadinho1904 is disconnected 
+tichasm: bets 1700
+yanviclo: folds 
+Uncalled bet (1700) returned to tichasm
+tichasm collected 1700 from pot
+tichasm: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [As 6s Qh]
+Seat 1: yanviclo (button) folded on the Flop
+Seat 2: Zurzur54 (small blind) folded before Flop
+Seat 4: CastorMat (big blind) folded before Flop
+Seat 5: dodzlimp folded before Flop (didn't bet)
+Seat 6: tichasm collected (1700)
+Seat 7: TujacGold folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822543376: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/20 23:35:43 CET [2025/09/20 17:35:43 ET]
+Table '3928297769 20' 9-max Seat #2 is the button
+Seat 1: yanviclo (19252 in chips) 
+Seat 2: Zurzur54 (24230 in chips) 
+Seat 3: malhadinho1904 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 4: CastorMat (27368 in chips) 
+Seat 5: dodzlimp (30622 in chips) 
+Seat 6: tichasm (12749 in chips) 
+Seat 7: TujacGold (24590 in chips) 
+Seat 8: pipinoelbreve9 (30225 in chips) 
+Seat 9: freddym73 (26311 in chips) 
+malhadinho1904 will be allowed to play after the button
+yanviclo: posts the ante 30
+Zurzur54: posts the ante 30
+CastorMat: posts the ante 30
+dodzlimp: posts the ante 30
+tichasm: posts the ante 30
+TujacGold: posts the ante 30
+pipinoelbreve9: posts the ante 30
+freddym73: posts the ante 30
+CastorMat: posts small blind 125
+dodzlimp: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 8d]
+tichasm: raises 250 to 500
+TujacGold: folds 
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: raises 18722 to 19222 and is all-in
+Zurzur54: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: folds 
+Uncalled bet (18722) returned to yanviclo
+yanviclo collected 1615 from pot
+*** SUMMARY ***
+Total pot 1615 | Rake 0 
+Seat 1: yanviclo collected (1615)
+Seat 2: Zurzur54 (button) folded before Flop (didn't bet)
+Seat 4: CastorMat (small blind) folded before Flop
+Seat 5: dodzlimp (big blind) folded before Flop
+Seat 6: tichasm folded before Flop
+Seat 7: TujacGold folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822555268: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/20 23:36:28 CET [2025/09/20 17:36:28 ET]
+Table '3928297769 20' 9-max Seat #4 is the button
+Seat 1: yanviclo (20337 in chips) 
+Seat 2: Zurzur54 (24200 in chips) 
+Seat 3: malhadinho1904 (25000 in chips) 
+Seat 4: CastorMat (27213 in chips) 
+Seat 5: dodzlimp (30342 in chips) 
+Seat 6: tichasm (12219 in chips) 
+Seat 7: TujacGold (24560 in chips) 
+Seat 8: pipinoelbreve9 (30195 in chips) 
+Seat 9: freddym73 (26281 in chips) 
+yanviclo: posts the ante 30
+Zurzur54: posts the ante 30
+malhadinho1904: posts the ante 30
+CastorMat: posts the ante 30
+dodzlimp: posts the ante 30
+tichasm: posts the ante 30
+TujacGold: posts the ante 30
+pipinoelbreve9: posts the ante 30
+freddym73: posts the ante 30
+dodzlimp: posts small blind 125
+tichasm: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c Kh]
+TujacGold: folds 
+pipinoelbreve9: folds 
+freddym73: raises 250 to 500
+yanviclo: folds 
+Zurzur54: folds 
+malhadinho1904: folds 
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: calls 250
+*** FLOP *** [6h 5h Ad]
+tichasm: checks 
+freddym73: checks 
+*** TURN *** [6h 5h Ad] [9s]
+tichasm: bets 1395
+freddym73: calls 1395
+*** RIVER *** [6h 5h Ad 9s] [2d]
+tichasm: bets 2093
+freddym73: calls 2093
+*** SHOW DOWN ***
+tichasm: shows [Th Jh] (high card Ace)
+freddym73: shows [Ac 4s] (a pair of Aces)
+freddym73 collected 8371 from pot
+*** SUMMARY ***
+Total pot 8371 | Rake 0 
+Board [6h 5h Ad 9s 2d]
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: malhadinho1904 folded before Flop (didn't bet)
+Seat 4: CastorMat (button) folded before Flop (didn't bet)
+Seat 5: dodzlimp (small blind) folded before Flop
+Seat 6: tichasm (big blind) showed [Th Jh] and lost with high card Ace
+Seat 7: TujacGold folded before Flop (didn't bet)
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 showed [Ac 4s] and won (8371) with a pair of Aces
+
+
+
+PokerStars Hand #257822568502: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/20 23:37:18 CET [2025/09/20 17:37:18 ET]
+Table '3928297769 20' 9-max Seat #5 is the button
+Seat 1: yanviclo (20307 in chips) 
+Seat 2: Zurzur54 (24170 in chips) 
+Seat 3: malhadinho1904 (24970 in chips) 
+Seat 4: CastorMat (27183 in chips) 
+Seat 5: dodzlimp (30187 in chips) 
+Seat 6: tichasm (8201 in chips) 
+Seat 7: TujacGold (24530 in chips) 
+Seat 8: pipinoelbreve9 (30165 in chips) 
+Seat 9: freddym73 (30634 in chips) 
+yanviclo: posts the ante 30
+Zurzur54: posts the ante 30
+malhadinho1904: posts the ante 30
+CastorMat: posts the ante 30
+dodzlimp: posts the ante 30
+tichasm: posts the ante 30
+TujacGold: posts the ante 30
+pipinoelbreve9: posts the ante 30
+freddym73: posts the ante 30
+tichasm: posts small blind 125
+TujacGold: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h Ac]
+pipinoelbreve9: folds 
+freddym73: folds 
+yanviclo: folds 
+Zurzur54: folds 
+malhadinho1904: raises 275 to 525
+CastorMat: folds 
+dodzlimp: folds 
+tichasm: calls 400
+TujacGold: calls 275
+*** FLOP *** [3s Js 8c]
+tichasm: checks 
+TujacGold: checks 
+malhadinho1904: bets 923
+tichasm: calls 923
+TujacGold: folds 
+*** TURN *** [3s Js 8c] [Jc]
+tichasm: checks 
+malhadinho1904: bets 3686
+tichasm: calls 3686
+*** RIVER *** [3s Js 8c Jc] [9h]
+tichasm: checks 
+malhadinho1904: bets 3651
+tichasm: folds 
+Uncalled bet (3651) returned to malhadinho1904
+malhadinho1904 collected 11063 from pot
+*** SUMMARY ***
+Total pot 11063 | Rake 0 
+Board [3s Js 8c Jc 9h]
+Seat 1: yanviclo folded before Flop (didn't bet)
+Seat 2: Zurzur54 folded before Flop (didn't bet)
+Seat 3: malhadinho1904 collected (11063)
+Seat 4: CastorMat folded before Flop (didn't bet)
+Seat 5: dodzlimp (button) folded before Flop (didn't bet)
+Seat 6: tichasm (small blind) folded on the River
+Seat 7: TujacGold (big blind) folded on the Flop
+Seat 8: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 9: freddym73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822591196: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/20 23:38:44 CET [2025/09/20 17:38:44 ET]
+Table '3928297769 25' 9-max Seat #1 is the button
+Seat 1: XXXLYASSSXXX (47090 in chips) 
+Seat 2: marotinhe (27984 in chips) 
+Seat 3: SonicHedgehogg (23795 in chips) 
+Seat 4: MiRiOTeS1 (32084 in chips) 
+Seat 5: trap music 2020 (28373 in chips) 
+Seat 6: pipinoelbreve9 (30135 in chips) 
+XXXLYASSSXXX: posts the ante 30
+marotinhe: posts the ante 30
+SonicHedgehogg: posts the ante 30
+MiRiOTeS1: posts the ante 30
+trap music 2020: posts the ante 30
+pipinoelbreve9: posts the ante 30
+marotinhe: posts small blind 125
+SonicHedgehogg: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 7d]
+pipinoelbreve9 is disconnected 
+MiFigueMiRaisin is disconnected 
+FllanosB is disconnected 
+MiRiOTeS1: folds 
+trap music 2020: folds 
+pipinoelbreve9: folds 
+XXXLYASSSXXX: folds 
+marotinhe: raises 250 to 500
+SonicHedgehogg: calls 250
+*** FLOP *** [5h 2c Jd]
+marotinhe: checks 
+SonicHedgehogg: bets 590
+marotinhe: calls 590
+*** TURN *** [5h 2c Jd] [2s]
+marotinhe: checks 
+SonicHedgehogg: bets 2360
+marotinhe: calls 2360
+*** RIVER *** [5h 2c Jd 2s] [Qd]
+marotinhe: checks 
+SonicHedgehogg: checks 
+*** SHOW DOWN ***
+marotinhe: shows [Ts Td] (two pair, Tens and Deuces)
+SonicHedgehogg: shows [8h Jh] (two pair, Jacks and Deuces)
+SonicHedgehogg collected 7080 from pot
+*** SUMMARY ***
+Total pot 7080 | Rake 0 
+Board [5h 2c Jd 2s Qd]
+Seat 1: XXXLYASSSXXX (button) folded before Flop (didn't bet)
+Seat 2: marotinhe (small blind) showed [Ts Td] and lost with two pair, Tens and Deuces
+Seat 3: SonicHedgehogg (big blind) showed [8h Jh] and won (7080) with two pair, Jacks and Deuces
+Seat 4: MiRiOTeS1 folded before Flop (didn't bet)
+Seat 5: trap music 2020 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822604436: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level VIII (125/250) - 2025/09/20 23:39:34 CET [2025/09/20 17:39:34 ET]
+Table '3928297769 25' 9-max Seat #2 is the button
+Seat 1: XXXLYASSSXXX (47060 in chips) 
+Seat 2: marotinhe (24504 in chips) 
+Seat 3: SonicHedgehogg (27395 in chips) 
+Seat 4: MiRiOTeS1 (32054 in chips) 
+Seat 5: trap music 2020 (28343 in chips) 
+Seat 6: pipinoelbreve9 (30105 in chips) 
+Seat 7: MiFigueMiRaisin (45375 in chips) 
+Seat 8: FllanosB (52358 in chips) 
+XXXLYASSSXXX: posts the ante 30
+marotinhe: posts the ante 30
+SonicHedgehogg: posts the ante 30
+MiRiOTeS1: posts the ante 30
+trap music 2020: posts the ante 30
+pipinoelbreve9: posts the ante 30
+MiFigueMiRaisin: posts the ante 30
+FllanosB: posts the ante 30
+SonicHedgehogg: posts small blind 125
+MiRiOTeS1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 8h]
+trap music 2020: folds 
+pipinoelbreve9: folds 
+MiFigueMiRaisin: raises 1250 to 1500
+FllanosB: folds 
+XXXLYASSSXXX: calls 1500
+marotinhe: folds 
+SonicHedgehogg: folds 
+MiRiOTeS1: folds 
+*** FLOP *** [6h 4s 5s]
+MiFigueMiRaisin: checks 
+XXXLYASSSXXX: checks 
+*** TURN *** [6h 4s 5s] [3s]
+MiFigueMiRaisin: bets 750
+XXXLYASSSXXX: calls 750
+*** RIVER *** [6h 4s 5s 3s] [6s]
+MiFigueMiRaisin: checks 
+XXXLYASSSXXX: bets 8250
+MiFigueMiRaisin: folds 
+Uncalled bet (8250) returned to XXXLYASSSXXX
+XXXLYASSSXXX collected 5115 from pot
+XXXLYASSSXXX: doesn't show hand 
+*** SUMMARY ***
+Total pot 5115 | Rake 0 
+Board [6h 4s 5s 3s 6s]
+Seat 1: XXXLYASSSXXX collected (5115)
+Seat 2: marotinhe (button) folded before Flop (didn't bet)
+Seat 3: SonicHedgehogg (small blind) folded before Flop
+Seat 4: MiRiOTeS1 (big blind) folded before Flop
+Seat 5: trap music 2020 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: MiFigueMiRaisin folded on the River
+Seat 8: FllanosB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822628621: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level IX (150/300) - 2025/09/20 23:41:04 CET [2025/09/20 17:41:04 ET]
+Table '3928297769 25' 9-max Seat #3 is the button
+Seat 1: XXXLYASSSXXX (49895 in chips) 
+Seat 2: marotinhe (24474 in chips) 
+Seat 3: SonicHedgehogg (27240 in chips) 
+Seat 4: MiRiOTeS1 (31774 in chips) 
+Seat 5: trap music 2020 (28313 in chips) 
+Seat 6: pipinoelbreve9 (30075 in chips) 
+Seat 7: MiFigueMiRaisin (43095 in chips) 
+Seat 8: FllanosB (52328 in chips) 
+Seat 9: XTNMLP (25000 in chips) 
+XXXLYASSSXXX: posts the ante 40
+marotinhe: posts the ante 40
+SonicHedgehogg: posts the ante 40
+MiRiOTeS1: posts the ante 40
+trap music 2020: posts the ante 40
+pipinoelbreve9: posts the ante 40
+MiFigueMiRaisin: posts the ante 40
+FllanosB: posts the ante 40
+XTNMLP: posts the ante 40
+MiRiOTeS1: posts small blind 150
+trap music 2020: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8h]
+pipinoelbreve9: folds 
+MiFigueMiRaisin: folds 
+FllanosB: raises 300 to 600
+XTNMLP: folds 
+XXXLYASSSXXX: calls 600
+marotinhe: folds 
+SonicHedgehogg: folds 
+MiRiOTeS1: folds 
+trap music 2020: folds 
+*** FLOP *** [Ts 4d 4h]
+FllanosB: checks 
+XXXLYASSSXXX: checks 
+*** TURN *** [Ts 4d 4h] [2s]
+FllanosB: bets 1200
+XXXLYASSSXXX: calls 1200
+*** RIVER *** [Ts 4d 4h 2s] [6s]
+FllanosB: checks 
+XXXLYASSSXXX: checks 
+*** SHOW DOWN ***
+FllanosB: shows [3d Ad] (a pair of Fours)
+XXXLYASSSXXX: shows [5s Ah] (a pair of Fours)
+FllanosB collected 2205 from pot
+XXXLYASSSXXX collected 2205 from pot
+*** SUMMARY ***
+Total pot 4410 | Rake 0 
+Board [Ts 4d 4h 2s 6s]
+Seat 1: XXXLYASSSXXX showed [5s Ah] and won (2205) with a pair of Fours
+Seat 2: marotinhe folded before Flop (didn't bet)
+Seat 3: SonicHedgehogg (button) folded before Flop (didn't bet)
+Seat 4: MiRiOTeS1 (small blind) folded before Flop
+Seat 5: trap music 2020 (big blind) folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: MiFigueMiRaisin folded before Flop (didn't bet)
+Seat 8: FllanosB showed [3d Ad] and won (2205) with a pair of Fours
+Seat 9: XTNMLP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822646375: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level IX (150/300) - 2025/09/20 23:42:11 CET [2025/09/20 17:42:11 ET]
+Table '3928297769 25' 9-max Seat #4 is the button
+Seat 1: XXXLYASSSXXX (50260 in chips) 
+Seat 2: marotinhe (24434 in chips) 
+Seat 3: SonicHedgehogg (27200 in chips) 
+Seat 4: MiRiOTeS1 (31584 in chips) 
+Seat 5: trap music 2020 (27973 in chips) 
+Seat 6: pipinoelbreve9 (30035 in chips) 
+Seat 7: MiFigueMiRaisin (43055 in chips) 
+Seat 8: FllanosB (52693 in chips) 
+Seat 9: XTNMLP (24960 in chips) 
+XXXLYASSSXXX: posts the ante 40
+marotinhe: posts the ante 40
+SonicHedgehogg: posts the ante 40
+MiRiOTeS1: posts the ante 40
+trap music 2020: posts the ante 40
+pipinoelbreve9: posts the ante 40
+MiFigueMiRaisin: posts the ante 40
+FllanosB: posts the ante 40
+XTNMLP: posts the ante 40
+trap music 2020: posts small blind 150
+pipinoelbreve9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Ad]
+MiFigueMiRaisin: raises 300 to 600
+FllanosB: folds 
+XTNMLP: folds 
+XXXLYASSSXXX: folds 
+marotinhe: folds 
+SonicHedgehogg: folds 
+MiRiOTeS1: calls 600
+trap music 2020: folds 
+pipinoelbreve9: calls 300
+*** FLOP *** [Jc 7h Ks]
+pipinoelbreve9: checks 
+MiFigueMiRaisin: bets 900
+MiRiOTeS1: calls 900
+pipinoelbreve9: folds 
+*** TURN *** [Jc 7h Ks] [Ah]
+MiFigueMiRaisin: checks 
+MiRiOTeS1: bets 900
+MiFigueMiRaisin: calls 900
+*** RIVER *** [Jc 7h Ks Ah] [5d]
+MiFigueMiRaisin: checks 
+MiRiOTeS1: bets 4200
+MiFigueMiRaisin: folds 
+Uncalled bet (4200) returned to MiRiOTeS1
+MiRiOTeS1 collected 5910 from pot
+MiRiOTeS1: doesn't show hand 
+*** SUMMARY ***
+Total pot 5910 | Rake 0 
+Board [Jc 7h Ks Ah 5d]
+Seat 1: XXXLYASSSXXX folded before Flop (didn't bet)
+Seat 2: marotinhe folded before Flop (didn't bet)
+Seat 3: SonicHedgehogg folded before Flop (didn't bet)
+Seat 4: MiRiOTeS1 (button) collected (5910)
+Seat 5: trap music 2020 (small blind) folded before Flop
+Seat 6: pipinoelbreve9 (big blind) folded on the Flop
+Seat 7: MiFigueMiRaisin folded on the River
+Seat 8: FllanosB folded before Flop (didn't bet)
+Seat 9: XTNMLP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822664459: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level IX (150/300) - 2025/09/20 23:43:19 CET [2025/09/20 17:43:19 ET]
+Table '3928297769 25' 9-max Seat #5 is the button
+Seat 1: XXXLYASSSXXX (50220 in chips) 
+Seat 2: marotinhe (24394 in chips) 
+Seat 3: SonicHedgehogg (27160 in chips) 
+Seat 4: MiRiOTeS1 (35054 in chips) 
+Seat 5: trap music 2020 (27783 in chips) 
+Seat 6: pipinoelbreve9 (29395 in chips) 
+Seat 7: MiFigueMiRaisin (40615 in chips) 
+Seat 8: FllanosB (52653 in chips) 
+Seat 9: XTNMLP (24920 in chips) 
+XXXLYASSSXXX: posts the ante 40
+marotinhe: posts the ante 40
+SonicHedgehogg: posts the ante 40
+MiRiOTeS1: posts the ante 40
+trap music 2020: posts the ante 40
+pipinoelbreve9: posts the ante 40
+MiFigueMiRaisin: posts the ante 40
+FllanosB: posts the ante 40
+XTNMLP: posts the ante 40
+pipinoelbreve9: posts small blind 150
+MiFigueMiRaisin: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Td]
+FllanosB: folds 
+XTNMLP: folds 
+XXXLYASSSXXX: raises 300 to 600
+marotinhe: calls 600
+SonicHedgehogg: folds 
+MiRiOTeS1: calls 600
+trap music 2020: calls 600
+pipinoelbreve9: calls 450
+MiFigueMiRaisin: calls 300
+*** FLOP *** [7c Th 9h]
+pipinoelbreve9: checks 
+MiFigueMiRaisin: checks 
+XXXLYASSSXXX: bets 1980
+marotinhe: calls 1980
+MiRiOTeS1: folds 
+trap music 2020: calls 1980
+pipinoelbreve9: raises 4380 to 6360
+MiFigueMiRaisin: raises 11310 to 17670
+XXXLYASSSXXX: folds 
+marotinhe: raises 6084 to 23754 and is all-in
+trap music 2020: calls 21774
+pipinoelbreve9: raises 5001 to 28755 and is all-in
+MiFigueMiRaisin: calls 11085
+trap music 2020: calls 3389 and is all-in
+*** TURN *** [7c Th 9h] [8c]
+*** RIVER *** [7c Th 9h 8c] [As]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Jc Td] (a straight, Seven to Jack)
+MiFigueMiRaisin: shows [8s Jd] (a straight, Seven to Jack)
+pipinoelbreve9 collected 1612 from side pot-2 
+MiFigueMiRaisin collected 1612 from side pot-2 
+trap music 2020: shows [Js Qs] (a straight, Eight to Queen)
+trap music 2020 collected 10167 from side pot-1 
+marotinhe: shows [7s 7d] (three of a kind, Sevens)
+trap music 2020 collected 100956 from main pot
+marotinhe finished the tournament
+*** SUMMARY ***
+Total pot 114347 Main pot 100956. Side pot-1 10167. Side pot-2 3224. | Rake 0 
+Board [7c Th 9h 8c As]
+Seat 1: XXXLYASSSXXX folded on the Flop
+Seat 2: marotinhe showed [7s 7d] and lost with three of a kind, Sevens
+Seat 3: SonicHedgehogg folded before Flop (didn't bet)
+Seat 4: MiRiOTeS1 folded on the Flop
+Seat 5: trap music 2020 (button) showed [Js Qs] and won (111123) with a straight, Eight to Queen
+Seat 6: pipinoelbreve9 (small blind) showed [Jc Td] and won (1612) with a straight, Seven to Jack
+Seat 7: MiFigueMiRaisin (big blind) showed [8s Jd] and won (1612) with a straight, Seven to Jack
+Seat 8: FllanosB folded before Flop (didn't bet)
+Seat 9: XTNMLP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257822699031: Tournament #3928297769, €4.50+€0.50 EUR Hold'em No Limit - Level X (200/400) - 2025/09/20 23:45:32 CET [2025/09/20 17:45:32 ET]
+Table '3928297769 25' 9-max Seat #6 is the button
+Seat 1: XXXLYASSSXXX (47600 in chips) 
+Seat 3: SonicHedgehogg (27120 in chips) 
+Seat 4: MiRiOTeS1 (34414 in chips) 
+Seat 5: trap music 2020 (111123 in chips) 
+Seat 6: pipinoelbreve9 (1612 in chips) 
+Seat 7: MiFigueMiRaisin (12832 in chips) 
+Seat 8: FllanosB (52613 in chips) 
+Seat 9: XTNMLP (24880 in chips) 
+XXXLYASSSXXX: posts the ante 50
+SonicHedgehogg: posts the ante 50
+MiRiOTeS1: posts the ante 50
+trap music 2020: posts the ante 50
+pipinoelbreve9: posts the ante 50
+MiFigueMiRaisin: posts the ante 50
+FllanosB: posts the ante 50
+XTNMLP: posts the ante 50
+MiFigueMiRaisin: posts small blind 200
+FllanosB: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 2h]
+XTNMLP: folds 
+XXXLYASSSXXX: raises 400 to 800
+SonicHedgehogg: folds 
+MiRiOTeS1: folds 
+trap music 2020: folds 
+pipinoelbreve9: raises 762 to 1562 and is all-in
+MiFigueMiRaisin: folds 
+FllanosB: folds 
+XXXLYASSSXXX: calls 762
+*** FLOP *** [4s Tc 4h]
+*** TURN *** [4s Tc 4h] [Ah]
+*** RIVER *** [4s Tc 4h Ah] [9c]
+*** SHOW DOWN ***
+XXXLYASSSXXX: shows [As Jc] (two pair, Aces and Fours)
+pipinoelbreve9: shows [Kh 2h] (a pair of Fours)
+XXXLYASSSXXX collected 4124 from pot
+pipinoelbreve9 finished the tournament
+hithxbye is disconnected 
+*** SUMMARY ***
+Total pot 4124 | Rake 0 
+Board [4s Tc 4h Ah 9c]
+Seat 1: XXXLYASSSXXX showed [As Jc] and won (4124) with two pair, Aces and Fours
+Seat 3: SonicHedgehogg folded before Flop (didn't bet)
+Seat 4: MiRiOTeS1 folded before Flop (didn't bet)
+Seat 5: trap music 2020 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) showed [Kh 2h] and lost with a pair of Fours
+Seat 7: MiFigueMiRaisin (small blind) folded before Flop
+Seat 8: FllanosB (big blind) folded before Flop
+Seat 9: XTNMLP folded before Flop (didn't bet)
+
+
+

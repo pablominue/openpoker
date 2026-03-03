@@ -1,0 +1,58 @@
+﻿PokerStars Hand #258243687324: Tournament #3940344801, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/24 15:05:13 CET [2025/10/24 9:05:13 ET]
+Table '3940344801 1' 8-max Seat #1 is the button
+Seat 1: sapito64 (500 in chips) 
+Seat 2: babsi666277 (500 in chips) 
+Seat 3: chony66 (500 in chips) is sitting out
+Seat 4: ErredePoker (500 in chips) 
+Seat 5: Alejandro9821 (500 in chips) 
+Seat 6: niño3333 (500 in chips) 
+Seat 7: pipinoelbreve9 (500 in chips) 
+Seat 8: molologg (500 in chips) 
+sapito64: posts the ante 10
+babsi666277: posts the ante 10
+chony66: posts the ante 10
+ErredePoker: posts the ante 10
+Alejandro9821: posts the ante 10
+niño3333: posts the ante 10
+pipinoelbreve9: posts the ante 10
+molologg: posts the ante 10
+babsi666277: posts small blind 25
+chony66: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 5s]
+ErredePoker: calls 50
+Alejandro9821: calls 50
+niño3333: calls 50
+chony66 has returned
+pipinoelbreve9: raises 440 to 490 and is all-in
+molologg: folds 
+sapito64: folds 
+babsi666277: calls 465 and is all-in
+chony66: folds 
+ErredePoker: calls 440 and is all-in
+Alejandro9821: folds 
+niño3333: folds 
+*** FLOP *** [Ks 2c 6c]
+*** TURN *** [Ks 2c 6c] [8s]
+*** RIVER *** [Ks 2c 6c 8s] [Jc]
+*** SHOW DOWN ***
+babsi666277: shows [Qd Ah] (high card Ace)
+ErredePoker: shows [Kh 9h] (a pair of Kings)
+pipinoelbreve9: shows [6s 5s] (a pair of Sixes)
+ErredePoker collected 1700 from pot
+babsi666277 finished the tournament in 7th place
+pipinoelbreve9 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ks 2c 6c 8s Jc]
+Seat 1: sapito64 (button) folded before Flop (didn't bet)
+Seat 2: babsi666277 (small blind) showed [Qd Ah] and lost with high card Ace
+Seat 3: chony66 (big blind) folded before Flop
+Seat 4: ErredePoker showed [Kh 9h] and won (1700) with a pair of Kings
+Seat 5: Alejandro9821 folded before Flop
+Seat 6: niño3333 folded before Flop
+Seat 7: pipinoelbreve9 showed [6s 5s] and lost with a pair of Sixes
+Seat 8: molologg folded before Flop (didn't bet)
+
+
+

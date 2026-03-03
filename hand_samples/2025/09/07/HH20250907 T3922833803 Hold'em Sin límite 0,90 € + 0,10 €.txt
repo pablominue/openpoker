@@ -1,0 +1,674 @@
+﻿PokerStars Hand #257646970428: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level X (200/400) - 2025/09/07 15:54:29 CET [2025/09/07 9:54:29 ET]
+Table '3922833803 20' 6-max Seat #3 is the button
+Seat 1: GuiS91 (32977 in chips) 
+Seat 2: pipinoelbreve9 (10000 in chips) 
+Seat 3: ARRASOO (16150 in chips) 
+Seat 4: rottweiler 004 (40310 in chips) 
+Seat 5: BrABuSCOu92 (66872 in chips) 
+Seat 6: danielgorila (111707 in chips) 
+GuiS91: posts the ante 50
+pipinoelbreve9: posts the ante 50
+ARRASOO: posts the ante 50
+rottweiler 004: posts the ante 50
+BrABuSCOu92: posts the ante 50
+danielgorila: posts the ante 50
+rottweiler 004: posts small blind 200
+BrABuSCOu92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 8c]
+danielgorila: folds 
+GuiS91: folds 
+pipinoelbreve9: folds 
+ARRASOO: folds 
+rottweiler 004: calls 200
+BrABuSCOu92: checks 
+*** FLOP *** [6h Jc 8s]
+rottweiler 004: bets 2000
+BrABuSCOu92: folds 
+Uncalled bet (2000) returned to rottweiler 004
+rottweiler 004 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [6h Jc 8s]
+Seat 1: GuiS91 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: ARRASOO (button) folded before Flop (didn't bet)
+Seat 4: rottweiler 004 (small blind) collected (1100)
+Seat 5: BrABuSCOu92 (big blind) folded on the Flop
+Seat 6: danielgorila folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257646976152: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level X (200/400) - 2025/09/07 15:55:00 CET [2025/09/07 9:55:00 ET]
+Table '3922833803 20' 6-max Seat #4 is the button
+Seat 1: GuiS91 (32927 in chips) 
+Seat 2: pipinoelbreve9 (9950 in chips) 
+Seat 3: ARRASOO (16100 in chips) 
+Seat 4: rottweiler 004 (40960 in chips) 
+Seat 5: BrABuSCOu92 (66422 in chips) 
+Seat 6: danielgorila (111657 in chips) 
+GuiS91: posts the ante 50
+pipinoelbreve9: posts the ante 50
+ARRASOO: posts the ante 50
+rottweiler 004: posts the ante 50
+BrABuSCOu92: posts the ante 50
+danielgorila: posts the ante 50
+BrABuSCOu92: posts small blind 200
+danielgorila: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 8h]
+GuiS91: raises 400 to 800
+pipinoelbreve9: folds 
+ARRASOO: folds 
+rottweiler 004: calls 800
+BrABuSCOu92: folds 
+danielgorila: folds 
+*** FLOP *** [8d 7h Jc]
+GuiS91: bets 1250
+rottweiler 004: folds 
+Uncalled bet (1250) returned to GuiS91
+GuiS91 collected 2500 from pot
+GuiS91: doesn't show hand 
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [8d 7h Jc]
+Seat 1: GuiS91 collected (2500)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: ARRASOO folded before Flop (didn't bet)
+Seat 4: rottweiler 004 (button) folded on the Flop
+Seat 5: BrABuSCOu92 (small blind) folded before Flop
+Seat 6: danielgorila (big blind) folded before Flop
+
+
+
+PokerStars Hand #257647027055: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level X (200/400) - 2025/09/07 16:01:36 CET [2025/09/07 10:01:36 ET]
+Table '3922833803 20' 6-max Seat #6 is the button
+Seat 1: GuiS91 (34577 in chips) 
+Seat 2: pipinoelbreve9 (9900 in chips) 
+Seat 3: OLATINO69 (10000 in chips) 
+Seat 4: rottweiler 004 (40110 in chips) 
+Seat 6: danielgorila (111207 in chips) 
+GuiS91: posts the ante 50
+pipinoelbreve9: posts the ante 50
+OLATINO69: posts the ante 50
+rottweiler 004: posts the ante 50
+danielgorila: posts the ante 50
+GuiS91: posts small blind 200
+pipinoelbreve9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 2d]
+OLATINO69: folds 
+rottweiler 004: folds 
+danielgorila: folds 
+GuiS91: calls 200
+pipinoelbreve9: checks 
+*** FLOP *** [Qh 8s 5d]
+GuiS91: bets 525
+pipinoelbreve9: folds 
+Uncalled bet (525) returned to GuiS91
+GuiS91 collected 1050 from pot
+GuiS91: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Qh 8s 5d]
+Seat 1: GuiS91 (small blind) collected (1050)
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: OLATINO69 folded before Flop (didn't bet)
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 6: danielgorila (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647032146: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level X (200/400) - 2025/09/07 16:02:07 CET [2025/09/07 10:02:07 ET]
+Table '3922833803 20' 6-max Seat #1 is the button
+Seat 1: GuiS91 (35177 in chips) 
+Seat 2: pipinoelbreve9 (9450 in chips) 
+Seat 3: OLATINO69 (9950 in chips) 
+Seat 4: rottweiler 004 (40060 in chips) 
+Seat 5: Jorge25153 (10000 in chips) 
+Seat 6: danielgorila (111157 in chips) 
+GuiS91: posts the ante 50
+pipinoelbreve9: posts the ante 50
+OLATINO69: posts the ante 50
+rottweiler 004: posts the ante 50
+Jorge25153: posts the ante 50
+danielgorila: posts the ante 50
+pipinoelbreve9: posts small blind 200
+OLATINO69: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 8c]
+rottweiler 004: folds 
+Jorge25153: folds 
+danielgorila: calls 400
+GuiS91: folds 
+pipinoelbreve9: calls 200
+OLATINO69: checks 
+*** FLOP *** [Tc 3c 4d]
+pipinoelbreve9: checks 
+OLATINO69: checks 
+danielgorila: bets 1200
+pipinoelbreve9: folds 
+OLATINO69: folds 
+Uncalled bet (1200) returned to danielgorila
+danielgorila collected 1500 from pot
+danielgorila: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Tc 3c 4d]
+Seat 1: GuiS91 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded on the Flop
+Seat 3: OLATINO69 (big blind) folded on the Flop
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 5: Jorge25153 folded before Flop (didn't bet)
+Seat 6: danielgorila collected (1500)
+
+
+
+PokerStars Hand #257647038754: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level X (200/400) - 2025/09/07 16:02:42 CET [2025/09/07 10:02:42 ET]
+Table '3922833803 20' 6-max Seat #2 is the button
+Seat 1: GuiS91 (35127 in chips) 
+Seat 2: pipinoelbreve9 (9000 in chips) 
+Seat 3: OLATINO69 (9500 in chips) 
+Seat 4: rottweiler 004 (40010 in chips) 
+Seat 5: Jorge25153 (9950 in chips) 
+Seat 6: danielgorila (112207 in chips) 
+GuiS91: posts the ante 50
+pipinoelbreve9: posts the ante 50
+OLATINO69: posts the ante 50
+rottweiler 004: posts the ante 50
+Jorge25153: posts the ante 50
+danielgorila: posts the ante 50
+OLATINO69: posts small blind 200
+rottweiler 004: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 2c]
+Jorge25153: calls 400
+danielgorila: raises 1200 to 1600
+GuiS91: folds 
+pipinoelbreve9: folds 
+OLATINO69: calls 1400
+rottweiler 004: folds 
+Jorge25153: calls 1200
+*** FLOP *** [Ts 4d 3s]
+OLATINO69: checks 
+Jorge25153: checks 
+danielgorila: bets 2750
+OLATINO69: folds 
+Jorge25153: calls 2750
+*** TURN *** [Ts 4d 3s] [4h]
+Jorge25153: checks 
+danielgorila: checks 
+*** RIVER *** [Ts 4d 3s 4h] [Kh]
+Jorge25153: checks 
+danielgorila: checks 
+*** SHOW DOWN ***
+Jorge25153: shows [2s As] (a pair of Fours)
+danielgorila: shows [Ah Qd] (a pair of Fours - Ace+King+Queen kicker)
+danielgorila collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | Rake 0 
+Board [Ts 4d 3s 4h Kh]
+Seat 1: GuiS91 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: OLATINO69 (small blind) folded on the Flop
+Seat 4: rottweiler 004 (big blind) folded before Flop
+Seat 5: Jorge25153 showed [2s As] and lost with a pair of Fours
+Seat 6: danielgorila showed [Ah Qd] and won (11000) with a pair of Fours
+
+
+
+PokerStars Hand #257647047880: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:03:34 CET [2025/09/07 10:03:34 ET]
+Table '3922833803 20' 6-max Seat #3 is the button
+Seat 1: GuiS91 (35077 in chips) 
+Seat 2: pipinoelbreve9 (8950 in chips) 
+Seat 3: OLATINO69 (7850 in chips) 
+Seat 4: rottweiler 004 (39560 in chips) 
+Seat 5: Jorge25153 (5550 in chips) 
+Seat 6: danielgorila (118807 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+Jorge25153: posts the ante 60
+danielgorila: posts the ante 60
+rottweiler 004: posts small blind 250
+Jorge25153: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s Th]
+danielgorila: calls 500
+GuiS91: folds 
+pipinoelbreve9: calls 500
+OLATINO69: raises 7290 to 7790 and is all-in
+rottweiler 004: folds 
+Jorge25153: folds 
+danielgorila: calls 7290
+pipinoelbreve9: folds 
+*** FLOP *** [6s Qh Js]
+*** TURN *** [6s Qh Js] [6c]
+*** RIVER *** [6s Qh Js 6c] [Ah]
+*** SHOW DOWN ***
+danielgorila: shows [Kd 9d] (a pair of Sixes)
+OLATINO69: shows [Jh Ad] (two pair, Aces and Jacks)
+OLATINO69 collected 17190 from pot
+*** SUMMARY ***
+Total pot 17190 | Rake 0 
+Board [6s Qh Js 6c Ah]
+Seat 1: GuiS91 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop
+Seat 3: OLATINO69 (button) showed [Jh Ad] and won (17190) with two pair, Aces and Jacks
+Seat 4: rottweiler 004 (small blind) folded before Flop
+Seat 5: Jorge25153 (big blind) folded before Flop
+Seat 6: danielgorila showed [Kd 9d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #257647052751: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:04:01 CET [2025/09/07 10:04:01 ET]
+Table '3922833803 20' 6-max Seat #4 is the button
+Seat 1: GuiS91 (35017 in chips) 
+Seat 2: pipinoelbreve9 (8390 in chips) 
+Seat 3: OLATINO69 (17190 in chips) 
+Seat 4: rottweiler 004 (39250 in chips) 
+Seat 5: Jorge25153 (4990 in chips) 
+Seat 6: danielgorila (110957 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+Jorge25153: posts the ante 60
+danielgorila: posts the ante 60
+Jorge25153: posts small blind 250
+danielgorila: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Th]
+GuiS91: folds 
+pipinoelbreve9: folds 
+OLATINO69: calls 500
+rottweiler 004: folds 
+Jorge25153: calls 250
+danielgorila: checks 
+*** FLOP *** [3c 6c Qc]
+Jorge25153: checks 
+danielgorila: checks 
+OLATINO69: checks 
+*** TURN *** [3c 6c Qc] [5d]
+Jorge25153: checks 
+danielgorila: bets 500
+OLATINO69 has timed out
+OLATINO69: folds 
+OLATINO69 is sitting out
+Jorge25153: folds 
+Uncalled bet (500) returned to danielgorila
+danielgorila collected 1860 from pot
+danielgorila: doesn't show hand 
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [3c 6c Qc 5d]
+Seat 1: GuiS91 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: OLATINO69 folded on the Turn
+Seat 4: rottweiler 004 (button) folded before Flop (didn't bet)
+Seat 5: Jorge25153 (small blind) folded on the Turn
+Seat 6: danielgorila (big blind) collected (1860)
+
+
+
+PokerStars Hand #257647065490: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:05:09 CET [2025/09/07 10:05:09 ET]
+Table '3922833803 20' 6-max Seat #5 is the button
+Seat 1: GuiS91 (34957 in chips) 
+Seat 2: pipinoelbreve9 (8330 in chips) 
+Seat 3: OLATINO69 (16630 in chips) is sitting out
+Seat 4: rottweiler 004 (39190 in chips) 
+Seat 5: Jorge25153 (4430 in chips) 
+Seat 6: danielgorila (112257 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+Jorge25153: posts the ante 60
+danielgorila: posts the ante 60
+danielgorila: posts small blind 250
+GuiS91: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc As]
+OLATINO69 has returned
+pipinoelbreve9: raises 1000 to 1500
+OLATINO69 has timed out
+OLATINO69: folds 
+OLATINO69 is sitting out
+rottweiler 004: folds 
+Jorge25153: folds 
+danielgorila: folds 
+GuiS91: calls 1000
+*** FLOP *** [Qh 6c Kc]
+OLATINO69 has returned
+GuiS91: bets 1805
+pipinoelbreve9: raises 4965 to 6770 and is all-in
+GuiS91: folds 
+Uncalled bet (4965) returned to pipinoelbreve9
+pipinoelbreve9 collected 7220 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 7220 | Rake 0 
+Board [Qh 6c Kc]
+Seat 1: GuiS91 (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 collected (7220)
+Seat 3: OLATINO69 folded before Flop (didn't bet)
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 5: Jorge25153 (button) folded before Flop (didn't bet)
+Seat 6: danielgorila (small blind) folded before Flop
+
+
+
+PokerStars Hand #257647072587: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:05:47 CET [2025/09/07 10:05:47 ET]
+Table '3922833803 20' 6-max Seat #6 is the button
+Seat 1: GuiS91 (31592 in chips) 
+Seat 2: pipinoelbreve9 (12185 in chips) 
+Seat 3: OLATINO69 (16570 in chips) 
+Seat 4: rottweiler 004 (39130 in chips) 
+Seat 5: Jorge25153 (4370 in chips) 
+Seat 6: danielgorila (111947 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+Jorge25153: posts the ante 60
+danielgorila: posts the ante 60
+GuiS91: posts small blind 250
+pipinoelbreve9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Qc]
+OLATINO69: folds 
+rottweiler 004: folds 
+Jorge25153: folds 
+danielgorila: calls 500
+GuiS91: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [Ts 3s Tc]
+pipinoelbreve9: checks 
+danielgorila: checks 
+*** TURN *** [Ts 3s Tc] [6d]
+pipinoelbreve9: checks 
+danielgorila: bets 500
+pipinoelbreve9: folds 
+Uncalled bet (500) returned to danielgorila
+danielgorila collected 1610 from pot
+danielgorila: doesn't show hand 
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Board [Ts 3s Tc 6d]
+Seat 1: GuiS91 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded on the Turn
+Seat 3: OLATINO69 folded before Flop (didn't bet)
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 5: Jorge25153 folded before Flop (didn't bet)
+Seat 6: danielgorila (button) collected (1610)
+
+
+
+PokerStars Hand #257647078796: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:06:20 CET [2025/09/07 10:06:20 ET]
+Table '3922833803 20' 6-max Seat #1 is the button
+Seat 1: GuiS91 (31282 in chips) 
+Seat 2: pipinoelbreve9 (11625 in chips) 
+Seat 3: OLATINO69 (16510 in chips) 
+Seat 4: rottweiler 004 (39070 in chips) 
+Seat 5: Jorge25153 (4310 in chips) 
+Seat 6: danielgorila (112997 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+Jorge25153: posts the ante 60
+danielgorila: posts the ante 60
+pipinoelbreve9: posts small blind 250
+OLATINO69: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 4h]
+rottweiler 004: calls 500
+Jorge25153: calls 500
+danielgorila: calls 500
+GuiS91: raises 1000 to 1500
+pipinoelbreve9: folds 
+OLATINO69: folds 
+rottweiler 004: calls 1000
+Jorge25153: raises 2750 to 4250 and is all-in
+danielgorila: calls 3750
+GuiS91: calls 2750
+rottweiler 004: calls 2750
+*** FLOP *** [2h Kh 6d]
+rottweiler 004: bets 34760 and is all-in
+danielgorila: folds 
+GuiS91: folds 
+Uncalled bet (34760) returned to rottweiler 004
+*** TURN *** [2h Kh 6d] [5d]
+*** RIVER *** [2h Kh 6d 5d] [7h]
+*** SHOW DOWN ***
+rottweiler 004: shows [8d Kc] (a pair of Kings)
+Jorge25153: shows [Jd Jh] (a pair of Jacks)
+rottweiler 004 collected 18110 from pot
+rottweiler 004 wins the €0.80 bounty for eliminating Jorge25153
+Jorge25153 finished the tournament
+*** SUMMARY ***
+Total pot 18110 | Rake 0 
+Board [2h Kh 6d 5d 7h]
+Seat 1: GuiS91 (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: OLATINO69 (big blind) folded before Flop
+Seat 4: rottweiler 004 showed [8d Kc] and won (18110) with a pair of Kings
+Seat 5: Jorge25153 showed [Jd Jh] and lost with a pair of Jacks
+Seat 6: danielgorila folded on the Flop
+
+
+
+PokerStars Hand #257647093786: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:07:38 CET [2025/09/07 10:07:38 ET]
+Table '3922833803 20' 6-max Seat #2 is the button
+Seat 1: GuiS91 (26972 in chips) 
+Seat 2: pipinoelbreve9 (11315 in chips) 
+Seat 3: OLATINO69 (15950 in chips) 
+Seat 4: rottweiler 004 (52870 in chips) 
+Seat 6: danielgorila (108687 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+danielgorila: posts the ante 60
+OLATINO69: posts small blind 250
+rottweiler 004: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 5d]
+danielgorila: folds 
+GuiS91: raises 1500 to 2000
+pipinoelbreve9: folds 
+OLATINO69: calls 1750
+rottweiler 004: calls 1500
+*** FLOP *** [2h Ks 6c]
+OLATINO69: checks 
+rottweiler 004: checks 
+GuiS91: bets 3150
+OLATINO69: calls 3150
+rottweiler 004: folds 
+*** TURN *** [2h Ks 6c] [4s]
+OLATINO69: checks 
+GuiS91: checks 
+*** RIVER *** [2h Ks 6c 4s] [3d]
+OLATINO69: bets 10740 and is all-in
+GuiS91: calls 10740
+*** SHOW DOWN ***
+OLATINO69: shows [4c 5c] (a straight, Deuce to Six)
+GuiS91: shows [8c 8h] (a pair of Eights)
+OLATINO69 collected 34080 from pot
+*** SUMMARY ***
+Total pot 34080 | Rake 0 
+Board [2h Ks 6c 4s 3d]
+Seat 1: GuiS91 showed [8c 8h] and lost with a pair of Eights
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: OLATINO69 (small blind) showed [4c 5c] and won (34080) with a straight, Deuce to Six
+Seat 4: rottweiler 004 (big blind) folded on the Flop
+Seat 6: danielgorila folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257647104186: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:08:31 CET [2025/09/07 10:08:31 ET]
+Table '3922833803 20' 6-max Seat #3 is the button
+Seat 1: GuiS91 (11022 in chips) 
+Seat 2: pipinoelbreve9 (11255 in chips) 
+Seat 3: OLATINO69 (34080 in chips) 
+Seat 4: rottweiler 004 (50810 in chips) 
+Seat 6: danielgorila (108627 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+danielgorila: posts the ante 60
+rottweiler 004: posts small blind 250
+danielgorila: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 7h]
+GuiS91: raises 10462 to 10962 and is all-in
+pipinoelbreve9: folds 
+OLATINO69: folds 
+rottweiler 004: calls 10712
+danielgorila: folds 
+*** FLOP *** [As 7d 5c]
+*** TURN *** [As 7d 5c] [7s]
+*** RIVER *** [As 7d 5c 7s] [8s]
+*** SHOW DOWN ***
+rottweiler 004: shows [Tc Kc] (a pair of Sevens)
+GuiS91: shows [Ah Qd] (two pair, Aces and Sevens)
+GuiS91 collected 22724 from pot
+*** SUMMARY ***
+Total pot 22724 | Rake 0 
+Board [As 7d 5c 7s 8s]
+Seat 1: GuiS91 showed [Ah Qd] and won (22724) with two pair, Aces and Sevens
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: OLATINO69 (button) folded before Flop (didn't bet)
+Seat 4: rottweiler 004 (small blind) showed [Tc Kc] and lost with a pair of Sevens
+Seat 6: danielgorila (big blind) folded before Flop
+
+
+
+PokerStars Hand #257647110299: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:09:03 CET [2025/09/07 10:09:03 ET]
+Table '3922833803 20' 6-max Seat #4 is the button
+Seat 1: GuiS91 (22724 in chips) 
+Seat 2: pipinoelbreve9 (11195 in chips) 
+Seat 3: OLATINO69 (34020 in chips) 
+Seat 4: rottweiler 004 (39788 in chips) 
+Seat 6: danielgorila (108067 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+danielgorila: posts the ante 60
+danielgorila: posts small blind 250
+GuiS91: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 7s]
+pipinoelbreve9: folds 
+OLATINO69: folds 
+rottweiler 004: folds 
+danielgorila: folds 
+Uncalled bet (250) returned to GuiS91
+GuiS91 collected 800 from pot
+GuiS91: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: GuiS91 (big blind) collected (800)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: OLATINO69 folded before Flop (didn't bet)
+Seat 4: rottweiler 004 (button) folded before Flop (didn't bet)
+Seat 6: danielgorila (small blind) folded before Flop
+
+
+
+PokerStars Hand #257647113497: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:09:20 CET [2025/09/07 10:09:20 ET]
+Table '3922833803 20' 6-max Seat #6 is the button
+Seat 1: GuiS91 (23214 in chips) 
+Seat 2: pipinoelbreve9 (11135 in chips) 
+Seat 3: OLATINO69 (33960 in chips) 
+Seat 4: rottweiler 004 (39728 in chips) 
+Seat 6: danielgorila (107757 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+danielgorila: posts the ante 60
+GuiS91: posts small blind 250
+pipinoelbreve9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Qc]
+OLATINO69: folds 
+rottweiler 004: folds 
+danielgorila: raises 1000 to 1500
+GuiS91: calls 1250
+pipinoelbreve9: folds 
+*** FLOP *** [3s Jh 5h]
+rottweiler 004 is disconnected 
+GuiS91: bets 1900
+danielgorila: calls 1900
+*** TURN *** [3s Jh 5h] [8s]
+GuiS91: bets 3800
+danielgorila: calls 3800
+*** RIVER *** [3s Jh 5h 8s] [3h]
+GuiS91: bets 15954 and is all-in
+danielgorila: folds 
+Uncalled bet (15954) returned to GuiS91
+GuiS91 collected 15200 from pot
+GuiS91: doesn't show hand 
+*** SUMMARY ***
+Total pot 15200 | Rake 0 
+Board [3s Jh 5h 8s 3h]
+Seat 1: GuiS91 (small blind) collected (15200)
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: OLATINO69 folded before Flop (didn't bet)
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 6: danielgorila (button) folded on the River
+
+
+
+PokerStars Hand #257647125144: Tournament #3922833803, €0.10+€0.80+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/07 16:10:21 CET [2025/09/07 10:10:21 ET]
+Table '3922833803 20' 6-max Seat #1 is the button
+Seat 1: GuiS91 (31154 in chips) 
+Seat 2: pipinoelbreve9 (10575 in chips) 
+Seat 3: OLATINO69 (33900 in chips) 
+Seat 4: rottweiler 004 (39668 in chips) 
+Seat 5: LasVersace (15856 in chips) 
+Seat 6: danielgorila (100497 in chips) 
+GuiS91: posts the ante 60
+pipinoelbreve9: posts the ante 60
+OLATINO69: posts the ante 60
+rottweiler 004: posts the ante 60
+LasVersace: posts the ante 60
+danielgorila: posts the ante 60
+pipinoelbreve9: posts small blind 250
+OLATINO69: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh Qd]
+rottweiler 004: folds 
+LasVersace: calls 500
+danielgorila: folds 
+GuiS91: folds 
+pipinoelbreve9: raises 10015 to 10515 and is all-in
+OLATINO69 has timed out
+OLATINO69: folds 
+OLATINO69 is sitting out
+LasVersace: calls 10015
+*** FLOP *** [4h 7d 9h]
+*** TURN *** [4h 7d 9h] [Td]
+*** RIVER *** [4h 7d 9h Td] [6h]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Jh Qd] (high card Queen)
+LasVersace: shows [Ah 7c] (a pair of Sevens)
+LasVersace collected 21890 from pot
+LasVersace wins the €0.80 bounty for eliminating pipinoelbreve9
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 21890 | Rake 0 
+Board [4h 7d 9h Td 6h]
+Seat 1: GuiS91 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [Jh Qd] and lost with high card Queen
+Seat 3: OLATINO69 (big blind) folded before Flop
+Seat 4: rottweiler 004 folded before Flop (didn't bet)
+Seat 5: LasVersace showed [Ah 7c] and won (21890) with a pair of Sevens
+Seat 6: danielgorila folded before Flop (didn't bet)
+
+
+

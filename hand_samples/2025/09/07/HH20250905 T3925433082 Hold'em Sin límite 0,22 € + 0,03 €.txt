@@ -1,0 +1,85 @@
+﻿PokerStars Hand #257625663500: Tournament #3925433082, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/05 22:42:20 CET [2025/09/05 16:42:20 ET]
+Table '3925433082 11' 6-max Seat #1 is the button
+Seat 1: tauxin88 (6468 in chips, €0.22 bounty) 
+Seat 2: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 3: cgarcia948 (396 in chips, €0.17 bounty) 
+tauxin88: posts the ante 18
+pipinoelbreve9: posts the ante 18
+cgarcia948: posts the ante 18
+pipinoelbreve9: posts small blind 60
+cgarcia948: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d Jh]
+cgarcia948 is disconnected 
+DeCastroBa is disconnected 
+tauxin88: folds 
+pipinoelbreve9: raises 240 to 360
+cgarcia948: raises 18 to 378 and is all-in
+pipinoelbreve9: calls 18
+*** FLOP *** [As 2s 7h]
+*** TURN *** [As 2s 7h] [6d]
+*** RIVER *** [As 2s 7h 6d] [6s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [7d Jh] (two pair, Sevens and Sixes)
+cgarcia948: shows [9c 9s] (two pair, Nines and Sixes)
+cgarcia948 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [As 2s 7h 6d 6s]
+Seat 1: tauxin88 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [7d Jh] and lost with two pair, Sevens and Sixes
+Seat 3: cgarcia948 (big blind) showed [9c 9s] and won (810) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #257625667962: Tournament #3925433082, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/05 22:42:38 CET [2025/09/05 16:42:38 ET]
+Table '3925433082 11' 6-max Seat #2 is the button
+Seat 1: tauxin88 (6450 in chips, €0.22 bounty) 
+Seat 2: pipinoelbreve9 (4604 in chips, €0.17 bounty) 
+Seat 3: cgarcia948 (810 in chips, €0.17 bounty) 
+Seat 4: DeCastroBa (13059 in chips, €0.27 bounty) 
+Seat 5: gcrespo01 (3623 in chips, €0.17 bounty) is sitting out
+Seat 6: AeonMaklaud (5000 in chips, €0.17 bounty) 
+tauxin88: posts the ante 18
+pipinoelbreve9: posts the ante 18
+cgarcia948: posts the ante 18
+DeCastroBa: posts the ante 18
+gcrespo01: posts the ante 18
+AeonMaklaud: posts the ante 18
+cgarcia948: posts small blind 60
+DeCastroBa: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 9s]
+gcrespo01: folds 
+AeonMaklaud: folds 
+tauxin88: calls 120
+pipinoelbreve9: raises 4466 to 4586 and is all-in
+cgarcia948: calls 732 and is all-in
+DeCastroBa: raises 8455 to 13041 and is all-in
+tauxin88: folds 
+Uncalled bet (8455) returned to DeCastroBa
+*** FLOP *** [7s 2c 5c]
+*** TURN *** [7s 2c 5c] [Kc]
+*** RIVER *** [7s 2c 5c Kc] [6c]
+*** SHOW DOWN ***
+DeCastroBa: shows [8d 8c] (a flush, King high)
+pipinoelbreve9: shows [Ah 9s] (high card Ace)
+DeCastroBa collected 7588 from side pot
+cgarcia948: shows [Ts Ks] (a pair of Kings)
+DeCastroBa collected 2604 from main pot
+DeCastroBa wins €0.12 for eliminating pipinoelbreve9 and their own bounty increases by €0.05 to €0.32
+DeCastroBa wins €0.12 for eliminating cgarcia948 and their own bounty increases by €0.05 to €0.37
+pipinoelbreve9 finished the tournament
+cgarcia948 finished the tournament
+*** SUMMARY ***
+Total pot 10192 Main pot 2604. Side pot 7588. | Rake 0 
+Board [7s 2c 5c Kc 6c]
+Seat 1: tauxin88 folded before Flop
+Seat 2: pipinoelbreve9 (button) showed [Ah 9s] and lost with high card Ace
+Seat 3: cgarcia948 (small blind) showed [Ts Ks] and lost with a pair of Kings
+Seat 4: DeCastroBa (big blind) showed [8d 8c] and won (10192) with a flush, King high
+Seat 5: gcrespo01 folded before Flop (didn't bet)
+Seat 6: AeonMaklaud folded before Flop (didn't bet)
+
+
+

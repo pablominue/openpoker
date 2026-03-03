@@ -1,0 +1,91 @@
+﻿PokerStars Hand #257624668473: Tournament #3922833608, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/05 21:29:25 CET [2025/09/05 15:29:25 ET]
+Table '3922833608 17' 6-max Seat #1 is the button
+Seat 1: solo81670 (102311 in chips) 
+Seat 2: ptdkbe (14024 in chips) 
+Seat 3: BigBossWBTH (9940 in chips) 
+Seat 4: stivette (9411 in chips) 
+Seat 5: oskarcbr (37898 in chips) 
+Seat 6: pipinoelbreve9 (10000 in chips) 
+solo81670: posts the ante 60
+ptdkbe: posts the ante 60
+BigBossWBTH: posts the ante 60
+stivette: posts the ante 60
+oskarcbr: posts the ante 60
+pipinoelbreve9: posts the ante 60
+ptdkbe: posts small blind 250
+BigBossWBTH: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 6s]
+stivette: folds 
+oskarcbr: folds 
+pipinoelbreve9: folds 
+solo81670: calls 500
+ptdkbe: folds 
+BigBossWBTH: checks 
+*** FLOP *** [7h Ac 6c]
+BigBossWBTH: checks 
+solo81670: bets 500
+BigBossWBTH: folds 
+Uncalled bet (500) returned to solo81670
+solo81670 collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Board [7h Ac 6c]
+Seat 1: solo81670 (button) collected (1610)
+Seat 2: ptdkbe (small blind) folded before Flop
+Seat 3: BigBossWBTH (big blind) folded on the Flop
+Seat 4: stivette folded before Flop (didn't bet)
+Seat 5: oskarcbr folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257624685681: Tournament #3922833608, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level XI (250/500) - 2025/09/05 21:30:41 CET [2025/09/05 15:30:41 ET]
+Table '3922833608 26' 6-max Seat #3 is the button
+Seat 1: m@dnic (30718 in chips) 
+Seat 2: pipinoelbreve9 (9940 in chips) 
+Seat 3: ilanou76290 (15242 in chips) 
+Seat 5: Stanav75 (39960 in chips) 
+Seat 6: mirwalk1 (12370 in chips) 
+m@dnic: posts the ante 60
+pipinoelbreve9: posts the ante 60
+ilanou76290: posts the ante 60
+Stanav75: posts the ante 60
+mirwalk1: posts the ante 60
+Stanav75: posts small blind 250
+mirwalk1: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Jd]
+m@dnic: folds 
+pipinoelbreve9: calls 500
+ilanou76290: folds 
+Stanav75: calls 250
+mirwalk1: checks 
+*** FLOP *** [2s 2d 9h]
+Stanav75: checks 
+mirwalk1: checks 
+pipinoelbreve9: bets 500
+Stanav75: calls 500
+mirwalk1: raises 3300 to 3800
+pipinoelbreve9: raises 5580 to 9380 and is all-in
+Stanav75: folds 
+mirwalk1: calls 5580
+*** TURN *** [2s 2d 9h] [Qs]
+*** RIVER *** [2s 2d 9h Qs] [2h]
+*** SHOW DOWN ***
+mirwalk1: shows [4d 2c] (four of a kind, Deuces)
+pipinoelbreve9: shows [Jc Jd] (a full house, Deuces full of Jacks)
+mirwalk1 collected 21060 from pot
+mirwalk1 wins the €0.45 bounty for eliminating pipinoelbreve9
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 21060 | Rake 0 
+Board [2s 2d 9h Qs 2h]
+Seat 1: m@dnic folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 showed [Jc Jd] and lost with a full house, Deuces full of Jacks
+Seat 3: ilanou76290 (button) folded before Flop (didn't bet)
+Seat 5: Stanav75 (small blind) folded on the Flop
+Seat 6: mirwalk1 (big blind) showed [4d 2c] and won (21060) with four of a kind, Deuces
+
+
+

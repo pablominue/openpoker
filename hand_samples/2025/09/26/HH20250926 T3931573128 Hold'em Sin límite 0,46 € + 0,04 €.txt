@@ -1,0 +1,579 @@
+﻿PokerStars Hand #257892771459: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:47:39 CET [2025/09/26 6:47:39 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: ericno68 (500 in chips) 
+Seat 3: couscous7604 (500 in chips) 
+ericno68: posts small blind 10
+couscous7604: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 8s]
+pipinoelbreve9: folds 
+ericno68: calls 10
+couscous7604: checks 
+*** FLOP *** [Tc 8c 9c]
+ericno68: checks 
+couscous7604: checks 
+*** TURN *** [Tc 8c 9c] [Js]
+ericno68: bets 20
+couscous7604: calls 20
+*** RIVER *** [Tc 8c 9c Js] [5h]
+ericno68: bets 20
+couscous7604: calls 20
+*** SHOW DOWN ***
+ericno68: shows [Qd 6d] (a straight, Eight to Queen)
+couscous7604: mucks hand 
+ericno68 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 8c 9c Js 5h]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: ericno68 (small blind) showed [Qd 6d] and won (120) with a straight, Eight to Queen
+Seat 3: couscous7604 (big blind) mucked [4h 7h]
+
+
+
+PokerStars Hand #257892773663: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:48:01 CET [2025/09/26 6:48:01 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: ericno68 (560 in chips) 
+Seat 3: couscous7604 (440 in chips) 
+couscous7604: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 7s]
+ericno68: calls 20
+couscous7604: calls 10
+pipinoelbreve9: raises 80 to 100
+ericno68: folds 
+couscous7604: folds 
+Uncalled bet (80) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (60)
+Seat 2: ericno68 (button) folded before Flop
+Seat 3: couscous7604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892775176: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:48:17 CET [2025/09/26 6:48:17 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (540 in chips) 
+Seat 2: ericno68 (540 in chips) 
+Seat 3: couscous7604 (420 in chips) 
+pipinoelbreve9: posts small blind 10
+ericno68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 8h]
+couscous7604: folds 
+pipinoelbreve9: calls 10
+ericno68: checks 
+*** FLOP *** [Jh 8c As]
+pipinoelbreve9: bets 20
+ericno68: calls 20
+*** TURN *** [Jh 8c As] [2h]
+pipinoelbreve9: checks 
+ericno68: checks 
+*** RIVER *** [Jh 8c As 2h] [Qh]
+pipinoelbreve9: checks 
+ericno68: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9s 8h] (a pair of Eights)
+ericno68: shows [Tc Jd] (a pair of Jacks)
+ericno68 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 8c As 2h Qh]
+Seat 1: pipinoelbreve9 (small blind) showed [9s 8h] and lost with a pair of Eights
+Seat 2: ericno68 (big blind) showed [Tc Jd] and won (80) with a pair of Jacks
+Seat 3: couscous7604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257892777536: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:48:41 CET [2025/09/26 6:48:41 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: ericno68 (580 in chips) 
+Seat 3: couscous7604 (420 in chips) 
+ericno68: posts small blind 10
+couscous7604: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9h]
+pipinoelbreve9: folds 
+ericno68: folds 
+Uncalled bet (10) returned to couscous7604
+couscous7604 collected 20 from pot
+couscous7604: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: ericno68 (small blind) folded before Flop
+Seat 3: couscous7604 (big blind) collected (20)
+
+
+
+PokerStars Hand #257892778240: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:48:48 CET [2025/09/26 6:48:48 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: ericno68 (570 in chips) 
+Seat 3: couscous7604 (430 in chips) 
+couscous7604: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc Js]
+ericno68: folds 
+couscous7604: folds 
+Uncalled bet (10) returned to pipinoelbreve9
+pipinoelbreve9 collected 20 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (20)
+Seat 2: ericno68 (button) folded before Flop (didn't bet)
+Seat 3: couscous7604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892778681: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:48:52 CET [2025/09/26 6:48:52 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (510 in chips) 
+Seat 2: ericno68 (570 in chips) 
+Seat 3: couscous7604 (420 in chips) 
+pipinoelbreve9: posts small blind 10
+ericno68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d Jc]
+couscous7604: calls 20
+pipinoelbreve9: folds 
+ericno68: checks 
+*** FLOP *** [2c 8d Qd]
+ericno68: bets 20
+couscous7604: folds 
+Uncalled bet (20) returned to ericno68
+ericno68 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2c 8d Qd]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: ericno68 (big blind) collected (50)
+Seat 3: couscous7604 (button) folded on the Flop
+
+
+
+PokerStars Hand #257892779707: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:49:03 CET [2025/09/26 6:49:03 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: ericno68 (600 in chips) 
+Seat 3: couscous7604 (400 in chips) 
+ericno68: posts small blind 10
+couscous7604: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts Kh]
+pipinoelbreve9: raises 40 to 60
+ericno68: calls 50
+couscous7604: calls 40
+*** FLOP *** [4h Ad Td]
+ericno68: checks 
+couscous7604: checks 
+pipinoelbreve9: bets 90
+ericno68: folds 
+couscous7604: folds 
+Uncalled bet (90) returned to pipinoelbreve9
+pipinoelbreve9 collected 180 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4h Ad Td]
+Seat 1: pipinoelbreve9 (button) collected (180)
+Seat 2: ericno68 (small blind) folded on the Flop
+Seat 3: couscous7604 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257892781501: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 12:49:22 CET [2025/09/26 6:49:22 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (620 in chips) 
+Seat 2: ericno68 (540 in chips) 
+Seat 3: couscous7604 (340 in chips) 
+couscous7604: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 7d]
+ericno68: folds 
+couscous7604: calls 10
+pipinoelbreve9: checks 
+*** FLOP *** [7h 4d Th]
+couscous7604: bets 20
+pipinoelbreve9: calls 20
+*** TURN *** [7h 4d Th] [5c]
+couscous7604: bets 20
+pipinoelbreve9: calls 20
+*** RIVER *** [7h 4d Th 5c] [4c]
+couscous7604: bets 60
+pipinoelbreve9: calls 60
+*** SHOW DOWN ***
+couscous7604: shows [9d As] (a pair of Fours)
+pipinoelbreve9: shows [9s 7d] (two pair, Sevens and Fours)
+pipinoelbreve9 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 4d Th 5c 4c]
+Seat 1: pipinoelbreve9 (big blind) showed [9s 7d] and won (240) with two pair, Sevens and Fours
+Seat 2: ericno68 (button) folded before Flop (didn't bet)
+Seat 3: couscous7604 (small blind) showed [9d As] and lost with a pair of Fours
+
+
+
+PokerStars Hand #257892784043: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:49:48 CET [2025/09/26 6:49:48 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (740 in chips) 
+Seat 2: ericno68 (540 in chips) 
+Seat 3: couscous7604 (220 in chips) 
+pipinoelbreve9: posts small blind 15
+ericno68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 7s]
+couscous7604: folds 
+pipinoelbreve9: raises 60 to 90
+ericno68: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pipinoelbreve9 (small blind) collected (60)
+Seat 2: ericno68 (big blind) folded before Flop
+Seat 3: couscous7604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257892784852: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:49:56 CET [2025/09/26 6:49:56 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (770 in chips) 
+Seat 2: ericno68 (510 in chips) 
+Seat 3: couscous7604 (220 in chips) 
+ericno68: posts small blind 15
+couscous7604: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 3h]
+pipinoelbreve9: folds 
+ericno68: calls 15
+couscous7604: raises 190 to 220 and is all-in
+ericno68: folds 
+Uncalled bet (190) returned to couscous7604
+couscous7604 collected 60 from pot
+couscous7604: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: ericno68 (small blind) folded before Flop
+Seat 3: couscous7604 (big blind) collected (60)
+
+
+
+PokerStars Hand #257892785680: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:05 CET [2025/09/26 6:50:05 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (770 in chips) 
+Seat 2: ericno68 (480 in chips) 
+Seat 3: couscous7604 (250 in chips) 
+couscous7604: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 6s]
+ericno68: folds 
+couscous7604: folds 
+Uncalled bet (15) returned to pipinoelbreve9
+pipinoelbreve9 collected 30 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (30)
+Seat 2: ericno68 (button) folded before Flop (didn't bet)
+Seat 3: couscous7604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892786345: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:12 CET [2025/09/26 6:50:12 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (785 in chips) 
+Seat 2: ericno68 (480 in chips) 
+Seat 3: couscous7604 (235 in chips) 
+pipinoelbreve9: posts small blind 15
+ericno68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 9d]
+couscous7604: folds 
+pipinoelbreve9: calls 15
+ericno68: checks 
+*** FLOP *** [8c 2c 6d]
+pipinoelbreve9: checks 
+ericno68: checks 
+*** TURN *** [8c 2c 6d] [Kh]
+pipinoelbreve9: bets 30
+ericno68: folds 
+Uncalled bet (30) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 2c 6d Kh]
+Seat 1: pipinoelbreve9 (small blind) collected (60)
+Seat 2: ericno68 (big blind) folded on the Turn
+Seat 3: couscous7604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257892787763: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:27 CET [2025/09/26 6:50:27 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (815 in chips) 
+Seat 2: ericno68 (450 in chips) 
+Seat 3: couscous7604 (235 in chips) 
+ericno68: posts small blind 15
+couscous7604: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 7d]
+pipinoelbreve9: raises 60 to 90
+ericno68: folds 
+couscous7604: raises 145 to 235 and is all-in
+pipinoelbreve9: calls 145
+*** FLOP *** [2h Ac 9c]
+*** TURN *** [2h Ac 9c] [8d]
+*** RIVER *** [2h Ac 9c 8d] [6d]
+*** SHOW DOWN ***
+couscous7604: shows [Ad Kd] (a pair of Aces)
+pipinoelbreve9: shows [7h 7d] (a pair of Sevens)
+couscous7604 collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | Rake 0 
+Board [2h Ac 9c 8d 6d]
+Seat 1: pipinoelbreve9 (button) showed [7h 7d] and lost with a pair of Sevens
+Seat 2: ericno68 (small blind) folded before Flop
+Seat 3: couscous7604 (big blind) showed [Ad Kd] and won (485) with a pair of Aces
+
+
+
+PokerStars Hand #257892789451: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:44 CET [2025/09/26 6:50:44 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (580 in chips) 
+Seat 2: ericno68 (435 in chips) 
+Seat 3: couscous7604 (485 in chips) 
+couscous7604: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 5s]
+ericno68: folds 
+couscous7604: folds 
+Uncalled bet (15) returned to pipinoelbreve9
+pipinoelbreve9 collected 30 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (30)
+Seat 2: ericno68 (button) folded before Flop (didn't bet)
+Seat 3: couscous7604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892790107: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:50 CET [2025/09/26 6:50:50 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (595 in chips) 
+Seat 2: ericno68 (435 in chips) 
+Seat 3: couscous7604 (470 in chips) 
+pipinoelbreve9: posts small blind 15
+ericno68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 5h]
+couscous7604: folds 
+pipinoelbreve9: raises 60 to 90
+ericno68: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 60 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pipinoelbreve9 (small blind) collected (60)
+Seat 2: ericno68 (big blind) folded before Flop
+Seat 3: couscous7604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257892790837: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:50:58 CET [2025/09/26 6:50:58 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (625 in chips) 
+Seat 2: ericno68 (405 in chips) 
+Seat 3: couscous7604 (470 in chips) 
+ericno68: posts small blind 15
+couscous7604: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 9c]
+pipinoelbreve9: folds 
+ericno68: calls 15
+couscous7604: raises 30 to 60
+ericno68: calls 30
+*** FLOP *** [Kh Js 7h]
+ericno68: checks 
+couscous7604: bets 60
+ericno68: folds 
+Uncalled bet (60) returned to couscous7604
+couscous7604 collected 120 from pot
+couscous7604: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh Js 7h]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: ericno68 (small blind) folded on the Flop
+Seat 3: couscous7604 (big blind) collected (120)
+
+
+
+PokerStars Hand #257892792293: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:51:13 CET [2025/09/26 6:51:13 ET]
+Table '3931573128 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (625 in chips) 
+Seat 2: ericno68 (345 in chips) 
+Seat 3: couscous7604 (530 in chips) 
+couscous7604: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Kc]
+ericno68: calls 30
+couscous7604: folds 
+pipinoelbreve9: raises 120 to 150
+ericno68: raises 195 to 345 and is all-in
+pipinoelbreve9: calls 195
+*** FLOP *** [3d Qh 4c]
+*** TURN *** [3d Qh 4c] [Th]
+*** RIVER *** [3d Qh 4c Th] [Jh]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Jc Kc] (a pair of Jacks)
+ericno68: shows [7h 7d] (a pair of Sevens)
+pipinoelbreve9 collected 705 from pot
+ericno68 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Board [3d Qh 4c Th Jh]
+Seat 1: pipinoelbreve9 (big blind) showed [Jc Kc] and won (705) with a pair of Jacks
+Seat 2: ericno68 (button) showed [7h 7d] and lost with a pair of Sevens
+Seat 3: couscous7604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892794631: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 12:51:37 CET [2025/09/26 6:51:37 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (985 in chips) 
+Seat 3: couscous7604 (515 in chips) 
+pipinoelbreve9: posts small blind 15
+couscous7604: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 9d]
+pipinoelbreve9: calls 15
+couscous7604: checks 
+*** FLOP *** [2d Qs Ad]
+couscous7604: checks 
+pipinoelbreve9: checks 
+*** TURN *** [2d Qs Ad] [3c]
+couscous7604: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [2d Qs Ad 3c] [Th]
+couscous7604: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+couscous7604: shows [Jd 8c] (high card Ace)
+pipinoelbreve9: mucks hand 
+couscous7604 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Qs Ad 3c Th]
+Seat 1: pipinoelbreve9 (button) (small blind) mucked [6h 9d]
+Seat 3: couscous7604 (big blind) showed [Jd 8c] and won (60) with high card Ace
+
+
+
+PokerStars Hand #257892797331: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:52:05 CET [2025/09/26 6:52:05 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (955 in chips) 
+Seat 3: couscous7604 (545 in chips) 
+couscous7604: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc Td]
+couscous7604: calls 20
+pipinoelbreve9: raises 160 to 200
+couscous7604: folds 
+Uncalled bet (160) returned to pipinoelbreve9
+pipinoelbreve9 collected 80 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (80)
+Seat 3: couscous7604 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892798122: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:52:13 CET [2025/09/26 6:52:13 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (995 in chips) 
+Seat 3: couscous7604 (505 in chips) 
+pipinoelbreve9: posts small blind 20
+couscous7604: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 8h]
+pipinoelbreve9: folds 
+Uncalled bet (20) returned to couscous7604
+couscous7604 collected 40 from pot
+couscous7604: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 3: couscous7604 (big blind) collected (40)
+
+
+
+PokerStars Hand #257892798599: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:52:18 CET [2025/09/26 6:52:18 ET]
+Table '3931573128 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (975 in chips) 
+Seat 3: couscous7604 (525 in chips) 
+couscous7604: posts small blind 20
+pipinoelbreve9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 4h]
+couscous7604: folds 
+Uncalled bet (20) returned to pipinoelbreve9
+pipinoelbreve9 collected 40 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (40)
+Seat 3: couscous7604 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257892799004: Tournament #3931573128, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2025/09/26 12:52:22 CET [2025/09/26 6:52:22 ET]
+Table '3931573128 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (995 in chips) 
+Seat 3: couscous7604 (505 in chips) 
+pipinoelbreve9: posts small blind 20
+couscous7604: posts big blind 40
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js Ac]
+pipinoelbreve9: raises 80 to 120
+couscous7604: raises 385 to 505 and is all-in
+pipinoelbreve9: calls 385
+*** FLOP *** [7s 9h Jd]
+*** TURN *** [7s 9h Jd] [4c]
+*** RIVER *** [7s 9h Jd 4c] [Jh]
+*** SHOW DOWN ***
+couscous7604: shows [Qd 8h] (a pair of Jacks)
+pipinoelbreve9: shows [Js Ac] (three of a kind, Jacks)
+pipinoelbreve9 collected 1010 from pot
+couscous7604 finished the tournament in 2nd place
+pipinoelbreve9 wins the tournament - congratulations!
+pipinoelbreve9 wins a '€1.50 Step 2 SnG Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [7s 9h Jd 4c Jh]
+Seat 1: pipinoelbreve9 (button) (small blind) showed [Js Ac] and won (1010) with three of a kind, Jacks
+Seat 3: couscous7604 (big blind) showed [Qd 8h] and lost with a pair of Jacks
+
+
+

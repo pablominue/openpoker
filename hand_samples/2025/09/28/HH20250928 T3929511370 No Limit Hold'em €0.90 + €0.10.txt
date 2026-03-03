@@ -1,0 +1,236 @@
+﻿PokerStars Hand #257918127887: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/28 12:24:00 CET [2025/09/28 6:24:00 ET]
+Table '3929511370 5' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (50000 in chips) 
+Seat 2: Aurelie121210 (53407 in chips) is sitting out
+Seat 3: Mr.Tubells (241879 in chips) 
+Seat 4: Papou420 (96376 in chips) 
+Seat 5: youpiyoupiyou (121367 in chips) 
+Seat 6: naitlin (32821 in chips) 
+pipinoelbreve9: posts the ante 325
+Aurelie121210: posts the ante 325
+Mr.Tubells: posts the ante 325
+Papou420: posts the ante 325
+youpiyoupiyou: posts the ante 325
+naitlin: posts the ante 325
+naitlin: posts small blind 1250
+pipinoelbreve9: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Qd]
+Aurelie121210: folds 
+Aurelie121210 is disconnected 
+Aurelie121210 has returned
+Mr.Tubells: folds 
+Papou420: folds 
+youpiyoupiyou: raises 2500 to 5000
+naitlin: raises 27496 to 32496 and is all-in
+pipinoelbreve9: raises 17179 to 49675 and is all-in
+youpiyoupiyou: folds 
+Uncalled bet (17179) returned to pipinoelbreve9
+*** FLOP *** [5d 7d 4s]
+*** TURN *** [5d 7d 4s] [3c]
+*** RIVER *** [5d 7d 4s 3c] [Js]
+*** SHOW DOWN ***
+naitlin: shows [Td Ad] (high card Ace)
+pipinoelbreve9: shows [Qs Qd] (a pair of Queens)
+pipinoelbreve9 collected 71942 from pot
+naitlin finished the tournament
+*** SUMMARY ***
+Total pot 71942 | Rake 0 
+Board [5d 7d 4s 3c Js]
+Seat 1: pipinoelbreve9 (big blind) showed [Qs Qd] and won (71942) with a pair of Queens
+Seat 2: Aurelie121210 folded before Flop (didn't bet)
+Seat 3: Mr.Tubells folded before Flop (didn't bet)
+Seat 4: Papou420 folded before Flop (didn't bet)
+Seat 5: youpiyoupiyou (button) folded before Flop
+Seat 6: naitlin (small blind) showed [Td Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #257918132204: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/28 12:24:42 CET [2025/09/28 6:24:42 ET]
+Table '3929511370 5' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (89121 in chips) 
+Seat 2: Aurelie121210 (53082 in chips) 
+Seat 3: Mr.Tubells (241554 in chips) 
+Seat 4: Papou420 (96051 in chips) 
+Seat 5: youpiyoupiyou (116042 in chips) 
+pipinoelbreve9: posts the ante 325
+Aurelie121210: posts the ante 325
+Mr.Tubells: posts the ante 325
+Papou420: posts the ante 325
+youpiyoupiyou: posts the ante 325
+Aurelie121210: posts small blind 1250
+Mr.Tubells: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Ac]
+Papou420: folds 
+youpiyoupiyou: raises 2500 to 5000
+pipinoelbreve9: raises 12500 to 17500
+Aurelie121210: raises 35257 to 52757 and is all-in
+Mr.Tubells: folds 
+youpiyoupiyou: folds 
+pipinoelbreve9: calls 35257
+*** FLOP *** [7h Kc 8h]
+*** TURN *** [7h Kc 8h] [Tc]
+*** RIVER *** [7h Kc 8h Tc] [3d]
+*** SHOW DOWN ***
+Aurelie121210: shows [8s 8d] (three of a kind, Eights)
+pipinoelbreve9: shows [Kh Ac] (a pair of Kings)
+Aurelie121210 collected 114639 from pot
+*** SUMMARY ***
+Total pot 114639 | Rake 0 
+Board [7h Kc 8h Tc 3d]
+Seat 1: pipinoelbreve9 (button) showed [Kh Ac] and lost with a pair of Kings
+Seat 2: Aurelie121210 (small blind) showed [8s 8d] and won (114639) with three of a kind, Eights
+Seat 3: Mr.Tubells (big blind) folded before Flop
+Seat 4: Papou420 folded before Flop (didn't bet)
+Seat 5: youpiyoupiyou folded before Flop
+
+
+
+PokerStars Hand #257918137651: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/28 12:25:34 CET [2025/09/28 6:25:34 ET]
+Table '3929511370 5' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (36039 in chips) 
+Seat 2: Aurelie121210 (114639 in chips) 
+Seat 3: Mr.Tubells (238729 in chips) 
+Seat 4: Papou420 (95726 in chips) 
+Seat 5: youpiyoupiyou (110717 in chips) 
+pipinoelbreve9: posts the ante 325
+Aurelie121210: posts the ante 325
+Mr.Tubells: posts the ante 325
+Papou420: posts the ante 325
+youpiyoupiyou: posts the ante 325
+Mr.Tubells: posts small blind 1250
+Papou420: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 3s]
+youpiyoupiyou: folds 
+pipinoelbreve9: folds 
+Aurelie121210: folds 
+Mr.Tubells: folds 
+Uncalled bet (1250) returned to Papou420
+Papou420 collected 4125 from pot
+*** SUMMARY ***
+Total pot 4125 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: Aurelie121210 (button) folded before Flop (didn't bet)
+Seat 3: Mr.Tubells (small blind) folded before Flop
+Seat 4: Papou420 (big blind) collected (4125)
+Seat 5: youpiyoupiyou folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257918140035: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/28 12:25:57 CET [2025/09/28 6:25:57 ET]
+Table '3929511370 5' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (35714 in chips) 
+Seat 2: Aurelie121210 (114314 in chips) 
+Seat 3: Mr.Tubells (237154 in chips) 
+Seat 4: Papou420 (98276 in chips) 
+Seat 5: youpiyoupiyou (110392 in chips) 
+pipinoelbreve9: posts the ante 325
+Aurelie121210: posts the ante 325
+Mr.Tubells: posts the ante 325
+Papou420: posts the ante 325
+youpiyoupiyou: posts the ante 325
+Papou420: posts small blind 1250
+youpiyoupiyou: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Qh]
+pipinoelbreve9: folds 
+Aurelie121210: raises 22875 to 25375
+Mr.Tubells: folds 
+Papou420: folds 
+youpiyoupiyou: folds 
+Uncalled bet (22875) returned to Aurelie121210
+Aurelie121210 collected 7875 from pot
+*** SUMMARY ***
+Total pot 7875 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: Aurelie121210 collected (7875)
+Seat 3: Mr.Tubells (button) folded before Flop (didn't bet)
+Seat 4: Papou420 (small blind) folded before Flop
+Seat 5: youpiyoupiyou (big blind) folded before Flop
+
+
+
+PokerStars Hand #257918142864: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/28 12:26:26 CET [2025/09/28 6:26:26 ET]
+Table '3929511370 5' 6-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (35389 in chips) 
+Seat 2: Aurelie121210 (119364 in chips) 
+Seat 3: Mr.Tubells (236829 in chips) 
+Seat 4: Papou420 (96701 in chips) 
+Seat 5: youpiyoupiyou (107567 in chips) 
+Seat 6: Vouiiiii (50000 in chips) 
+pipinoelbreve9: posts the ante 325
+Aurelie121210: posts the ante 325
+Mr.Tubells: posts the ante 325
+Papou420: posts the ante 325
+youpiyoupiyou: posts the ante 325
+Vouiiiii: posts the ante 325
+youpiyoupiyou: posts small blind 1250
+Vouiiiii: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 8h]
+pipinoelbreve9: folds 
+Aurelie121210: folds 
+Mr.Tubells: folds 
+Papou420: folds 
+youpiyoupiyou: folds 
+Uncalled bet (1250) returned to Vouiiiii
+Vouiiiii collected 4450 from pot
+Vouiiiii: doesn't show hand 
+*** SUMMARY ***
+Total pot 4450 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: Aurelie121210 folded before Flop (didn't bet)
+Seat 3: Mr.Tubells folded before Flop (didn't bet)
+Seat 4: Papou420 (button) folded before Flop (didn't bet)
+Seat 5: youpiyoupiyou (small blind) folded before Flop
+Seat 6: Vouiiiii (big blind) collected (4450)
+
+
+
+PokerStars Hand #257918145922: Tournament #3929511370, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/28 12:26:57 CET [2025/09/28 6:26:57 ET]
+Table '3929511370 5' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (35064 in chips) 
+Seat 2: Aurelie121210 (119039 in chips) 
+Seat 3: Mr.Tubells (236504 in chips) 
+Seat 4: Papou420 (96376 in chips) 
+Seat 5: youpiyoupiyou (105992 in chips) 
+Seat 6: Vouiiiii (52875 in chips) 
+pipinoelbreve9: posts the ante 375
+Aurelie121210: posts the ante 375
+Mr.Tubells: posts the ante 375
+Papou420: posts the ante 375
+youpiyoupiyou: posts the ante 375
+Vouiiiii: posts the ante 375
+Vouiiiii: posts small blind 1500
+pipinoelbreve9: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 2h]
+Aurelie121210: folds 
+Mr.Tubells: raises 3600 to 6600
+Papou420: folds 
+youpiyoupiyou: folds 
+Vouiiiii: folds 
+pipinoelbreve9: raises 28089 to 34689 and is all-in
+Mr.Tubells: calls 28089
+*** FLOP *** [Kh 7s Qh]
+*** TURN *** [Kh 7s Qh] [Jd]
+*** RIVER *** [Kh 7s Qh Jd] [5d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [7h 2h] (a pair of Sevens)
+Mr.Tubells: shows [Ah Qd] (a pair of Queens)
+Mr.Tubells collected 73128 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 73128 | Rake 0 
+Board [Kh 7s Qh Jd 5d]
+Seat 1: pipinoelbreve9 (big blind) showed [7h 2h] and lost with a pair of Sevens
+Seat 2: Aurelie121210 folded before Flop (didn't bet)
+Seat 3: Mr.Tubells showed [Ah Qd] and won (73128) with a pair of Queens
+Seat 4: Papou420 folded before Flop (didn't bet)
+Seat 5: youpiyoupiyou (button) folded before Flop (didn't bet)
+Seat 6: Vouiiiii (small blind) folded before Flop
+
+
+

@@ -1,0 +1,34 @@
+﻿PokerStars Hand #257983578819: Tournament #3933675844, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:37:34 CET [2025/10/03 11:37:34 ET]
+Table '3933675844 1' 3-max Seat #1 is the button
+Seat 1: Liamaria313 (500 in chips) 
+Seat 2: pipinoelbreve9 (500 in chips) 
+Seat 3: thieum2404 (500 in chips) 
+pipinoelbreve9: posts small blind 10
+thieum2404: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 7h]
+Liamaria313: calls 20
+pipinoelbreve9: raises 80 to 100
+thieum2404: folds 
+Liamaria313: calls 80
+*** FLOP *** [Kc 4c 3c]
+pipinoelbreve9: bets 220
+Liamaria313: calls 220
+*** TURN *** [Kc 4c 3c] [8h]
+pipinoelbreve9: bets 180 and is all-in
+Liamaria313: calls 180 and is all-in
+*** RIVER *** [Kc 4c 3c 8h] [As]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ks 7h] (a pair of Kings)
+Liamaria313: shows [Ad Kh] (two pair, Aces and Kings)
+Liamaria313 collected 1020 from pot
+pipinoelbreve9 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Kc 4c 3c 8h As]
+Seat 1: Liamaria313 (button) showed [Ad Kh] and won (1020) with two pair, Aces and Kings
+Seat 2: pipinoelbreve9 (small blind) showed [Ks 7h] and lost with a pair of Kings
+Seat 3: thieum2404 (big blind) folded before Flop
+
+
+

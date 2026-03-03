@@ -1,0 +1,431 @@
+﻿PokerStars Hand #257561436230: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/08/31 21:14:04 CET [2025/08/31 15:14:04 ET]
+Table '3922832734 13' 8-max Seat #2 is the button
+Seat 1: nalexy17 (8485 in chips) 
+Seat 2: gpn09asm (9490 in chips) 
+Seat 3: epreron2 (22030 in chips) 
+Seat 4: pipinoelbreve9 (10000 in chips) 
+Seat 5: Vascopt99 (15310 in chips) 
+Seat 6: as-nelson-as (11565 in chips) 
+Seat 8: stivette (8985 in chips) 
+nalexy17: posts the ante 40
+gpn09asm: posts the ante 40
+epreron2: posts the ante 40
+pipinoelbreve9: posts the ante 40
+Vascopt99: posts the ante 40
+as-nelson-as: posts the ante 40
+stivette: posts the ante 40
+epreron2: posts small blind 200
+pipinoelbreve9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 7h]
+Vascopt99: folds 
+as-nelson-as: folds 
+stivette: folds 
+nalexy17: folds 
+gpn09asm: folds 
+epreron2: raises 400 to 800
+pipinoelbreve9: calls 400
+*** FLOP *** [Qs Qh Tc]
+epreron2: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Qs Qh Tc] [9h]
+epreron2: bets 400
+pipinoelbreve9: calls 400
+*** RIVER *** [Qs Qh Tc 9h] [Jh]
+epreron2: bets 20790 and is all-in
+pipinoelbreve9: calls 8760 and is all-in
+Uncalled bet (12030) returned to epreron2
+*** SHOW DOWN ***
+epreron2: shows [8c Kd] (a straight, Nine to King)
+pipinoelbreve9: shows [4h 7h] (a flush, Queen high)
+pipinoelbreve9 collected 20200 from pot
+*** SUMMARY ***
+Total pot 20200 | Rake 0 
+Board [Qs Qh Tc 9h Jh]
+Seat 1: nalexy17 folded before Flop (didn't bet)
+Seat 2: gpn09asm (button) folded before Flop (didn't bet)
+Seat 3: epreron2 (small blind) showed [8c Kd] and lost with a straight, Nine to King
+Seat 4: pipinoelbreve9 (big blind) showed [4h 7h] and won (20200) with a flush, Queen high
+Seat 5: Vascopt99 folded before Flop (didn't bet)
+Seat 6: as-nelson-as folded before Flop (didn't bet)
+Seat 8: stivette folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257561448196: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/08/31 21:14:46 CET [2025/08/31 15:14:46 ET]
+Table '3922832734 13' 8-max Seat #3 is the button
+Seat 1: nalexy17 (8445 in chips) 
+Seat 2: gpn09asm (9450 in chips) 
+Seat 3: epreron2 (12030 in chips) 
+Seat 4: pipinoelbreve9 (20200 in chips) 
+Seat 5: Vascopt99 (15270 in chips) 
+Seat 6: as-nelson-as (11525 in chips) 
+Seat 7: fleo99 (10000 in chips) 
+Seat 8: stivette (8945 in chips) 
+nalexy17: posts the ante 40
+gpn09asm: posts the ante 40
+epreron2: posts the ante 40
+pipinoelbreve9: posts the ante 40
+Vascopt99: posts the ante 40
+as-nelson-as: posts the ante 40
+fleo99: posts the ante 40
+stivette: posts the ante 40
+pipinoelbreve9: posts small blind 200
+Vascopt99: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Ac]
+as-nelson-as: folds 
+fleo99: calls 400
+stivette: folds 
+nalexy17: folds 
+gpn09asm: folds 
+epreron2: calls 400
+pipinoelbreve9: raises 2800 to 3200
+Vascopt99: folds 
+fleo99: calls 2800
+epreron2: calls 2800
+*** FLOP *** [4c Qs 2h]
+pipinoelbreve9: checks 
+fleo99: checks 
+epreron2: bets 2800
+pipinoelbreve9: folds 
+fleo99: calls 2800
+*** TURN *** [4c Qs 2h] [5s]
+fleo99: bets 400
+epreron2: raises 5590 to 5990 and is all-in
+fleo99: calls 3560 and is all-in
+Uncalled bet (2030) returned to epreron2
+*** RIVER *** [4c Qs 2h 5s] [Kh]
+*** SHOW DOWN ***
+fleo99: shows [6c 5h] (a pair of Fives)
+epreron2: shows [7c Th] (high card King)
+fleo99 collected 23840 from pot
+*** SUMMARY ***
+Total pot 23840 | Rake 0 
+Board [4c Qs 2h 5s Kh]
+Seat 1: nalexy17 folded before Flop (didn't bet)
+Seat 2: gpn09asm folded before Flop (didn't bet)
+Seat 3: epreron2 (button) showed [7c Th] and lost with high card King
+Seat 4: pipinoelbreve9 (small blind) folded on the Flop
+Seat 5: Vascopt99 (big blind) folded before Flop
+Seat 6: as-nelson-as folded before Flop (didn't bet)
+Seat 7: fleo99 showed [6c 5h] and won (23840) with a pair of Fives
+Seat 8: stivette folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257561488081: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/08/31 21:16:58 CET [2025/08/31 15:16:58 ET]
+Table '3922832734 13' 8-max Seat #4 is the button
+Seat 1: nalexy17 (8405 in chips) 
+Seat 2: gpn09asm (9410 in chips) 
+Seat 3: epreron2 (2030 in chips) 
+Seat 4: pipinoelbreve9 (16960 in chips) 
+Seat 5: Vascopt99 (14830 in chips) 
+Seat 6: as-nelson-as (11485 in chips) 
+Seat 7: fleo99 (23840 in chips) 
+Seat 8: stivette (8905 in chips) 
+nalexy17: posts the ante 40
+gpn09asm: posts the ante 40
+epreron2: posts the ante 40
+pipinoelbreve9: posts the ante 40
+Vascopt99: posts the ante 40
+as-nelson-as: posts the ante 40
+fleo99: posts the ante 40
+stivette: posts the ante 40
+Vascopt99: posts small blind 200
+as-nelson-as: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 2d]
+fleo99: raises 23400 to 23800 and is all-in
+stivette: folds 
+nalexy17: folds 
+gpn09asm has timed out
+gpn09asm: folds 
+gpn09asm is sitting out
+epreron2: folds 
+pipinoelbreve9: folds 
+Vascopt99: folds 
+as-nelson-as: calls 11045 and is all-in
+Uncalled bet (12355) returned to fleo99
+*** FLOP *** [7h Qd 9c]
+*** TURN *** [7h Qd 9c] [5h]
+*** RIVER *** [7h Qd 9c 5h] [9s]
+gpn09asm has returned
+*** SHOW DOWN ***
+as-nelson-as: shows [Tc Th] (two pair, Tens and Nines)
+fleo99: shows [5d 3h] (two pair, Nines and Fives)
+as-nelson-as collected 23410 from pot
+*** SUMMARY ***
+Total pot 23410 | Rake 0 
+Board [7h Qd 9c 5h 9s]
+Seat 1: nalexy17 folded before Flop (didn't bet)
+Seat 2: gpn09asm folded before Flop (didn't bet)
+Seat 3: epreron2 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 5: Vascopt99 (small blind) folded before Flop
+Seat 6: as-nelson-as (big blind) showed [Tc Th] and won (23410) with two pair, Tens and Nines
+Seat 7: fleo99 showed [5d 3h] and lost with two pair, Nines and Fives
+Seat 8: stivette folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257561504317: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/08/31 21:17:52 CET [2025/08/31 15:17:52 ET]
+Table '3922832734 13' 8-max Seat #5 is the button
+Seat 2: gpn09asm (9370 in chips) 
+Seat 3: epreron2 (1990 in chips) 
+Seat 4: pipinoelbreve9 (16920 in chips) 
+Seat 5: Vascopt99 (14590 in chips) 
+Seat 6: as-nelson-as (23410 in chips) 
+Seat 7: fleo99 (12355 in chips) 
+Seat 8: stivette (8865 in chips) 
+gpn09asm: posts the ante 50
+epreron2: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Vascopt99: posts the ante 50
+as-nelson-as: posts the ante 50
+fleo99: posts the ante 50
+stivette: posts the ante 50
+as-nelson-as: posts small blind 250
+fleo99: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 9c]
+stivette: calls 500
+gpn09asm: folds 
+epreron2: raises 1440 to 1940 and is all-in
+pipinoelbreve9: folds 
+Vascopt99: raises 12600 to 14540 and is all-in
+as-nelson-as: folds 
+fleo99: calls 11805 and is all-in
+stivette: folds 
+Uncalled bet (2235) returned to Vascopt99
+*** FLOP *** [Qs 5d 3s]
+*** TURN *** [Qs 5d 3s] [4s]
+*** RIVER *** [Qs 5d 3s 4s] [Kh]
+*** SHOW DOWN ***
+fleo99: shows [6s Js] (a flush, Queen high)
+Vascopt99: shows [Th Qc] (a pair of Queens)
+fleo99 collected 20730 from side pot
+epreron2: shows [7s Kc] (a pair of Kings)
+fleo99 collected 6920 from main pot
+epreron2 finished the tournament
+*** SUMMARY ***
+Total pot 27650 Main pot 6920. Side pot 20730. | Rake 0 
+Board [Qs 5d 3s 4s Kh]
+Seat 2: gpn09asm folded before Flop (didn't bet)
+Seat 3: epreron2 showed [7s Kc] and lost with a pair of Kings
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Vascopt99 (button) showed [Th Qc] and lost with a pair of Queens
+Seat 6: as-nelson-as (small blind) folded before Flop
+Seat 7: fleo99 (big blind) showed [6s Js] and won (27650) with a flush, Queen high
+Seat 8: stivette folded before Flop
+
+
+
+PokerStars Hand #257561519969: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/08/31 21:18:44 CET [2025/08/31 15:18:44 ET]
+Table '3922832734 13' 8-max Seat #6 is the button
+Seat 2: gpn09asm (9320 in chips) 
+Seat 4: pipinoelbreve9 (16870 in chips) 
+Seat 5: Vascopt99 (2235 in chips) 
+Seat 6: as-nelson-as (23110 in chips) 
+Seat 7: fleo99 (27650 in chips) 
+Seat 8: stivette (8315 in chips) 
+gpn09asm: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Vascopt99: posts the ante 50
+as-nelson-as: posts the ante 50
+fleo99: posts the ante 50
+stivette: posts the ante 50
+fleo99: posts small blind 250
+stivette: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Ac]
+gpn09asm: folds 
+pipinoelbreve9: folds 
+PAJARILLA13 is disconnected 
+Vascopt99: raises 1685 to 2185 and is all-in
+as-nelson-as: raises 20875 to 23060 and is all-in
+fleo99: calls 22810
+stivette: folds 
+*** FLOP *** [Th 7s 6d]
+*** TURN *** [Th 7s 6d] [Kd]
+*** RIVER *** [Th 7s 6d Kd] [3d]
+*** SHOW DOWN ***
+fleo99: shows [2c Kc] (a pair of Kings)
+as-nelson-as: shows [Qs Ad] (high card Ace)
+fleo99 collected 41750 from side pot
+Vascopt99: shows [9s Kh] (a pair of Kings - Ten+Nine kicker)
+Vascopt99 collected 7355 from main pot
+as-nelson-as finished the tournament
+*** SUMMARY ***
+Total pot 49105 Main pot 7355. Side pot 41750. | Rake 0 
+Board [Th 7s 6d Kd 3d]
+Seat 2: gpn09asm folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Vascopt99 showed [9s Kh] and won (7355) with a pair of Kings
+Seat 6: as-nelson-as (button) showed [Qs Ad] and lost with high card Ace
+Seat 7: fleo99 (small blind) showed [2c Kc] and won (41750) with a pair of Kings
+Seat 8: stivette (big blind) folded before Flop
+
+
+
+PokerStars Hand #257561529787: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/08/31 21:19:17 CET [2025/08/31 15:19:17 ET]
+Table '3922832734 13' 8-max Seat #7 is the button
+Seat 1: PAJARILLA13 (27430 in chips) 
+Seat 2: gpn09asm (9270 in chips) 
+Seat 4: pipinoelbreve9 (16820 in chips) 
+Seat 5: Vascopt99 (7355 in chips) 
+Seat 7: fleo99 (46290 in chips) 
+Seat 8: stivette (7765 in chips) 
+PAJARILLA13: posts the ante 50
+gpn09asm: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Vascopt99: posts the ante 50
+fleo99: posts the ante 50
+stivette: posts the ante 50
+stivette: posts small blind 250
+PAJARILLA13: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Th]
+gpn09asm: folds 
+pipinoelbreve9: raises 1000 to 1500
+Vascopt99: raises 5805 to 7305 and is all-in
+fleo99: calls 7305
+stivette: folds 
+PAJARILLA13: calls 6805
+pipinoelbreve9: folds 
+*** FLOP *** [4d Kc Qc]
+PAJARILLA13: checks 
+fleo99: checks 
+*** TURN *** [4d Kc Qc] [Ks]
+PAJARILLA13: bets 20075 and is all-in
+fleo99: folds 
+Uncalled bet (20075) returned to PAJARILLA13
+*** RIVER *** [4d Kc Qc Ks] [As]
+*** SHOW DOWN ***
+PAJARILLA13: shows [Ad 4c] (two pair, Aces and Kings)
+Vascopt99: shows [Td Kh] (three of a kind, Kings)
+Vascopt99 collected 23965 from pot
+*** SUMMARY ***
+Total pot 23965 | Rake 0 
+Board [4d Kc Qc Ks As]
+Seat 1: PAJARILLA13 (big blind) showed [Ad 4c] and lost with two pair, Aces and Kings
+Seat 2: gpn09asm folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop
+Seat 5: Vascopt99 showed [Td Kh] and won (23965) with three of a kind, Kings
+Seat 7: fleo99 (button) folded on the Turn
+Seat 8: stivette (small blind) folded before Flop
+
+
+
+PokerStars Hand #257561541595: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/08/31 21:19:57 CET [2025/08/31 15:19:57 ET]
+Table '3922832734 13' 8-max Seat #8 is the button
+Seat 1: PAJARILLA13 (20075 in chips) 
+Seat 2: gpn09asm (9220 in chips) 
+Seat 3: saoko515 (10000 in chips) 
+Seat 4: pipinoelbreve9 (15270 in chips) 
+Seat 5: Vascopt99 (23965 in chips) 
+Seat 6: epreron2 (10000 in chips) 
+Seat 7: fleo99 (38935 in chips) 
+Seat 8: stivette (7465 in chips) 
+PAJARILLA13: posts the ante 50
+gpn09asm: posts the ante 50
+saoko515: posts the ante 50
+pipinoelbreve9: posts the ante 50
+Vascopt99: posts the ante 50
+epreron2: posts the ante 50
+fleo99: posts the ante 50
+stivette: posts the ante 50
+PAJARILLA13: posts small blind 250
+gpn09asm: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 4c]
+saoko515: folds 
+pipinoelbreve9: folds 
+Vascopt99: folds 
+epreron2: raises 2000 to 2500
+fleo99: calls 2500
+stivette: folds 
+PAJARILLA13: raises 17525 to 20025 and is all-in
+gpn09asm: calls 8670 and is all-in
+epreron2: calls 7450 and is all-in
+fleo99: calls 17525
+*** FLOP *** [8c 7c 6c]
+*** TURN *** [8c 7c 6c] [9h]
+*** RIVER *** [8c 7c 6c 9h] [Jd]
+*** SHOW DOWN ***
+PAJARILLA13: shows [Ah 3d] (high card Ace)
+fleo99: shows [Kh Ac] (high card Ace - King kicker)
+fleo99 collected 20150 from side pot-2 
+epreron2: shows [9d Qd] (a pair of Nines)
+epreron2 collected 2340 from side pot-1 
+gpn09asm: shows [As Ad] (a pair of Aces)
+gpn09asm collected 37080 from main pot
+PAJARILLA13 finished the tournament
+*** SUMMARY ***
+Total pot 59570 Main pot 37080. Side pot-1 2340. Side pot-2 20150. | Rake 0 
+Board [8c 7c 6c 9h Jd]
+Seat 1: PAJARILLA13 (small blind) showed [Ah 3d] and lost with high card Ace
+Seat 2: gpn09asm (big blind) showed [As Ad] and won (37080) with a pair of Aces
+Seat 3: saoko515 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Vascopt99 folded before Flop (didn't bet)
+Seat 6: epreron2 showed [9d Qd] and won (2340) with a pair of Nines
+Seat 7: fleo99 showed [Kh Ac] and won (20150) with high card Ace
+Seat 8: stivette (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257561553071: Tournament #3922832734, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/08/31 21:20:36 CET [2025/08/31 15:20:36 ET]
+Table '3922832734 13' 8-max Seat #2 is the button
+Seat 2: gpn09asm (37080 in chips) 
+Seat 3: saoko515 (9950 in chips) 
+Seat 4: pipinoelbreve9 (15220 in chips) 
+Seat 5: Vascopt99 (23915 in chips) 
+Seat 6: epreron2 (2340 in chips) 
+Seat 7: fleo99 (39010 in chips) 
+Seat 8: stivette (7415 in chips) 
+gpn09asm: posts the ante 60
+saoko515: posts the ante 60
+pipinoelbreve9: posts the ante 60
+Vascopt99: posts the ante 60
+epreron2: posts the ante 60
+fleo99: posts the ante 60
+stivette: posts the ante 60
+saoko515: posts small blind 300
+pipinoelbreve9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh Ac]
+Vascopt99: folds 
+epreron2: folds 
+fleo99: calls 600
+stivette: calls 600
+gpn09asm: folds 
+saoko515: folds 
+pipinoelbreve9: raises 4200 to 4800
+fleo99: calls 4200
+stivette: folds 
+*** FLOP *** [Js 4d 8h]
+pipinoelbreve9: bets 4260
+fleo99: raises 29890 to 34150 and is all-in
+pipinoelbreve9: calls 6100 and is all-in
+Uncalled bet (23790) returned to fleo99
+*** TURN *** [Js 4d 8h] [9c]
+*** RIVER *** [Js 4d 8h 9c] [Kd]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Jh Ac] (a pair of Jacks)
+fleo99: shows [Th 7h] (a straight, Seven to Jack)
+fleo99 collected 31640 from pot
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 31640 | Rake 0 
+Board [Js 4d 8h 9c Kd]
+Seat 2: gpn09asm (button) folded before Flop (didn't bet)
+Seat 3: saoko515 (small blind) folded before Flop
+Seat 4: pipinoelbreve9 (big blind) showed [Jh Ac] and lost with a pair of Jacks
+Seat 5: Vascopt99 folded before Flop (didn't bet)
+Seat 6: epreron2 folded before Flop (didn't bet)
+Seat 7: fleo99 showed [Th 7h] and won (31640) with a straight, Seven to Jack
+Seat 8: stivette folded before Flop
+
+
+

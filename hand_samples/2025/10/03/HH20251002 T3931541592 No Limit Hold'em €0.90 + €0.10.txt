@@ -1,0 +1,2467 @@
+﻿PokerStars Hand #257973541675: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level I (75/150) - 2025/10/02 21:04:59 CET [2025/10/02 15:04:59 ET]
+Table '3931541592 2' 8-max Seat #1 is the button
+Seat 1: Chicogas7 (10000 in chips) 
+Seat 2: SKIL395 (10000 in chips) 
+Seat 3: Diamond_anth (10000 in chips) 
+Seat 4: MaroR1.58 (10000 in chips) 
+Seat 5: pipinoelbreve9 (10000 in chips) 
+Seat 6: Xines0000 (10000 in chips) 
+Seat 7: bambino611 (10000 in chips) 
+Seat 8: snowstorm-C9 (10000 in chips) 
+Chicogas7: posts the ante 15
+SKIL395: posts the ante 15
+Diamond_anth: posts the ante 15
+MaroR1.58: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Xines0000: posts the ante 15
+bambino611: posts the ante 15
+snowstorm-C9: posts the ante 15
+SKIL395: posts small blind 75
+Diamond_anth: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 5d]
+MaroR1.58: raises 450 to 600
+pipinoelbreve9: folds 
+Xines0000: folds 
+bambino611: calls 600
+snowstorm-C9: folds 
+Chicogas7: folds 
+SKIL395: folds 
+Diamond_anth: folds 
+*** FLOP *** [Jc 3s 8c]
+MaroR1.58: bets 1545
+bambino611: folds 
+Uncalled bet (1545) returned to MaroR1.58
+MaroR1.58 collected 1545 from pot
+MaroR1.58: doesn't show hand 
+*** SUMMARY ***
+Total pot 1545 | Rake 0 
+Board [Jc 3s 8c]
+Seat 1: Chicogas7 (button) folded before Flop (didn't bet)
+Seat 2: SKIL395 (small blind) folded before Flop
+Seat 3: Diamond_anth (big blind) folded before Flop
+Seat 4: MaroR1.58 collected (1545)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Xines0000 folded before Flop (didn't bet)
+Seat 7: bambino611 folded on the Flop
+Seat 8: snowstorm-C9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973551381: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level I (75/150) - 2025/10/02 21:05:41 CET [2025/10/02 15:05:41 ET]
+Table '3931541592 2' 8-max Seat #2 is the button
+Seat 1: Chicogas7 (9985 in chips) 
+Seat 2: SKIL395 (9910 in chips) 
+Seat 3: Diamond_anth (9835 in chips) 
+Seat 4: MaroR1.58 (10930 in chips) 
+Seat 5: pipinoelbreve9 (9985 in chips) 
+Seat 6: Xines0000 (9985 in chips) 
+Seat 7: bambino611 (9385 in chips) 
+Seat 8: snowstorm-C9 (9985 in chips) 
+Chicogas7: posts the ante 15
+SKIL395: posts the ante 15
+Diamond_anth: posts the ante 15
+MaroR1.58: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Xines0000: posts the ante 15
+bambino611: posts the ante 15
+snowstorm-C9: posts the ante 15
+Diamond_anth: posts small blind 75
+MaroR1.58: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 2s]
+pipinoelbreve9: folds 
+Xines0000: raises 150 to 300
+bambino611: calls 300
+snowstorm-C9: calls 300
+Chicogas7: calls 300
+SKIL395: raises 9595 to 9895 and is all-in
+Diamond_anth: folds 
+MaroR1.58: folds 
+Xines0000: calls 9595
+bambino611: folds 
+snowstorm-C9: folds 
+Chicogas7: folds 
+*** FLOP *** [4d 8h 7d]
+*** TURN *** [4d 8h 7d] [9d]
+*** RIVER *** [4d 8h 7d 9d] [7h]
+*** SHOW DOWN ***
+Xines0000: shows [Kc Qc] (a pair of Sevens)
+SKIL395: shows [Kd Ad] (a flush, Ace high)
+SKIL395 collected 21035 from pot
+*** SUMMARY ***
+Total pot 21035 | Rake 0 
+Board [4d 8h 7d 9d 7h]
+Seat 1: Chicogas7 folded before Flop
+Seat 2: SKIL395 (button) showed [Kd Ad] and won (21035) with a flush, Ace high
+Seat 3: Diamond_anth (small blind) folded before Flop
+Seat 4: MaroR1.58 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Xines0000 showed [Kc Qc] and lost with a pair of Sevens
+Seat 7: bambino611 folded before Flop
+Seat 8: snowstorm-C9 folded before Flop
+
+
+
+PokerStars Hand #257973563809: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level I (75/150) - 2025/10/02 21:06:35 CET [2025/10/02 15:06:35 ET]
+Table '3931541592 2' 8-max Seat #3 is the button
+Seat 1: Chicogas7 (9670 in chips) 
+Seat 2: SKIL395 (21035 in chips) 
+Seat 3: Diamond_anth (9745 in chips) 
+Seat 4: MaroR1.58 (10765 in chips) 
+Seat 5: pipinoelbreve9 (9970 in chips) 
+Seat 6: Xines0000 (75 in chips) 
+Seat 7: bambino611 (9070 in chips) 
+Seat 8: snowstorm-C9 (9670 in chips) 
+Chicogas7: posts the ante 15
+SKIL395: posts the ante 15
+Diamond_anth: posts the ante 15
+MaroR1.58: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Xines0000: posts the ante 15
+bambino611: posts the ante 15
+snowstorm-C9: posts the ante 15
+MaroR1.58: posts small blind 75
+pipinoelbreve9: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 2s]
+Xines0000: calls 60 and is all-in
+bambino611: folds 
+snowstorm-C9: folds 
+Chicogas7: folds 
+SKIL395: raises 225 to 375
+Diamond_anth: calls 375
+MaroR1.58: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [3s Jh 6s]
+SKIL395: checks 
+Diamond_anth: checks 
+*** TURN *** [3s Jh 6s] [Ts]
+SKIL395: checks 
+Diamond_anth: checks 
+*** RIVER *** [3s Jh 6s Ts] [Ac]
+SKIL395: bets 347
+Diamond_anth: folds 
+Uncalled bet (347) returned to SKIL395
+*** SHOW DOWN ***
+SKIL395: shows [Ah 9c] (a pair of Aces)
+SKIL395 collected 735 from side pot
+Xines0000: shows [6c Td] (two pair, Tens and Sixes)
+Xines0000 collected 420 from main pot
+*** SUMMARY ***
+Total pot 1155 Main pot 420. Side pot 735. | Rake 0 
+Board [3s Jh 6s Ts Ac]
+Seat 1: Chicogas7 folded before Flop (didn't bet)
+Seat 2: SKIL395 showed [Ah 9c] and won (735) with a pair of Aces
+Seat 3: Diamond_anth (button) folded on the River
+Seat 4: MaroR1.58 (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: Xines0000 showed [6c Td] and won (420) with two pair, Tens and Sixes
+Seat 7: bambino611 folded before Flop (didn't bet)
+Seat 8: snowstorm-C9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973573717: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level I (75/150) - 2025/10/02 21:07:18 CET [2025/10/02 15:07:18 ET]
+Table '3931541592 2' 8-max Seat #4 is the button
+Seat 1: Chicogas7 (9655 in chips) 
+Seat 2: SKIL395 (21380 in chips) 
+Seat 3: Diamond_anth (9355 in chips) 
+Seat 4: MaroR1.58 (10675 in chips) 
+Seat 5: pipinoelbreve9 (9805 in chips) 
+Seat 6: Xines0000 (420 in chips) 
+Seat 7: bambino611 (9055 in chips) 
+Seat 8: snowstorm-C9 (9655 in chips) 
+Chicogas7: posts the ante 15
+SKIL395: posts the ante 15
+Diamond_anth: posts the ante 15
+MaroR1.58: posts the ante 15
+pipinoelbreve9: posts the ante 15
+Xines0000: posts the ante 15
+bambino611: posts the ante 15
+snowstorm-C9: posts the ante 15
+pipinoelbreve9: posts small blind 75
+Xines0000: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc As]
+bambino611: calls 150
+snowstorm-C9: folds 
+Chicogas7: folds 
+SKIL395: folds 
+Diamond_anth: calls 150
+MaroR1.58: calls 150
+pipinoelbreve9: raises 1200 to 1350
+Xines0000: calls 255 and is all-in
+bambino611: calls 1200
+Diamond_anth: folds 
+MaroR1.58: folds 
+*** FLOP *** [8h 4h 2s]
+pipinoelbreve9: bets 150
+bambino611: calls 150
+*** TURN *** [8h 4h 2s] [6h]
+pipinoelbreve9: bets 750
+bambino611: calls 750
+*** RIVER *** [8h 4h 2s 6h] [4d]
+pipinoelbreve9: checks 
+bambino611: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qc As] (a pair of Fours)
+bambino611: mucks hand 
+pipinoelbreve9 collected 3690 from side pot
+Xines0000: mucks hand 
+pipinoelbreve9 collected 1635 from main pot
+Xines0000 finished the tournament
+*** SUMMARY ***
+Total pot 5325 Main pot 1635. Side pot 3690. | Rake 0 
+Board [8h 4h 2s 6h 4d]
+Seat 1: Chicogas7 folded before Flop (didn't bet)
+Seat 2: SKIL395 folded before Flop (didn't bet)
+Seat 3: Diamond_anth folded before Flop
+Seat 4: MaroR1.58 (button) folded before Flop
+Seat 5: pipinoelbreve9 (small blind) showed [Qc As] and won (5325) with a pair of Fours
+Seat 6: Xines0000 (big blind) mucked [7c Qs]
+Seat 7: bambino611 mucked [9h Qd]
+Seat 8: snowstorm-C9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973593557: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/02 21:08:43 CET [2025/10/02 15:08:43 ET]
+Table '3931541592 2' 8-max Seat #5 is the button
+Seat 1: Chicogas7 (9640 in chips) 
+Seat 2: SKIL395 (21365 in chips) 
+Seat 3: Diamond_anth (9190 in chips) 
+Seat 4: MaroR1.58 (10510 in chips) 
+Seat 5: pipinoelbreve9 (12865 in chips) 
+Seat 7: bambino611 (6790 in chips) 
+Seat 8: snowstorm-C9 (9640 in chips) 
+Chicogas7: posts the ante 20
+SKIL395: posts the ante 20
+Diamond_anth: posts the ante 20
+MaroR1.58: posts the ante 20
+pipinoelbreve9: posts the ante 20
+bambino611: posts the ante 20
+snowstorm-C9: posts the ante 20
+bambino611: posts small blind 100
+snowstorm-C9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 5c]
+Chicogas7: raises 200 to 400
+SKIL395: folds 
+Diamond_anth: calls 400
+MaroR1.58: calls 400
+pipinoelbreve9: folds 
+bambino611: calls 300
+snowstorm-C9: calls 200
+*** FLOP *** [Qd Th 4s]
+bambino611: bets 6370 and is all-in
+snowstorm-C9: folds 
+Chicogas7: folds 
+Diamond_anth: folds 
+MaroR1.58: calls 6370
+*** TURN *** [Qd Th 4s] [5s]
+*** RIVER *** [Qd Th 4s 5s] [4d]
+*** SHOW DOWN ***
+bambino611: shows [4h Kd] (three of a kind, Fours)
+MaroR1.58: shows [Qs Jh] (two pair, Queens and Fours)
+bambino611 collected 14880 from pot
+*** SUMMARY ***
+Total pot 14880 | Rake 0 
+Board [Qd Th 4s 5s 4d]
+Seat 1: Chicogas7 folded on the Flop
+Seat 2: SKIL395 folded before Flop (didn't bet)
+Seat 3: Diamond_anth folded on the Flop
+Seat 4: MaroR1.58 showed [Qs Jh] and lost with two pair, Queens and Fours
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 7: bambino611 (small blind) showed [4h Kd] and won (14880) with three of a kind, Fours
+Seat 8: snowstorm-C9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257973606408: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/02 21:09:38 CET [2025/10/02 15:09:38 ET]
+Table '3931541592 2' 8-max Seat #7 is the button
+Seat 1: Chicogas7 (9220 in chips) 
+Seat 2: SKIL395 (21345 in chips) 
+Seat 3: Diamond_anth (8770 in chips) 
+Seat 4: MaroR1.58 (3720 in chips) 
+Seat 5: pipinoelbreve9 (12845 in chips) 
+Seat 6: zule252 (10000 in chips) 
+Seat 7: bambino611 (14880 in chips) 
+Seat 8: snowstorm-C9 (9220 in chips) 
+Chicogas7: posts the ante 20
+SKIL395: posts the ante 20
+Diamond_anth: posts the ante 20
+MaroR1.58: posts the ante 20
+pipinoelbreve9: posts the ante 20
+zule252: posts the ante 20
+bambino611: posts the ante 20
+snowstorm-C9: posts the ante 20
+snowstorm-C9: posts small blind 100
+Chicogas7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 9s]
+SKIL395: folds 
+Diamond_anth: calls 200
+MaroR1.58: folds 
+pipinoelbreve9: folds 
+zule252: raises 9780 to 9980 and is all-in
+bambino611: folds 
+snowstorm-C9: folds 
+Chicogas7: folds 
+Diamond_anth: calls 8550 and is all-in
+Uncalled bet (1230) returned to zule252
+*** FLOP *** [6c 4d 6s]
+*** TURN *** [6c 4d 6s] [9d]
+*** RIVER *** [6c 4d 6s 9d] [Kh]
+*** SHOW DOWN ***
+Diamond_anth: shows [Ad Jh] (a pair of Sixes)
+zule252: shows [Ac Ah] (two pair, Aces and Sixes)
+zule252 collected 17960 from pot
+Diamond_anth finished the tournament
+*** SUMMARY ***
+Total pot 17960 | Rake 0 
+Board [6c 4d 6s 9d Kh]
+Seat 1: Chicogas7 (big blind) folded before Flop
+Seat 2: SKIL395 folded before Flop (didn't bet)
+Seat 3: Diamond_anth showed [Ad Jh] and lost with a pair of Sixes
+Seat 4: MaroR1.58 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: zule252 showed [Ac Ah] and won (17960) with two pair, Aces and Sixes
+Seat 7: bambino611 (button) folded before Flop (didn't bet)
+Seat 8: snowstorm-C9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973616013: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/02 21:10:19 CET [2025/10/02 15:10:19 ET]
+Table '3931541592 2' 8-max Seat #8 is the button
+Seat 1: Chicogas7 (9000 in chips) 
+Seat 2: SKIL395 (21325 in chips) 
+Seat 4: MaroR1.58 (3700 in chips) 
+Seat 5: pipinoelbreve9 (12825 in chips) 
+Seat 6: zule252 (19190 in chips) 
+Seat 7: bambino611 (14860 in chips) 
+Seat 8: snowstorm-C9 (9100 in chips) 
+Chicogas7: posts the ante 20
+SKIL395: posts the ante 20
+MaroR1.58: posts the ante 20
+pipinoelbreve9: posts the ante 20
+zule252: posts the ante 20
+bambino611: posts the ante 20
+snowstorm-C9: posts the ante 20
+Chicogas7: posts small blind 100
+SKIL395: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 9c]
+MaroR1.58: raises 3480 to 3680 and is all-in
+pipinoelbreve9: folds 
+zule252: folds 
+bambino611: calls 3680
+snowstorm-C9: folds 
+Chicogas7: folds 
+SKIL395: folds 
+*** FLOP *** [Kd Qd 2c]
+*** TURN *** [Kd Qd 2c] [8h]
+*** RIVER *** [Kd Qd 2c 8h] [Ah]
+*** SHOW DOWN ***
+MaroR1.58: shows [Ac 5c] (a pair of Aces)
+bambino611: shows [9h Qc] (a pair of Queens)
+MaroR1.58 collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | Rake 0 
+Board [Kd Qd 2c 8h Ah]
+Seat 1: Chicogas7 (small blind) folded before Flop
+Seat 2: SKIL395 (big blind) folded before Flop
+Seat 4: MaroR1.58 showed [Ac 5c] and won (7800) with a pair of Aces
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: zule252 folded before Flop (didn't bet)
+Seat 7: bambino611 showed [9h Qc] and lost with a pair of Queens
+Seat 8: snowstorm-C9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973621926: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level II (100/200) - 2025/10/02 21:10:44 CET [2025/10/02 15:10:44 ET]
+Table '3931541592 2' 8-max Seat #1 is the button
+Seat 1: Chicogas7 (8880 in chips) 
+Seat 2: SKIL395 (21105 in chips) 
+Seat 4: MaroR1.58 (7800 in chips) 
+Seat 5: pipinoelbreve9 (12805 in chips) 
+Seat 6: zule252 (19170 in chips) 
+Seat 7: bambino611 (11160 in chips) 
+Seat 8: snowstorm-C9 (9080 in chips) 
+Chicogas7: posts the ante 20
+SKIL395: posts the ante 20
+MaroR1.58: posts the ante 20
+pipinoelbreve9: posts the ante 20
+zule252: posts the ante 20
+bambino611: posts the ante 20
+snowstorm-C9: posts the ante 20
+SKIL395: posts small blind 100
+MaroR1.58: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s Qc]
+pipinoelbreve9: folds 
+zule252: calls 200
+bambino611: calls 200
+snowstorm-C9: raises 400 to 600
+Chicogas7: folds 
+SKIL395: folds 
+MaroR1.58: folds 
+zule252: calls 400
+javikas58 is disconnected 
+bambino611: calls 400
+*** FLOP *** [2s 7s Jc]
+zule252: bets 200
+bambino611: folds 
+snowstorm-C9: raises 200 to 400
+zule252: calls 200
+*** TURN *** [2s 7s Jc] [6d]
+zule252: checks 
+snowstorm-C9: bets 1000
+zule252: calls 1000
+*** RIVER *** [2s 7s Jc 6d] [3h]
+zule252: checks 
+snowstorm-C9: bets 2520
+zule252: folds 
+Uncalled bet (2520) returned to snowstorm-C9
+snowstorm-C9 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | Rake 0 
+Board [2s 7s Jc 6d 3h]
+Seat 1: Chicogas7 (button) folded before Flop (didn't bet)
+Seat 2: SKIL395 (small blind) folded before Flop
+Seat 4: MaroR1.58 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: zule252 folded on the River
+Seat 7: bambino611 folded on the Flop
+Seat 8: snowstorm-C9 collected (5040)
+
+
+
+PokerStars Hand #257973636780: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/10/02 21:11:48 CET [2025/10/02 15:11:48 ET]
+Table '3931541592 18' 8-max Seat #1 is the button
+Seat 1: canneton2 (9125 in chips) 
+Seat 2: Morgane56100 (9095 in chips) 
+Seat 3: Zbiegnew90 (9915 in chips) 
+Seat 4: daniela9823 (13456 in chips) 
+Seat 5: pipinoelbreve9 (12785 in chips) 
+canneton2: posts the ante 30
+Morgane56100: posts the ante 30
+Zbiegnew90: posts the ante 30
+daniela9823: posts the ante 30
+pipinoelbreve9: posts the ante 30
+Morgane56100: posts small blind 150
+Zbiegnew90: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d Ad]
+pipinoelbreve9 is disconnected 
+daniela9823: folds 
+pipinoelbreve9: raises 600 to 900
+TOPIKASS is disconnected 
+canneton2: folds 
+Morgane56100: folds 
+Zbiegnew90: folds 
+Uncalled bet (600) returned to pipinoelbreve9
+pipinoelbreve9 collected 900 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: canneton2 (button) folded before Flop (didn't bet)
+Seat 2: Morgane56100 (small blind) folded before Flop
+Seat 3: Zbiegnew90 (big blind) folded before Flop
+Seat 4: daniela9823 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (900)
+
+
+
+PokerStars Hand #257973640094: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/10/02 21:12:03 CET [2025/10/02 15:12:03 ET]
+Table '3931541592 18' 8-max Seat #2 is the button
+Seat 1: canneton2 (9095 in chips) 
+Seat 2: Morgane56100 (8915 in chips) 
+Seat 3: Zbiegnew90 (9585 in chips) 
+Seat 4: daniela9823 (13426 in chips) 
+Seat 5: pipinoelbreve9 (13355 in chips) 
+Seat 6: margot2229 (14016 in chips) 
+Seat 7: TOPIKASS (9690 in chips) 
+Seat 8: Axoo1983 (10000 in chips) 
+canneton2: posts the ante 30
+Morgane56100: posts the ante 30
+Zbiegnew90: posts the ante 30
+daniela9823: posts the ante 30
+pipinoelbreve9: posts the ante 30
+margot2229: posts the ante 30
+TOPIKASS: posts the ante 30
+Axoo1983: posts the ante 30
+Zbiegnew90: posts small blind 150
+daniela9823: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 6h]
+pipinoelbreve9: folds 
+margot2229: folds 
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+Morgane56100: folds 
+Zbiegnew90: folds 
+Uncalled bet (150) returned to daniela9823
+daniela9823 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: Morgane56100 (button) folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (small blind) folded before Flop
+Seat 4: daniela9823 (big blind) collected (540)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: margot2229 folded before Flop (didn't bet)
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973649116: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level III (150/300) - 2025/10/02 21:12:41 CET [2025/10/02 15:12:41 ET]
+Table '3931541592 18' 8-max Seat #3 is the button
+Seat 1: canneton2 (9065 in chips) 
+Seat 2: Morgane56100 (8885 in chips) 
+Seat 3: Zbiegnew90 (9405 in chips) 
+Seat 4: daniela9823 (13786 in chips) 
+Seat 5: pipinoelbreve9 (13325 in chips) 
+Seat 6: margot2229 (13986 in chips) 
+Seat 7: TOPIKASS (9660 in chips) 
+Seat 8: Axoo1983 (9970 in chips) 
+canneton2: posts the ante 30
+Morgane56100: posts the ante 30
+Zbiegnew90: posts the ante 30
+daniela9823: posts the ante 30
+pipinoelbreve9: posts the ante 30
+margot2229: posts the ante 30
+TOPIKASS: posts the ante 30
+Axoo1983: posts the ante 30
+daniela9823: posts small blind 150
+pipinoelbreve9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Kd]
+margot2229: calls 300
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+Morgane56100: folds 
+Zbiegnew90: raises 510 to 810
+daniela9823: calls 660
+pipinoelbreve9: folds 
+margot2229: calls 510
+*** FLOP *** [2h 9s Js]
+daniela9823: bets 1485
+margot2229: calls 1485
+Zbiegnew90: folds 
+*** TURN *** [2h 9s Js] [Td]
+daniela9823: bets 2970
+margot2229: calls 2970
+*** RIVER *** [2h 9s Js Td] [Qh]
+daniela9823: bets 8491 and is all-in
+margot2229: calls 8491
+*** SHOW DOWN ***
+daniela9823: shows [Ts 8c] (a straight, Eight to Queen)
+margot2229: shows [Qd 2d] (two pair, Queens and Deuces)
+daniela9823 collected 28862 from pot
+*** SUMMARY ***
+Total pot 28862 | Rake 0 
+Board [2h 9s Js Td Qh]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: Morgane56100 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (button) folded on the Flop
+Seat 4: daniela9823 (small blind) showed [Ts 8c] and won (28862) with a straight, Eight to Queen
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: margot2229 showed [Qd 2d] and lost with two pair, Queens and Deuces
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973668498: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/10/02 21:14:04 CET [2025/10/02 15:14:04 ET]
+Table '3931541592 18' 8-max Seat #4 is the button
+Seat 1: canneton2 (9035 in chips) 
+Seat 2: Morgane56100 (8855 in chips) 
+Seat 3: Zbiegnew90 (8565 in chips) 
+Seat 4: daniela9823 (28862 in chips) 
+Seat 5: pipinoelbreve9 (12995 in chips) 
+Seat 6: margot2229 (200 in chips) 
+Seat 7: TOPIKASS (9630 in chips) 
+Seat 8: Axoo1983 (9940 in chips) 
+canneton2: posts the ante 40
+Morgane56100: posts the ante 40
+Zbiegnew90: posts the ante 40
+daniela9823: posts the ante 40
+pipinoelbreve9: posts the ante 40
+margot2229: posts the ante 40
+TOPIKASS: posts the ante 40
+Axoo1983: posts the ante 40
+pipinoelbreve9: posts small blind 200
+margot2229: posts big blind 160 and is all-in
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 6h]
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+Morgane56100: calls 400
+Zbiegnew90: calls 400
+daniela9823: raises 800 to 1200
+pipinoelbreve9: folds 
+Morgane56100: calls 800
+Zbiegnew90: calls 800
+*** FLOP *** [5d 8s Tc]
+Morgane56100: checks 
+Zbiegnew90: checks 
+daniela9823: bets 2140
+Morgane56100: calls 2140
+Zbiegnew90: calls 2140
+*** TURN *** [5d 8s Tc] [Ah]
+Morgane56100: bets 5475 and is all-in
+Zbiegnew90: folds 
+daniela9823: calls 5475
+*** RIVER *** [5d 8s Tc Ah] [Kh]
+*** SHOW DOWN ***
+Morgane56100: shows [Qc 9h] (high card Ace)
+daniela9823: shows [As Ad] (three of a kind, Aces)
+daniela9823 collected 20530 from side pot
+margot2229: shows [6d 8d] (a pair of Eights)
+daniela9823 collected 1120 from main pot
+Morgane56100 finished the tournament
+margot2229 finished the tournament
+*** SUMMARY ***
+Total pot 21650 Main pot 1120. Side pot 20530. | Rake 0 
+Board [5d 8s Tc Ah Kh]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: Morgane56100 showed [Qc 9h] and lost with high card Ace
+Seat 3: Zbiegnew90 folded on the Turn
+Seat 4: daniela9823 (button) showed [As Ad] and won (21650) with three of a kind, Aces
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: margot2229 (big blind) showed [6d 8d] and lost with a pair of Eights
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973683891: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/10/02 21:15:10 CET [2025/10/02 15:15:10 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: canneton2 (8995 in chips) 
+Seat 2: riton771971 (10000 in chips) 
+Seat 3: Zbiegnew90 (5185 in chips) 
+Seat 4: daniela9823 (41657 in chips) 
+Seat 5: pipinoelbreve9 (12755 in chips) 
+Seat 7: TOPIKASS (9590 in chips) 
+Seat 8: Axoo1983 (9900 in chips) 
+canneton2: posts the ante 40
+riton771971: posts the ante 40
+Zbiegnew90: posts the ante 40
+daniela9823: posts the ante 40
+pipinoelbreve9: posts the ante 40
+TOPIKASS: posts the ante 40
+Axoo1983: posts the ante 40
+TOPIKASS: posts small blind 200
+Axoo1983: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 3d]
+canneton2: folds 
+riton771971: calls 400
+Zbiegnew90: folds 
+daniela9823: calls 400
+pipinoelbreve9: folds 
+TOPIKASS: calls 200
+Axoo1983: checks 
+*** FLOP *** [4s Jc 6c]
+TOPIKASS: checks 
+Axoo1983: checks 
+riton771971: bets 400
+daniela9823: folds 
+TOPIKASS: folds 
+Axoo1983: calls 400
+*** TURN *** [4s Jc 6c] [2c]
+Axoo1983: checks 
+riton771971: bets 400
+Axoo1983: calls 400
+*** RIVER *** [4s Jc 6c 2c] [Qh]
+Axoo1983: bets 1740
+riton771971: folds 
+Uncalled bet (1740) returned to Axoo1983
+Axoo1983 collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | Rake 0 
+Board [4s Jc 6c 2c Qh]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: riton771971 folded on the River
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 folded on the Flop
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 7: TOPIKASS (small blind) folded on the Flop
+Seat 8: Axoo1983 (big blind) collected (3480)
+
+
+
+PokerStars Hand #257973700572: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IV (200/400) - 2025/10/02 21:16:23 CET [2025/10/02 15:16:23 ET]
+Table '3931541592 18' 8-max Seat #7 is the button
+Seat 1: canneton2 (8955 in chips) 
+Seat 2: riton771971 (8760 in chips) 
+Seat 3: Zbiegnew90 (5145 in chips) 
+Seat 4: daniela9823 (41217 in chips) 
+Seat 5: pipinoelbreve9 (12715 in chips) 
+Seat 6: kaitofrito (10000 in chips) 
+Seat 7: TOPIKASS (9150 in chips) 
+Seat 8: Axoo1983 (12140 in chips) 
+canneton2: posts the ante 40
+riton771971: posts the ante 40
+Zbiegnew90: posts the ante 40
+daniela9823: posts the ante 40
+pipinoelbreve9: posts the ante 40
+kaitofrito: posts the ante 40
+TOPIKASS: posts the ante 40
+Axoo1983: posts the ante 40
+Axoo1983: posts small blind 200
+canneton2: posts big blind 400
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Ah]
+riton771971: folds 
+Zbiegnew90: folds 
+daniela9823: calls 400
+pipinoelbreve9: raises 1720 to 2120
+kaitofrito: folds 
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+daniela9823 has timed out
+daniela9823: folds 
+daniela9823 is sitting out
+Uncalled bet (1720) returned to pipinoelbreve9
+pipinoelbreve9 collected 1720 from pot
+pipinoelbreve9: doesn't show hand 
+daniela9823 has returned
+*** SUMMARY ***
+Total pot 1720 | Rake 0 
+Seat 1: canneton2 (big blind) folded before Flop
+Seat 2: riton771971 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 folded before Flop
+Seat 5: pipinoelbreve9 collected (1720)
+Seat 6: kaitofrito folded before Flop (didn't bet)
+Seat 7: TOPIKASS (button) folded before Flop (didn't bet)
+Seat 8: Axoo1983 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973714482: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/10/02 21:17:22 CET [2025/10/02 15:17:22 ET]
+Table '3931541592 18' 8-max Seat #8 is the button
+Seat 1: canneton2 (8515 in chips) 
+Seat 2: riton771971 (8720 in chips) 
+Seat 3: Zbiegnew90 (5105 in chips) 
+Seat 4: daniela9823 (40777 in chips) 
+Seat 5: pipinoelbreve9 (13995 in chips) 
+Seat 6: kaitofrito (9960 in chips) 
+Seat 7: TOPIKASS (9110 in chips) 
+Seat 8: Axoo1983 (11900 in chips) 
+canneton2: posts the ante 50
+riton771971: posts the ante 50
+Zbiegnew90: posts the ante 50
+daniela9823: posts the ante 50
+pipinoelbreve9: posts the ante 50
+kaitofrito: posts the ante 50
+TOPIKASS: posts the ante 50
+Axoo1983: posts the ante 50
+canneton2: posts small blind 250
+riton771971: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 3s]
+Zbiegnew90: folds 
+daniela9823: folds 
+pipinoelbreve9: raises 1000 to 1500
+kaitofrito: calls 1500
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+riton771971: folds 
+*** FLOP *** [Ac Qh 8h]
+pipinoelbreve9: bets 12445 and is all-in
+kaitofrito: calls 8410 and is all-in
+Uncalled bet (4035) returned to pipinoelbreve9
+*** TURN *** [Ac Qh 8h] [Kc]
+*** RIVER *** [Ac Qh 8h Kc] [9c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [3d 3s] (a pair of Threes)
+kaitofrito: shows [Th Qs] (a pair of Queens)
+kaitofrito collected 20970 from pot
+*** SUMMARY ***
+Total pot 20970 | Rake 0 
+Board [Ac Qh 8h Kc 9c]
+Seat 1: canneton2 (small blind) folded before Flop
+Seat 2: riton771971 (big blind) folded before Flop
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [3d 3s] and lost with a pair of Threes
+Seat 6: kaitofrito showed [Th Qs] and won (20970) with a pair of Queens
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973723789: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/10/02 21:18:02 CET [2025/10/02 15:18:02 ET]
+Table '3931541592 18' 8-max Seat #1 is the button
+Seat 1: canneton2 (8215 in chips) 
+Seat 2: riton771971 (8170 in chips) 
+Seat 3: Zbiegnew90 (5055 in chips) 
+Seat 4: daniela9823 (40727 in chips) 
+Seat 5: pipinoelbreve9 (4035 in chips) 
+Seat 6: kaitofrito (20970 in chips) 
+Seat 7: TOPIKASS (9060 in chips) 
+Seat 8: Axoo1983 (11850 in chips) 
+canneton2: posts the ante 50
+riton771971: posts the ante 50
+Zbiegnew90: posts the ante 50
+daniela9823: posts the ante 50
+pipinoelbreve9: posts the ante 50
+kaitofrito: posts the ante 50
+TOPIKASS: posts the ante 50
+Axoo1983: posts the ante 50
+riton771971: posts small blind 250
+Zbiegnew90: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 6s]
+daniela9823: calls 500
+pipinoelbreve9: folds 
+kaitofrito: folds 
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: calls 500
+riton771971: calls 250
+Zbiegnew90: checks 
+*** FLOP *** [Jc 7d 9c]
+riton771971: checks 
+Zbiegnew90: checks 
+daniela9823: checks 
+canneton2: bets 500
+riton771971: calls 500
+Zbiegnew90: folds 
+daniela9823: folds 
+*** TURN *** [Jc 7d 9c] [Tc]
+riton771971: bets 7120 and is all-in
+canneton2: calls 7120
+*** RIVER *** [Jc 7d 9c Tc] [9h]
+*** SHOW DOWN ***
+riton771971: shows [7s Td] (two pair, Tens and Nines)
+canneton2: shows [Jh 8h] (a straight, Seven to Jack)
+canneton2 collected 17640 from pot
+riton771971 finished the tournament
+*** SUMMARY ***
+Total pot 17640 | Rake 0 
+Board [Jc 7d 9c Tc 9h]
+Seat 1: canneton2 (button) showed [Jh 8h] and won (17640) with a straight, Seven to Jack
+Seat 2: riton771971 (small blind) showed [7s Td] and lost with two pair, Tens and Nines
+Seat 3: Zbiegnew90 (big blind) folded on the Flop
+Seat 4: daniela9823 folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: kaitofrito folded before Flop (didn't bet)
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973743194: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level V (250/500) - 2025/10/02 21:19:25 CET [2025/10/02 15:19:25 ET]
+Table '3931541592 18' 8-max Seat #3 is the button
+Seat 1: canneton2 (17685 in chips) 
+Seat 3: Zbiegnew90 (4505 in chips) 
+Seat 4: daniela9823 (40177 in chips) 
+Seat 5: pipinoelbreve9 (3985 in chips) 
+Seat 7: TOPIKASS (9010 in chips) 
+Seat 8: Axoo1983 (11800 in chips) 
+canneton2: posts the ante 50
+Zbiegnew90: posts the ante 50
+daniela9823: posts the ante 50
+pipinoelbreve9: posts the ante 50
+TOPIKASS: posts the ante 50
+Axoo1983: posts the ante 50
+daniela9823: posts small blind 250
+pipinoelbreve9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 5c]
+TOPIKASS: folds 
+Axoo1983: folds 
+canneton2: folds 
+Zbiegnew90: folds 
+daniela9823: calls 250
+pipinoelbreve9: raises 1000 to 1500
+daniela9823: calls 1000
+*** FLOP *** [3c Tc 2h]
+daniela9823: checks 
+pipinoelbreve9: bets 2435 and is all-in
+daniela9823: calls 2435
+*** TURN *** [3c Tc 2h] [Ts]
+*** RIVER *** [3c Tc 2h Ts] [Ah]
+*** SHOW DOWN ***
+daniela9823: shows [6c 4c] (a pair of Tens)
+pipinoelbreve9: shows [4s 5c] (a straight, Ace to Five)
+pipinoelbreve9 collected 8170 from pot
+*** SUMMARY ***
+Total pot 8170 | Rake 0 
+Board [3c Tc 2h Ts Ah]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (button) folded before Flop (didn't bet)
+Seat 4: daniela9823 (small blind) showed [6c 4c] and lost with a pair of Tens
+Seat 5: pipinoelbreve9 (big blind) showed [4s 5c] and won (8170) with a straight, Ace to Five
+Seat 7: TOPIKASS folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973753968: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/10/02 21:20:11 CET [2025/10/02 15:20:11 ET]
+Table '3931541592 18' 8-max Seat #4 is the button
+Seat 1: canneton2 (17635 in chips) 
+Seat 2: veroni012 (10000 in chips) 
+Seat 3: Zbiegnew90 (4455 in chips) 
+Seat 4: daniela9823 (36192 in chips) 
+Seat 5: pipinoelbreve9 (8170 in chips) 
+Seat 7: TOPIKASS (8960 in chips) 
+Seat 8: Axoo1983 (11750 in chips) 
+canneton2: posts the ante 60
+veroni012: posts the ante 60
+Zbiegnew90: posts the ante 60
+daniela9823: posts the ante 60
+pipinoelbreve9: posts the ante 60
+TOPIKASS: posts the ante 60
+Axoo1983: posts the ante 60
+pipinoelbreve9: posts small blind 300
+TOPIKASS: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Qd]
+Axoo1983: folds 
+canneton2: folds 
+veroni012: folds 
+Zbiegnew90: raises 3795 to 4395 and is all-in
+pepesalgeiro is disconnected 
+daniela9823: folds 
+pipinoelbreve9: folds 
+TOPIKASS: calls 3795
+*** FLOP *** [Qc 6s 8d]
+*** TURN *** [Qc 6s 8d] [Qh]
+*** RIVER *** [Qc 6s 8d Qh] [Qs]
+*** SHOW DOWN ***
+TOPIKASS: shows [3d 2c] (three of a kind, Queens)
+Zbiegnew90: shows [Ah 8c] (a full house, Queens full of Eights)
+Zbiegnew90 collected 9510 from pot
+*** SUMMARY ***
+Total pot 9510 | Rake 0 
+Board [Qc 6s 8d Qh Qs]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: veroni012 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 showed [Ah 8c] and won (9510) with a full house, Queens full of Eights
+Seat 4: daniela9823 (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: TOPIKASS (big blind) showed [3d 2c] and lost with three of a kind, Queens
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973763159: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/10/02 21:20:50 CET [2025/10/02 15:20:50 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: canneton2 (17575 in chips) 
+Seat 2: veroni012 (9940 in chips) 
+Seat 3: Zbiegnew90 (9510 in chips) 
+Seat 4: daniela9823 (36132 in chips) 
+Seat 5: pipinoelbreve9 (7810 in chips) 
+Seat 6: pepesalgeiro (10000 in chips) out of hand (moved from another table into small blind)
+Seat 7: TOPIKASS (4505 in chips) 
+Seat 8: Axoo1983 (11690 in chips) 
+pepesalgeiro will be allowed to play after the button
+canneton2: posts the ante 60
+veroni012: posts the ante 60
+Zbiegnew90: posts the ante 60
+daniela9823: posts the ante 60
+pipinoelbreve9: posts the ante 60
+TOPIKASS: posts the ante 60
+Axoo1983: posts the ante 60
+TOPIKASS: posts small blind 300
+Axoo1983: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 2c]
+canneton2: folds 
+veroni012: raises 600 to 1200
+Zbiegnew90: folds 
+daniela9823: calls 1200
+pipinoelbreve9: folds 
+TOPIKASS: calls 900
+Axoo1983: folds 
+*** FLOP *** [Ad Kd 6c]
+TOPIKASS: checks 
+veroni012: bets 1200
+daniela9823: calls 1200
+TOPIKASS: calls 1200
+*** TURN *** [Ad Kd 6c] [Qh]
+TOPIKASS: bets 2045 and is all-in
+veroni012: raises 5435 to 7480 and is all-in
+daniela9823: calls 7480
+*** RIVER *** [Ad Kd 6c Qh] [7c]
+*** SHOW DOWN ***
+veroni012: shows [Js Th] (a straight, Ten to Ace)
+daniela9823: shows [4d 9d] (high card Ace)
+veroni012 collected 10870 from side pot
+TOPIKASS: shows [Qd Tc] (a pair of Queens)
+veroni012 collected 14355 from main pot
+TOPIKASS finished the tournament
+*** SUMMARY ***
+Total pot 25225 Main pot 14355. Side pot 10870. | Rake 0 
+Board [Ad Kd 6c Qh 7c]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: veroni012 showed [Js Th] and won (25225) with a straight, Ten to Ace
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 showed [4d 9d] and lost with high card Ace
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 7: TOPIKASS (small blind) showed [Qd Tc] and lost with a pair of Queens
+Seat 8: Axoo1983 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257973779028: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/10/02 21:21:57 CET [2025/10/02 15:21:57 ET]
+Table '3931541592 18' 8-max Seat #8 is the button
+Seat 1: canneton2 (17515 in chips) 
+Seat 2: veroni012 (25225 in chips) 
+Seat 3: Zbiegnew90 (9450 in chips) 
+Seat 4: daniela9823 (26192 in chips) 
+Seat 5: pipinoelbreve9 (7750 in chips) 
+Seat 6: pepesalgeiro (10000 in chips) 
+Seat 8: Axoo1983 (11030 in chips) 
+canneton2: posts the ante 60
+veroni012: posts the ante 60
+Zbiegnew90: posts the ante 60
+daniela9823: posts the ante 60
+pipinoelbreve9: posts the ante 60
+pepesalgeiro: posts the ante 60
+Axoo1983: posts the ante 60
+canneton2: posts small blind 300
+veroni012: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9s]
+Zbiegnew90: folds 
+daniela9823 has timed out
+daniela9823: folds 
+daniela9823 is sitting out
+pipinoelbreve9: folds 
+pepesalgeiro: folds 
+Axoo1983: folds 
+canneton2: calls 300
+veroni012: checks 
+*** FLOP *** [5d Ts 6c]
+canneton2: checks 
+veroni012: bets 600
+canneton2: folds 
+Uncalled bet (600) returned to veroni012
+veroni012 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | Rake 0 
+Board [5d Ts 6c]
+Seat 1: canneton2 (small blind) folded on the Flop
+Seat 2: veroni012 (big blind) collected (1620)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: pepesalgeiro folded before Flop (didn't bet)
+Seat 8: Axoo1983 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973788582: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2025/10/02 21:22:37 CET [2025/10/02 15:22:37 ET]
+Table '3931541592 18' 8-max Seat #1 is the button
+Seat 1: canneton2 (16855 in chips) 
+Seat 2: veroni012 (26185 in chips) 
+Seat 3: Zbiegnew90 (9390 in chips) 
+Seat 4: daniela9823 (26132 in chips) is sitting out
+Seat 5: pipinoelbreve9 (7690 in chips) 
+Seat 7: O_Taff (10000 in chips) 
+Seat 8: Axoo1983 (10970 in chips) 
+canneton2: posts the ante 60
+veroni012: posts the ante 60
+Zbiegnew90: posts the ante 60
+daniela9823: posts the ante 60
+pipinoelbreve9: posts the ante 60
+O_Taff: posts the ante 60
+Axoo1983: posts the ante 60
+veroni012: posts small blind 300
+Zbiegnew90: posts big blind 600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 3d]
+daniela9823: folds 
+pipinoelbreve9: folds 
+O_Taff: raises 9340 to 9940 and is all-in
+daniela9823 has returned
+Axoo1983: raises 970 to 10910 and is all-in
+canneton2: folds 
+veroni012: calls 10610
+Zbiegnew90: folds 
+*** FLOP *** [3h 6d 5h]
+*** TURN *** [3h 6d 5h] [Qs]
+*** RIVER *** [3h 6d 5h Qs] [Tc]
+*** SHOW DOWN ***
+veroni012: shows [Ac 3c] (a pair of Threes)
+Axoo1983: shows [As 6s] (a pair of Sixes)
+Axoo1983 collected 1940 from side pot
+O_Taff: shows [8d 5s] (a pair of Fives)
+Axoo1983 collected 30840 from main pot
+O_Taff finished the tournament
+*** SUMMARY ***
+Total pot 32780 Main pot 30840. Side pot 1940. | Rake 0 
+Board [3h 6d 5h Qs Tc]
+Seat 1: canneton2 (button) folded before Flop (didn't bet)
+Seat 2: veroni012 (small blind) showed [Ac 3c] and lost with a pair of Threes
+Seat 3: Zbiegnew90 (big blind) folded before Flop
+Seat 4: daniela9823 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: O_Taff showed [8d 5s] and lost with a pair of Fives
+Seat 8: Axoo1983 showed [As 6s] and won (32780) with a pair of Sixes
+
+
+
+PokerStars Hand #257973795080: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/10/02 21:23:04 CET [2025/10/02 15:23:04 ET]
+Table '3931541592 18' 8-max Seat #2 is the button
+Seat 1: canneton2 (16795 in chips) 
+Seat 2: veroni012 (15215 in chips) 
+Seat 3: Zbiegnew90 (8730 in chips) 
+Seat 4: daniela9823 (26072 in chips) 
+Seat 5: pipinoelbreve9 (7630 in chips) 
+Seat 6: makelovenowa (14230 in chips) 
+Seat 8: Axoo1983 (32780 in chips) 
+canneton2: posts the ante 70
+veroni012: posts the ante 70
+Zbiegnew90: posts the ante 70
+daniela9823: posts the ante 70
+pipinoelbreve9: posts the ante 70
+makelovenowa: posts the ante 70
+Axoo1983: posts the ante 70
+Zbiegnew90: posts small blind 350
+daniela9823: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 3c]
+pipinoelbreve9: folds 
+makelovenowa: folds 
+Axoo1983: calls 700
+canneton2: folds 
+veroni012: raises 14445 to 15145 and is all-in
+Zbiegnew90: folds 
+daniela9823: folds 
+Axoo1983: calls 14445
+*** FLOP *** [Td 2c Js]
+*** TURN *** [Td 2c Js] [Jc]
+*** RIVER *** [Td 2c Js Jc] [2h]
+*** SHOW DOWN ***
+Axoo1983: shows [As Ts] (two pair, Jacks and Tens)
+veroni012: shows [Ah Qd] (two pair, Jacks and Deuces)
+Axoo1983 collected 31830 from pot
+veroni012 finished the tournament
+*** SUMMARY ***
+Total pot 31830 | Rake 0 
+Board [Td 2c Js Jc 2h]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: veroni012 (button) showed [Ah Qd] and lost with two pair, Jacks and Deuces
+Seat 3: Zbiegnew90 (small blind) folded before Flop
+Seat 4: daniela9823 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: makelovenowa folded before Flop (didn't bet)
+Seat 8: Axoo1983 showed [As Ts] and won (31830) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #257973805304: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/10/02 21:23:46 CET [2025/10/02 15:23:46 ET]
+Table '3931541592 18' 8-max Seat #3 is the button
+Seat 1: canneton2 (16725 in chips) 
+Seat 3: Zbiegnew90 (8310 in chips) 
+Seat 4: daniela9823 (25302 in chips) 
+Seat 5: pipinoelbreve9 (7560 in chips) 
+Seat 6: makelovenowa (14160 in chips) 
+Seat 7: Chapeauquirit (10000 in chips) 
+Seat 8: Axoo1983 (49395 in chips) 
+canneton2: posts the ante 70
+Zbiegnew90: posts the ante 70
+daniela9823: posts the ante 70
+pipinoelbreve9: posts the ante 70
+makelovenowa: posts the ante 70
+Chapeauquirit: posts the ante 70
+Axoo1983: posts the ante 70
+daniela9823: posts small blind 350
+pipinoelbreve9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Kd]
+makelovenowa: raises 1400 to 2100
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+Zbiegnew90: folds 
+daniela9823: raises 1400 to 3500
+pipinoelbreve9: raises 3990 to 7490 and is all-in
+makelovenowa: raises 6600 to 14090 and is all-in
+daniela9823: calls 10590
+*** FLOP *** [5h 5c Js]
+*** TURN *** [5h 5c Js] [7s]
+*** RIVER *** [5h 5c Js 7s] [Qc]
+*** SHOW DOWN ***
+daniela9823: shows [As Ks] (a pair of Fives)
+makelovenowa: shows [Tc Jc] (two pair, Jacks and Fives)
+makelovenowa collected 13200 from side pot
+pipinoelbreve9: shows [Qh Kd] (two pair, Queens and Fives)
+pipinoelbreve9 collected 22960 from main pot
+*** SUMMARY ***
+Total pot 36160 Main pot 22960. Side pot 13200. | Rake 0 
+Board [5h 5c Js 7s Qc]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (button) folded before Flop (didn't bet)
+Seat 4: daniela9823 (small blind) showed [As Ks] and lost with a pair of Fives
+Seat 5: pipinoelbreve9 (big blind) showed [Qh Kd] and won (22960) with two pair, Queens and Fives
+Seat 6: makelovenowa showed [Tc Jc] and won (13200) with two pair, Jacks and Fives
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973816854: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2025/10/02 21:24:35 CET [2025/10/02 15:24:35 ET]
+Table '3931541592 18' 8-max Seat #4 is the button
+Seat 1: canneton2 (16655 in chips) 
+Seat 2: avidur (10000 in chips) 
+Seat 3: Zbiegnew90 (8240 in chips) 
+Seat 4: daniela9823 (11142 in chips) 
+Seat 5: pipinoelbreve9 (22960 in chips) 
+Seat 6: makelovenowa (13200 in chips) 
+Seat 7: Chapeauquirit (9930 in chips) 
+Seat 8: Axoo1983 (49325 in chips) 
+canneton2: posts the ante 70
+avidur: posts the ante 70
+Zbiegnew90: posts the ante 70
+daniela9823: posts the ante 70
+pipinoelbreve9: posts the ante 70
+makelovenowa: posts the ante 70
+Chapeauquirit: posts the ante 70
+Axoo1983: posts the ante 70
+pipinoelbreve9: posts small blind 350
+makelovenowa: posts big blind 700
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 8c]
+Chapeauquirit: raises 700 to 1400
+Axoo1983: folds 
+canneton2: folds 
+avidur: folds 
+Zbiegnew90: folds 
+daniela9823: calls 1400
+pipinoelbreve9: folds 
+makelovenowa: calls 700
+*** FLOP *** [As 9c Ac]
+makelovenowa: checks 
+Chapeauquirit: checks 
+daniela9823: checks 
+*** TURN *** [As 9c Ac] [Qs]
+makelovenowa: bets 2100
+Chapeauquirit: calls 2100
+daniela9823: calls 2100
+*** RIVER *** [As 9c Ac Qs] [8h]
+makelovenowa: checks 
+Chapeauquirit: bets 5660
+daniela9823: raises 1912 to 7572 and is all-in
+makelovenowa: folds 
+Chapeauquirit: calls 700 and is all-in
+Uncalled bet (1212) returned to daniela9823
+*** SHOW DOWN ***
+daniela9823: shows [Qh 8s] (two pair, Aces and Queens)
+Chapeauquirit: shows [Ah Ad] (four of a kind, Aces)
+Chapeauquirit collected 24130 from pot
+*** SUMMARY ***
+Total pot 24130 | Rake 0 
+Board [As 9c Ac Qs 8h]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: avidur folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 (button) showed [Qh 8s] and lost with two pair, Aces and Queens
+Seat 5: pipinoelbreve9 (small blind) folded before Flop
+Seat 6: makelovenowa (big blind) folded on the River
+Seat 7: Chapeauquirit showed [Ah Ad] and won (24130) with four of a kind, Aces
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973838908: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/10/02 21:26:07 CET [2025/10/02 15:26:07 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: canneton2 (16585 in chips) 
+Seat 2: avidur (9930 in chips) 
+Seat 3: Zbiegnew90 (8170 in chips) 
+Seat 4: daniela9823 (1212 in chips) 
+Seat 5: pipinoelbreve9 (22540 in chips) 
+Seat 6: makelovenowa (9630 in chips) 
+Seat 7: Chapeauquirit (24130 in chips) 
+Seat 8: Axoo1983 (49255 in chips) 
+canneton2: posts the ante 80
+avidur: posts the ante 80
+Zbiegnew90: posts the ante 80
+daniela9823: posts the ante 80
+pipinoelbreve9: posts the ante 80
+makelovenowa: posts the ante 80
+Chapeauquirit: posts the ante 80
+Axoo1983: posts the ante 80
+makelovenowa: posts small blind 400
+Chapeauquirit: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Jd]
+Axoo1983: folds 
+canneton2: calls 800
+avidur: raises 1600 to 2400
+Zbiegnew90: folds 
+daniela9823 has timed out
+daniela9823: folds 
+daniela9823 is sitting out
+pipinoelbreve9: raises 7440 to 9840
+makelovenowa: folds 
+Chapeauquirit: folds 
+daniela9823 has returned
+canneton2: folds 
+avidur: calls 7440
+*** FLOP *** [Js 5h Jh]
+avidur: bets 10 and is all-in
+pipinoelbreve9: calls 10
+*** TURN *** [Js 5h Jh] [2c]
+*** RIVER *** [Js 5h Jh 2c] [8h]
+*** SHOW DOWN ***
+avidur: shows [9c 9s] (two pair, Jacks and Nines)
+pipinoelbreve9: shows [As Jd] (three of a kind, Jacks)
+pipinoelbreve9 collected 22340 from pot
+avidur finished the tournament
+*** SUMMARY ***
+Total pot 22340 | Rake 0 
+Board [Js 5h Jh 2c 8h]
+Seat 1: canneton2 folded before Flop
+Seat 2: avidur showed [9c 9s] and lost with two pair, Jacks and Nines
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) showed [As Jd] and won (22340) with three of a kind, Jacks
+Seat 6: makelovenowa (small blind) folded before Flop
+Seat 7: Chapeauquirit (big blind) folded before Flop
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973851230: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/10/02 21:26:59 CET [2025/10/02 15:26:59 ET]
+Table '3931541592 18' 8-max Seat #6 is the button
+Seat 1: canneton2 (15705 in chips) 
+Seat 3: Zbiegnew90 (8090 in chips) 
+Seat 4: daniela9823 (1132 in chips) 
+Seat 5: pipinoelbreve9 (34950 in chips) 
+Seat 6: makelovenowa (9150 in chips) 
+Seat 7: Chapeauquirit (23250 in chips) 
+Seat 8: Axoo1983 (49175 in chips) 
+canneton2: posts the ante 80
+Zbiegnew90: posts the ante 80
+daniela9823: posts the ante 80
+pipinoelbreve9: posts the ante 80
+makelovenowa: posts the ante 80
+Chapeauquirit: posts the ante 80
+Axoo1983: posts the ante 80
+Chapeauquirit: posts small blind 400
+Axoo1983: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 4h]
+canneton2: folds 
+Zbiegnew90: folds 
+daniela9823: calls 800
+pipinoelbreve9: folds 
+makelovenowa: raises 8270 to 9070 and is all-in
+Chapeauquirit: raises 14100 to 23170 and is all-in
+Axoo1983: folds 
+daniela9823: calls 252 and is all-in
+Uncalled bet (14100) returned to Chapeauquirit
+*** FLOP *** [8c Jc 9h]
+*** TURN *** [8c Jc 9h] [3c]
+*** RIVER *** [8c Jc 9h 3c] [Qc]
+*** SHOW DOWN ***
+Chapeauquirit: shows [Ac Jd] (a flush, Ace high)
+makelovenowa: shows [9c 9s] (a flush, Queen high)
+Chapeauquirit collected 16036 from side pot
+daniela9823: shows [3h 6c] (a flush, Queen high)
+Chapeauquirit collected 4516 from main pot
+makelovenowa finished the tournament
+daniela9823 finished the tournament
+*** SUMMARY ***
+Total pot 20552 Main pot 4516. Side pot 16036. | Rake 0 
+Board [8c Jc 9h 3c Qc]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: daniela9823 showed [3h 6c] and lost with a flush, Queen high
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: makelovenowa (button) showed [9c 9s] and lost with a flush, Queen high
+Seat 7: Chapeauquirit (small blind) showed [Ac Jd] and won (20552) with a flush, Ace high
+Seat 8: Axoo1983 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257973864782: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/10/02 21:27:56 CET [2025/10/02 15:27:56 ET]
+Table '3931541592 18' 8-max Seat #7 is the button
+Seat 1: canneton2 (15625 in chips) 
+Seat 3: Zbiegnew90 (8010 in chips) 
+Seat 5: pipinoelbreve9 (34870 in chips) 
+Seat 7: Chapeauquirit (34652 in chips) 
+Seat 8: Axoo1983 (48295 in chips) 
+canneton2: posts the ante 80
+Zbiegnew90: posts the ante 80
+pipinoelbreve9: posts the ante 80
+Chapeauquirit: posts the ante 80
+Axoo1983: posts the ante 80
+Axoo1983: posts small blind 400
+canneton2: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 2d]
+TofNervieux is disconnected 
+MIRABARBI is disconnected 
+A.S.Roma18 is disconnected 
+Zbiegnew90: folds 
+pipinoelbreve9: folds 
+Chapeauquirit: folds 
+Axoo1983: folds 
+Uncalled bet (400) returned to canneton2
+canneton2 collected 1200 from pot
+canneton2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: canneton2 (big blind) collected (1200)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: Chapeauquirit (button) folded before Flop (didn't bet)
+Seat 8: Axoo1983 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973869514: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2025/10/02 21:28:16 CET [2025/10/02 15:28:16 ET]
+Table '3931541592 18' 8-max Seat #8 is the button
+Seat 1: canneton2 (16345 in chips) 
+Seat 2: TofNervieux (17674 in chips) 
+Seat 3: Zbiegnew90 (7930 in chips) 
+Seat 4: A.S.Roma18 (16290 in chips) 
+Seat 5: pipinoelbreve9 (34790 in chips) 
+Seat 6: MIRABARBI (9840 in chips) 
+Seat 7: Chapeauquirit (34572 in chips) 
+Seat 8: Axoo1983 (47815 in chips) 
+canneton2: posts the ante 80
+TofNervieux: posts the ante 80
+Zbiegnew90: posts the ante 80
+A.S.Roma18: posts the ante 80
+pipinoelbreve9: posts the ante 80
+MIRABARBI: posts the ante 80
+Chapeauquirit: posts the ante 80
+Axoo1983: posts the ante 80
+canneton2: posts small blind 400
+TofNervieux: posts big blind 800
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc Jc]
+Zbiegnew90: folds 
+A.S.Roma18: folds 
+pipinoelbreve9: raises 2400 to 3200
+MIRABARBI: folds 
+Chapeauquirit: calls 3200
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+*** FLOP *** [4c 9s 9d]
+pipinoelbreve9: bets 2520
+Chapeauquirit: calls 2520
+*** TURN *** [4c 9s 9d] [5h]
+pipinoelbreve9: checks 
+Chapeauquirit: bets 3440
+pipinoelbreve9: folds 
+Uncalled bet (3440) returned to Chapeauquirit
+Chapeauquirit collected 13280 from pot
+*** SUMMARY ***
+Total pot 13280 | Rake 0 
+Board [4c 9s 9d 5h]
+Seat 1: canneton2 (small blind) folded before Flop
+Seat 2: TofNervieux (big blind) folded before Flop
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: A.S.Roma18 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded on the Turn
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: Chapeauquirit collected (13280)
+Seat 8: Axoo1983 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973889379: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/10/02 21:29:41 CET [2025/10/02 15:29:41 ET]
+Table '3931541592 18' 8-max Seat #1 is the button
+Seat 1: canneton2 (15865 in chips) 
+Seat 2: TofNervieux (16794 in chips) 
+Seat 3: Zbiegnew90 (7850 in chips) 
+Seat 4: A.S.Roma18 (16210 in chips) 
+Seat 5: pipinoelbreve9 (28990 in chips) 
+Seat 6: MIRABARBI (9760 in chips) 
+Seat 7: Chapeauquirit (42052 in chips) 
+Seat 8: Axoo1983 (47735 in chips) 
+canneton2: posts the ante 100
+TofNervieux: posts the ante 100
+Zbiegnew90: posts the ante 100
+A.S.Roma18: posts the ante 100
+pipinoelbreve9: posts the ante 100
+MIRABARBI: posts the ante 100
+Chapeauquirit: posts the ante 100
+Axoo1983: posts the ante 100
+TofNervieux: posts small blind 500
+Zbiegnew90: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 3c]
+A.S.Roma18: calls 1000
+pipinoelbreve9: folds 
+MIRABARBI: calls 1000
+Chapeauquirit: calls 1000
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+Zbiegnew90: checks 
+*** FLOP *** [2s 2h 6c]
+Zbiegnew90: checks 
+A.S.Roma18: checks 
+MIRABARBI: bets 2650
+Chapeauquirit: folds 
+Zbiegnew90: folds 
+A.S.Roma18: folds 
+Uncalled bet (2650) returned to MIRABARBI
+MIRABARBI collected 5300 from pot
+MIRABARBI: doesn't show hand 
+*** SUMMARY ***
+Total pot 5300 | Rake 0 
+Board [2s 2h 6c]
+Seat 1: canneton2 (button) folded before Flop (didn't bet)
+Seat 2: TofNervieux (small blind) folded before Flop
+Seat 3: Zbiegnew90 (big blind) folded on the Flop
+Seat 4: A.S.Roma18 folded on the Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: MIRABARBI collected (5300)
+Seat 7: Chapeauquirit folded on the Flop
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973902188: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/10/02 21:30:34 CET [2025/10/02 15:30:34 ET]
+Table '3931541592 18' 8-max Seat #2 is the button
+Seat 1: canneton2 (15765 in chips) 
+Seat 2: TofNervieux (16194 in chips) 
+Seat 3: Zbiegnew90 (6750 in chips) 
+Seat 4: A.S.Roma18 (15110 in chips) 
+Seat 5: pipinoelbreve9 (28890 in chips) 
+Seat 6: MIRABARBI (13960 in chips) 
+Seat 7: Chapeauquirit (40952 in chips) 
+Seat 8: Axoo1983 (47635 in chips) 
+canneton2: posts the ante 100
+TofNervieux: posts the ante 100
+Zbiegnew90: posts the ante 100
+A.S.Roma18: posts the ante 100
+pipinoelbreve9: posts the ante 100
+MIRABARBI: posts the ante 100
+Chapeauquirit: posts the ante 100
+Axoo1983: posts the ante 100
+Zbiegnew90: posts small blind 500
+A.S.Roma18: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 6h]
+pipinoelbreve9: folds 
+MIRABARBI: raises 2000 to 3000
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+Zbiegnew90: folds 
+A.S.Roma18: folds 
+Uncalled bet (2000) returned to MIRABARBI
+MIRABARBI collected 3300 from pot
+MIRABARBI: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: TofNervieux (button) folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (small blind) folded before Flop
+Seat 4: A.S.Roma18 (big blind) folded before Flop
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: MIRABARBI collected (3300)
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973909184: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/10/02 21:31:04 CET [2025/10/02 15:31:04 ET]
+Table '3931541592 18' 8-max Seat #3 is the button
+Seat 1: canneton2 (15665 in chips) 
+Seat 2: TofNervieux (16094 in chips) 
+Seat 3: Zbiegnew90 (6150 in chips) 
+Seat 4: A.S.Roma18 (14010 in chips) 
+Seat 5: pipinoelbreve9 (28790 in chips) 
+Seat 6: MIRABARBI (16160 in chips) 
+Seat 7: Chapeauquirit (40852 in chips) 
+Seat 8: Axoo1983 (47535 in chips) 
+canneton2: posts the ante 100
+TofNervieux: posts the ante 100
+Zbiegnew90: posts the ante 100
+A.S.Roma18: posts the ante 100
+pipinoelbreve9: posts the ante 100
+MIRABARBI: posts the ante 100
+Chapeauquirit: posts the ante 100
+Axoo1983: posts the ante 100
+A.S.Roma18: posts small blind 500
+pipinoelbreve9: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 8c]
+MIRABARBI: raises 2000 to 3000
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+Zbiegnew90: folds 
+A.S.Roma18: raises 10910 to 13910 and is all-in
+pipinoelbreve9: folds 
+MIRABARBI: calls 10910
+*** FLOP *** [9c 9s 5h]
+*** TURN *** [9c 9s 5h] [Th]
+*** RIVER *** [9c 9s 5h Th] [5d]
+*** SHOW DOWN ***
+A.S.Roma18: shows [As Tc] (two pair, Tens and Nines)
+MIRABARBI: shows [Ah 9h] (a full house, Nines full of Fives)
+MIRABARBI collected 29620 from pot
+A.S.Roma18 finished the tournament in 127th place
+*** SUMMARY ***
+Total pot 29620 | Rake 0 
+Board [9c 9s 5h Th 5d]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 (button) folded before Flop (didn't bet)
+Seat 4: A.S.Roma18 (small blind) showed [As Tc] and lost with two pair, Tens and Nines
+Seat 5: pipinoelbreve9 (big blind) folded before Flop
+Seat 6: MIRABARBI showed [Ah 9h] and won (29620) with a full house, Nines full of Fives
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973920008: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level IX (500/1000) - 2025/10/02 21:31:49 CET [2025/10/02 15:31:49 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: canneton2 (15565 in chips) 
+Seat 2: TofNervieux (15994 in chips) 
+Seat 3: Zbiegnew90 (6050 in chips) 
+Seat 5: pipinoelbreve9 (27690 in chips) 
+Seat 6: MIRABARBI (31770 in chips) 
+Seat 7: Chapeauquirit (40752 in chips) 
+Seat 8: Axoo1983 (47435 in chips) 
+canneton2: posts the ante 100
+TofNervieux: posts the ante 100
+Zbiegnew90: posts the ante 100
+pipinoelbreve9: posts the ante 100
+MIRABARBI: posts the ante 100
+Chapeauquirit: posts the ante 100
+Axoo1983: posts the ante 100
+MIRABARBI: posts small blind 500
+Chapeauquirit: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 5c]
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: raises 1200 to 2200
+Zbiegnew90: folds 
+pipinoelbreve9: folds 
+MIRABARBI: folds 
+Chapeauquirit: calls 1200
+*** FLOP *** [Qd 6h 2h]
+Chapeauquirit: checks 
+TofNervieux: bets 2128
+Chapeauquirit: folds 
+Uncalled bet (2128) returned to TofNervieux
+TofNervieux collected 5600 from pot
+TofNervieux: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [Qd 6h 2h]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: TofNervieux collected (5600)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: MIRABARBI (small blind) folded before Flop
+Seat 7: Chapeauquirit (big blind) folded on the Flop
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973940146: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/10/02 21:33:13 CET [2025/10/02 15:33:13 ET]
+Table '3931541592 18' 8-max Seat #6 is the button
+Seat 1: canneton2 (15465 in chips) 
+Seat 2: TofNervieux (19294 in chips) 
+Seat 3: Zbiegnew90 (5950 in chips) 
+Seat 5: pipinoelbreve9 (27590 in chips) 
+Seat 6: MIRABARBI (31170 in chips) 
+Seat 7: Chapeauquirit (38452 in chips) 
+Seat 8: Axoo1983 (47335 in chips) 
+canneton2: posts the ante 120
+TofNervieux: posts the ante 120
+Zbiegnew90: posts the ante 120
+pipinoelbreve9: posts the ante 120
+MIRABARBI: posts the ante 120
+Chapeauquirit: posts the ante 120
+Axoo1983: posts the ante 120
+Chapeauquirit: posts small blind 600
+Axoo1983: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s Ah]
+canneton2: folds 
+TofNervieux: folds 
+Zbiegnew90: folds 
+pipinoelbreve9: raises 3600 to 4800
+MIRABARBI: folds 
+Chapeauquirit: calls 4200
+Axoo1983: folds 
+*** FLOP *** [7c Qh Ts]
+Chapeauquirit: checks 
+pipinoelbreve9: bets 5820
+Chapeauquirit: folds 
+Uncalled bet (5820) returned to pipinoelbreve9
+pipinoelbreve9 collected 11640 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 11640 | Rake 0 
+Board [7c Qh Ts]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (11640)
+Seat 6: MIRABARBI (button) folded before Flop (didn't bet)
+Seat 7: Chapeauquirit (small blind) folded on the Flop
+Seat 8: Axoo1983 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257973950949: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/10/02 21:33:57 CET [2025/10/02 15:33:57 ET]
+Table '3931541592 18' 8-max Seat #7 is the button
+Seat 1: canneton2 (15345 in chips) 
+Seat 2: TofNervieux (19174 in chips) 
+Seat 3: Zbiegnew90 (5830 in chips) 
+Seat 4: albges888 (30360 in chips) 
+Seat 5: pipinoelbreve9 (34310 in chips) 
+Seat 6: MIRABARBI (31050 in chips) 
+Seat 7: Chapeauquirit (33532 in chips) 
+Seat 8: Axoo1983 (46015 in chips) 
+canneton2: posts the ante 120
+TofNervieux: posts the ante 120
+Zbiegnew90: posts the ante 120
+albges888: posts the ante 120
+pipinoelbreve9: posts the ante 120
+MIRABARBI: posts the ante 120
+Chapeauquirit: posts the ante 120
+Axoo1983: posts the ante 120
+Axoo1983: posts small blind 600
+canneton2: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 7d]
+TofNervieux: folds 
+Zbiegnew90: folds 
+albges888: folds 
+pipinoelbreve9: folds 
+MIRABARBI: raises 2700 to 3900
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+Uncalled bet (2700) returned to MIRABARBI
+MIRABARBI collected 3960 from pot
+MIRABARBI: doesn't show hand 
+*** SUMMARY ***
+Total pot 3960 | Rake 0 
+Seat 1: canneton2 (big blind) folded before Flop
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: Zbiegnew90 folded before Flop (didn't bet)
+Seat 4: albges888 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: MIRABARBI collected (3960)
+Seat 7: Chapeauquirit (button) folded before Flop (didn't bet)
+Seat 8: Axoo1983 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257973962490: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level X (600/1200) - 2025/10/02 21:34:45 CET [2025/10/02 15:34:45 ET]
+Table '3931541592 18' 8-max Seat #8 is the button
+Seat 1: canneton2 (14025 in chips) 
+Seat 2: TofNervieux (19054 in chips) 
+Seat 3: Zbiegnew90 (5710 in chips) 
+Seat 4: albges888 (30240 in chips) 
+Seat 5: pipinoelbreve9 (34190 in chips) 
+Seat 6: MIRABARBI (33690 in chips) 
+Seat 7: Chapeauquirit (33412 in chips) 
+Seat 8: Axoo1983 (45295 in chips) 
+canneton2: posts the ante 120
+TofNervieux: posts the ante 120
+Zbiegnew90: posts the ante 120
+albges888: posts the ante 120
+pipinoelbreve9: posts the ante 120
+MIRABARBI: posts the ante 120
+Chapeauquirit: posts the ante 120
+Axoo1983: posts the ante 120
+canneton2: posts small blind 600
+TofNervieux: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Qs]
+Zbiegnew90: raises 4390 to 5590 and is all-in
+albges888: folds 
+pipinoelbreve9: raises 28480 to 34070 and is all-in
+MIRABARBI: folds 
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+Uncalled bet (28480) returned to pipinoelbreve9
+*** FLOP *** [Ts Th Kc]
+*** TURN *** [Ts Th Kc] [Kd]
+*** RIVER *** [Ts Th Kc Kd] [Ac]
+*** SHOW DOWN ***
+Zbiegnew90: shows [As Jc] (two pair, Aces and Kings)
+pipinoelbreve9: shows [Kh Qs] (a full house, Kings full of Tens)
+pipinoelbreve9 collected 13940 from pot
+Zbiegnew90 finished the tournament in 109th place
+*** SUMMARY ***
+Total pot 13940 | Rake 0 
+Board [Ts Th Kc Kd Ac]
+Seat 1: canneton2 (small blind) folded before Flop
+Seat 2: TofNervieux (big blind) folded before Flop
+Seat 3: Zbiegnew90 showed [As Jc] and lost with two pair, Aces and Kings
+Seat 4: albges888 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [Kh Qs] and won (13940) with a full house, Kings full of Tens
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973972185: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/10/02 21:35:25 CET [2025/10/02 15:35:25 ET]
+Table '3931541592 18' 8-max Seat #1 is the button
+Seat 1: canneton2 (13305 in chips) 
+Seat 2: TofNervieux (17734 in chips) 
+Seat 4: albges888 (30120 in chips) 
+Seat 5: pipinoelbreve9 (42420 in chips) 
+Seat 6: MIRABARBI (33570 in chips) 
+Seat 7: Chapeauquirit (33292 in chips) 
+Seat 8: Axoo1983 (45175 in chips) 
+canneton2: posts the ante 160
+TofNervieux: posts the ante 160
+albges888: posts the ante 160
+pipinoelbreve9: posts the ante 160
+MIRABARBI: posts the ante 160
+Chapeauquirit: posts the ante 160
+Axoo1983: posts the ante 160
+TofNervieux: posts small blind 800
+albges888: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 3d]
+pipinoelbreve9: folds 
+MIRABARBI: folds 
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+Uncalled bet (800) returned to albges888
+albges888 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | Rake 0 
+Seat 1: canneton2 (button) folded before Flop (didn't bet)
+Seat 2: TofNervieux (small blind) folded before Flop
+Seat 4: albges888 (big blind) collected (2720)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973977387: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/10/02 21:35:47 CET [2025/10/02 15:35:47 ET]
+Table '3931541592 18' 8-max Seat #2 is the button
+Seat 1: canneton2 (13145 in chips) 
+Seat 2: TofNervieux (16774 in chips) 
+Seat 3: gigue07 (15370 in chips) out of hand (moved from another table into small blind)
+Seat 4: albges888 (31880 in chips) 
+Seat 5: pipinoelbreve9 (42260 in chips) 
+Seat 6: MIRABARBI (33410 in chips) 
+Seat 7: Chapeauquirit (33132 in chips) 
+Seat 8: Axoo1983 (45015 in chips) 
+gigue07 will be allowed to play after the button
+canneton2: posts the ante 160
+TofNervieux: posts the ante 160
+albges888: posts the ante 160
+pipinoelbreve9: posts the ante 160
+MIRABARBI: posts the ante 160
+Chapeauquirit: posts the ante 160
+Axoo1983: posts the ante 160
+albges888: posts small blind 800
+pipinoelbreve9: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Kc]
+MIRABARBI: folds 
+Chapeauquirit: folds 
+Axoo1983: folds 
+canneton2: folds 
+TofNervieux: folds 
+albges888: calls 800
+Chapeauquirit is disconnected 
+pipinoelbreve9: raises 40500 to 42100 and is all-in
+albges888: calls 30120 and is all-in
+Uncalled bet (10380) returned to pipinoelbreve9
+*** FLOP *** [9h Kh 6s]
+*** TURN *** [9h Kh 6s] [5d]
+*** RIVER *** [9h Kh 6s 5d] [4c]
+*** SHOW DOWN ***
+albges888: shows [Ah 7h] (high card Ace)
+pipinoelbreve9: shows [As Kc] (a pair of Kings)
+pipinoelbreve9 collected 64560 from pot
+albges888 finished the tournament in 100th place
+*** SUMMARY ***
+Total pot 64560 | Rake 0 
+Board [9h Kh 6s 5d 4c]
+Seat 1: canneton2 folded before Flop (didn't bet)
+Seat 2: TofNervieux (button) folded before Flop (didn't bet)
+Seat 4: albges888 (small blind) showed [Ah 7h] and lost with high card Ace
+Seat 5: pipinoelbreve9 (big blind) showed [As Kc] and won (64560) with a pair of Kings
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: Chapeauquirit folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973987743: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/10/02 21:36:30 CET [2025/10/02 15:36:30 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: canneton2 (12985 in chips) 
+Seat 2: TofNervieux (16614 in chips) 
+Seat 3: gigue07 (15370 in chips) 
+Seat 5: pipinoelbreve9 (74940 in chips) 
+Seat 6: MIRABARBI (33250 in chips) 
+Seat 7: Chapeauquirit (32972 in chips) 
+Seat 8: Axoo1983 (44855 in chips) 
+canneton2: posts the ante 160
+TofNervieux: posts the ante 160
+gigue07: posts the ante 160
+pipinoelbreve9: posts the ante 160
+MIRABARBI: posts the ante 160
+Chapeauquirit: posts the ante 160
+Axoo1983: posts the ante 160
+MIRABARBI: posts small blind 800
+Chapeauquirit: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 7s]
+Axoo1983: folds 
+canneton2: raises 11225 to 12825 and is all-in
+TofNervieux: folds 
+gigue07: raises 2385 to 15210 and is all-in
+pipinoelbreve9: folds 
+Chapeauquirit is disconnected 
+MIRABARBI: folds 
+Chapeauquirit: folds 
+Uncalled bet (2385) returned to gigue07
+*** FLOP *** [6s 2s Kd]
+*** TURN *** [6s 2s Kd] [6c]
+*** RIVER *** [6s 2s Kd 6c] [Qh]
+*** SHOW DOWN ***
+canneton2: shows [Jc Jd] (two pair, Jacks and Sixes)
+gigue07: shows [6d 6h] (four of a kind, Sixes)
+gigue07 collected 29170 from pot
+canneton2 finished the tournament in 94th place
+*** SUMMARY ***
+Total pot 29170 | Rake 0 
+Board [6s 2s Kd 6c Qh]
+Seat 1: canneton2 showed [Jc Jd] and lost with two pair, Jacks and Sixes
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: gigue07 showed [6d 6h] and won (29170) with four of a kind, Sixes
+Seat 5: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 6: MIRABARBI (small blind) folded before Flop
+Seat 7: Chapeauquirit (big blind) folded before Flop
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257973995138: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XI (800/1600) - 2025/10/02 21:37:01 CET [2025/10/02 15:37:01 ET]
+Table '3931541592 18' 8-max Seat #6 is the button
+Seat 2: TofNervieux (16454 in chips) 
+Seat 3: gigue07 (31555 in chips) 
+Seat 4: kaitofrito (65896 in chips) 
+Seat 5: pipinoelbreve9 (74780 in chips) 
+Seat 6: MIRABARBI (32290 in chips) 
+Seat 7: Chapeauquirit (31212 in chips) 
+Seat 8: Axoo1983 (44695 in chips) 
+TofNervieux: posts the ante 160
+gigue07: posts the ante 160
+kaitofrito: posts the ante 160
+pipinoelbreve9: posts the ante 160
+MIRABARBI: posts the ante 160
+Chapeauquirit: posts the ante 160
+Axoo1983: posts the ante 160
+Chapeauquirit: posts small blind 800
+Axoo1983: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Jd]
+TofNervieux: folds 
+gigue07: folds 
+kaitofrito: folds 
+pipinoelbreve9: raises 3200 to 4800
+MIRABARBI: calls 4800
+Chapeauquirit: folds 
+Axoo1983: folds 
+*** FLOP *** [Ts Jh Kd]
+pipinoelbreve9: bets 6400
+MIRABARBI: raises 6400 to 12800
+pipinoelbreve9: raises 57020 to 69820 and is all-in
+MIRABARBI: calls 14530 and is all-in
+Uncalled bet (42490) returned to pipinoelbreve9
+*** TURN *** [Ts Jh Kd] [7c]
+*** RIVER *** [Ts Jh Kd 7c] [Kc]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Kh Jd] (a full house, Kings full of Jacks)
+MIRABARBI: shows [Ks Js] (a full house, Kings full of Jacks)
+pipinoelbreve9 collected 33890 from pot
+MIRABARBI collected 33890 from pot
+*** SUMMARY ***
+Total pot 67780 | Rake 0 
+Board [Ts Jh Kd 7c Kc]
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: gigue07 folded before Flop (didn't bet)
+Seat 4: kaitofrito folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 showed [Kh Jd] and won (33890) with a full house, Kings full of Jacks
+Seat 6: MIRABARBI (button) showed [Ks Js] and won (33890) with a full house, Kings full of Jacks
+Seat 7: Chapeauquirit (small blind) folded before Flop
+Seat 8: Axoo1983 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257974013776: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/10/02 21:38:19 CET [2025/10/02 15:38:19 ET]
+Table '3931541592 18' 8-max Seat #7 is the button
+Seat 2: TofNervieux (16294 in chips) 
+Seat 3: gigue07 (31395 in chips) 
+Seat 4: kaitofrito (65736 in chips) 
+Seat 5: pipinoelbreve9 (76380 in chips) 
+Seat 6: MIRABARBI (33890 in chips) 
+Seat 7: Chapeauquirit (30252 in chips) 
+Seat 8: Axoo1983 (42935 in chips) 
+TofNervieux: posts the ante 200
+gigue07: posts the ante 200
+kaitofrito: posts the ante 200
+pipinoelbreve9: posts the ante 200
+MIRABARBI: posts the ante 200
+Chapeauquirit: posts the ante 200
+Axoo1983: posts the ante 200
+Axoo1983: posts small blind 1000
+TofNervieux: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 5s]
+gigue07: folds 
+kaitofrito: raises 2000 to 4000
+pipinoelbreve9: calls 4000
+MIRABARBI: folds 
+Chapeauquirit: folds 
+Axoo1983: folds 
+TofNervieux: calls 2000
+*** FLOP *** [8d Td 3d]
+TofNervieux: checks 
+kaitofrito: checks 
+pipinoelbreve9: bets 12400
+TofNervieux: folds 
+kaitofrito: raises 49136 to 61536 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (49136) returned to kaitofrito
+kaitofrito collected 39200 from pot
+*** SUMMARY ***
+Total pot 39200 | Rake 0 
+Board [8d Td 3d]
+Seat 2: TofNervieux (big blind) folded on the Flop
+Seat 3: gigue07 folded before Flop (didn't bet)
+Seat 4: kaitofrito collected (39200)
+Seat 5: pipinoelbreve9 folded on the Flop
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: Chapeauquirit (button) folded before Flop (didn't bet)
+Seat 8: Axoo1983 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257974030837: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/10/02 21:39:31 CET [2025/10/02 15:39:31 ET]
+Table '3931541592 18' 8-max Seat #8 is the button
+Seat 1: Radiobarjot (71320 in chips) out of hand (moved from another table into small blind)
+Seat 2: TofNervieux (12094 in chips) 
+Seat 3: gigue07 (31195 in chips) 
+Seat 4: kaitofrito (88336 in chips) 
+Seat 5: pipinoelbreve9 (59780 in chips) 
+Seat 6: MIRABARBI (33690 in chips) 
+Seat 8: Axoo1983 (41735 in chips) 
+Radiobarjot will be allowed to play after the button
+TofNervieux: posts the ante 200
+gigue07: posts the ante 200
+kaitofrito: posts the ante 200
+pipinoelbreve9: posts the ante 200
+MIRABARBI: posts the ante 200
+Axoo1983: posts the ante 200
+TofNervieux: posts small blind 1000
+gigue07: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9d]
+kaitofrito: folds 
+pipinoelbreve9: folds 
+MIRABARBI: folds 
+Axoo1983: raises 2000 to 4000
+TofNervieux: folds 
+gigue07: calls 2000
+*** FLOP *** [As Ad 7c]
+gigue07: checks 
+Axoo1983: bets 3366
+gigue07: folds 
+Uncalled bet (3366) returned to Axoo1983
+Axoo1983 collected 10200 from pot
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Board [As Ad 7c]
+Seat 2: TofNervieux (small blind) folded before Flop
+Seat 3: gigue07 (big blind) folded on the Flop
+Seat 4: kaitofrito folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 8: Axoo1983 (button) collected (10200)
+
+
+
+PokerStars Hand #257974040062: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/10/02 21:40:11 CET [2025/10/02 15:40:11 ET]
+Table '3931541592 18' 8-max Seat #2 is the button
+Seat 1: Radiobarjot (71320 in chips) 
+Seat 2: TofNervieux (10894 in chips) 
+Seat 3: gigue07 (26995 in chips) 
+Seat 4: kaitofrito (88136 in chips) 
+Seat 5: pipinoelbreve9 (59580 in chips) 
+Seat 6: MIRABARBI (33490 in chips) 
+Seat 7: papione1 (14200 in chips) 
+Seat 8: Axoo1983 (47735 in chips) 
+Radiobarjot: posts the ante 200
+TofNervieux: posts the ante 200
+gigue07: posts the ante 200
+kaitofrito: posts the ante 200
+pipinoelbreve9: posts the ante 200
+MIRABARBI: posts the ante 200
+papione1: posts the ante 200
+Axoo1983: posts the ante 200
+gigue07: posts small blind 1000
+kaitofrito: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s Ks]
+pipinoelbreve9: raises 4000 to 6000
+MIRABARBI: folds 
+papione1: folds 
+Axoo1983: folds 
+Radiobarjot: folds 
+TofNervieux: folds 
+gigue07: folds 
+kaitofrito: folds 
+Uncalled bet (4000) returned to pipinoelbreve9
+pipinoelbreve9 collected 6600 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Seat 1: Radiobarjot folded before Flop (didn't bet)
+Seat 2: TofNervieux (button) folded before Flop (didn't bet)
+Seat 3: gigue07 (small blind) folded before Flop
+Seat 4: kaitofrito (big blind) folded before Flop
+Seat 5: pipinoelbreve9 collected (6600)
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: papione1 folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257974047473: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/10/02 21:40:42 CET [2025/10/02 15:40:42 ET]
+Table '3931541592 18' 8-max Seat #3 is the button
+Seat 1: Radiobarjot (71120 in chips) 
+Seat 2: TofNervieux (10694 in chips) 
+Seat 3: gigue07 (25795 in chips) 
+Seat 4: kaitofrito (85936 in chips) 
+Seat 5: pipinoelbreve9 (63980 in chips) 
+Seat 6: MIRABARBI (33290 in chips) 
+Seat 7: papione1 (14000 in chips) 
+Seat 8: Axoo1983 (47535 in chips) 
+Radiobarjot: posts the ante 200
+TofNervieux: posts the ante 200
+gigue07: posts the ante 200
+kaitofrito: posts the ante 200
+pipinoelbreve9: posts the ante 200
+MIRABARBI: posts the ante 200
+papione1: posts the ante 200
+Axoo1983: posts the ante 200
+kaitofrito: posts small blind 1000
+pipinoelbreve9: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d Kc]
+MIRABARBI: folds 
+papione1: folds 
+Axoo1983: folds 
+Radiobarjot: folds 
+TofNervieux: folds 
+gigue07: folds 
+kaitofrito: folds 
+Uncalled bet (1000) returned to pipinoelbreve9
+pipinoelbreve9 collected 3600 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: Radiobarjot folded before Flop (didn't bet)
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: gigue07 (button) folded before Flop (didn't bet)
+Seat 4: kaitofrito (small blind) folded before Flop
+Seat 5: pipinoelbreve9 (big blind) collected (3600)
+Seat 6: MIRABARBI folded before Flop (didn't bet)
+Seat 7: papione1 folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257974054013: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/10/02 21:41:09 CET [2025/10/02 15:41:09 ET]
+Table '3931541592 18' 8-max Seat #4 is the button
+Seat 1: Radiobarjot (70920 in chips) 
+Seat 2: TofNervieux (10494 in chips) 
+Seat 3: gigue07 (25595 in chips) 
+Seat 4: kaitofrito (84736 in chips) 
+Seat 5: pipinoelbreve9 (66380 in chips) 
+Seat 6: MIRABARBI (33090 in chips) 
+Seat 7: papione1 (13800 in chips) 
+Seat 8: Axoo1983 (47335 in chips) 
+Radiobarjot: posts the ante 300
+TofNervieux: posts the ante 300
+gigue07: posts the ante 300
+kaitofrito: posts the ante 300
+pipinoelbreve9: posts the ante 300
+MIRABARBI: posts the ante 300
+papione1: posts the ante 300
+Axoo1983: posts the ante 300
+pipinoelbreve9: posts small blind 1500
+MIRABARBI: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Jd]
+papione1: folds 
+Axoo1983: folds 
+Radiobarjot: folds 
+TofNervieux: folds 
+gigue07: folds 
+kaitofrito: folds 
+pipinoelbreve9: raises 6000 to 9000
+MIRABARBI: calls 6000
+*** FLOP *** [Ts Th Qd]
+pipinoelbreve9: bets 57080 and is all-in
+MIRABARBI: folds 
+Uncalled bet (57080) returned to pipinoelbreve9
+pipinoelbreve9 collected 20400 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20400 | Rake 0 
+Board [Ts Th Qd]
+Seat 1: Radiobarjot folded before Flop (didn't bet)
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: gigue07 folded before Flop (didn't bet)
+Seat 4: kaitofrito (button) folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (small blind) collected (20400)
+Seat 6: MIRABARBI (big blind) folded on the Flop
+Seat 7: papione1 folded before Flop (didn't bet)
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257974063335: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/10/02 21:41:48 CET [2025/10/02 15:41:48 ET]
+Table '3931541592 18' 8-max Seat #5 is the button
+Seat 1: Radiobarjot (70620 in chips) 
+Seat 2: TofNervieux (10194 in chips) 
+Seat 3: gigue07 (25295 in chips) 
+Seat 4: kaitofrito (84436 in chips) 
+Seat 5: pipinoelbreve9 (77480 in chips) 
+Seat 6: MIRABARBI (23790 in chips) 
+Seat 7: papione1 (13500 in chips) 
+Seat 8: Axoo1983 (47035 in chips) 
+Radiobarjot: posts the ante 300
+TofNervieux: posts the ante 300
+gigue07: posts the ante 300
+kaitofrito: posts the ante 300
+pipinoelbreve9: posts the ante 300
+MIRABARBI: posts the ante 300
+papione1: posts the ante 300
+Axoo1983: posts the ante 300
+MIRABARBI: posts small blind 1500
+papione1: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Ad]
+Axoo1983: folds 
+Radiobarjot: folds 
+TofNervieux: folds 
+gigue07: raises 21995 to 24995 and is all-in
+kaitofrito has timed out
+kaitofrito: folds 
+kaitofrito is sitting out
+pipinoelbreve9: calls 24995
+MIRABARBI: calls 21990 and is all-in
+papione1: folds 
+kaitofrito has returned
+*** FLOP *** [Tc Qd Kd]
+*** TURN *** [Tc Qd Kd] [Kh]
+*** RIVER *** [Tc Qd Kd Kh] [7h]
+*** SHOW DOWN ***
+gigue07: shows [6s 6d] (two pair, Kings and Sixes)
+pipinoelbreve9: shows [As Ad] (two pair, Aces and Kings)
+pipinoelbreve9 collected 3010 from side pot
+MIRABARBI: shows [Qs Ks] (a full house, Kings full of Queens)
+MIRABARBI collected 75870 from main pot
+gigue07 finished the tournament in 73rd place
+*** SUMMARY ***
+Total pot 78880 Main pot 75870. Side pot 3010. | Rake 0 
+Board [Tc Qd Kd Kh 7h]
+Seat 1: Radiobarjot folded before Flop (didn't bet)
+Seat 2: TofNervieux folded before Flop (didn't bet)
+Seat 3: gigue07 showed [6s 6d] and lost with two pair, Kings and Sixes
+Seat 4: kaitofrito folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 (button) showed [As Ad] and won (3010) with two pair, Aces and Kings
+Seat 6: MIRABARBI (small blind) showed [Qs Ks] and won (75870) with a full house, Kings full of Queens
+Seat 7: papione1 (big blind) folded before Flop
+Seat 8: Axoo1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257974080599: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/10/02 21:43:00 CET [2025/10/02 15:43:00 ET]
+Table '3931541592 17' 8-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (55195 in chips) 
+Seat 2: benebene76 (81962 in chips) 
+Seat 3: toun31 (33880 in chips) 
+Seat 4: aramis922 (11780 in chips) 
+Seat 5: Blast0ze (45510 in chips) 
+Seat 6: CAMAAAACHO (48471 in chips) is sitting out
+Seat 7: alesander123 (38709 in chips) 
+Seat 8: jazz@hybrid (38632 in chips) 
+pipinoelbreve9: posts the ante 300
+benebene76: posts the ante 300
+toun31: posts the ante 300
+aramis922: posts the ante 300
+Blast0ze: posts the ante 300
+CAMAAAACHO: posts the ante 300
+alesander123: posts the ante 300
+jazz@hybrid: posts the ante 300
+toun31: posts small blind 1500
+aramis922: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Th]
+Blast0ze: calls 3000
+CAMAAAACHO: folds 
+alesander123: raises 35409 to 38409 and is all-in
+jazz@hybrid: folds 
+pipinoelbreve9: folds 
+benebene76: folds 
+toun31: folds 
+aramis922: folds 
+Blast0ze: folds 
+Uncalled bet (35409) returned to alesander123
+alesander123 collected 12900 from pot
+alesander123: doesn't show hand 
+*** SUMMARY ***
+Total pot 12900 | Rake 0 
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: benebene76 (button) folded before Flop (didn't bet)
+Seat 3: toun31 (small blind) folded before Flop
+Seat 4: aramis922 (big blind) folded before Flop
+Seat 5: Blast0ze folded before Flop
+Seat 6: CAMAAAACHO folded before Flop (didn't bet)
+Seat 7: alesander123 collected (12900)
+Seat 8: jazz@hybrid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257974088071: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1500/3000) - 2025/10/02 21:43:32 CET [2025/10/02 15:43:32 ET]
+Table '3931541592 17' 8-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (54895 in chips) 
+Seat 2: benebene76 (81662 in chips) 
+Seat 3: toun31 (32080 in chips) 
+Seat 4: aramis922 (8480 in chips) 
+Seat 5: Blast0ze (42210 in chips) 
+Seat 6: CAMAAAACHO (48171 in chips) is sitting out
+Seat 7: alesander123 (48309 in chips) 
+Seat 8: jazz@hybrid (38332 in chips) 
+pipinoelbreve9: posts the ante 300
+benebene76: posts the ante 300
+toun31: posts the ante 300
+aramis922: posts the ante 300
+Blast0ze: posts the ante 300
+CAMAAAACHO: posts the ante 300
+alesander123: posts the ante 300
+jazz@hybrid: posts the ante 300
+aramis922: posts small blind 1500
+Blast0ze: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 8c]
+CAMAAAACHO: folds 
+alesander123: folds 
+jazz@hybrid: raises 6000 to 9000
+pipinoelbreve9: calls 9000
+benebene76: folds 
+toun31: folds 
+aramis922: folds 
+Blast0ze: folds 
+*** FLOP *** [Jc 4c 2d]
+jazz@hybrid: bets 12450
+pipinoelbreve9: raises 33145 to 45595 and is all-in
+jazz@hybrid: calls 16582 and is all-in
+Uncalled bet (16563) returned to pipinoelbreve9
+*** TURN *** [Jc 4c 2d] [5d]
+*** RIVER *** [Jc 4c 2d 5d] [8s]
+*** SHOW DOWN ***
+jazz@hybrid: shows [Qd Qh] (a pair of Queens)
+pipinoelbreve9: shows [As 8c] (a pair of Eights)
+jazz@hybrid collected 82964 from pot
+*** SUMMARY ***
+Total pot 82964 | Rake 0 
+Board [Jc 4c 2d 5d 8s]
+Seat 1: pipinoelbreve9 showed [As 8c] and lost with a pair of Eights
+Seat 2: benebene76 folded before Flop (didn't bet)
+Seat 3: toun31 (button) folded before Flop (didn't bet)
+Seat 4: aramis922 (small blind) folded before Flop
+Seat 5: Blast0ze (big blind) folded before Flop
+Seat 6: CAMAAAACHO folded before Flop (didn't bet)
+Seat 7: alesander123 folded before Flop (didn't bet)
+Seat 8: jazz@hybrid showed [Qd Qh] and won (82964) with a pair of Queens
+
+
+
+PokerStars Hand #257974100228: Tournament #3931541592, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (2000/4000) - 2025/10/02 21:44:23 CET [2025/10/02 15:44:23 ET]
+Table '3931541592 17' 8-max Seat #4 is the button
+Seat 1: pipinoelbreve9 (16563 in chips) 
+Seat 2: benebene76 (81362 in chips) 
+Seat 3: toun31 (31780 in chips) 
+Seat 4: aramis922 (6680 in chips) 
+Seat 5: Blast0ze (38910 in chips) 
+Seat 6: CAMAAAACHO (47871 in chips) is sitting out
+Seat 7: alesander123 (48009 in chips) 
+Seat 8: jazz@hybrid (82964 in chips) 
+pipinoelbreve9: posts the ante 400
+benebene76: posts the ante 400
+toun31: posts the ante 400
+aramis922: posts the ante 400
+Blast0ze: posts the ante 400
+CAMAAAACHO: posts the ante 400
+alesander123: posts the ante 400
+jazz@hybrid: posts the ante 400
+Blast0ze: posts small blind 2000
+CAMAAAACHO: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 2d]
+alesander123: raises 13200 to 17200
+jazz@hybrid: folds 
+pipinoelbreve9: calls 16163 and is all-in
+benebene76: folds 
+toun31: folds 
+aramis922: folds 
+Blast0ze: folds 
+CAMAAAACHO: folds 
+Uncalled bet (1037) returned to alesander123
+*** FLOP *** [Kc 2c 8h]
+*** TURN *** [Kc 2c 8h] [Ah]
+*** RIVER *** [Kc 2c 8h Ah] [Th]
+*** SHOW DOWN ***
+alesander123: shows [Qd Qh] (a pair of Queens)
+pipinoelbreve9: shows [9d 2d] (a pair of Deuces)
+alesander123 collected 41526 from pot
+pipinoelbreve9 finished the tournament in 67th place
+*** SUMMARY ***
+Total pot 41526 | Rake 0 
+Board [Kc 2c 8h Ah Th]
+Seat 1: pipinoelbreve9 showed [9d 2d] and lost with a pair of Deuces
+Seat 2: benebene76 folded before Flop (didn't bet)
+Seat 3: toun31 folded before Flop (didn't bet)
+Seat 4: aramis922 (button) folded before Flop (didn't bet)
+Seat 5: Blast0ze (small blind) folded before Flop
+Seat 6: CAMAAAACHO (big blind) folded before Flop
+Seat 7: alesander123 showed [Qd Qh] and won (41526) with a pair of Queens
+Seat 8: jazz@hybrid folded before Flop (didn't bet)
+
+
+

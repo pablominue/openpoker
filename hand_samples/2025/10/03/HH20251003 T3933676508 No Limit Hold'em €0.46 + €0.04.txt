@@ -1,0 +1,325 @@
+﻿PokerStars Hand #257983603599: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:40:00 CET [2025/10/03 11:40:00 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: laulau91 (500 in chips) 
+Seat 3: f.julio80 (500 in chips) 
+laulau91: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Tc]
+pipinoelbreve9: folds 
+laulau91: raises 480 to 500 and is all-in
+f.julio80: folds 
+Uncalled bet (480) returned to laulau91
+laulau91 collected 40 from pot
+laulau91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: laulau91 (small blind) collected (40)
+Seat 3: f.julio80 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257983604802: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:40:07 CET [2025/10/03 11:40:07 ET]
+Table '3933676508 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: laulau91 (520 in chips) 
+Seat 3: f.julio80 (480 in chips) 
+f.julio80: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Ad]
+laulau91: folds 
+f.julio80: folds 
+Uncalled bet (10) returned to pipinoelbreve9
+pipinoelbreve9 collected 20 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (20)
+Seat 2: laulau91 (button) folded before Flop (didn't bet)
+Seat 3: f.julio80 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257983605892: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:40:14 CET [2025/10/03 11:40:14 ET]
+Table '3933676508 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (510 in chips) 
+Seat 2: laulau91 (520 in chips) 
+Seat 3: f.julio80 (470 in chips) 
+pipinoelbreve9: posts small blind 10
+laulau91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Th]
+f.julio80: folds 
+pipinoelbreve9: raises 40 to 60
+laulau91: raises 460 to 520 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (460) returned to laulau91
+laulau91 collected 120 from pot
+laulau91: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: laulau91 (big blind) collected (120)
+Seat 3: f.julio80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257983607798: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:40:25 CET [2025/10/03 11:40:25 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (450 in chips) 
+Seat 2: laulau91 (580 in chips) 
+Seat 3: f.julio80 (470 in chips) 
+laulau91: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 3c]
+pipinoelbreve9: raises 40 to 60
+laulau91: raises 520 to 580 and is all-in
+f.julio80: calls 450 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (110) returned to laulau91
+*** FLOP *** [Tc 7c 5c]
+*** TURN *** [Tc 7c 5c] [4h]
+*** RIVER *** [Tc 7c 5c 4h] [9c]
+*** SHOW DOWN ***
+laulau91: shows [Ah Qh] (high card Ace)
+f.julio80: shows [9h 9d] (three of a kind, Nines)
+f.julio80 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Tc 7c 5c 4h 9c]
+Seat 1: pipinoelbreve9 (button) folded before Flop
+Seat 2: laulau91 (small blind) showed [Ah Qh] and lost with high card Ace
+Seat 3: f.julio80 (big blind) showed [9h 9d] and won (1000) with three of a kind, Nines
+
+
+
+PokerStars Hand #257983610837: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:40:42 CET [2025/10/03 11:40:42 ET]
+Table '3933676508 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (390 in chips) 
+Seat 2: laulau91 (110 in chips) 
+Seat 3: f.julio80 (1000 in chips) 
+f.julio80: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 9h]
+laulau91: raises 90 to 110 and is all-in
+f.julio80: raises 90 to 200
+pipinoelbreve9: folds 
+Uncalled bet (90) returned to f.julio80
+*** FLOP *** [3h 4c 8c]
+*** TURN *** [3h 4c 8c] [6c]
+*** RIVER *** [3h 4c 8c 6c] [6h]
+*** SHOW DOWN ***
+f.julio80: shows [9c 9s] (two pair, Nines and Sixes)
+laulau91: shows [5c 4h] (two pair, Sixes and Fours)
+f.julio80 collected 240 from pot
+laulau91 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 4c 8c 6c 6h]
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 2: laulau91 (button) showed [5c 4h] and lost with two pair, Sixes and Fours
+Seat 3: f.julio80 (small blind) showed [9c 9s] and won (240) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #257983614534: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:04 CET [2025/10/03 11:41:04 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (370 in chips) 
+Seat 3: f.julio80 (1130 in chips) 
+pipinoelbreve9: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc Qs]
+pipinoelbreve9: raises 350 to 370 and is all-in
+f.julio80: folds 
+Uncalled bet (350) returned to pipinoelbreve9
+pipinoelbreve9 collected 40 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) collected (40)
+Seat 3: f.julio80 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257983615683: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:10 CET [2025/10/03 11:41:10 ET]
+Table '3933676508 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (390 in chips) 
+Seat 3: f.julio80 (1110 in chips) 
+f.julio80: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Ah]
+f.julio80: raises 1090 to 1110 and is all-in
+pipinoelbreve9: calls 370 and is all-in
+Uncalled bet (720) returned to f.julio80
+*** FLOP *** [Tc Ts 6h]
+*** TURN *** [Tc Ts 6h] [Qd]
+*** RIVER *** [Tc Ts 6h Qd] [6s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [3h Ah] (two pair, Tens and Sixes)
+f.julio80: shows [Ad 8s] (two pair, Tens and Sixes)
+pipinoelbreve9 collected 390 from pot
+f.julio80 collected 390 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Tc Ts 6h Qd 6s]
+Seat 1: pipinoelbreve9 (big blind) showed [3h Ah] and won (390) with two pair, Tens and Sixes
+Seat 3: f.julio80 (button) (small blind) showed [Ad 8s] and won (390) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #257983617897: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:23 CET [2025/10/03 11:41:23 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (390 in chips) 
+Seat 3: f.julio80 (1110 in chips) 
+pipinoelbreve9: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8h]
+pipinoelbreve9: calls 10
+f.julio80: raises 1090 to 1110 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (1090) returned to f.julio80
+f.julio80 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 3: f.julio80 (big blind) collected (40)
+
+
+
+PokerStars Hand #257983619675: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:33 CET [2025/10/03 11:41:33 ET]
+Table '3933676508 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (370 in chips) 
+Seat 3: f.julio80 (1130 in chips) 
+f.julio80: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 5h]
+f.julio80: raises 1110 to 1130 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (1110) returned to f.julio80
+f.julio80 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: f.julio80 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #257983620759: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:39 CET [2025/10/03 11:41:39 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (350 in chips) 
+Seat 3: f.julio80 (1150 in chips) 
+pipinoelbreve9: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c Kh]
+pipinoelbreve9: folds 
+Uncalled bet (10) returned to f.julio80
+f.julio80 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 3: f.julio80 (big blind) collected (20)
+
+
+
+PokerStars Hand #257983621693: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:45 CET [2025/10/03 11:41:45 ET]
+Table '3933676508 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (340 in chips) 
+Seat 3: f.julio80 (1160 in chips) 
+f.julio80: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 4c]
+f.julio80: calls 10
+pipinoelbreve9: raises 40 to 60
+f.julio80: calls 40
+*** FLOP *** [2h 9c Qs]
+pipinoelbreve9: bets 280 and is all-in
+f.julio80: folds 
+Uncalled bet (280) returned to pipinoelbreve9
+pipinoelbreve9 collected 120 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 9c Qs]
+Seat 1: pipinoelbreve9 (big blind) collected (120)
+Seat 3: f.julio80 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257983624225: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/10/03 17:41:59 CET [2025/10/03 11:41:59 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (400 in chips) 
+Seat 3: f.julio80 (1100 in chips) 
+pipinoelbreve9: posts small blind 10
+f.julio80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d As]
+pipinoelbreve9: folds 
+Uncalled bet (10) returned to f.julio80
+f.julio80 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pipinoelbreve9 (button) (small blind) folded before Flop
+Seat 3: f.julio80 (big blind) collected (20)
+
+
+
+PokerStars Hand #257983625642: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/10/03 17:42:07 CET [2025/10/03 11:42:07 ET]
+Table '3933676508 1' 3-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (390 in chips) 
+Seat 3: f.julio80 (1110 in chips) 
+f.julio80: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Kh]
+f.julio80: folds 
+Uncalled bet (15) returned to pipinoelbreve9
+pipinoelbreve9 collected 30 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pipinoelbreve9 (big blind) collected (30)
+Seat 3: f.julio80 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #257983626367: Tournament #3933676508, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/10/03 17:42:11 CET [2025/10/03 11:42:11 ET]
+Table '3933676508 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (405 in chips) 
+Seat 3: f.julio80 (1095 in chips) 
+pipinoelbreve9: posts small blind 15
+f.julio80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Th]
+pipinoelbreve9: calls 15
+f.julio80: raises 90 to 120
+pipinoelbreve9: raises 285 to 405 and is all-in
+f.julio80: calls 285
+*** FLOP *** [2s Td Qh]
+*** TURN *** [2s Td Qh] [Jh]
+*** RIVER *** [2s Td Qh Jh] [Ts]
+*** SHOW DOWN ***
+f.julio80: shows [Kd Ah] (a straight, Ten to Ace)
+pipinoelbreve9: shows [Ad Th] (three of a kind, Tens)
+f.julio80 collected 810 from pot
+pipinoelbreve9 finished the tournament in 2nd place
+f.julio80 wins the tournament - congratulations!
+f.julio80 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [2s Td Qh Jh Ts]
+Seat 1: pipinoelbreve9 (button) (small blind) showed [Ad Th] and lost with three of a kind, Tens
+Seat 3: f.julio80 (big blind) showed [Kd Ah] and won (810) with a straight, Ten to Ace
+
+
+

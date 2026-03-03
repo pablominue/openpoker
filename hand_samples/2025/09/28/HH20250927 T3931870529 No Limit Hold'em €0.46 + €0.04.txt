@@ -1,0 +1,56 @@
+﻿PokerStars Hand #257904788693: Tournament #3931870529, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/27 12:07:40 CET [2025/09/27 6:07:40 ET]
+Table '3931870529 1' 3-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (500 in chips) 
+Seat 2: osigatajb (500 in chips) 
+Seat 3: adrianet2296 (500 in chips) 
+osigatajb: posts small blind 10
+adrianet2296: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Ad]
+pipinoelbreve9: raises 40 to 60
+osigatajb: folds 
+adrianet2296: calls 40
+*** FLOP *** [5s 8d Js]
+adrianet2296: bets 440 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (440) returned to adrianet2296
+adrianet2296 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5s 8d Js]
+Seat 1: pipinoelbreve9 (button) folded on the Flop
+Seat 2: osigatajb (small blind) folded before Flop
+Seat 3: adrianet2296 (big blind) collected (130)
+
+
+
+PokerStars Hand #257904790278: Tournament #3931870529, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/27 12:07:57 CET [2025/09/27 6:07:57 ET]
+Table '3931870529 1' 3-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (440 in chips) 
+Seat 2: osigatajb (490 in chips) 
+Seat 3: adrianet2296 (570 in chips) 
+adrianet2296: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js As]
+osigatajb: folds 
+adrianet2296: raises 80 to 100
+pipinoelbreve9: raises 340 to 440 and is all-in
+adrianet2296: calls 340
+*** FLOP *** [9h 8s 5c]
+*** TURN *** [9h 8s 5c] [Qc]
+*** RIVER *** [9h 8s 5c Qc] [5h]
+*** SHOW DOWN ***
+adrianet2296: shows [8d Th] (two pair, Eights and Fives)
+pipinoelbreve9: shows [Js As] (a pair of Fives)
+adrianet2296 collected 880 from pot
+pipinoelbreve9 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [9h 8s 5c Qc 5h]
+Seat 1: pipinoelbreve9 (big blind) showed [Js As] and lost with a pair of Fives
+Seat 2: osigatajb (button) folded before Flop (didn't bet)
+Seat 3: adrianet2296 (small blind) showed [8d Th] and won (880) with two pair, Eights and Fives
+
+
+

@@ -1,0 +1,546 @@
+﻿Mano n.º 257504275605 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:01:28 CET [27-08-2025 8:01:28 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: EktorKing (2.01 € en fichas) 
+Asiento 2: ripvppt (3.17 € en fichas) 
+Asiento 3: pipinoelbreve9 (2 € en fichas) 
+Asiento 4: frnandito (2 € en fichas) 
+Asiento 5: sintemblar (2.13 € en fichas) 
+Asiento 6: 13ROS13 (2 € en fichas) 
+ripvppt: pone la ciega pequeña 0.01 €
+pipinoelbreve9: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [8s 2c]
+frnandito: se retira 
+sintemblar: se retira 
+13ROS13: sube 0.05 € a 0.07 €
+EktorKing: se retira 
+ripvppt: se retira 
+pipinoelbreve9: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a 13ROS13
+13ROS13 se lleva 0.05 € del bote 
+13ROS13: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: EktorKing (botón) se retiró antes del Flop (no apostó)
+Asiento 2: ripvppt (ciega pequeña) se retiró antes del Flop
+Asiento 3: pipinoelbreve9 (ciega grande) se retiró antes del Flop
+Asiento 4: frnandito se retiró antes del Flop (no apostó)
+Asiento 5: sintemblar se retiró antes del Flop (no apostó)
+Asiento 6: 13ROS13 recaudó (0.05 €)
+
+
+
+Mano n.º 257504277969 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:01:48 CET [27-08-2025 8:01:48 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: sintemblar (2.66 € en fichas) 
+Asiento 2: pipinoelbreve9 (2 € en fichas) 
+Asiento 3: RCSA2 (2.20 € en fichas) 
+Asiento 4: elperrosequema (1.23 € en fichas) 
+Asiento 5: c0sta9 (2.95 € en fichas) 
+Asiento 6: kombei63 (0.97 € en fichas) 
+pipinoelbreve9: pone la ciega pequeña 0.01 €
+RCSA2: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [7c 8h]
+elperrosequema: se retira 
+c0sta9: se retira 
+kombei63: se retira 
+sintemblar: se retira 
+pipinoelbreve9: se retira 
+La apuesta no igualada (0.01 €) ha sido devuelta a RCSA2
+RCSA2 se lleva 0.02 € del bote 
+RCSA2: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.02 € | Comisión 0 € 
+Asiento 1: sintemblar (botón) se retiró antes del Flop (no apostó)
+Asiento 2: pipinoelbreve9 (ciega pequeña) se retiró antes del Flop
+Asiento 3: RCSA2 (ciega grande) recaudó (0.02 €)
+Asiento 4: elperrosequema se retiró antes del Flop (no apostó)
+Asiento 5: c0sta9 se retiró antes del Flop (no apostó)
+Asiento 6: kombei63 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504277307 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:01:43 CET [27-08-2025 8:01:43 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: RCSA2 (2.20 € en fichas) 
+Asiento 2: kombei63 (0.98 € en fichas) 
+Asiento 3: drunkens (2.18 € en fichas) 
+Asiento 4: pipinoelbreve9 (2 € en fichas) 
+Asiento 5: tostakyn (1.01 € en fichas) 
+Asiento 6: adnaor (0.61 € en fichas) 
+kombei63: pone la ciega pequeña 0.01 €
+drunkens: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [4s Ac]
+pipinoelbreve9: se retira 
+tostakyn: se retira 
+adnaor: iguala 0.02 €
+RCSA2: se retira 
+kombei63: se retira 
+drunkens: pasa 
+*** FLOP *** [Qd 6s Qs]
+drunkens: pasa 
+adnaor: pasa 
+*** TURN *** [Qd 6s Qs] [5h]
+drunkens: pasa 
+adnaor: pasa 
+*** RIVER *** [Qd 6s Qs 5h] [2d]
+drunkens: pasa 
+adnaor: pasa 
+*** SHOW DOWN ***
+drunkens: muestra [2c 9d] (doble pareja, damas y doses)
+adnaor: descarta su mano sin mostrar 
+drunkens se lleva 0.05 € del bote 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Comunitarias [Qd 6s Qs 5h 2d]
+Asiento 1: RCSA2 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: kombei63 (ciega pequeña) se retiró antes del Flop
+Asiento 3: drunkens (ciega grande) muestra [2c 9d] y ganó (0.05 €) con doble pareja, damas y doses
+Asiento 4: pipinoelbreve9 se retiró antes del Flop (no apostó)
+Asiento 5: tostakyn se retiró antes del Flop (no apostó)
+Asiento 6: adnaor descartó sin mostrar [8d Jc]
+
+
+
+Mano n.º 257504279150 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:01:59 CET [27-08-2025 8:01:59 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: pipinoelbreve9 (2 € en fichas) 
+Asiento 2: tostakyn (1.01 € en fichas) 
+Asiento 3: SrLyrox (3.89 € en fichas) 
+Asiento 4: sintemblar (5.78 € en fichas) 
+Asiento 5: burgoa89 (1.95 € en fichas) 
+Asiento 6: kombei63 (2.85 € en fichas) 
+tostakyn: pone la ciega pequeña 0.01 €
+SrLyrox: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [Qc 7d]
+sintemblar: se retira 
+burgoa89: se retira 
+kombei63: se retira 
+pipinoelbreve9: sube 0.04 € a 0.06 €
+tostakyn: se retira 
+SrLyrox: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a pipinoelbreve9
+pipinoelbreve9 se lleva 0.05 € del bote 
+pipinoelbreve9: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: pipinoelbreve9 (botón) recaudó (0.05 €)
+Asiento 2: tostakyn (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyrox (ciega grande) se retiró antes del Flop
+Asiento 4: sintemblar se retiró antes del Flop (no apostó)
+Asiento 5: burgoa89 se retiró antes del Flop (no apostó)
+Asiento 6: kombei63 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504281415 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:02:19 CET [27-08-2025 8:02:19 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: LuccAAFelippi (5.40 € en fichas) 
+Asiento 2: guitimsa (2.06 € en fichas) 
+Asiento 3: pipinoelbreve9 (2.03 € en fichas) 
+Asiento 4: JR.EWING433 (2.08 € en fichas) 
+Asiento 5: Utusuchaz (3.23 € en fichas) 
+Asiento 6: richh74 (1.76 € en fichas) 
+guitimsa: pone la ciega pequeña 0.01 €
+pipinoelbreve9: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [9h 9d]
+JR.EWING433: se retira 
+Utusuchaz: se retira 
+richh74: se retira 
+LuccAAFelippi: sube 0.03 € a 0.05 €
+guitimsa: se retira 
+pipinoelbreve9: iguala 0.03 €
+*** FLOP *** [Kd 2c 4d]
+pipinoelbreve9: pasa 
+LuccAAFelippi: apuesta 0.03 €
+pipinoelbreve9: iguala 0.03 €
+*** TURN *** [Kd 2c 4d] [8h]
+pipinoelbreve9: pasa 
+LuccAAFelippi: apuesta 0.08 €
+pipinoelbreve9: se retira 
+La apuesta no igualada (0.08 €) ha sido devuelta a LuccAAFelippi
+LuccAAFelippi se lleva 0.16 € del bote 
+LuccAAFelippi: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.17 € | Comisión 0.01 € 
+Comunitarias [Kd 2c 4d 8h]
+Asiento 1: LuccAAFelippi (botón) recaudó (0.16 €)
+Asiento 2: guitimsa (ciega pequeña) se retiró antes del Flop
+Asiento 3: pipinoelbreve9 (ciega grande) se retiró en el Turn
+Asiento 4: JR.EWING433 se retiró antes del Flop (no apostó)
+Asiento 5: Utusuchaz se retiró antes del Flop (no apostó)
+Asiento 6: richh74 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504286042 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:03:00 CET [27-08-2025 8:03:00 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: thenry03 (2.44 € en fichas) 
+Asiento 2: pipinoelbreve9 (2 € en fichas) 
+Asiento 3: SrLyrox (5.23 € en fichas) 
+Asiento 4: sintemblar (2.77 € en fichas) 
+Asiento 5: drunkens (2.03 € en fichas) 
+Asiento 6: c0sta9 (2 € en fichas) 
+pipinoelbreve9: pone la ciega pequeña 0.01 €
+SrLyrox: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [8h Qs]
+sintemblar: sube 0.04 € a 0.06 €
+drunkens: se retira 
+c0sta9: se retira 
+thenry03: se retira 
+pipinoelbreve9: se retira 
+SrLyrox: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a sintemblar
+sintemblar se lleva 0.05 € del bote 
+sintemblar: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: thenry03 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: pipinoelbreve9 (ciega pequeña) se retiró antes del Flop
+Asiento 3: SrLyrox (ciega grande) se retiró antes del Flop
+Asiento 4: sintemblar recaudó (0.05 €)
+Asiento 5: drunkens se retiró antes del Flop (no apostó)
+Asiento 6: c0sta9 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504287080 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:03:09 CET [27-08-2025 8:03:09 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: pipinoelbreve9 (2 € en fichas) 
+Asiento 2: frnandito (2.06 € en fichas) 
+Asiento 3: 13ROS13 (2.08 € en fichas) 
+Asiento 4: SrLyrox (5.21 € en fichas) 
+Asiento 5: 2tortosa (1.22 € en fichas) 
+Asiento 6: Utusuchaz (2.84 € en fichas) 
+frnandito: pone la ciega pequeña 0.01 €
+13ROS13: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [6d Qh]
+SrLyrox: se retira 
+2tortosa: sube 0.02 € a 0.04 €
+Utusuchaz: se retira 
+pipinoelbreve9: se retira 
+frnandito: se retira 
+13ROS13: iguala 0.02 €
+*** FLOP *** [8s Jc 7c]
+13ROS13: pasa 
+2tortosa: apuesta 0.05 €
+13ROS13: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a 2tortosa
+2tortosa se lleva 0.09 € del bote 
+2tortosa: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.09 € | Comisión 0 € 
+Comunitarias [8s Jc 7c]
+Asiento 1: pipinoelbreve9 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: frnandito (ciega pequeña) se retiró antes del Flop
+Asiento 3: 13ROS13 (ciega grande) se retiró en el Flop
+Asiento 4: SrLyrox se retiró antes del Flop (no apostó)
+Asiento 5: 2tortosa recaudó (0.09 €)
+Asiento 6: Utusuchaz se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504289159 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:03:27 CET [27-08-2025 8:03:27 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: srcachorro10 (1.35 € en fichas) 
+Asiento 2: Ab5tract10n (1.30 € en fichas) 
+Asiento 3: Siddharta33 (1 € en fichas) 
+Asiento 4: YvonetJackUlay (1.03 € en fichas) 
+Asiento 5: drunkens (2.28 € en fichas) 
+Asiento 6: pipinoelbreve9 (2 € en fichas) 
+Ab5tract10n: pone la ciega pequeña 0.01 €
+Siddharta33: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [Qs Kc]
+YvonetJackUlay: se retira 
+drunkens: se retira 
+pipinoelbreve9: sube 0.04 € a 0.06 €
+srcachorro10: se retira 
+Ab5tract10n: se retira 
+Siddharta33: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a pipinoelbreve9
+pipinoelbreve9 se lleva 0.05 € del bote 
+pipinoelbreve9: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: srcachorro10 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Ab5tract10n (ciega pequeña) se retiró antes del Flop
+Asiento 3: Siddharta33 (ciega grande) se retiró antes del Flop
+Asiento 4: YvonetJackUlay se retiró antes del Flop (no apostó)
+Asiento 5: drunkens se retiró antes del Flop (no apostó)
+Asiento 6: pipinoelbreve9 recaudó (0.05 €)
+
+
+
+Mano n.º 257504291919 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:03:51 CET [27-08-2025 8:03:51 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: Siddharta33 (1.03 € en fichas) 
+Asiento 2: sintemblar (3.19 € en fichas) 
+Asiento 3: LuccAAFelippi (5.55 € en fichas) 
+Asiento 4: Ab5tract10n (1.29 € en fichas) 
+Asiento 5: elperrosequema (1.35 € en fichas) 
+Asiento 6: pipinoelbreve9 (2.03 € en fichas) 
+sintemblar: pone la ciega pequeña 0.01 €
+LuccAAFelippi: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [8d 3h]
+Ab5tract10n: se retira 
+elperrosequema: se retira 
+pipinoelbreve9: se retira 
+Siddharta33: se retira 
+sintemblar: sube 0.04 € a 0.06 €
+LuccAAFelippi: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a sintemblar
+sintemblar se lleva 0.04 € del bote 
+sintemblar: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: Siddharta33 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: sintemblar (ciega pequeña) recaudó (0.04 €)
+Asiento 3: LuccAAFelippi (ciega grande) se retiró antes del Flop
+Asiento 4: Ab5tract10n se retiró antes del Flop (no apostó)
+Asiento 5: elperrosequema se retiró antes del Flop (no apostó)
+Asiento 6: pipinoelbreve9 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504293112 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:04:02 CET [27-08-2025 8:04:02 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: sintemblar (5.72 € en fichas) 
+Asiento 2: 13ROS13 (2.04 € en fichas) 
+Asiento 3: JR.EWING433 (2.07 € en fichas) 
+Asiento 4: elperrosequema (1.35 € en fichas) 
+Asiento 5: pipinoelbreve9 (2.03 € en fichas) 
+Asiento 6: Bestiote (1.57 € en fichas) 
+13ROS13: pone la ciega pequeña 0.01 €
+JR.EWING433: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [6s Js]
+elperrosequema: sube 0.02 € a 0.04 €
+pipinoelbreve9: se retira 
+Bestiote: se retira 
+sintemblar: se retira 
+13ROS13: se retira 
+JR.EWING433: iguala 0.02 €
+*** FLOP *** [Qc Ad 7s]
+JR.EWING433: pasa 
+elperrosequema: apuesta 0.05 €
+JR.EWING433: se retira 
+La apuesta no igualada (0.05 €) ha sido devuelta a elperrosequema
+elperrosequema se lleva 0.09 € del bote 
+elperrosequema: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.09 € | Comisión 0 € 
+Comunitarias [Qc Ad 7s]
+Asiento 1: sintemblar (botón) se retiró antes del Flop (no apostó)
+Asiento 2: 13ROS13 (ciega pequeña) se retiró antes del Flop
+Asiento 3: JR.EWING433 (ciega grande) se retiró en el Flop
+Asiento 4: elperrosequema recaudó (0.09 €)
+Asiento 5: pipinoelbreve9 se retiró antes del Flop (no apostó)
+Asiento 6: Bestiote se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504294055 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:04:10 CET [27-08-2025 8:04:10 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: burgoa89 (1.93 € en fichas) 
+Asiento 2: Siddharta33 (1.95 € en fichas) 
+Asiento 3: guitimsa (2.03 € en fichas) 
+Asiento 4: kombei63 (0.91 € en fichas) 
+Asiento 5: pipinoelbreve9 (2.03 € en fichas) 
+Asiento 6: frnandito (2.08 € en fichas) 
+Siddharta33: pone la ciega pequeña 0.01 €
+guitimsa: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [5h 9s]
+kombei63: se retira 
+pipinoelbreve9: se retira 
+frnandito: se retira 
+burgoa89: se retira 
+Siddharta33: sube 0.04 € a 0.06 €
+guitimsa: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a Siddharta33
+Siddharta33 se lleva 0.04 € del bote 
+Siddharta33: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: burgoa89 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Siddharta33 (ciega pequeña) recaudó (0.04 €)
+Asiento 3: guitimsa (ciega grande) se retiró antes del Flop
+Asiento 4: kombei63 se retiró antes del Flop (no apostó)
+Asiento 5: pipinoelbreve9 se retiró antes del Flop (no apostó)
+Asiento 6: frnandito se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504294908 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:04:18 CET [27-08-2025 8:04:18 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: Bestiote (1.56 € en fichas) 
+Asiento 2: kombei63 (0.86 € en fichas) 
+Asiento 3: Siddharta33 (1.03 € en fichas) 
+Asiento 4: sintemblar (2.11 € en fichas) 
+Asiento 5: pipinoelbreve9 (2.03 € en fichas) 
+Asiento 6: Power929929 (3.44 € en fichas) 
+kombei63: pone la ciega pequeña 0.01 €
+Siddharta33: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [2c 4h]
+sintemblar: se retira 
+pipinoelbreve9: se retira 
+Power929929: se retira 
+Bestiote: se retira 
+kombei63: sube 0.04 € a 0.06 €
+Siddharta33: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a kombei63
+kombei63 se lleva 0.04 € del bote 
+kombei63: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.04 € | Comisión 0 € 
+Asiento 1: Bestiote (botón) se retiró antes del Flop (no apostó)
+Asiento 2: kombei63 (ciega pequeña) recaudó (0.04 €)
+Asiento 3: Siddharta33 (ciega grande) se retiró antes del Flop
+Asiento 4: sintemblar se retiró antes del Flop (no apostó)
+Asiento 5: pipinoelbreve9 se retiró antes del Flop (no apostó)
+Asiento 6: Power929929 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504295493 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:04:23 CET [27-08-2025 8:04:23 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: sintemblar (5.71 € en fichas) 
+Asiento 2: Utusuchaz (6.10 € en fichas) 
+Asiento 3: pipinoelbreve9 (2.03 € en fichas) 
+Asiento 4: EktorKing (2.05 € en fichas) 
+Asiento 5: burgoa89 (1.91 € en fichas) 
+Asiento 6: juajord26 (2.08 € en fichas) 
+Utusuchaz: pone la ciega pequeña 0.01 €
+pipinoelbreve9: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [6d Jd]
+EktorKing: se retira 
+burgoa89: se retira 
+juajord26: se retira 
+sintemblar: se retira 
+Utusuchaz: sube 0.04 € a 0.06 €
+pipinoelbreve9: iguala 0.04 €
+*** FLOP *** [2c 9c Ks]
+Utusuchaz: apuesta 0.04 €
+pipinoelbreve9: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a Utusuchaz
+Utusuchaz se lleva 0.11 € del bote 
+Utusuchaz: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.12 € | Comisión 0.01 € 
+Comunitarias [2c 9c Ks]
+Asiento 1: sintemblar (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Utusuchaz (ciega pequeña) recaudó (0.11 €)
+Asiento 3: pipinoelbreve9 (ciega grande) se retiró en el Flop
+Asiento 4: EktorKing se retiró antes del Flop (no apostó)
+Asiento 5: burgoa89 se retiró antes del Flop (no apostó)
+Asiento 6: juajord26 se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504299302 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:04:56 CET [27-08-2025 8:04:56 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: JR.EWING433 (2.02 € en fichas) 
+Asiento 2: pipinoelbreve9 (2 € en fichas) 
+Asiento 3: Mauro vic37 (2.23 € en fichas) 
+Asiento 4: ViniIgna (2.40 € en fichas) 
+Asiento 5: Bestiote (1.57 € en fichas) 
+Asiento 6: Utusuchaz (6.15 € en fichas) 
+pipinoelbreve9: pone la ciega pequeña 0.01 €
+Mauro vic37: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [2d Tc]
+ViniIgna: se retira 
+Bestiote: se retira 
+Utusuchaz: se retira 
+JR.EWING433: sube 0.04 € a 0.06 €
+pipinoelbreve9: se retira 
+Mauro vic37: se retira 
+La apuesta no igualada (0.04 €) ha sido devuelta a JR.EWING433
+JR.EWING433 se lleva 0.05 € del bote 
+JR.EWING433: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.05 € | Comisión 0 € 
+Asiento 1: JR.EWING433 (botón) recaudó (0.05 €)
+Asiento 2: pipinoelbreve9 (ciega pequeña) se retiró antes del Flop
+Asiento 3: Mauro vic37 (ciega grande) se retiró antes del Flop
+Asiento 4: ViniIgna se retiró antes del Flop (no apostó)
+Asiento 5: Bestiote se retiró antes del Flop (no apostó)
+Asiento 6: Utusuchaz se retiró antes del Flop (no apostó)
+
+
+
+Mano n.º 257504299912 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:05:01 CET [27-08-2025 8:05:01 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: pipinoelbreve9 (2 € en fichas) 
+Asiento 2: Bestiote (1.57 € en fichas) 
+Asiento 3: 13theNinja (1.91 € en fichas) 
+Asiento 4: kombei63 (0.88 € en fichas) 
+Asiento 5: Siddharta33 (1.95 € en fichas) 
+Asiento 6: drunkens (2 € en fichas) 
+Bestiote: pone la ciega pequeña 0.01 €
+13theNinja: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [As Kh]
+kombei63: se retira 
+Siddharta33: se retira 
+drunkens: sube 0.04 € a 0.06 €
+pipinoelbreve9: sube 0.12 € a 0.18 €
+Bestiote: se retira 
+13theNinja: se retira 
+drunkens: se retira 
+La apuesta no igualada (0.12 €) ha sido devuelta a pipinoelbreve9
+pipinoelbreve9 se lleva 0.15 € del bote 
+pipinoelbreve9: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.15 € | Comisión 0 € 
+Asiento 1: pipinoelbreve9 (botón) recaudó (0.15 €)
+Asiento 2: Bestiote (ciega pequeña) se retiró antes del Flop
+Asiento 3: 13theNinja (ciega grande) se retiró antes del Flop
+Asiento 4: kombei63 se retiró antes del Flop (no apostó)
+Asiento 5: Siddharta33 se retiró antes del Flop (no apostó)
+Asiento 6: drunkens se retiró antes del Flop
+
+
+
+Mano n.º 257504302013 de Zoom de PokerStars:  Hold'em No Limit (0.01 €/0.02 €) - 27-08-2025 14:05:19 CET [27-08-2025 8:05:19 ET]
+Mesa "Arneb" 6-max El asiento n.º 1 es el botón
+Asiento 1: 13ROS13 (2 € en fichas) 
+Asiento 2: DavidSezulfe (1.53 € en fichas) 
+Asiento 3: kombei63 (0.87 € en fichas) 
+Asiento 4: pipinoelbreve9 (2.09 € en fichas) 
+Asiento 5: manuelxi (1.54 € en fichas) 
+Asiento 6: guitimsa (2 € en fichas) 
+DavidSezulfe: pone la ciega pequeña 0.01 €
+kombei63: pone la ciega grande 0.02 €
+*** CARTAS DE MANO ***
+Repartidas a pipinoelbreve9 [Ks 8d]
+pipinoelbreve9 ha agotado su tiempo
+pipinoelbreve9: se retira 
+manuelxi: se retira 
+guitimsa: se retira 
+13ROS13: se retira 
+DavidSezulfe: se retira 
+La apuesta no igualada (0.01 €) ha sido devuelta a kombei63
+kombei63 se lleva 0.02 € del bote 
+kombei63: no muestra su mano 
+*** RESUMEN ***
+Bote total 0.02 € | Comisión 0 € 
+Asiento 1: 13ROS13 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: DavidSezulfe (ciega pequeña) se retiró antes del Flop
+Asiento 3: kombei63 (ciega grande) recaudó (0.02 €)
+Asiento 4: pipinoelbreve9 se retiró antes del Flop (no apostó)
+Asiento 5: manuelxi se retiró antes del Flop (no apostó)
+Asiento 6: guitimsa se retiró antes del Flop (no apostó)
+
+
+

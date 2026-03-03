@@ -1,0 +1,271 @@
+﻿PokerStars Hand #257804456596: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/19 16:47:47 CET [2025/09/19 10:47:47 ET]
+Table '3929544562 2' 6-max Seat #2 is the button
+Seat 1: philou_1428 (4727 in chips, €0.17 bounty) 
+Seat 2: marcosibon (19882 in chips, €0.29 bounty) 
+Seat 3: JR1200GS (4249 in chips, €0.17 bounty) 
+Seat 4: JPH74 (6649 in chips, €0.17 bounty) 
+Seat 5: PIQUERAS7777 (4729 in chips, €0.17 bounty) 
+Seat 6: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+philou_1428: posts the ante 15
+marcosibon: posts the ante 15
+JR1200GS: posts the ante 15
+JPH74: posts the ante 15
+PIQUERAS7777: posts the ante 15
+pipinoelbreve9: posts the ante 15
+JR1200GS: posts small blind 50
+JPH74: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 5c]
+PIQUERAS7777: raises 300 to 400
+pipinoelbreve9: folds 
+philou_1428: folds 
+marcosibon: folds 
+JR1200GS: calls 350
+JPH74: calls 300
+*** FLOP *** [2s 9h 9d]
+JR1200GS: checks 
+JPH74: bets 6234 and is all-in
+PIQUERAS7777: calls 4314 and is all-in
+JR1200GS: folds 
+Uncalled bet (1920) returned to JPH74
+*** TURN *** [2s 9h 9d] [5d]
+*** RIVER *** [2s 9h 9d 5d] [4s]
+*** SHOW DOWN ***
+JPH74: shows [Td Tc] (two pair, Tens and Nines)
+PIQUERAS7777: shows [7h 7c] (two pair, Nines and Sevens)
+JPH74 collected 9918 from pot
+JPH74 wins €0.12 for eliminating PIQUERAS7777 and their own bounty increases by €0.05 to €0.22
+PIQUERAS7777 finished the tournament
+*** SUMMARY ***
+Total pot 9918 | Rake 0 
+Board [2s 9h 9d 5d 4s]
+Seat 1: philou_1428 folded before Flop (didn't bet)
+Seat 2: marcosibon (button) folded before Flop (didn't bet)
+Seat 3: JR1200GS (small blind) folded on the Flop
+Seat 4: JPH74 (big blind) showed [Td Tc] and won (9918) with two pair, Tens and Nines
+Seat 5: PIQUERAS7777 showed [7h 7c] and lost with two pair, Nines and Sevens
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257804465784: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/19 16:48:47 CET [2025/09/19 10:48:47 ET]
+Table '3929544562 10' 6-max Seat #2 is the button
+Seat 1: Valium 10559 (4156 in chips, €0.17 bounty) 
+Seat 2: Mknop73 (4745 in chips, €0.17 bounty) 
+Seat 3: chanante007 (11662 in chips, €0.27 bounty) 
+Seat 4: pipinoelbreve9 (4985 in chips, €0.17 bounty) 
+Seat 6: One$ickCall (5000 in chips, €0.17 bounty) 
+Valium 10559: posts the ante 15
+Mknop73: posts the ante 15
+chanante007: posts the ante 15
+pipinoelbreve9: posts the ante 15
+One$ickCall: posts the ante 15
+chanante007: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 8d]
+One$ickCall: calls 100
+Valium 10559: calls 100
+Mknop73: calls 100
+chanante007: calls 50
+pipinoelbreve9: raises 600 to 700
+One$ickCall: calls 600
+Valium 10559: folds 
+Mknop73: calls 600
+chanante007: calls 600
+*** FLOP *** [Qs 5d Td]
+chanante007: checks 
+pipinoelbreve9: bets 1488
+One$ickCall: raises 2797 to 4285 and is all-in
+Mknop73: calls 4030 and is all-in
+chanante007: folds 
+pipinoelbreve9: folds 
+Uncalled bet (255) returned to One$ickCall
+*** TURN *** [Qs 5d Td] [9d]
+*** RIVER *** [Qs 5d Td 9d] [Tc]
+*** SHOW DOWN ***
+One$ickCall: shows [Th Qh] (a full house, Tens full of Queens)
+Mknop73: shows [Ad Qc] (two pair, Queens and Tens)
+One$ickCall collected 12523 from pot
+One$ickCall wins €0.12 for eliminating Mknop73 and their own bounty increases by €0.05 to €0.22
+Mknop73 finished the tournament
+*** SUMMARY ***
+Total pot 12523 | Rake 0 
+Board [Qs 5d Td 9d Tc]
+Seat 1: Valium 10559 folded before Flop
+Seat 2: Mknop73 (button) showed [Ad Qc] and lost with two pair, Queens and Tens
+Seat 3: chanante007 (small blind) folded on the Flop
+Seat 4: pipinoelbreve9 (big blind) folded on the Flop
+Seat 6: One$ickCall showed [Th Qh] and won (12523) with a full house, Tens full of Queens
+
+
+
+PokerStars Hand #257804473165: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level V (50/100) - 2025/09/19 16:49:34 CET [2025/09/19 10:49:34 ET]
+Table '3929544562 10' 6-max Seat #3 is the button
+Seat 1: Valium 10559 (4041 in chips, €0.17 bounty) 
+Seat 3: chanante007 (10947 in chips, €0.27 bounty) 
+Seat 4: pipinoelbreve9 (2782 in chips, €0.17 bounty) 
+Seat 5: BeastBoy12345 (5000 in chips, €0.17 bounty) 
+Seat 6: One$ickCall (12778 in chips, €0.22 bounty) 
+Valium 10559: posts the ante 15
+chanante007: posts the ante 15
+pipinoelbreve9: posts the ante 15
+BeastBoy12345: posts the ante 15
+One$ickCall: posts the ante 15
+pipinoelbreve9: posts small blind 50
+BeastBoy12345: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 3s]
+One$ickCall: calls 100
+Valium 10559: calls 100
+chanante007: folds 
+pipinoelbreve9: folds 
+BeastBoy12345: checks 
+*** FLOP *** [Kd 9h 6h]
+BeastBoy12345: checks 
+One$ickCall: checks 
+Valium 10559: bets 425
+BeastBoy12345: folds 
+One$ickCall: calls 425
+*** TURN *** [Kd 9h 6h] [Kc]
+One$ickCall: checks 
+Valium 10559: bets 638
+One$ickCall: calls 638
+*** RIVER *** [Kd 9h 6h Kc] [2h]
+One$ickCall: checks 
+Valium 10559: bets 2551
+One$ickCall: folds 
+Uncalled bet (2551) returned to Valium 10559
+Valium 10559 collected 2551 from pot
+*** SUMMARY ***
+Total pot 2551 | Rake 0 
+Board [Kd 9h 6h Kc 2h]
+Seat 1: Valium 10559 collected (2551)
+Seat 3: chanante007 (button) folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (small blind) folded before Flop
+Seat 5: BeastBoy12345 (big blind) folded on the Flop
+Seat 6: One$ickCall folded on the River
+
+
+
+PokerStars Hand #257804483425: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/19 16:50:41 CET [2025/09/19 10:50:41 ET]
+Table '3929544562 10' 6-max Seat #4 is the button
+Seat 1: Valium 10559 (5414 in chips, €0.17 bounty) 
+Seat 3: chanante007 (10932 in chips, €0.27 bounty) 
+Seat 4: pipinoelbreve9 (2717 in chips, €0.17 bounty) 
+Seat 5: BeastBoy12345 (4885 in chips, €0.17 bounty) 
+Seat 6: One$ickCall (11600 in chips, €0.22 bounty) 
+Valium 10559: posts the ante 18
+chanante007: posts the ante 18
+pipinoelbreve9: posts the ante 18
+BeastBoy12345: posts the ante 18
+One$ickCall: posts the ante 18
+BeastBoy12345: posts small blind 60
+One$ickCall: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Kc]
+Valium 10559: folds 
+chanante007: folds 
+pipinoelbreve9: raises 240 to 360
+BeastBoy12345: folds 
+One$ickCall: folds 
+Uncalled bet (240) returned to pipinoelbreve9
+pipinoelbreve9 collected 390 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Valium 10559 folded before Flop (didn't bet)
+Seat 3: chanante007 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (button) collected (390)
+Seat 5: BeastBoy12345 (small blind) folded before Flop
+Seat 6: One$ickCall (big blind) folded before Flop
+
+
+
+PokerStars Hand #257804486701: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/19 16:51:02 CET [2025/09/19 10:51:02 ET]
+Table '3929544562 10' 6-max Seat #5 is the button
+Seat 1: Valium 10559 (5396 in chips, €0.17 bounty) 
+Seat 3: chanante007 (10914 in chips, €0.27 bounty) 
+Seat 4: pipinoelbreve9 (2969 in chips, €0.17 bounty) 
+Seat 5: BeastBoy12345 (4807 in chips, €0.17 bounty) 
+Seat 6: One$ickCall (11462 in chips, €0.22 bounty) 
+Valium 10559: posts the ante 18
+chanante007: posts the ante 18
+pipinoelbreve9: posts the ante 18
+BeastBoy12345: posts the ante 18
+One$ickCall: posts the ante 18
+One$ickCall: posts small blind 60
+Valium 10559: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 2d]
+chanante007: folds 
+pipinoelbreve9: folds 
+BeastBoy12345: raises 120 to 240
+One$ickCall: raises 690 to 930
+Valium 10559: folds 
+BeastBoy12345: folds 
+Uncalled bet (690) returned to One$ickCall
+One$ickCall collected 690 from pot
+One$ickCall: doesn't show hand 
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Seat 1: Valium 10559 (big blind) folded before Flop
+Seat 3: chanante007 folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: BeastBoy12345 (button) folded before Flop
+Seat 6: One$ickCall (small blind) collected (690)
+
+
+
+PokerStars Hand #257804490102: Tournament #3929544562, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VI (60/120) - 2025/09/19 16:51:24 CET [2025/09/19 10:51:24 ET]
+Table '3929544562 10' 6-max Seat #6 is the button
+Seat 1: Valium 10559 (5258 in chips, €0.17 bounty) 
+Seat 3: chanante007 (10896 in chips, €0.27 bounty) 
+Seat 4: pipinoelbreve9 (2951 in chips, €0.17 bounty) 
+Seat 5: BeastBoy12345 (4549 in chips, €0.17 bounty) 
+Seat 6: One$ickCall (11894 in chips, €0.22 bounty) 
+Valium 10559: posts the ante 18
+chanante007: posts the ante 18
+pipinoelbreve9: posts the ante 18
+BeastBoy12345: posts the ante 18
+One$ickCall: posts the ante 18
+Valium 10559: posts small blind 60
+chanante007: posts big blind 120
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Ad]
+pipinoelbreve9: raises 240 to 360
+BeastBoy12345: calls 360
+One$ickCall: folds 
+Valium 10559: calls 300
+chanante007: calls 240
+*** FLOP *** [4s 7s Qd]
+Valium 10559: checks 
+chanante007: bets 10518 and is all-in
+pipinoelbreve9: calls 2573 and is all-in
+BeastBoy12345: folds 
+Valium 10559: calls 4880 and is all-in
+Uncalled bet (5638) returned to chanante007
+*** TURN *** [4s 7s Qd] [Kc]
+*** RIVER *** [4s 7s Qd Kc] [4h]
+*** SHOW DOWN ***
+Valium 10559: shows [Kh Qs] (two pair, Kings and Queens)
+chanante007: shows [Qh Kd] (two pair, Kings and Queens)
+Valium 10559 collected 2307 from side pot
+chanante007 collected 2307 from side pot
+pipinoelbreve9: shows [Qc Ad] (two pair, Queens and Fours)
+Valium 10559 collected 4625 from main pot
+chanante007 collected 4624 from main pot
+Valium 10559 wins €0.07 for splitting the elimination of pipinoelbreve9 and their own bounty increases by €0.02 to €0.19
+chanante007 wins €0.06 for splitting the elimination of pipinoelbreve9 and their own bounty increases by €0.02 to €0.29
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 13863 Main pot 9249. Side pot 4614. | Rake 0 
+Board [4s 7s Qd Kc 4h]
+Seat 1: Valium 10559 (small blind) showed [Kh Qs] and won (6932) with two pair, Kings and Queens
+Seat 3: chanante007 (big blind) showed [Qh Kd] and won (6931) with two pair, Kings and Queens
+Seat 4: pipinoelbreve9 showed [Qc Ad] and lost with two pair, Queens and Fours
+Seat 5: BeastBoy12345 folded on the Flop
+Seat 6: One$ickCall (button) folded before Flop (didn't bet)
+
+
+

@@ -26,6 +26,7 @@ services:
     restart: unless-stopped
     volumes:
       - solver-jobs:/app/jobs
+      - ai-docs:/app/ai_docs
     ports:
       - "8000:8000"
     environment:
@@ -33,6 +34,12 @@ services:
       - DATABASE_URL=postgresql+asyncpg://solver:${DB_PASSWORD:-solverpass}@postgres:5432/solverdb
       - SECRET_KEY=${SECRET_KEY:-changeme-use-a-long-random-string-in-production}
       - ACCESS_TOKEN_EXPIRE_DAYS=30
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-qwen2.5:14b}
+      - AI_SERVICE_URL=http://ai-service:5001
+      - AI_DOCS_DIR=/app/ai_docs
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     depends_on:
       postgres:
         condition: service_healthy
@@ -42,6 +49,30 @@ services:
       timeout: 5s
       retries: 5
       start_period: 20s
+
+  ai-service:
+    build:
+      context: ./ai
+      dockerfile: Dockerfile
+    container_name: openpoker-ai
+    restart: unless-stopped
+    volumes:
+      - solver-jobs:/app/jobs:ro
+      - ai-docs:/app/ai_docs
+    ports:
+      - "5001:5001"
+    environment:
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      - OLLAMA_EMBED_MODEL=${OLLAMA_EMBED_MODEL:-nomic-embed-text}
+      - DOCS_DIR=/app/ai_docs
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5001/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
 
   frontend:
     build:
@@ -60,3 +91,4 @@ services:
 volumes:
   solver-jobs:
   postgres-data:
+  ai-docs:

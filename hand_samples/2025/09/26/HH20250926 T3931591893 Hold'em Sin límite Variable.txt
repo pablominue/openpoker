@@ -1,0 +1,163 @@
+﻿PokerStars Hand #257893416592: Tournament #3931591893,  Hold'em No Limit - Level I (25/50) - 2025/09/26 14:28:34 CET [2025/09/26 8:28:34 ET]
+Table '3931591893 1' 4-max Seat #1 is the button
+Seat 1: palas666 (1000 in chips, €0.88 bounty) 
+Seat 2: dollarstorm777 (1000 in chips, €0.88 bounty) 
+Seat 3: andy89es (1000 in chips, €0.88 bounty) 
+Seat 4: pipinoelbreve9 (1000 in chips, €0.88 bounty) 
+dollarstorm777: posts small blind 25
+andy89es: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 5d]
+pipinoelbreve9 has timed out
+pipinoelbreve9: folds 
+pipinoelbreve9 is sitting out
+palas666: folds 
+dollarstorm777: folds 
+Uncalled bet (25) returned to andy89es
+andy89es collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: palas666 (button) folded before Flop (didn't bet)
+Seat 2: dollarstorm777 (small blind) folded before Flop
+Seat 3: andy89es (big blind) collected (50)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257893419180: Tournament #3931591893,  Hold'em No Limit - Level I (25/50) - 2025/09/26 14:28:56 CET [2025/09/26 8:28:56 ET]
+Table '3931591893 1' 4-max Seat #2 is the button
+Seat 1: palas666 (1000 in chips, €0.88 bounty) 
+Seat 2: dollarstorm777 (975 in chips, €0.88 bounty) 
+Seat 3: andy89es (1025 in chips, €0.88 bounty) 
+Seat 4: pipinoelbreve9 (1000 in chips, €0.88 bounty) is sitting out
+andy89es: posts small blind 25
+pipinoelbreve9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 2s]
+palas666: raises 60 to 110
+dollarstorm777: folds 
+andy89es: calls 85
+pipinoelbreve9: folds 
+*** FLOP *** [9c Ac 9s]
+andy89es: checks 
+palas666: checks 
+*** TURN *** [9c Ac 9s] [Th]
+andy89es: bets 135
+palas666: calls 135
+*** RIVER *** [9c Ac 9s Th] [Kc]
+andy89es: bets 780 and is all-in
+pipinoelbreve9 is disconnected 
+pipinoelbreve9 has returned
+palas666: folds 
+Uncalled bet (780) returned to andy89es
+andy89es collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [9c Ac 9s Th Kc]
+Seat 1: palas666 folded on the River
+Seat 2: dollarstorm777 (button) folded before Flop (didn't bet)
+Seat 3: andy89es (small blind) collected (540)
+Seat 4: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257893424662: Tournament #3931591893,  Hold'em No Limit - Level I (25/50) - 2025/09/26 14:29:42 CET [2025/09/26 8:29:42 ET]
+Table '3931591893 1' 4-max Seat #3 is the button
+Seat 1: palas666 (755 in chips, €0.88 bounty) 
+Seat 2: dollarstorm777 (975 in chips, €0.88 bounty) 
+Seat 3: andy89es (1320 in chips, €0.88 bounty) 
+Seat 4: pipinoelbreve9 (950 in chips, €0.88 bounty) 
+pipinoelbreve9: posts small blind 25
+palas666: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 5h]
+dollarstorm777: folds 
+andy89es: folds 
+pipinoelbreve9: folds 
+Uncalled bet (25) returned to palas666
+palas666 collected 50 from pot
+palas666: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: palas666 (big blind) collected (50)
+Seat 2: dollarstorm777 folded before Flop (didn't bet)
+Seat 3: andy89es (button) folded before Flop (didn't bet)
+Seat 4: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257893425977: Tournament #3931591893,  Hold'em No Limit - Level I (25/50) - 2025/09/26 14:29:53 CET [2025/09/26 8:29:53 ET]
+Table '3931591893 1' 4-max Seat #4 is the button
+Seat 1: palas666 (780 in chips, €0.88 bounty) 
+Seat 2: dollarstorm777 (975 in chips, €0.88 bounty) 
+Seat 3: andy89es (1320 in chips, €0.88 bounty) 
+Seat 4: pipinoelbreve9 (925 in chips, €0.88 bounty) 
+palas666: posts small blind 25
+dollarstorm777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 6d]
+andy89es: calls 50
+pipinoelbreve9: folds 
+palas666: calls 25
+dollarstorm777: checks 
+*** FLOP *** [3h 6s Kh]
+palas666: checks 
+dollarstorm777: checks 
+andy89es: checks 
+*** TURN *** [3h 6s Kh] [3s]
+palas666: checks 
+dollarstorm777: checks 
+andy89es: bets 75
+palas666: folds 
+dollarstorm777: folds 
+Uncalled bet (75) returned to andy89es
+andy89es collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [3h 6s Kh 3s]
+Seat 1: palas666 (small blind) folded on the Turn
+Seat 2: dollarstorm777 (big blind) folded on the Turn
+Seat 3: andy89es collected (150)
+Seat 4: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257893430537: Tournament #3931591893,  Hold'em No Limit - Level II (30/60) - 2025/09/26 14:30:31 CET [2025/09/26 8:30:31 ET]
+Table '3931591893 1' 4-max Seat #1 is the button
+Seat 1: palas666 (730 in chips, €0.88 bounty) 
+Seat 2: dollarstorm777 (925 in chips, €0.88 bounty) 
+Seat 3: andy89es (1420 in chips, €0.88 bounty) 
+Seat 4: pipinoelbreve9 (925 in chips, €0.88 bounty) 
+dollarstorm777: posts small blind 30
+andy89es: posts big blind 60
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 4h]
+pipinoelbreve9: raises 120 to 180
+palas666: folds 
+dollarstorm777: calls 150
+andy89es: raises 1240 to 1420 and is all-in
+pipinoelbreve9: calls 745 and is all-in
+dollarstorm777: calls 745 and is all-in
+Uncalled bet (495) returned to andy89es
+*** FLOP *** [2h 8d Jd]
+*** TURN *** [2h 8d Jd] [As]
+*** RIVER *** [2h 8d Jd As] [Qh]
+*** SHOW DOWN ***
+dollarstorm777: shows [8h Ac] (two pair, Aces and Eights)
+andy89es: shows [Qc Qd] (three of a kind, Queens)
+pipinoelbreve9: shows [4c 4h] (a pair of Fours)
+andy89es collected 2775 from pot
+andy89es wins €0.33 for eliminating dollarstorm777 and their own bounty increases by €0.44 to €1.32
+andy89es wins €0.22 for eliminating pipinoelbreve9 and their own bounty increases by €0.44 to €1.76
+dollarstorm777 finished the tournament in 3rd place
+pipinoelbreve9 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 2775 | Rake 0 
+Board [2h 8d Jd As Qh]
+Seat 1: palas666 (button) folded before Flop (didn't bet)
+Seat 2: dollarstorm777 (small blind) showed [8h Ac] and lost with two pair, Aces and Eights
+Seat 3: andy89es (big blind) showed [Qc Qd] and won (2775) with three of a kind, Queens
+Seat 4: pipinoelbreve9 showed [4c 4h] and lost with a pair of Fours
+
+
+

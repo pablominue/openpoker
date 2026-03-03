@@ -1,0 +1,102 @@
+﻿PokerStars Hand #257983853049: Tournament #3933683287, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/03 18:05:19 CET [2025/10/03 12:05:19 ET]
+Table '3933683287 1' 8-max Seat #1 is the button
+Seat 1: raul sevilla (500 in chips) 
+Seat 2: pipinoelbreve9 (500 in chips) 
+Seat 3: NANORM1963 (500 in chips) 
+Seat 4: hokusaimonet (500 in chips) 
+Seat 5: solnegro1 (500 in chips) is sitting out
+Seat 6: Kowalski_188 (500 in chips) 
+Seat 7: brugger355 (500 in chips) 
+Seat 8: maclor1972 (500 in chips) 
+raul sevilla: posts the ante 10
+pipinoelbreve9: posts the ante 10
+NANORM1963: posts the ante 10
+hokusaimonet: posts the ante 10
+solnegro1: posts the ante 10
+Kowalski_188: posts the ante 10
+brugger355: posts the ante 10
+maclor1972: posts the ante 10
+pipinoelbreve9: posts small blind 25
+NANORM1963: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Qc]
+hokusaimonet: raises 440 to 490 and is all-in
+solnegro1: folds 
+Kowalski_188: calls 490 and is all-in
+brugger355: folds 
+maclor1972: folds 
+raul sevilla: folds 
+pipinoelbreve9: folds 
+NANORM1963: calls 440 and is all-in
+*** FLOP *** [Kd 9h Kh]
+*** TURN *** [Kd 9h Kh] [Ts]
+*** RIVER *** [Kd 9h Kh Ts] [Ks]
+*** SHOW DOWN ***
+NANORM1963: shows [Jd Jh] (a full house, Kings full of Jacks)
+hokusaimonet: shows [Ac 8s] (three of a kind, Kings)
+Kowalski_188: shows [Qh Ah] (three of a kind, Kings)
+NANORM1963 collected 1575 from pot
+hokusaimonet finished the tournament in 7th place
+Kowalski_188 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [Kd 9h Kh Ts Ks]
+Seat 1: raul sevilla (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: NANORM1963 (big blind) showed [Jd Jh] and won (1575) with a full house, Kings full of Jacks
+Seat 4: hokusaimonet showed [Ac 8s] and lost with three of a kind, Kings
+Seat 5: solnegro1 folded before Flop (didn't bet)
+Seat 6: Kowalski_188 showed [Qh Ah] and lost with three of a kind, Kings
+Seat 7: brugger355 folded before Flop (didn't bet)
+Seat 8: maclor1972 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257983857298: Tournament #3933683287, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2025/10/03 18:05:44 CET [2025/10/03 12:05:44 ET]
+Table '3933683287 1' 8-max Seat #2 is the button
+Seat 1: raul sevilla (490 in chips) 
+Seat 2: pipinoelbreve9 (465 in chips) 
+Seat 3: NANORM1963 (1575 in chips) 
+Seat 5: solnegro1 (490 in chips) is sitting out
+Seat 7: brugger355 (490 in chips) 
+Seat 8: maclor1972 (490 in chips) 
+raul sevilla: posts the ante 10
+pipinoelbreve9: posts the ante 10
+NANORM1963: posts the ante 10
+solnegro1: posts the ante 10
+brugger355: posts the ante 10
+maclor1972: posts the ante 10
+NANORM1963: posts small blind 25
+solnegro1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c Kc]
+brugger355: folds 
+solnegro1 has returned
+maclor1972: folds 
+raul sevilla: raises 430 to 480 and is all-in
+pipinoelbreve9: calls 455 and is all-in
+NANORM1963: calls 455
+solnegro1: folds 
+*** FLOP *** [As 2s Qs]
+*** TURN *** [As 2s Qs] [Jc]
+*** RIVER *** [As 2s Qs Jc] [8h]
+maclor1972 is disconnected 
+*** SHOW DOWN ***
+NANORM1963: shows [Kd Qh] (a pair of Queens)
+raul sevilla: shows [6d Ah] (a pair of Aces)
+raul sevilla collected 50 from side pot
+pipinoelbreve9: shows [8c Kc] (a pair of Eights)
+raul sevilla collected 1475 from main pot
+pipinoelbreve9 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1525 Main pot 1475. Side pot 50. | Rake 0 
+Board [As 2s Qs Jc 8h]
+Seat 1: raul sevilla showed [6d Ah] and won (1525) with a pair of Aces
+Seat 2: pipinoelbreve9 (button) showed [8c Kc] and lost with a pair of Eights
+Seat 3: NANORM1963 (small blind) showed [Kd Qh] and lost with a pair of Queens
+Seat 5: solnegro1 (big blind) folded before Flop
+Seat 7: brugger355 folded before Flop (didn't bet)
+Seat 8: maclor1972 folded before Flop (didn't bet)
+
+
+

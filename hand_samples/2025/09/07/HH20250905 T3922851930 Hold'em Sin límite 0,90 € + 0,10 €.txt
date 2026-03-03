@@ -1,0 +1,776 @@
+﻿PokerStars Hand #257625223386: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:11:20 CET [2025/09/05 16:11:20 ET]
+Table '3922851930 2' 9-max Seat #4 is the button
+Seat 1: 9Pica89 (1347 in chips) 
+Seat 2: ComposerDismalg (1895 in chips) 
+Seat 4: fulldeases88 (1006 in chips) 
+Seat 5: cabeza da479 (1985 in chips) 
+Seat 6: pipinoelbreve9 (1500 in chips) 
+Seat 7: nereita76 (1590 in chips) 
+Seat 9: 3zamora (1119 in chips) 
+9Pica89: posts the ante 5
+ComposerDismalg: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+nereita76: posts the ante 5
+3zamora: posts the ante 5
+cabeza da479: posts small blind 25
+pipinoelbreve9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Qd]
+nereita76: folds 
+3zamora: calls 50
+9Pica89: calls 50
+ComposerDismalg: calls 50
+fulldeases88: folds 
+cabeza da479: calls 25
+pipinoelbreve9: raises 550 to 600
+3zamora: calls 550
+9Pica89: folds 
+ComposerDismalg: folds 
+cabeza da479: folds 
+*** FLOP *** [9s 4c 7h]
+pipinoelbreve9: bets 895 and is all-in
+3zamora: calls 514 and is all-in
+Uncalled bet (381) returned to pipinoelbreve9
+*** TURN *** [9s 4c 7h] [2h]
+*** RIVER *** [9s 4c 7h 2h] [2c]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ah Qd] (a pair of Deuces)
+3zamora: shows [Ac Td] (a pair of Deuces - lower kicker)
+pipinoelbreve9 collected 2413 from pot
+3zamora finished the tournament
+*** SUMMARY ***
+Total pot 2413 | Rake 0 
+Board [9s 4c 7h 2h 2c]
+Seat 1: 9Pica89 folded before Flop
+Seat 2: ComposerDismalg folded before Flop
+Seat 4: fulldeases88 (button) folded before Flop (didn't bet)
+Seat 5: cabeza da479 (small blind) folded before Flop
+Seat 6: pipinoelbreve9 (big blind) showed [Ah Qd] and won (2413) with a pair of Deuces
+Seat 7: nereita76 folded before Flop (didn't bet)
+Seat 9: 3zamora showed [Ac Td] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #257625234300: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:12:07 CET [2025/09/05 16:12:07 ET]
+Table '3922851930 2' 9-max Seat #5 is the button
+Seat 1: 9Pica89 (1292 in chips) 
+Seat 2: ComposerDismalg (1840 in chips) 
+Seat 4: fulldeases88 (1001 in chips) 
+Seat 5: cabeza da479 (1930 in chips) 
+Seat 6: pipinoelbreve9 (2794 in chips) 
+Seat 7: nereita76 (1585 in chips) 
+9Pica89: posts the ante 5
+ComposerDismalg: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+nereita76: posts the ante 5
+pipinoelbreve9: posts small blind 25
+nereita76: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 4c]
+9Pica89: folds 
+ComposerDismalg: folds 
+fulldeases88: raises 100 to 150
+cabeza da479: folds 
+pipinoelbreve9: folds 
+nereita76: calls 100
+*** FLOP *** [Qs 8s 6c]
+nereita76: checks 
+fulldeases88: bets 228
+nereita76: folds 
+Uncalled bet (228) returned to fulldeases88
+fulldeases88 collected 355 from pot
+fulldeases88: doesn't show hand 
+*** SUMMARY ***
+Total pot 355 | Rake 0 
+Board [Qs 8s 6c]
+Seat 1: 9Pica89 folded before Flop (didn't bet)
+Seat 2: ComposerDismalg folded before Flop (didn't bet)
+Seat 4: fulldeases88 collected (355)
+Seat 5: cabeza da479 (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: nereita76 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257625243829: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:12:49 CET [2025/09/05 16:12:49 ET]
+Table '3922851930 2' 9-max Seat #6 is the button
+Seat 1: 9Pica89 (1287 in chips) 
+Seat 2: ComposerDismalg (1835 in chips) 
+Seat 4: fulldeases88 (1201 in chips) 
+Seat 5: cabeza da479 (1925 in chips) 
+Seat 6: pipinoelbreve9 (2764 in chips) 
+Seat 7: nereita76 (1430 in chips) 
+9Pica89: posts the ante 5
+ComposerDismalg: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+nereita76: posts the ante 5
+nereita76: posts small blind 25
+9Pica89: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 6h]
+ComposerDismalg: folds 
+fulldeases88: folds 
+cabeza da479: folds 
+pipinoelbreve9: calls 50
+nereita76: raises 180 to 230
+9Pica89: calls 180
+pipinoelbreve9: folds 
+*** FLOP *** [3s 4s 9d]
+nereita76: bets 1195 and is all-in
+9Pica89: calls 1052 and is all-in
+Uncalled bet (143) returned to nereita76
+*** TURN *** [3s 4s 9d] [9h]
+*** RIVER *** [3s 4s 9d 9h] [Kd]
+*** SHOW DOWN ***
+nereita76: shows [Qs Qh] (two pair, Queens and Nines)
+9Pica89: shows [Ah 9c] (three of a kind, Nines)
+9Pica89 collected 2644 from pot
+*** SUMMARY ***
+Total pot 2644 | Rake 0 
+Board [3s 4s 9d 9h Kd]
+Seat 1: 9Pica89 (big blind) showed [Ah 9c] and won (2644) with three of a kind, Nines
+Seat 2: ComposerDismalg folded before Flop (didn't bet)
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (button) folded before Flop
+Seat 7: nereita76 (small blind) showed [Qs Qh] and lost with two pair, Queens and Nines
+
+
+
+PokerStars Hand #257625251290: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:13:22 CET [2025/09/05 16:13:22 ET]
+Table '3922851930 2' 9-max Seat #7 is the button
+Seat 1: 9Pica89 (2644 in chips) 
+Seat 2: ComposerDismalg (1830 in chips) 
+Seat 4: fulldeases88 (1196 in chips) 
+Seat 5: cabeza da479 (1920 in chips) 
+Seat 6: pipinoelbreve9 (2709 in chips) 
+Seat 7: nereita76 (143 in chips) 
+Seat 8: ARES446 (1500 in chips) out of hand (moved from another table into small blind)
+ARES446 will be allowed to play after the button
+9Pica89: posts the ante 5
+ComposerDismalg: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+nereita76: posts the ante 5
+9Pica89: posts small blind 25
+ComposerDismalg: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 6h]
+fulldeases88: folds 
+cabeza da479: folds 
+pipinoelbreve9: raises 100 to 150
+nereita76: calls 138 and is all-in
+9Pica89: calls 125
+ComposerDismalg: raises 618 to 768
+pipinoelbreve9: folds 
+9Pica89: calls 618
+*** FLOP *** [5c 3d 9c]
+9Pica89: checks 
+ComposerDismalg: bets 927
+9Pica89: raises 944 to 1871 and is all-in
+ComposerDismalg: calls 130 and is all-in
+Uncalled bet (814) returned to 9Pica89
+*** TURN *** [5c 3d 9c] [3s]
+*** RIVER *** [5c 3d 9c 3s] [Qs]
+*** SHOW DOWN ***
+9Pica89: shows [Qd Jd] (two pair, Queens and Threes)
+ComposerDismalg: shows [Ks Ah] (a pair of Threes)
+9Pica89 collected 3386 from side pot
+nereita76: shows [8c 8s] (two pair, Eights and Threes)
+9Pica89 collected 582 from main pot
+ComposerDismalg finished the tournament
+nereita76 finished the tournament
+*** SUMMARY ***
+Total pot 3968 Main pot 582. Side pot 3386. | Rake 0 
+Board [5c 3d 9c 3s Qs]
+Seat 1: 9Pica89 (small blind) showed [Qd Jd] and won (3968) with two pair, Queens and Threes
+Seat 2: ComposerDismalg (big blind) showed [Ks Ah] and lost with a pair of Threes
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop
+Seat 7: nereita76 (button) showed [8c 8s] and lost with two pair, Eights and Threes
+
+
+
+PokerStars Hand #257625261336: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:14:06 CET [2025/09/05 16:14:06 ET]
+Table '3922851930 2' 9-max Seat #1 is the button
+Seat 1: 9Pica89 (4782 in chips) 
+Seat 4: fulldeases88 (1191 in chips) 
+Seat 5: cabeza da479 (1915 in chips) 
+Seat 6: pipinoelbreve9 (2554 in chips) 
+Seat 8: ARES446 (1500 in chips) 
+9Pica89: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+ARES446: posts the ante 5
+fulldeases88: posts small blind 25
+cabeza da479: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 3s]
+elgordo_0o is disconnected 
+pipinoelbreve9: folds 
+ARES446: folds 
+9Pica89: folds 
+fulldeases88: raises 1136 to 1186 and is all-in
+cabeza da479: folds 
+Uncalled bet (1136) returned to fulldeases88
+fulldeases88 collected 125 from pot
+fulldeases88: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: 9Pica89 (button) folded before Flop (didn't bet)
+Seat 4: fulldeases88 (small blind) collected (125)
+Seat 5: cabeza da479 (big blind) folded before Flop
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 8: ARES446 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625266336: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:14:28 CET [2025/09/05 16:14:28 ET]
+Table '3922851930 2' 9-max Seat #4 is the button
+Seat 1: 9Pica89 (4777 in chips) 
+Seat 4: fulldeases88 (1261 in chips) 
+Seat 5: cabeza da479 (1860 in chips) 
+Seat 6: pipinoelbreve9 (2549 in chips) 
+Seat 7: elgordo_0o (1500 in chips) 
+Seat 8: ARES446 (1495 in chips) 
+9Pica89: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+elgordo_0o: posts the ante 5
+ARES446: posts the ante 5
+cabeza da479: posts small blind 25
+pipinoelbreve9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 3d]
+elgordo_0o: raises 50 to 100
+ARES446: folds 
+9Pica89: folds 
+fulldeases88: folds 
+cabeza da479: calls 75
+pipinoelbreve9: calls 50
+*** FLOP *** [6c 7h 4c]
+cabeza da479: checks 
+pipinoelbreve9: bets 2444 and is all-in
+elgordo_0o: calls 1395 and is all-in
+cabeza da479: folds 
+Uncalled bet (1049) returned to pipinoelbreve9
+*** TURN *** [6c 7h 4c] [9s]
+*** RIVER *** [6c 7h 4c 9s] [Ad]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [3s 3d] (a pair of Threes)
+elgordo_0o: shows [As 4s] (two pair, Aces and Fours)
+elgordo_0o collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [6c 7h 4c 9s Ad]
+Seat 1: 9Pica89 folded before Flop (didn't bet)
+Seat 4: fulldeases88 (button) folded before Flop (didn't bet)
+Seat 5: cabeza da479 (small blind) folded on the Flop
+Seat 6: pipinoelbreve9 (big blind) showed [3s 3d] and lost with a pair of Threes
+Seat 7: elgordo_0o showed [As 4s] and won (3120) with two pair, Aces and Fours
+Seat 8: ARES446 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625277812: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level III (25/50) - 2025/09/05 22:15:18 CET [2025/09/05 16:15:18 ET]
+Table '3922851930 2' 9-max Seat #5 is the button
+Seat 1: 9Pica89 (4772 in chips) 
+Seat 2: ElDon69Mandanga (1500 in chips) 
+Seat 4: fulldeases88 (1256 in chips) 
+Seat 5: cabeza da479 (1755 in chips) 
+Seat 6: pipinoelbreve9 (1049 in chips) 
+Seat 7: elgordo_0o (3120 in chips) 
+Seat 8: ARES446 (1490 in chips) 
+9Pica89: posts the ante 5
+ElDon69Mandanga: posts the ante 5
+fulldeases88: posts the ante 5
+cabeza da479: posts the ante 5
+pipinoelbreve9: posts the ante 5
+elgordo_0o: posts the ante 5
+ARES446: posts the ante 5
+pipinoelbreve9: posts small blind 25
+elgordo_0o: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d Th]
+ARES446: raises 160 to 210
+9Pica89: calls 210
+ElDon69Mandanga: calls 210
+fulldeases88: folds 
+cabeza da479: folds 
+pipinoelbreve9: folds 
+elgordo_0o: folds 
+*** FLOP *** [8s 2c 8c]
+ARES446: checks 
+9Pica89: checks 
+ElDon69Mandanga: bets 370
+ARES446: folds 
+9Pica89: raises 370 to 740
+ElDon69Mandanga: folds 
+Uncalled bet (370) returned to 9Pica89
+9Pica89 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [8s 2c 8c]
+Seat 1: 9Pica89 collected (1480)
+Seat 2: ElDon69Mandanga folded on the Flop
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: elgordo_0o (big blind) folded before Flop
+Seat 8: ARES446 folded on the Flop
+
+
+
+PokerStars Hand #257625292163: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:16:20 CET [2025/09/05 16:16:20 ET]
+Table '3922851930 2' 9-max Seat #6 is the button
+Seat 1: 9Pica89 (5667 in chips) 
+Seat 2: ElDon69Mandanga (915 in chips) 
+Seat 4: fulldeases88 (1251 in chips) 
+Seat 5: cabeza da479 (1750 in chips) 
+Seat 6: pipinoelbreve9 (1019 in chips) 
+Seat 7: elgordo_0o (3065 in chips) 
+Seat 8: ARES446 (1275 in chips) 
+9Pica89: posts the ante 10
+ElDon69Mandanga: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+elgordo_0o: posts small blind 50
+ARES446: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Kh]
+9Pica89: folds 
+ElDon69Mandanga: raises 805 to 905 and is all-in
+fulldeases88: folds 
+cabeza da479: calls 905
+pipinoelbreve9: calls 905
+elgordo_0o: folds 
+ARES446: folds 
+*** FLOP *** [Kd Ts 9s]
+cabeza da479: bets 100
+pipinoelbreve9: raises 4 to 104 and is all-in
+cabeza da479: calls 4
+*** TURN *** [Kd Ts 9s] [Td]
+*** RIVER *** [Kd Ts 9s Td] [8h]
+*** SHOW DOWN ***
+cabeza da479: shows [9c Ac] (two pair, Tens and Nines)
+pipinoelbreve9: shows [9d Kh] (two pair, Kings and Tens)
+pipinoelbreve9 collected 208 from side pot
+ElDon69Mandanga: shows [8d 7d] (two pair, Tens and Eights)
+pipinoelbreve9 collected 2935 from main pot
+ElDon69Mandanga finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3143 Main pot 2935. Side pot 208. | Rake 0 
+Board [Kd Ts 9s Td 8h]
+Seat 1: 9Pica89 folded before Flop (didn't bet)
+Seat 2: ElDon69Mandanga showed [8d 7d] and lost with two pair, Tens and Eights
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 showed [9c Ac] and lost with two pair, Tens and Nines
+Seat 6: pipinoelbreve9 (button) showed [9d Kh] and won (3143) with two pair, Kings and Tens
+Seat 7: elgordo_0o (small blind) folded before Flop
+Seat 8: ARES446 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257625303231: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:17:09 CET [2025/09/05 16:17:09 ET]
+Table '3922851930 2' 9-max Seat #7 is the button
+Seat 1: 9Pica89 (5657 in chips) 
+Seat 4: fulldeases88 (1241 in chips) 
+Seat 5: cabeza da479 (731 in chips) 
+Seat 6: pipinoelbreve9 (3143 in chips) 
+Seat 7: elgordo_0o (3005 in chips) 
+Seat 8: ARES446 (1165 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+ARES446: posts small blind 50
+9Pica89: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Ac]
+fulldeases88: folds 
+cabeza da479: raises 621 to 721 and is all-in
+pipinoelbreve9: folds 
+elgordo_0o: folds 
+ARES446: folds 
+9Pica89: calls 621
+*** FLOP *** [3c 3h 7s]
+*** TURN *** [3c 3h 7s] [Ts]
+*** RIVER *** [3c 3h 7s Ts] [8s]
+*** SHOW DOWN ***
+9Pica89: shows [9c Tc] (two pair, Tens and Threes)
+cabeza da479: shows [8d 8c] (a full house, Eights full of Threes)
+cabeza da479 collected 1552 from pot
+*** SUMMARY ***
+Total pot 1552 | Rake 0 
+Board [3c 3h 7s Ts 8s]
+Seat 1: 9Pica89 (big blind) showed [9c Tc] and lost with two pair, Tens and Threes
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 showed [8d 8c] and won (1552) with a full house, Eights full of Threes
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: elgordo_0o (button) folded before Flop (didn't bet)
+Seat 8: ARES446 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257625313244: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:17:53 CET [2025/09/05 16:17:53 ET]
+Table '3922851930 2' 9-max Seat #8 is the button
+Seat 1: 9Pica89 (4926 in chips) 
+Seat 4: fulldeases88 (1231 in chips) 
+Seat 5: cabeza da479 (1552 in chips) 
+Seat 6: pipinoelbreve9 (3133 in chips) 
+Seat 7: elgordo_0o (2995 in chips) 
+Seat 8: ARES446 (1105 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+9Pica89: posts small blind 50
+fulldeases88: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Th]
+cabeza da479: folds 
+pipinoelbreve9: folds 
+elgordo_0o: folds 
+ARES446: calls 100
+9Pica89: calls 50
+fulldeases88: checks 
+*** FLOP *** [4c 8s 3c]
+9Pica89: checks 
+fulldeases88: checks 
+ARES446: bets 200
+9Pica89: folds 
+fulldeases88: folds 
+Uncalled bet (200) returned to ARES446
+ARES446 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4c 8s 3c]
+Seat 1: 9Pica89 (small blind) folded on the Flop
+Seat 4: fulldeases88 (big blind) folded on the Flop
+Seat 5: cabeza da479 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 7: elgordo_0o folded before Flop (didn't bet)
+Seat 8: ARES446 (button) collected (360)
+
+
+
+PokerStars Hand #257625323016: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:18:36 CET [2025/09/05 16:18:36 ET]
+Table '3922851930 2' 9-max Seat #1 is the button
+Seat 1: 9Pica89 (4816 in chips) 
+Seat 4: fulldeases88 (1121 in chips) 
+Seat 5: cabeza da479 (1542 in chips) 
+Seat 6: pipinoelbreve9 (3123 in chips) 
+Seat 7: elgordo_0o (2985 in chips) 
+Seat 8: ARES446 (1355 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+fulldeases88: posts small blind 50
+cabeza da479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Qc]
+pipinoelbreve9: raises 200 to 300
+elgordo_0o: folds 
+ARES446: calls 300
+9Pica89: folds 
+fulldeases88: folds 
+cabeza da479: calls 200
+*** FLOP *** [7s 2s Kd]
+cabeza da479: bets 1232 and is all-in
+pipinoelbreve9: folds 
+ARES446: calls 1045 and is all-in
+Uncalled bet (187) returned to cabeza da479
+*** TURN *** [7s 2s Kd] [9h]
+*** RIVER *** [7s 2s Kd 9h] [2h]
+*** SHOW DOWN ***
+cabeza da479: shows [4d Kh] (two pair, Kings and Deuces)
+ARES446: shows [2c 3c] (three of a kind, Deuces)
+ARES446 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | Rake 0 
+Board [7s 2s Kd 9h 2h]
+Seat 1: 9Pica89 (button) folded before Flop (didn't bet)
+Seat 4: fulldeases88 (small blind) folded before Flop
+Seat 5: cabeza da479 (big blind) showed [4d Kh] and lost with two pair, Kings and Deuces
+Seat 6: pipinoelbreve9 folded on the Flop
+Seat 7: elgordo_0o folded before Flop (didn't bet)
+Seat 8: ARES446 showed [2c 3c] and won (3100) with three of a kind, Deuces
+
+
+
+PokerStars Hand #257625333325: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:19:21 CET [2025/09/05 16:19:21 ET]
+Table '3922851930 2' 9-max Seat #4 is the button
+Seat 1: 9Pica89 (4806 in chips) 
+Seat 4: fulldeases88 (1061 in chips) 
+Seat 5: cabeza da479 (187 in chips) 
+Seat 6: pipinoelbreve9 (2813 in chips) 
+Seat 7: elgordo_0o (2975 in chips) 
+Seat 8: ARES446 (3100 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+cabeza da479: posts small blind 50
+pipinoelbreve9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c 6d]
+elgordo_0o: folds 
+ARES446: calls 100
+9Pica89: folds 
+fulldeases88: folds 
+cabeza da479: raises 77 to 177 and is all-in
+pipinoelbreve9: folds 
+ARES446: calls 77
+*** FLOP *** [8s 8c Kd]
+*** TURN *** [8s 8c Kd] [2s]
+*** RIVER *** [8s 8c Kd 2s] [5s]
+*** SHOW DOWN ***
+cabeza da479: shows [Ah Qs] (a pair of Eights)
+ARES446: shows [3c 4c] (a pair of Eights - lower kicker)
+cabeza da479 collected 514 from pot
+*** SUMMARY ***
+Total pot 514 | Rake 0 
+Board [8s 8c Kd 2s 5s]
+Seat 1: 9Pica89 folded before Flop (didn't bet)
+Seat 4: fulldeases88 (button) folded before Flop (didn't bet)
+Seat 5: cabeza da479 (small blind) showed [Ah Qs] and won (514) with a pair of Eights
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+Seat 7: elgordo_0o folded before Flop (didn't bet)
+Seat 8: ARES446 showed [3c 4c] and lost with a pair of Eights
+
+
+
+PokerStars Hand #257625340235: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:19:51 CET [2025/09/05 16:19:51 ET]
+Table '3922851930 2' 9-max Seat #5 is the button
+Seat 1: 9Pica89 (4796 in chips) 
+Seat 4: fulldeases88 (1051 in chips) 
+Seat 5: cabeza da479 (514 in chips) 
+Seat 6: pipinoelbreve9 (2703 in chips) 
+Seat 7: elgordo_0o (2965 in chips) 
+Seat 8: ARES446 (2913 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+pipinoelbreve9: posts small blind 50
+elgordo_0o: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9c]
+ARES446: calls 100
+9Pica89: calls 100
+fulldeases88: raises 941 to 1041 and is all-in
+cabeza da479: folds 
+pipinoelbreve9: folds 
+elgordo_0o: folds 
+ARES446: calls 941
+9Pica89: folds 
+*** FLOP *** [7h 7s 5d]
+*** TURN *** [7h 7s 5d] [5s]
+*** RIVER *** [7h 7s 5d 5s] [4s]
+*** SHOW DOWN ***
+ARES446: shows [3c Jc] (two pair, Sevens and Fives)
+fulldeases88: shows [Ah 6d] (two pair, Sevens and Fives - Ace kicker)
+fulldeases88 collected 2392 from pot
+*** SUMMARY ***
+Total pot 2392 | Rake 0 
+Board [7h 7s 5d 5s 4s]
+Seat 1: 9Pica89 folded before Flop
+Seat 4: fulldeases88 showed [Ah 6d] and won (2392) with two pair, Sevens and Fives
+Seat 5: cabeza da479 (button) folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 (small blind) folded before Flop
+Seat 7: elgordo_0o (big blind) folded before Flop
+Seat 8: ARES446 showed [3c Jc] and lost with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #257625350557: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level IV (50/100) - 2025/09/05 22:20:35 CET [2025/09/05 16:20:35 ET]
+Table '3922851930 2' 9-max Seat #6 is the button
+Seat 1: 9Pica89 (4686 in chips) 
+Seat 4: fulldeases88 (2392 in chips) 
+Seat 5: cabeza da479 (504 in chips) 
+Seat 6: pipinoelbreve9 (2643 in chips) 
+Seat 7: elgordo_0o (2855 in chips) 
+Seat 8: ARES446 (1862 in chips) 
+9Pica89: posts the ante 10
+fulldeases88: posts the ante 10
+cabeza da479: posts the ante 10
+pipinoelbreve9: posts the ante 10
+elgordo_0o: posts the ante 10
+ARES446: posts the ante 10
+elgordo_0o: posts small blind 50
+ARES446: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Qh]
+9Pica89: calls 100
+fulldeases88: folds 
+cabeza da479: raises 394 to 494 and is all-in
+pipinoelbreve9: folds 
+elgordo_0o: calls 444
+ARES446: raises 1358 to 1852 and is all-in
+9Pica89: calls 1752
+elgordo_0o: folds 
+*** FLOP *** [5h 5c 7h]
+*** TURN *** [5h 5c 7h] [4h]
+*** RIVER *** [5h 5c 7h 4h] [8s]
+*** SHOW DOWN ***
+ARES446: shows [Ah Ad] (two pair, Aces and Fives)
+9Pica89: shows [Ac 6d] (a straight, Four to Eight)
+9Pica89 collected 2716 from side pot
+cabeza da479: shows [Kd Jc] (a pair of Fives)
+9Pica89 collected 2036 from main pot
+ARES446 finished the tournament in 10th place
+cabeza da479 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 4752 Main pot 2036. Side pot 2716. | Rake 0 
+Board [5h 5c 7h 4h 8s]
+Seat 1: 9Pica89 showed [Ac 6d] and won (4752) with a straight, Four to Eight
+Seat 4: fulldeases88 folded before Flop (didn't bet)
+Seat 5: cabeza da479 showed [Kd Jc] and lost with a pair of Fives
+Seat 6: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 7: elgordo_0o (small blind) folded before Flop
+Seat 8: ARES446 (big blind) showed [Ah Ad] and lost with two pair, Aces and Fives
+
+
+
+PokerStars Hand #257625371139: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level V (75/150) - 2025/09/05 22:22:02 CET [2025/09/05 16:22:02 ET]
+Table '3922851930 1' 9-max Seat #4 is the button
+Seat 1: elgordo_0o (2351 in chips) 
+Seat 2: vivamollina9 (1670 in chips) 
+Seat 3: Machupichu25 (3434 in chips) 
+Seat 4: mike31450 (1937 in chips) 
+Seat 5: Dems255 (4360 in chips) 
+Seat 6: pipinoelbreve9 (2633 in chips) 
+Seat 7: fulldeases88 (2382 in chips) 
+Seat 8: 9Pica89 (7576 in chips) 
+Seat 9: Kalam33 (2157 in chips) 
+elgordo_0o: posts the ante 15
+vivamollina9: posts the ante 15
+Machupichu25: posts the ante 15
+mike31450: posts the ante 15
+Dems255: posts the ante 15
+pipinoelbreve9: posts the ante 15
+fulldeases88: posts the ante 15
+9Pica89: posts the ante 15
+Kalam33: posts the ante 15
+Dems255: posts small blind 75
+pipinoelbreve9: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 9h]
+fulldeases88: folds 
+9Pica89: folds 
+Kalam33: folds 
+elgordo_0o: raises 2186 to 2336 and is all-in
+vivamollina9: folds 
+Machupichu25: folds 
+mike31450: folds 
+Dems255: folds 
+pipinoelbreve9: folds 
+Uncalled bet (2186) returned to elgordo_0o
+elgordo_0o collected 510 from pot
+elgordo_0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: elgordo_0o collected (510)
+Seat 2: vivamollina9 folded before Flop (didn't bet)
+Seat 3: Machupichu25 folded before Flop (didn't bet)
+Seat 4: mike31450 (button) folded before Flop (didn't bet)
+Seat 5: Dems255 (small blind) folded before Flop
+Seat 6: pipinoelbreve9 (big blind) folded before Flop
+Seat 7: fulldeases88 folded before Flop (didn't bet)
+Seat 8: 9Pica89 folded before Flop (didn't bet)
+Seat 9: Kalam33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257625387373: Tournament #3922851930, €0.90+€0.10 EUR Hold'em No Limit - Level V (75/150) - 2025/09/05 22:23:10 CET [2025/09/05 16:23:10 ET]
+Table '3922851930 1' 9-max Seat #5 is the button
+Seat 1: elgordo_0o (2696 in chips) 
+Seat 2: vivamollina9 (1655 in chips) 
+Seat 3: Machupichu25 (3419 in chips) 
+Seat 4: mike31450 (1922 in chips) 
+Seat 5: Dems255 (4270 in chips) 
+Seat 6: pipinoelbreve9 (2468 in chips) 
+Seat 7: fulldeases88 (2367 in chips) 
+Seat 8: 9Pica89 (7561 in chips) 
+Seat 9: Kalam33 (2142 in chips) 
+elgordo_0o: posts the ante 15
+vivamollina9: posts the ante 15
+Machupichu25: posts the ante 15
+mike31450: posts the ante 15
+Dems255: posts the ante 15
+pipinoelbreve9: posts the ante 15
+fulldeases88: posts the ante 15
+9Pica89: posts the ante 15
+Kalam33: posts the ante 15
+pipinoelbreve9: posts small blind 75
+fulldeases88: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 5d]
+9Pica89: calls 150
+Kalam33: folds 
+elgordo_0o: folds 
+vivamollina9: folds 
+Machupichu25: folds 
+mike31450: calls 150
+Dems255: calls 150
+pipinoelbreve9: calls 75
+fulldeases88: checks 
+*** FLOP *** [Kd 8h 6s]
+pipinoelbreve9: checks 
+fulldeases88: checks 
+9Pica89: bets 600
+mike31450: calls 600
+Dems255: folds 
+pipinoelbreve9: raises 1703 to 2303 and is all-in
+fulldeases88: folds 
+9Pica89: calls 1703
+mike31450: calls 1157 and is all-in
+*** TURN *** [Kd 8h 6s] [6c]
+*** RIVER *** [Kd 8h 6s 6c] [7s]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [8d 5d] (two pair, Eights and Sixes)
+9Pica89: shows [Kc 7c] (two pair, Kings and Sevens)
+9Pica89 collected 1092 from side pot
+mike31450: shows [7h Kh] (two pair, Kings and Sevens)
+9Pica89 collected 3078 from main pot
+mike31450 collected 3078 from main pot
+pipinoelbreve9 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 7248 Main pot 6156. Side pot 1092. | Rake 0 
+Board [Kd 8h 6s 6c 7s]
+Seat 1: elgordo_0o folded before Flop (didn't bet)
+Seat 2: vivamollina9 folded before Flop (didn't bet)
+Seat 3: Machupichu25 folded before Flop (didn't bet)
+Seat 4: mike31450 showed [7h Kh] and won (3078) with two pair, Kings and Sevens
+Seat 5: Dems255 (button) folded on the Flop
+Seat 6: pipinoelbreve9 (small blind) showed [8d 5d] and lost with two pair, Eights and Sixes
+Seat 7: fulldeases88 (big blind) folded on the Flop
+Seat 8: 9Pica89 showed [Kc 7c] and won (4170) with two pair, Kings and Sevens
+Seat 9: Kalam33 folded before Flop (didn't bet)
+
+
+

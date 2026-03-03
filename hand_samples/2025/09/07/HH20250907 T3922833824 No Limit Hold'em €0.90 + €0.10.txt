@@ -1,0 +1,250 @@
+﻿PokerStars Hand #257650031356: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:37:36 CET [2025/09/07 13:37:36 ET]
+Table '3922833824 3' 6-max Seat #2 is the button
+Seat 1: pipinoelbreve9 (10000 in chips, €0.45 bounty) 
+Seat 2: rojascrd (6500 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (7500 in chips, €0.45 bounty) 
+Seat 5: ErrE Tpk (4750 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (36875 in chips, €0.67 bounty) 
+pipinoelbreve9: posts the ante 125
+rojascrd: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+maclor1972: posts small blind 500
+ErrE Tpk: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 4d]
+eledupokeris: raises 1000 to 2000
+pipinoelbreve9: calls 2000
+rojascrd: folds 
+maclor1972: folds 
+ErrE Tpk: folds 
+*** FLOP *** [5h 9h Th]
+eledupokeris: bets 2000
+pipinoelbreve9: folds 
+Uncalled bet (2000) returned to eledupokeris
+eledupokeris collected 6125 from pot
+eledupokeris: doesn't show hand 
+*** SUMMARY ***
+Total pot 6125 | Rake 0 
+Board [5h 9h Th]
+Seat 1: pipinoelbreve9 folded on the Flop
+Seat 2: rojascrd (button) folded before Flop (didn't bet)
+Seat 3: maclor1972 (small blind) folded before Flop
+Seat 5: ErrE Tpk (big blind) folded before Flop
+Seat 6: eledupokeris collected (6125)
+
+
+
+PokerStars Hand #257650038096: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:38:00 CET [2025/09/07 13:38:00 ET]
+Table '3922833824 3' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (7875 in chips, €0.45 bounty) 
+Seat 2: rojascrd (6375 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (6875 in chips, €0.45 bounty) 
+Seat 5: ErrE Tpk (3625 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (40875 in chips, €0.67 bounty) 
+pipinoelbreve9: posts the ante 125
+rojascrd: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+ErrE Tpk: posts small blind 500
+eledupokeris: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 8d]
+pipinoelbreve9: folds 
+rojascrd: folds 
+maclor1972: folds 
+ErrE Tpk: calls 500
+eledupokeris: checks 
+*** FLOP *** [6h Tc Td]
+ErrE Tpk: checks 
+eledupokeris: checks 
+*** TURN *** [6h Tc Td] [2c]
+ErrE Tpk: checks 
+eledupokeris: bets 1000
+ErrE Tpk: folds 
+Uncalled bet (1000) returned to eledupokeris
+eledupokeris collected 2625 from pot
+eledupokeris: doesn't show hand 
+*** SUMMARY ***
+Total pot 2625 | Rake 0 
+Board [6h Tc Td 2c]
+Seat 1: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 2: rojascrd folded before Flop (didn't bet)
+Seat 3: maclor1972 (button) folded before Flop (didn't bet)
+Seat 5: ErrE Tpk (small blind) folded on the Turn
+Seat 6: eledupokeris (big blind) collected (2625)
+
+
+
+PokerStars Hand #257650050777: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:38:45 CET [2025/09/07 13:38:45 ET]
+Table '3922833824 3' 6-max Seat #5 is the button
+Seat 1: pipinoelbreve9 (7750 in chips, €0.45 bounty) 
+Seat 2: rojascrd (6250 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (6750 in chips, €0.45 bounty) 
+Seat 5: ErrE Tpk (2500 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (42375 in chips, €0.67 bounty) 
+pipinoelbreve9: posts the ante 125
+rojascrd: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+eledupokeris: posts small blind 500
+pipinoelbreve9: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 2s]
+rojascrd: calls 1000
+maclor1972: folds 
+ErrE Tpk: folds 
+eledupokeris: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [5h 2d 8c]
+pipinoelbreve9: checks 
+rojascrd: checks 
+*** TURN *** [5h 2d 8c] [2h]
+pipinoelbreve9: bets 1563
+rojascrd: folds 
+Uncalled bet (1563) returned to pipinoelbreve9
+pipinoelbreve9 collected 3125 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Board [5h 2d 8c 2h]
+Seat 1: pipinoelbreve9 (big blind) collected (3125)
+Seat 2: rojascrd folded on the Turn
+Seat 3: maclor1972 folded before Flop (didn't bet)
+Seat 5: ErrE Tpk (button) folded before Flop (didn't bet)
+Seat 6: eledupokeris (small blind) folded before Flop
+
+
+
+PokerStars Hand #257650064174: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:39:33 CET [2025/09/07 13:39:33 ET]
+Table '3922833824 3' 6-max Seat #6 is the button
+Seat 1: pipinoelbreve9 (9750 in chips, €0.45 bounty) 
+Seat 2: rojascrd (5125 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (6625 in chips, €0.45 bounty) 
+Seat 5: ErrE Tpk (2375 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (41750 in chips, €0.67 bounty) 
+pipinoelbreve9: posts the ante 125
+rojascrd: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+pipinoelbreve9: posts small blind 500
+rojascrd: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 3h]
+maclor1972: calls 1000
+ErrE Tpk: raises 1250 to 2250 and is all-in
+eledupokeris: folds 
+pipinoelbreve9: folds 
+rojascrd: folds 
+maclor1972: calls 1250
+*** FLOP *** [6h Kc 5h]
+*** TURN *** [6h Kc 5h] [5s]
+*** RIVER *** [6h Kc 5h 5s] [8d]
+*** SHOW DOWN ***
+maclor1972: shows [Qd Jd] (a pair of Fives)
+ErrE Tpk: shows [7s Ah] (a pair of Fives - Ace kicker)
+ErrE Tpk collected 6625 from pot
+*** SUMMARY ***
+Total pot 6625 | Rake 0 
+Board [6h Kc 5h 5s 8d]
+Seat 1: pipinoelbreve9 (small blind) folded before Flop
+Seat 2: rojascrd (big blind) folded before Flop
+Seat 3: maclor1972 showed [Qd Jd] and lost with a pair of Fives
+Seat 5: ErrE Tpk showed [7s Ah] and won (6625) with a pair of Fives
+Seat 6: eledupokeris (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650071280: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:39:58 CET [2025/09/07 13:39:58 ET]
+Table '3922833824 3' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (9125 in chips, €0.45 bounty) 
+Seat 2: rojascrd (4000 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (4250 in chips, €0.45 bounty) 
+Seat 5: ErrE Tpk (6625 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (41625 in chips, €0.67 bounty) 
+pipinoelbreve9: posts the ante 125
+rojascrd: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+rojascrd: posts small blind 500
+maclor1972: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 9c]
+ErrE Tpk: folds 
+iguane4 is disconnected 
+eledupokeris: folds 
+pipinoelbreve9: folds 
+rojascrd: calls 500
+maclor1972: raises 3125 to 4125 and is all-in
+rojascrd: calls 2875 and is all-in
+Uncalled bet (250) returned to maclor1972
+*** FLOP *** [3s Ad 3d]
+*** TURN *** [3s Ad 3d] [5s]
+*** RIVER *** [3s Ad 3d 5s] [3c]
+*** SHOW DOWN ***
+rojascrd: shows [Jh 8c] (three of a kind, Threes)
+maclor1972: shows [Kh Qd] (three of a kind, Threes - Ace+King kicker)
+maclor1972 collected 8375 from pot
+maclor1972 wins €0.23 for eliminating rojascrd and their own bounty increases by €0.22 to €0.67
+rojascrd finished the tournament
+*** SUMMARY ***
+Total pot 8375 | Rake 0 
+Board [3s Ad 3d 5s 3c]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: rojascrd (small blind) showed [Jh 8c] and lost with three of a kind, Threes
+Seat 3: maclor1972 (big blind) showed [Kh Qd] and won (8375) with three of a kind, Threes
+Seat 5: ErrE Tpk folded before Flop (didn't bet)
+Seat 6: eledupokeris folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257650082019: Tournament #3922833824, €0.45+€0.45+€0.10 EUR Hold'em No Limit - Level I (500/1000) - 2025/09/07 19:40:36 CET [2025/09/07 13:40:36 ET]
+Table '3922833824 3' 6-max Seat #3 is the button
+Seat 1: pipinoelbreve9 (9000 in chips, €0.45 bounty) 
+Seat 3: maclor1972 (8625 in chips, €0.67 bounty) 
+Seat 4: iguane4 (14375 in chips) out of hand (moved from another table into small blind)
+Seat 5: ErrE Tpk (6500 in chips, €0.45 bounty) 
+Seat 6: eledupokeris (41500 in chips, €0.67 bounty) 
+iguane4 will be allowed to play after the button
+pipinoelbreve9: posts the ante 125
+maclor1972: posts the ante 125
+ErrE Tpk: posts the ante 125
+eledupokeris: posts the ante 125
+ErrE Tpk: posts small blind 500
+eledupokeris: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td Ks]
+pipinoelbreve9: raises 2000 to 3000
+maclor1972: folds 
+ErrE Tpk: folds 
+eledupokeris: calls 2000
+*** FLOP *** [7h 2h Kh]
+eledupokeris: checks 
+pipinoelbreve9: bets 3500
+eledupokeris: calls 3500
+*** TURN *** [7h 2h Kh] [3d]
+eledupokeris: checks 
+pipinoelbreve9: bets 2375 and is all-in
+eledupokeris: calls 2375
+*** RIVER *** [7h 2h Kh 3d] [Ac]
+*** SHOW DOWN ***
+eledupokeris: shows [Ah 9h] (a flush, Ace high)
+pipinoelbreve9: shows [Td Ks] (a pair of Kings)
+eledupokeris collected 18750 from pot
+eledupokeris wins €0.23 for eliminating pipinoelbreve9 and their own bounty increases by €0.22 to €0.89
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 18750 | Rake 0 
+Board [7h 2h Kh 3d Ac]
+Seat 1: pipinoelbreve9 showed [Td Ks] and lost with a pair of Kings
+Seat 3: maclor1972 (button) folded before Flop (didn't bet)
+Seat 5: ErrE Tpk (small blind) folded before Flop
+Seat 6: eledupokeris (big blind) showed [Ah 9h] and won (18750) with a flush, Ace high
+
+
+

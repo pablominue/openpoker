@@ -1,0 +1,2050 @@
+﻿PokerStars Zoom Hand #257870262132:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:37:34 CET [2025/09/24 11:37:34 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: Ruben1990869 (€5.19 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Ruben1990869: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 8h]
+LilAnyel has timed out
+LilAnyel: folds 
+Ruben1990869: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: Ruben1990869 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+
+
+
+PokerStars Zoom Hand #257870267615:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:38:06 CET [2025/09/24 11:38:06 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.09 in chips) 
+Seat 2: pipinoelbreve9 (€5.02 in chips) 
+Seat 3: Ruben1990869 (€5.87 in chips) 
+Seat 4: basurdia (€6.07 in chips) 
+Seat 5: akaTicoYT (€6.32 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Ruben1990869: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 7d]
+basurdia: folds 
+akaTicoYT: folds 
+LilAnyel: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+Ruben1990869: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.10)
+Seat 3: Ruben1990869 (big blind) folded before Flop
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870271523:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:38:28 CET [2025/09/24 11:38:28 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.07 in chips) 
+Seat 2: locomotive34 (€3.06 in chips) 
+Seat 3: LilAnyel (€5.09 in chips) 
+Seat 4: Ruben1990869 (€5.82 in chips) 
+Seat 5: carodim59 (€2.88 in chips) 
+locomotive34: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 4d]
+Ruben1990869: folds 
+carodim59: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+locomotive34: calls €0.13
+LilAnyel: folds 
+*** FLOP *** [5d Jc 9c]
+locomotive34: checks 
+pipinoelbreve9: bets €0.12
+locomotive34: calls €0.12
+*** TURN *** [5d Jc 9c] [8s]
+locomotive34: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [5d Jc 9c 8s] [Qs]
+locomotive34: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+locomotive34: shows [Ad 2d] (high card Ace)
+pipinoelbreve9: mucks hand 
+locomotive34 collected €0.56 from pot
+*** SUMMARY ***
+Total pot €0.59 | Rake €0.03 
+Board [5d Jc 9c 8s Qs]
+Seat 1: pipinoelbreve9 (button) mucked [3d 4d]
+Seat 2: locomotive34 (small blind) showed [Ad 2d] and won (€0.56) with high card Ace
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: carodim59 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870278707:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:10 CET [2025/09/24 11:39:10 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: Dil3ma (€2.45 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+Seat 4: akaTicoYT (€6.30 in chips) 
+Dil3ma: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h Kh]
+akaTicoYT: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+Dil3ma: folds 
+LilAnyel: raises €0.30 to €0.45
+pipinoelbreve9: folds 
+Uncalled bet (€0.30) returned to LilAnyel
+LilAnyel collected €0.32 from pot
+LilAnyel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop
+Seat 2: Dil3ma (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) collected (€0.32)
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870277216:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:01 CET [2025/09/24 11:39:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€12.35 in chips) 
+Seat 2: pipinoelbreve9 (€5 in chips) 
+Seat 3: Dil3ma (€2.50 in chips) 
+Seat 4: freeddeexx (€2.50 in chips) 
+Seat 5: basurdia (€5.49 in chips) 
+Seat 6: locomotive34 (€3.35 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Dil3ma: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 7c]
+freeddeexx: raises €0.12 to €0.17
+basurdia: folds 
+locomotive34: calls €0.17
+akaTicoYT: calls €0.17
+pipinoelbreve9: folds 
+Dil3ma: folds 
+*** FLOP *** [8s 9s 8d]
+freeddeexx: checks 
+locomotive34: checks 
+akaTicoYT: bets €0.18
+freeddeexx: calls €0.18
+locomotive34: calls €0.18
+*** TURN *** [8s 9s 8d] [Kc]
+freeddeexx: checks 
+locomotive34: checks 
+akaTicoYT: bets €0.53
+freeddeexx: folds 
+locomotive34: folds 
+Uncalled bet (€0.53) returned to akaTicoYT
+akaTicoYT collected €1.06 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.12 | Rake €0.06 
+Board [8s 9s 8d Kc]
+Seat 1: akaTicoYT (button) collected (€1.06)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Dil3ma (big blind) folded before Flop
+Seat 4: freeddeexx folded on the Turn
+Seat 5: basurdia folded before Flop (didn't bet)
+Seat 6: locomotive34 folded on the Turn
+
+
+
+PokerStars Zoom Hand #257870281677:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:27 CET [2025/09/24 11:39:27 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: akaTicoYT (€6.25 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: Josskijano (€3.77 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 6c]
+Josskijano: folds 
+LilAnyel: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870283962:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:40 CET [2025/09/24 11:39:40 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5.02 in chips) 
+Seat 3: akaTicoYT (€6.23 in chips) 
+Seat 4: Ruben1990869 (€5.12 in chips) 
+pipinoelbreve9: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Jh]
+Ruben1990869: folds 
+LilAnyel: folds 
+pipinoelbreve9: calls €0.03
+akaTicoYT: raises €0.17 to €0.22
+pipinoelbreve9: folds 
+Uncalled bet (€0.17) returned to akaTicoYT
+akaTicoYT collected €0.10 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€0.10)
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870286254:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:53 CET [2025/09/24 11:39:53 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: locomotive34 (€3.02 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+Seat 4: akaTicoYT (€6.28 in chips) 
+Seat 5: freeddeexx (€2.03 in chips) 
+Seat 6: basurdia (€6.41 in chips) 
+locomotive34: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h 6d]
+akaTicoYT: folds 
+freeddeexx: folds 
+basurdia: folds 
+pipinoelbreve9: folds 
+locomotive34: folds 
+Uncalled bet (€0.03) returned to LilAnyel
+LilAnyel collected €0.04 from pot
+LilAnyel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: locomotive34 (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) collected (€0.04)
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+Seat 5: freeddeexx folded before Flop (didn't bet)
+Seat 6: basurdia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870287071:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:39:58 CET [2025/09/24 11:39:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€6.28 in chips) 
+Seat 2: Ruben1990869 (€5.57 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: freeddeexx (€2.03 in chips) 
+Seat 5: locomotive34 (€3 in chips) 
+Ruben1990869: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 9c]
+freeddeexx: raises €0.12 to €0.17
+locomotive34: folds 
+akaTicoYT: folds 
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.12) returned to freeddeexx
+freeddeexx collected €0.12 from pot
+freeddeexx: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: Ruben1990869 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: freeddeexx collected (€0.12)
+Seat 5: locomotive34 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870289191:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:40:10 CET [2025/09/24 11:40:10 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ruben1990869 (€5.55 in chips) 
+Seat 2: Josskijano (€3.77 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: akaTicoYT (€12.87 in chips) 
+Josskijano: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 5d]
+akaTicoYT: folds 
+Ruben1990869: folds 
+Josskijano: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Ruben1990869 (button) folded before Flop (didn't bet)
+Seat 2: Josskijano (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870288318:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:40:05 CET [2025/09/24 11:40:05 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.02 in chips) 
+Seat 2: akaTicoYT (€6.28 in chips) 
+Seat 3: ReymonG10 (€5.50 in chips) 
+Seat 4: Ruben1990869 (€5.55 in chips) 
+Seat 5: pipinoelbreve9 (€5 in chips) 
+akaTicoYT: posts small blind €0.02
+ReymonG10: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 5h]
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+LilAnyel: folds 
+akaTicoYT: raises €0.13 to €0.18
+ReymonG10: folds 
+Uncalled bet (€0.13) returned to akaTicoYT
+akaTicoYT collected €0.10 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) collected (€0.10)
+Seat 3: ReymonG10 (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870291522:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:40:23 CET [2025/09/24 11:40:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: locomotive34 (€2.93 in chips) 
+Seat 2: pipinoelbreve9 (€5.02 in chips) 
+Seat 3: akaTicoYT (€13.04 in chips) 
+Seat 4: ReymonG10 (€5.45 in chips) 
+pipinoelbreve9: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Qs]
+ReymonG10: folds 
+locomotive34: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+akaTicoYT: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: locomotive34 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.10)
+Seat 3: akaTicoYT (big blind) folded before Flop
+Seat 4: ReymonG10 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870294317:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:40:39 CET [2025/09/24 11:40:39 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.07 in chips) 
+Seat 2: akaTicoYT (€12.99 in chips) 
+Seat 3: ReymonG10 (€4.98 in chips) 
+Seat 4: LilAnyel (€5.26 in chips) 
+akaTicoYT: posts small blind €0.02
+ReymonG10: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 9d]
+LilAnyel: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+akaTicoYT: raises €0.41 to €0.56
+ReymonG10: folds 
+pipinoelbreve9: calls €0.41
+*** FLOP *** [Qc 2h Jd]
+akaTicoYT: bets €0.42
+pipinoelbreve9: calls €0.42
+*** TURN *** [Qc 2h Jd] [As]
+akaTicoYT: checks 
+pipinoelbreve9: bets €0.76
+akaTicoYT: folds 
+Uncalled bet (€0.76) returned to pipinoelbreve9
+pipinoelbreve9 collected €1.91 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.01 | Rake €0.10 
+Board [Qc 2h Jd As]
+Seat 1: pipinoelbreve9 (button) collected (€1.91)
+Seat 2: akaTicoYT (small blind) folded on the Turn
+Seat 3: ReymonG10 (big blind) folded before Flop
+Seat 4: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870305505:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:41:43 CET [2025/09/24 11:41:43 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€12.01 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: pipinoelbreve9 (€6 in chips) 
+LilAnyel: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 9s]
+pipinoelbreve9: folds 
+akaTicoYT: raises €0.07 to €0.12
+LilAnyel: folds 
+nicalomano: folds 
+Uncalled bet (€0.07) returned to akaTicoYT
+akaTicoYT collected €0.12 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) collected (€0.12)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870307652:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:41:55 CET [2025/09/24 11:41:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nicalomano (€5 in chips) 
+Seat 2: pipinoelbreve9 (€6 in chips) 
+Seat 3: basurdia (€5 in chips) 
+Seat 4: akaTicoYT (€12.79 in chips) 
+pipinoelbreve9: posts small blind €0.02
+basurdia: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 5c]
+akaTicoYT: folds 
+nicalomano: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+basurdia: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: nicalomano (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.10)
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870309840:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:42:07 CET [2025/09/24 11:42:07 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€6.05 in chips) 
+Seat 2: akaTicoYT (€12.81 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: basurdia (€5 in chips) 
+Seat 5: Josskijano (€3.56 in chips) 
+Seat 6: LilAnyel (€5.64 in chips) 
+akaTicoYT: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 8d]
+basurdia: raises €0.25 to €0.30
+Josskijano: folds 
+LilAnyel: folds 
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+nicalomano: folds 
+Uncalled bet (€0.25) returned to basurdia
+basurdia collected €0.12 from pot
+basurdia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: basurdia collected (€0.12)
+Seat 5: Josskijano folded before Flop (didn't bet)
+Seat 6: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870310506:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:42:11 CET [2025/09/24 11:42:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€12.79 in chips) 
+Seat 2: freeddeexx (€1.68 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: LilAnyel (€5.64 in chips) 
+Seat 5: pipinoelbreve9 (€6.05 in chips) 
+Seat 6: Josskijano (€3.56 in chips) 
+freeddeexx: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 6c]
+LilAnyel: folds 
+pipinoelbreve9: folds 
+Josskijano: folds 
+akaTicoYT: folds 
+freeddeexx: raises €0.10 to €0.15
+nicalomano: folds 
+Uncalled bet (€0.10) returned to freeddeexx
+freeddeexx collected €0.10 from pot
+freeddeexx: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: freeddeexx (small blind) collected (€0.10)
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: LilAnyel folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870311411:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:42:16 CET [2025/09/24 11:42:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ruben1990869 (€5.83 in chips) 
+Seat 2: basurdia (€5.07 in chips) 
+Seat 3: Josskijano (€3.56 in chips) 
+Seat 4: pipinoelbreve9 (€6.05 in chips) 
+Seat 5: akaTicoYT (€12.79 in chips) 
+basurdia: posts small blind €0.02
+Josskijano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Td]
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+Ruben1990869: raises €0.07 to €0.12
+basurdia: calls €0.10
+Josskijano: folds 
+*** FLOP *** [9s 4c Ks]
+basurdia: checks 
+Ruben1990869: bets €0.07
+basurdia: calls €0.07
+*** TURN *** [9s 4c Ks] [Jh]
+basurdia: checks 
+Ruben1990869: checks 
+*** RIVER *** [9s 4c Ks Jh] [5c]
+basurdia: checks 
+Ruben1990869: checks 
+*** SHOW DOWN ***
+basurdia: shows [Jc Ts] (a pair of Jacks)
+Ruben1990869: mucks hand 
+basurdia collected €0.41 from pot
+*** SUMMARY ***
+Total pot €0.43 | Rake €0.02 
+Board [9s 4c Ks Jh 5c]
+Seat 1: Ruben1990869 (button) mucked [6d Ac]
+Seat 2: basurdia (small blind) showed [Jc Ts] and won (€0.41) with a pair of Jacks
+Seat 3: Josskijano (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870312147:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:42:20 CET [2025/09/24 11:42:20 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.64 in chips) 
+Seat 2: nicalomano (€5 in chips) 
+Seat 3: pipinoelbreve9 (€6.05 in chips) 
+Seat 4: akaTicoYT (€12.79 in chips) 
+Seat 5: Josskijano (€3 in chips) 
+nicalomano: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 2d]
+akaTicoYT: raises €0.07 to €0.12
+Josskijano: folds 
+LilAnyel: folds 
+nicalomano: folds 
+pipinoelbreve9: calls €0.07
+*** FLOP *** [Qs 7h 6d]
+pipinoelbreve9: checks 
+akaTicoYT: bets €0.08
+pipinoelbreve9: folds 
+Uncalled bet (€0.08) returned to akaTicoYT
+akaTicoYT collected €0.25 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [Qs 7h 6d]
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: akaTicoYT collected (€0.25)
+Seat 5: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870306260:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:41:47 CET [2025/09/24 11:41:47 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: nicalomano (€5.02 in chips) 
+Seat 3: akaTicoYT (€16.19 in chips) 
+Seat 4: basurdia (€7.73 in chips) 
+Seat 5: Ruben1990869 (€5.39 in chips) 
+Seat 6: pipinoelbreve9 (€6 in chips) 
+nicalomano: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Qc]
+basurdia: folds 
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+LilAnyel: raises €0.07 to €0.12
+nicalomano: folds 
+akaTicoYT: calls €0.07
+*** FLOP *** [2d Kh Jh]
+akaTicoYT: bets €0.08
+LilAnyel: calls €0.08
+*** TURN *** [2d Kh Jh] [Ks]
+akaTicoYT: checks 
+LilAnyel: checks 
+*** RIVER *** [2d Kh Jh Ks] [7h]
+akaTicoYT: bets €0.12
+LilAnyel: raises €0.33 to €0.45
+akaTicoYT: raises €1.30 to €1.75
+LilAnyel: folds 
+Uncalled bet (€1.30) returned to akaTicoYT
+akaTicoYT collected €1.25 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.32 | Rake €0.07 
+Board [2d Kh Jh Ks 7h]
+Seat 1: LilAnyel (button) folded on the River
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€1.25)
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: Ruben1990869 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870318931:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:42:59 CET [2025/09/24 11:42:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.93 in chips) 
+Seat 2: ReymonG10 (€5.29 in chips) 
+Seat 3: LilAnyel (€5.07 in chips) 
+Seat 4: nicalomano (€5 in chips) 
+ReymonG10: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Ah]
+nicalomano: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+ReymonG10: calls €0.13
+LilAnyel: folds 
+*** FLOP *** [9c Td 7d]
+ReymonG10: checks 
+pipinoelbreve9: bets €0.12
+ReymonG10: calls €0.12
+*** TURN *** [9c Td 7d] [7s]
+ReymonG10: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [9c Td 7d 7s] [Js]
+ReymonG10: bets €1.02
+pipinoelbreve9: folds 
+Uncalled bet (€1.02) returned to ReymonG10
+ReymonG10 collected €0.56 from pot
+ReymonG10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.59 | Rake €0.03 
+Board [9c Td 7d 7s Js]
+Seat 1: pipinoelbreve9 (button) folded on the River
+Seat 2: ReymonG10 (small blind) collected (€0.56)
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: nicalomano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870325568:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:43:38 CET [2025/09/24 11:43:38 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ruben1990869 (€5.66 in chips) 
+Seat 2: pipinoelbreve9 (€5.66 in chips) 
+Seat 3: ReymonG10 (€5.24 in chips) 
+Seat 4: basurdia (€5.24 in chips) 
+Seat 5: nicalomano (€5 in chips) 
+Seat 6: akaTicoYT (€11.75 in chips) 
+pipinoelbreve9: posts small blind €0.02
+ReymonG10: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 2h]
+basurdia: folds 
+nicalomano: folds 
+akaTicoYT: raises €0.07 to €0.12
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+ReymonG10: folds 
+Uncalled bet (€0.07) returned to akaTicoYT
+akaTicoYT collected €0.12 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Ruben1990869 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: ReymonG10 (big blind) folded before Flop
+Seat 4: basurdia folded before Flop (didn't bet)
+Seat 5: nicalomano folded before Flop (didn't bet)
+Seat 6: akaTicoYT collected (€0.12)
+
+
+
+PokerStars Zoom Hand #257870326677:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:43:44 CET [2025/09/24 11:43:44 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.64 in chips) 
+Seat 2: basurdia (€7.13 in chips) 
+Seat 3: nicalomano (€5.12 in chips) 
+Seat 4: LilAnyel (€5 in chips) 
+basurdia: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c As]
+LilAnyel: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+basurdia: folds 
+nicalomano: calls €0.10
+*** FLOP *** [Ts Ad 7h]
+nicalomano: checks 
+pipinoelbreve9: bets €0.10
+nicalomano: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.30 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [Ts Ad 7h]
+Seat 1: pipinoelbreve9 (button) collected (€0.30)
+Seat 2: basurdia (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded on the Flop
+Seat 4: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870330603:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:06 CET [2025/09/24 11:44:06 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€11.77 in chips) 
+Seat 2: nicalomano (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5.79 in chips) 
+Seat 4: basurdia (€7.11 in chips) 
+Seat 5: LilAnyel (€5.96 in chips) 
+nicalomano: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 6s]
+basurdia: raises €0.10 to €0.15
+LilAnyel: folds 
+akaTicoYT: folds 
+nicalomano: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.10) returned to basurdia
+basurdia collected €0.12 from pot
+basurdia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: basurdia collected (€0.12)
+Seat 5: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870333935:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:25 CET [2025/09/24 11:44:25 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nicalomano (€5 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5.74 in chips) 
+Seat 4: Ruben1990869 (€5.71 in chips) 
+Seat 5: akaTicoYT (€6.25 in chips) 
+LilAnyel: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 4d]
+Ruben1990869: raises €0.07 to €0.12
+akaTicoYT: folds 
+nicalomano: folds 
+LilAnyel: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.07) returned to Ruben1990869
+Ruben1990869 collected €0.12 from pot
+Ruben1990869: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: nicalomano (button) folded before Flop (didn't bet)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: Ruben1990869 collected (€0.12)
+Seat 5: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870332564:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:17 CET [2025/09/24 11:44:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€11.77 in chips) 
+Seat 2: ReymonG10 (€5.21 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: pipinoelbreve9 (€5.74 in chips) 
+ReymonG10: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c As]
+pipinoelbreve9: folds 
+akaTicoYT: raises €0.07 to €0.12
+ReymonG10: folds 
+nicalomano: folds 
+Uncalled bet (€0.07) returned to akaTicoYT
+akaTicoYT collected €0.12 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) collected (€0.12)
+Seat 2: ReymonG10 (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870337486:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:45 CET [2025/09/24 11:44:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Beto_Mdrz (€9.87 in chips) 
+Seat 2: basurdia (€7.20 in chips) 
+Seat 3: LilAnyel (€5.02 in chips) 
+Seat 4: nicalomano (€5 in chips) 
+Seat 5: pipinoelbreve9 (€5.67 in chips) 
+basurdia: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 2s]
+nicalomano: folds 
+pipinoelbreve9: folds 
+Beto_Mdrz: raises €0.10 to €0.15
+basurdia: calls €0.13
+LilAnyel: folds 
+*** FLOP *** [6d Jc 7h]
+basurdia: checks 
+Beto_Mdrz: bets €0.10
+basurdia: folds 
+Uncalled bet (€0.10) returned to Beto_Mdrz
+Beto_Mdrz collected €0.33 from pot
+Beto_Mdrz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [6d Jc 7h]
+Seat 1: Beto_Mdrz (button) collected (€0.33)
+Seat 2: basurdia (small blind) folded on the Flop
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: nicalomano folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870334810:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:30 CET [2025/09/24 11:44:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: basurdia (€7.20 in chips) 
+Seat 2: pipinoelbreve9 (€5.69 in chips) 
+Seat 3: nicalomano (€5 in chips) 
+Seat 4: akaTicoYT (€6.25 in chips) 
+Seat 5: ReymonG10 (€5.19 in chips) 
+Seat 6: LilAnyel (€5.07 in chips) 
+pipinoelbreve9: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Jh]
+akaTicoYT: raises €0.07 to €0.12
+ReymonG10: calls €0.12
+LilAnyel: folds 
+basurdia: folds 
+pipinoelbreve9: folds 
+nicalomano: folds 
+*** FLOP *** [7c 9h 4c]
+akaTicoYT: bets €0.10
+ReymonG10: raises €0.21 to €0.31
+akaTicoYT: folds 
+Uncalled bet (€0.21) returned to ReymonG10
+ReymonG10 collected €0.48 from pot
+ReymonG10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.51 | Rake €0.03 
+Board [7c 9h 4c]
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: akaTicoYT folded on the Flop
+Seat 5: ReymonG10 collected (€0.48)
+Seat 6: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870338374:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:44:50 CET [2025/09/24 11:44:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Josskijano (€5 in chips) 
+Seat 2: LilAnyel (€6.05 in chips) 
+Seat 3: akaTicoYT (€11.82 in chips) 
+Seat 4: pipinoelbreve9 (€5.67 in chips) 
+LilAnyel: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Ac]
+pipinoelbreve9: raises €0.10 to €0.15
+Josskijano: folds 
+LilAnyel: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Josskijano (button) folded before Flop (didn't bet)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #257870342064:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:45:11 CET [2025/09/24 11:45:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€11.75 in chips) 
+Seat 2: nicalomano (€5.17 in chips) 
+Seat 3: pipinoelbreve9 (€5.74 in chips) 
+Seat 4: Ruben1990869 (€5.27 in chips) 
+nicalomano: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d Js]
+Ruben1990869: folds 
+akaTicoYT: raises €0.07 to €0.12
+nicalomano: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.07) returned to akaTicoYT
+akaTicoYT collected €0.12 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) collected (€0.12)
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870344108:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:45:23 CET [2025/09/24 11:45:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.07 in chips) 
+Seat 2: pipinoelbreve9 (€5.69 in chips) 
+Seat 3: nicalomano (€5.15 in chips) 
+Seat 4: Ruben1990869 (€5.29 in chips) 
+pipinoelbreve9: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc As]
+Ruben1990869: folds 
+LilAnyel: raises €0.07 to €0.12
+pipinoelbreve9: raises €0.32 to €0.44
+nicalomano: folds 
+LilAnyel: folds 
+Uncalled bet (€0.32) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.29 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop
+Seat 2: pipinoelbreve9 (small blind) collected (€0.29)
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870348255:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:45:47 CET [2025/09/24 11:45:47 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.86 in chips) 
+Seat 2: Josskijano (€5.02 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+Seat 4: Ruben1990869 (€5.66 in chips) 
+Josskijano: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Th]
+Ruben1990869: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+Josskijano: folds 
+LilAnyel: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pipinoelbreve9 (button) collected (€0.12)
+Seat 2: Josskijano (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870341169:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:45:06 CET [2025/09/24 11:45:06 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ReymonG10 (€5.45 in chips) 
+Seat 2: LilAnyel (€5.09 in chips) 
+Seat 3: akaTicoYT (€6.03 in chips) 
+Seat 4: pipinoelbreve9 (€5.74 in chips) 
+LilAnyel: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 5c]
+pipinoelbreve9: folds 
+ReymonG10: raises €0.07 to €0.12
+LilAnyel: folds 
+akaTicoYT: calls €0.07
+*** FLOP *** [4c 5d 8d]
+akaTicoYT: checks 
+ReymonG10: bets €0.13
+akaTicoYT: raises €0.26 to €0.39
+ReymonG10: calls €0.26
+*** TURN *** [4c 5d 8d] [Qh]
+akaTicoYT: bets €0.76
+ReymonG10: calls €0.76
+*** RIVER *** [4c 5d 8d Qh] [Ks]
+akaTicoYT: bets €4.76 and is all-in
+ReymonG10: folds 
+Uncalled bet (€4.76) returned to akaTicoYT
+akaTicoYT collected €2.43 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.56 | Rake €0.13 
+Board [4c 5d 8d Qh Ks]
+Seat 1: ReymonG10 (button) folded on the River
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€2.43)
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870350143:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:45:58 CET [2025/09/24 11:45:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: akaTicoYT (€16.36 in chips) 
+Seat 3: pipinoelbreve9 (€5.93 in chips) 
+Seat 4: Josskijano (€5 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Ah]
+Josskijano: folds 
+LilAnyel: calls €0.05
+akaTicoYT: folds 
+pipinoelbreve9: raises €0.20 to €0.25
+LilAnyel: calls €0.20
+*** FLOP *** [2c 8h Kc]
+pipinoelbreve9: bets €0.20
+LilAnyel: folds 
+Uncalled bet (€0.20) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.49 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.52 | Rake €0.03 
+Board [2c 8h Kc]
+Seat 1: LilAnyel (button) folded on the Flop
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.49)
+Seat 4: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870357119:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:46:38 CET [2025/09/24 11:46:38 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ReymonG10 (€5.64 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: nicalomano (€5.15 in chips) 
+Seat 4: pipinoelbreve9 (€6.17 in chips) 
+Seat 5: Ruben1990869 (€5.66 in chips) 
+LilAnyel: posts small blind €0.02
+nicalomano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 7h]
+pipinoelbreve9: folds 
+Ruben1990869: folds 
+ReymonG10: raises €0.10 to €0.15
+LilAnyel: folds 
+nicalomano: folds 
+Uncalled bet (€0.10) returned to ReymonG10
+ReymonG10 collected €0.12 from pot
+ReymonG10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: ReymonG10 (button) collected (€0.12)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: nicalomano (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870358859:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:46:48 CET [2025/09/24 11:46:48 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nicalomano (€5.14 in chips) 
+Seat 2: pipinoelbreve9 (€6.17 in chips) 
+Seat 3: LilAnyel (€5.07 in chips) 
+Seat 4: basurdia (€7.03 in chips) 
+pipinoelbreve9: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Tc]
+basurdia: folds 
+nicalomano: raises €0.05 to €0.10
+pipinoelbreve9: folds 
+LilAnyel: folds 
+Uncalled bet (€0.05) returned to nicalomano
+nicalomano collected €0.12 from pot
+nicalomano: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: nicalomano (button) collected (€0.12)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: basurdia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870357816:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:46:42 CET [2025/09/24 11:46:42 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€7.17 in chips) 
+Seat 2: festas306 (€2.52 in chips) 
+Seat 3: freeddeexx (€0.45 in chips) 
+Seat 4: pipinoelbreve9 (€6.17 in chips) 
+Seat 5: LilAnyel (€5 in chips) 
+festas306: posts small blind €0.02
+freeddeexx: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 6d]
+pipinoelbreve9: folds 
+LilAnyel: folds 
+akaTicoYT: raises €0.07 to €0.12
+festas306: folds 
+freeddeexx: folds 
+Uncalled bet (€0.07) returned to akaTicoYT
+akaTicoYT collected €0.12 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) collected (€0.12)
+Seat 2: festas306 (small blind) folded before Flop
+Seat 3: freeddeexx (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870360946:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:47:00 CET [2025/09/24 11:47:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€6.15 in chips) 
+Seat 2: nicalomano (€5 in chips) 
+Seat 3: Josskijano (€5 in chips) 
+Seat 4: LilAnyel (€5 in chips) 
+Seat 5: Ruben1990869 (€5.18 in chips) 
+Seat 6: ReymonG10 (€5.73 in chips) 
+nicalomano: posts small blind €0.02
+Josskijano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks Ad]
+nicalomano is disconnected 
+LilAnyel: folds 
+Ruben1990869: folds 
+ReymonG10: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+nicalomano has timed out while disconnected
+nicalomano: folds 
+Josskijano: calls €0.10
+*** FLOP *** [Js 9c Td]
+Josskijano: checks 
+pipinoelbreve9: bets €0.15
+Josskijano: calls €0.15
+*** TURN *** [Js 9c Td] [8d]
+Josskijano: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [Js 9c Td 8d] [Kh]
+Josskijano: bets €0.15
+pipinoelbreve9: calls €0.15
+*** SHOW DOWN ***
+Josskijano: shows [7h 9h] (a straight, Seven to Jack)
+pipinoelbreve9: mucks hand 
+Josskijano collected €0.87 from pot
+*** SUMMARY ***
+Total pot €0.92 | Rake €0.05 
+Board [Js 9c Td 8d Kh]
+Seat 1: pipinoelbreve9 (button) mucked [Ks Ad]
+Seat 2: nicalomano (small blind) folded before Flop
+Seat 3: Josskijano (big blind) showed [7h 9h] and won (€0.87) with a straight, Seven to Jack
+Seat 4: LilAnyel folded before Flop (didn't bet)
+Seat 5: Ruben1990869 folded before Flop (didn't bet)
+Seat 6: ReymonG10 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870370293:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:47:53 CET [2025/09/24 11:47:53 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€10.90 in chips) 
+Seat 2: Josskijano (€5.42 in chips) 
+Seat 3: basurdia (€6.94 in chips) 
+Seat 4: ReymonG10 (€5.66 in chips) 
+Seat 5: LilAnyel (€5 in chips) 
+Seat 6: pipinoelbreve9 (€5.70 in chips) 
+Josskijano: posts small blind €0.02
+basurdia: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3d 4h]
+ReymonG10: raises €0.07 to €0.12
+LilAnyel: folds 
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+Josskijano: folds 
+basurdia: folds 
+Uncalled bet (€0.07) returned to ReymonG10
+ReymonG10 collected €0.12 from pot
+ReymonG10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: Josskijano (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: ReymonG10 collected (€0.12)
+Seat 5: LilAnyel folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870371749:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:01 CET [2025/09/24 11:48:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Josskijano (€5.40 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5.70 in chips) 
+Seat 4: akaTicoYT (€10.90 in chips) 
+LilAnyel: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 6s]
+akaTicoYT: folds 
+Josskijano: folds 
+LilAnyel: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Josskijano (button) folded before Flop (didn't bet)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870373968:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:15 CET [2025/09/24 11:48:15 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5.72 in chips) 
+Seat 3: akaTicoYT (€16.33 in chips) 
+pipinoelbreve9: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Jd]
+LilAnyel: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.03) returned to akaTicoYT
+akaTicoYT collected €0.04 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€0.04)
+
+
+
+PokerStars Zoom Hand #257870376609:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:30 CET [2025/09/24 11:48:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.70 in chips) 
+Seat 2: akaTicoYT (€16.35 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+Seat 4: Ruben1990869 (€5 in chips) 
+Seat 5: locomotive34 (€4.68 in chips) 
+akaTicoYT: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Qs]
+Ruben1990869: folds 
+locomotive34: raises €0.10 to €0.15
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+LilAnyel: folds 
+Uncalled bet (€0.10) returned to locomotive34
+locomotive34 collected €0.12 from pot
+locomotive34: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: locomotive34 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #257870379020:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:44 CET [2025/09/24 11:48:44 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ReymonG10 (€5.78 in chips) 
+Seat 2: akaTicoYT (€9.79 in chips) 
+Seat 3: pipinoelbreve9 (€5.68 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Td]
+ReymonG10: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: ReymonG10 (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+
+
+
+PokerStars Zoom Hand #257870377821:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:37 CET [2025/09/24 11:48:37 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€16.33 in chips) 
+Seat 2: pipinoelbreve9 (€5.70 in chips) 
+Seat 3: basurdia (€6.94 in chips) 
+pipinoelbreve9: posts small blind €0.02
+basurdia: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 5c]
+akaTicoYT: raises €0.07 to €0.12
+pipinoelbreve9: folds 
+basurdia: calls €0.07
+*** FLOP *** [6c 5h Jh]
+basurdia: checks 
+akaTicoYT: bets €0.08
+basurdia: folds 
+Uncalled bet (€0.08) returned to akaTicoYT
+akaTicoYT collected €0.25 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [6c 5h Jh]
+Seat 1: akaTicoYT (button) collected (€0.25)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded on the Flop
+
+
+
+PokerStars Zoom Hand #257870380569:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:48:53 CET [2025/09/24 11:48:53 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.70 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: Josskijano (€5.46 in chips) 
+Seat 4: akaTicoYT (€11.39 in chips) 
+LilAnyel: posts small blind €0.02
+Josskijano: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Jd]
+akaTicoYT: raises €0.07 to €0.12
+pipinoelbreve9: raises €0.23 to €0.35
+LilAnyel: folds 
+Josskijano: folds 
+akaTicoYT: raises €0.77 to €1.12
+pipinoelbreve9: calls €0.77
+*** FLOP *** [7d 9s 7c]
+akaTicoYT: bets €0.76
+pipinoelbreve9: folds 
+Uncalled bet (€0.76) returned to akaTicoYT
+akaTicoYT collected €2.19 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.31 | Rake €0.12 
+Board [7d 9s 7c]
+Seat 1: pipinoelbreve9 (button) folded on the Flop
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: Josskijano (big blind) folded before Flop
+Seat 4: akaTicoYT collected (€2.19)
+
+
+
+PokerStars Zoom Hand #257870387097:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:49:30 CET [2025/09/24 11:49:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.12 in chips) 
+Seat 2: akaTicoYT (€12.46 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 8c]
+LilAnyel: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+
+
+
+PokerStars Zoom Hand #257870386232:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:49:25 CET [2025/09/24 11:49:25 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: basurdia (€6.84 in chips) 
+Seat 3: Ruben1990869 (€5.50 in chips) 
+Seat 4: LilAnyel (€8.82 in chips) 
+basurdia: posts small blind €0.02
+Ruben1990869: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 9c]
+LilAnyel: folds 
+pipinoelbreve9: folds 
+basurdia: raises €0.20 to €0.25
+Ruben1990869: folds 
+Uncalled bet (€0.20) returned to basurdia
+basurdia collected €0.10 from pot
+basurdia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: basurdia (small blind) collected (€0.10)
+Seat 3: Ruben1990869 (big blind) folded before Flop
+Seat 4: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870388717:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:49:39 CET [2025/09/24 11:49:39 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: locomotive34 (€4.63 in chips) 
+Seat 2: pipinoelbreve9 (€5.02 in chips) 
+Seat 3: akaTicoYT (€12.44 in chips) 
+pipinoelbreve9: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Th]
+locomotive34: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+akaTicoYT: raises €0.37 to €0.52
+pipinoelbreve9: folds 
+Uncalled bet (€0.37) returned to akaTicoYT
+akaTicoYT collected €0.30 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0 
+Seat 1: locomotive34 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€0.30)
+
+
+
+PokerStars Zoom Hand #257870390794:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:49:51 CET [2025/09/24 11:49:51 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€8.84 in chips) 
+Seat 2: Josskijano (€5.31 in chips) 
+Seat 3: Ruben1990869 (€5.43 in chips) 
+Seat 4: pipinoelbreve9 (€4.87 in chips) 
+Josskijano: posts small blind €0.02
+Ruben1990869: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 6h]
+pipinoelbreve9: raises €0.10 to €0.15
+LilAnyel: folds 
+Josskijano: calls €0.13
+Ruben1990869: folds 
+*** FLOP *** [4h 6c 8c]
+Josskijano: checks 
+pipinoelbreve9: bets €0.17
+Josskijano: calls €0.17
+*** TURN *** [4h 6c 8c] [Ah]
+Josskijano: checks 
+pipinoelbreve9: bets €0.56
+Josskijano: folds 
+Uncalled bet (€0.56) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.66 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.69 | Rake €0.03 
+Board [4h 6c 8c Ah]
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: Josskijano (small blind) folded on the Turn
+Seat 3: Ruben1990869 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.66)
+
+
+
+PokerStars Zoom Hand #257870395718:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:19 CET [2025/09/24 11:50:19 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.21 in chips) 
+Seat 2: akaTicoYT (€16.87 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+Seat 4: Josskijano (€5 in chips) 
+akaTicoYT: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4h Td]
+Josskijano: folds 
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to LilAnyel
+LilAnyel collected €0.04 from pot
+LilAnyel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: LilAnyel (big blind) collected (€0.04)
+Seat 4: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870396674:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:25 CET [2025/09/24 11:50:25 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: basurdia (€6.77 in chips) 
+Seat 2: akaTicoYT (€10.23 in chips) 
+Seat 3: NIHHIL0 (€5.07 in chips) 
+Seat 4: Ruben1990869 (€5.31 in chips) 
+Seat 5: pipinoelbreve9 (€5.21 in chips) 
+Seat 6: Josskijano (€5 in chips) 
+akaTicoYT: posts small blind €0.02
+NIHHIL0: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 4s]
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+Josskijano: folds 
+basurdia: raises €0.05 to €0.10
+akaTicoYT: folds 
+NIHHIL0: calls €0.05
+*** FLOP *** [9d 2s Qs]
+NIHHIL0: checks 
+basurdia: bets €0.15
+NIHHIL0: folds 
+Uncalled bet (€0.15) returned to basurdia
+basurdia collected €0.21 from pot
+basurdia: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.22 | Rake €0.01 
+Board [9d 2s Qs]
+Seat 1: basurdia (button) collected (€0.21)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: NIHHIL0 (big blind) folded on the Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Josskijano folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870400390:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:45 CET [2025/09/24 11:50:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.02 in chips) 
+Seat 2: akaTicoYT (€17.40 in chips) 
+Seat 3: pipinoelbreve9 (€5.19 in chips) 
+Seat 4: ReymonG10 (€5.17 in chips) 
+Seat 5: basurdia (€6.88 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Qd]
+ReymonG10: folds 
+basurdia: folds 
+LilAnyel: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: ReymonG10 folded before Flop (didn't bet)
+Seat 5: basurdia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870401976:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:54 CET [2025/09/24 11:50:54 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.21 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: locomotive34 (€4.86 in chips) 
+Seat 4: akaTicoYT (€17.38 in chips) 
+LilAnyel: posts small blind €0.02
+locomotive34: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 2d]
+akaTicoYT: folds 
+pipinoelbreve9: folds 
+LilAnyel: folds 
+Uncalled bet (€0.03) returned to locomotive34
+locomotive34 collected €0.04 from pot
+locomotive34: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: locomotive34 (big blind) collected (€0.04)
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870406790:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:51:22 CET [2025/09/24 11:51:22 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.14 in chips) 
+Seat 2: Ruben1990869 (€5.81 in chips) 
+Seat 3: akaTicoYT (€12.38 in chips) 
+Ruben1990869: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc Kd]
+pipinoelbreve9: raises €0.10 to €0.15
+Ruben1990869: folds 
+akaTicoYT: raises €0.41 to €0.56
+pipinoelbreve9: folds 
+Uncalled bet (€0.41) returned to akaTicoYT
+akaTicoYT collected €0.32 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop
+Seat 2: Ruben1990869 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) collected (€0.32)
+
+
+
+PokerStars Zoom Hand #257870405213:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:51:12 CET [2025/09/24 11:51:12 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5.16 in chips) 
+Seat 3: basurdia (€6.95 in chips) 
+Seat 4: Ruben1990869 (€5.81 in chips) 
+Seat 5: ReymonG10 (€5.12 in chips) 
+pipinoelbreve9: posts small blind €0.02
+basurdia: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 7d]
+Ruben1990869: folds 
+ReymonG10: raises €0.10 to €0.15
+LilAnyel: calls €0.15
+pipinoelbreve9: folds 
+basurdia: folds 
+*** FLOP *** [Ad Kd 6c]
+ReymonG10: checks 
+LilAnyel: checks 
+*** TURN *** [Ad Kd 6c] [7h]
+ReymonG10: bets €0.26
+LilAnyel: folds 
+Uncalled bet (€0.26) returned to ReymonG10
+ReymonG10 collected €0.35 from pot
+ReymonG10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.37 | Rake €0.02 
+Board [Ad Kd 6c 7h]
+Seat 1: LilAnyel (button) folded on the Turn
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: basurdia (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: ReymonG10 collected (€0.35)
+
+
+
+PokerStars Zoom Hand #257870410169:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:51:41 CET [2025/09/24 11:51:41 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5 in chips) 
+Seat 3: Ruben1990869 (€5.79 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Ruben1990869: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c 2c]
+LilAnyel: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.03) returned to Ruben1990869
+Ruben1990869 collected €0.04 from pot
+Ruben1990869: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: LilAnyel (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Ruben1990869 (big blind) collected (€0.04)
+
+
+
+PokerStars Zoom Hand #257870397682:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:30 CET [2025/09/24 11:50:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Josskijano (€5 in chips) 
+Seat 2: pipinoelbreve9 (€5.21 in chips) 
+Seat 3: Aleex_600 (€5 in chips) 
+Seat 4: akaTicoYT (€10.21 in chips) 
+Seat 5: Ruben1990869 (€5.31 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Aleex_600: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 9s]
+akaTicoYT: raises €0.07 to €0.12
+Ruben1990869: folds 
+Josskijano: raises €0.31 to €0.43
+pipinoelbreve9: folds 
+Aleex_600: folds 
+akaTicoYT: raises €0.83 to €1.26
+Josskijano: calls €0.83
+*** FLOP *** [2c Qs Qc]
+akaTicoYT: bets €0.98
+Josskijano: calls €0.98
+*** TURN *** [2c Qs Qc] [6d]
+akaTicoYT: checks 
+Josskijano: checks 
+*** RIVER *** [2c Qs Qc 6d] [Ts]
+akaTicoYT: bets €7.97 and is all-in
+Josskijano: calls €2.76 and is all-in
+Uncalled bet (€5.21) returned to akaTicoYT
+*** SHOW DOWN ***
+akaTicoYT: shows [Jd Jh] (two pair, Queens and Jacks)
+Josskijano: shows [Ac Ah] (two pair, Aces and Queens)
+Josskijano collected €9.57 from pot
+*** SUMMARY ***
+Total pot €10.07 | Rake €0.50 
+Board [2c Qs Qc 6d Ts]
+Seat 1: Josskijano (button) showed [Ac Ah] and won (€9.57) with two pair, Aces and Queens
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Aleex_600 (big blind) folded before Flop
+Seat 4: akaTicoYT showed [Jd Jh] and lost with two pair, Queens and Jacks
+Seat 5: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870411752:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:51:50 CET [2025/09/24 11:51:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: NIHHIL0 (€5 in chips) 
+Seat 2: LilAnyel (€5 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: akaTicoYT (€17.23 in chips) 
+Seat 5: ReymonG10 (€5.30 in chips) 
+LilAnyel: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 4s]
+akaTicoYT: raises €0.07 to €0.12
+ReymonG10: calls €0.12
+NIHHIL0: folds 
+LilAnyel: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [2d 2c Ad]
+akaTicoYT: bets €0.10
+ReymonG10: folds 
+Uncalled bet (€0.10) returned to akaTicoYT
+akaTicoYT collected €0.29 from pot
+akaTicoYT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0.02 
+Board [2d 2c Ad]
+Seat 1: NIHHIL0 (button) folded before Flop (didn't bet)
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: akaTicoYT collected (€0.29)
+Seat 5: ReymonG10 folded on the Flop
+
+
+
+PokerStars Zoom Hand #257870413182:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:51:58 CET [2025/09/24 11:51:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€4.95 in chips) 
+Seat 2: NIHHIL0 (€5 in chips) 
+Seat 3: akaTicoYT (€5.21 in chips) 
+NIHHIL0: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 8d]
+pipinoelbreve9: raises €0.10 to €0.15
+NIHHIL0: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pipinoelbreve9 (button) collected (€0.12)
+Seat 2: NIHHIL0 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) folded before Flop
+
+
+
+PokerStars Zoom Hand #257870416341:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:52:16 CET [2025/09/24 11:52:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.17 in chips) 
+Seat 2: akaTicoYT (€5.16 in chips) 
+Seat 3: pipinoelbreve9 (€5.02 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Jc]
+LilAnyel: raises €0.07 to €0.12
+akaTicoYT: folds 
+pipinoelbreve9: raises €0.32 to €0.44
+LilAnyel: calls €0.32
+*** FLOP *** [2c Ts 7s]
+pipinoelbreve9: bets €0.38
+LilAnyel: folds 
+Uncalled bet (€0.38) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.86 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.90 | Rake €0.04 
+Board [2c Ts 7s]
+Seat 1: LilAnyel (button) folded on the Flop
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.86)
+
+
+
+PokerStars Zoom Hand #257870424267:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:53:01 CET [2025/09/24 11:53:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: basurdia (€6.65 in chips) 
+Seat 2: Ruben1990869 (€5.14 in chips) 
+Seat 3: pipinoelbreve9 (€5.42 in chips) 
+Seat 4: LilAnyel (€5.07 in chips) 
+Ruben1990869: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 5s]
+LilAnyel: folds 
+basurdia: folds 
+Ruben1990869: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: Ruben1990869 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: LilAnyel folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870402928:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:50:59 CET [2025/09/24 11:50:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ReymonG10 (€4.37 in chips) 
+Seat 2: LilAnyel (€8.39 in chips) 
+Seat 3: pipinoelbreve9 (€5.21 in chips) 
+Seat 4: akaTicoYT (€17.38 in chips) 
+Seat 5: Ruben1990869 (€5.81 in chips) 
+LilAnyel: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Tc]
+akaTicoYT: raises €0.07 to €0.12
+Ruben1990869: folds 
+ReymonG10: raises €0.22 to €0.34
+LilAnyel: folds 
+pipinoelbreve9: folds 
+akaTicoYT: calls €0.22
+*** FLOP *** [Kd 8c 2h]
+akaTicoYT: checks 
+ReymonG10: bets €0.31
+akaTicoYT: calls €0.31
+*** TURN *** [Kd 8c 2h] [Kc]
+akaTicoYT: checks 
+ReymonG10: bets €0.65
+akaTicoYT: calls €0.65
+*** RIVER *** [Kd 8c 2h Kc] [7d]
+akaTicoYT: checks 
+ReymonG10: bets €3.05
+akaTicoYT: calls €3.05
+*** SHOW DOWN ***
+ReymonG10: shows [4s 4d] (two pair, Kings and Fours)
+akaTicoYT: shows [5c 5h] (two pair, Kings and Fives)
+akaTicoYT collected €8.33 from pot
+*** SUMMARY ***
+Total pot €8.77 | Rake €0.44 
+Board [Kd 8c 2h Kc 7d]
+Seat 1: ReymonG10 (button) showed [4s 4d] and lost with two pair, Kings and Fours
+Seat 2: LilAnyel (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: akaTicoYT showed [5c 5h] and won (€8.33) with two pair, Kings and Fives
+Seat 5: Ruben1990869 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870425521:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:53:08 CET [2025/09/24 11:53:08 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: LilAnyel (€5.07 in chips) 
+Seat 2: basurdia (€6.46 in chips) 
+Seat 3: ReymonG10 (€5.16 in chips) 
+Seat 4: Ruben1990869 (€5.12 in chips) 
+Seat 5: pipinoelbreve9 (€5.44 in chips) 
+basurdia: posts small blind €0.02
+ReymonG10: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Ah]
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+LilAnyel: raises €0.10 to €0.15
+basurdia: folds 
+ReymonG10: folds 
+Uncalled bet (€0.10) returned to LilAnyel
+LilAnyel collected €0.12 from pot
+LilAnyel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: LilAnyel (button) collected (€0.12)
+Seat 2: basurdia (small blind) folded before Flop
+Seat 3: ReymonG10 (big blind) folded before Flop
+Seat 4: Ruben1990869 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257870420597:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:52:40 CET [2025/09/24 11:52:40 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ruben1990869 (€5.24 in chips) 
+Seat 2: pipinoelbreve9 (€5.44 in chips) 
+Seat 3: Aleex_600 (€4.94 in chips) 
+Seat 4: LilAnyel (€8.25 in chips) 
+Seat 5: akaTicoYT (€12.48 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Aleex_600: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 6d]
+LilAnyel: folds 
+akaTicoYT: raises €0.07 to €0.12
+Ruben1990869: folds 
+pipinoelbreve9: folds 
+Aleex_600: raises €0.07 to €0.19
+akaTicoYT: calls €0.07
+*** FLOP *** [As 8c Jd]
+Aleex_600: checks 
+akaTicoYT: checks 
+*** TURN *** [As 8c Jd] [Kh]
+Aleex_600: checks 
+akaTicoYT: checks 
+*** RIVER *** [As 8c Jd Kh] [9c]
+Aleex_600: bets €0.35
+akaTicoYT: folds 
+Uncalled bet (€0.35) returned to Aleex_600
+Aleex_600 collected €0.38 from pot
+Aleex_600: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.40 | Rake €0.02 
+Board [As 8c Jd Kh 9c]
+Seat 1: Ruben1990869 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: Aleex_600 (big blind) collected (€0.38)
+Seat 4: LilAnyel folded before Flop (didn't bet)
+Seat 5: akaTicoYT folded on the River
+
+
+
+PokerStars Zoom Hand #257870422889:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:52:53 CET [2025/09/24 11:52:53 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5.42 in chips) 
+Seat 2: locomotive34 (€5.46 in chips) 
+Seat 3: LilAnyel (€5 in chips) 
+locomotive34: posts small blind €0.02
+LilAnyel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 2c]
+pipinoelbreve9: folds 
+locomotive34: calls €0.03
+LilAnyel: checks 
+*** FLOP *** [6s Jc 7h]
+locomotive34: checks 
+LilAnyel: checks 
+*** TURN *** [6s Jc 7h] [4h]
+locomotive34: checks 
+LilAnyel: checks 
+*** RIVER *** [6s Jc 7h 4h] [2d]
+locomotive34: checks 
+LilAnyel: checks 
+*** SHOW DOWN ***
+locomotive34: shows [9h Tc] (high card Jack)
+LilAnyel: shows [2s 3h] (a pair of Deuces)
+LilAnyel collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Board [6s Jc 7h 4h 2d]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: locomotive34 (small blind) showed [9h Tc] and lost with high card Jack
+Seat 3: LilAnyel (big blind) showed [2s 3h] and won (€0.10) with a pair of Deuces
+
+
+
+PokerStars Zoom Hand #257870427297:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 17:53:18 CET [2025/09/24 11:53:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: basurdia (€6.44 in chips) 
+Seat 2: pipinoelbreve9 (€5.44 in chips) 
+Seat 3: Ruben1990869 (€5.12 in chips) 
+pipinoelbreve9: posts small blind €0.02
+Ruben1990869: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Tc]
+basurdia: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+Ruben1990869: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.10 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: basurdia (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.10)
+Seat 3: Ruben1990869 (big blind) folded before Flop
+
+
+
+PokerStars Zoom Hand #257871632403:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 19:38:15 CET [2025/09/24 13:38:15 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€13.11 in chips) 
+Seat 2: el bolilla (€5.87 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: basurdia (€11.38 in chips) 
+el bolilla: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Kh]
+basurdia: folds 
+akaTicoYT: folds 
+el bolilla: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: el bolilla (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: basurdia folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257871635092:  Hold'em No Limit (€0.02/€0.05) - 2025/09/24 19:38:27 CET [2025/09/24 13:38:27 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Rainman0276 (€7.16 in chips) 
+Seat 2: pipinoelbreve9 (€5.02 in chips) 
+Seat 3: akaTicoYT (€26.43 in chips) 
+pipinoelbreve9: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 5d]
+Rainman0276: raises €0.10 to €0.15
+pipinoelbreve9: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.10) returned to Rainman0276
+Rainman0276 collected €0.12 from pot
+Rainman0276: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Rainman0276 (button) collected (€0.12)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) folded before Flop
+
+
+

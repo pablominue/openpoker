@@ -1,0 +1,211 @@
+﻿PokerStars Hand #257492314948: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:22:54 CET [2025/08/26 9:22:54 ET]
+Table '3922279071 1' 3-max Seat #1 is the button
+Seat 1: Ayara555 (500 in chips) 
+Seat 2: pipinoelbreve9 (500 in chips) 
+Seat 3: alexllcr01 (500 in chips) 
+pipinoelbreve9: posts small blind 10
+alexllcr01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah Ad]
+Ayara555: calls 20
+pipinoelbreve9: raises 80 to 100
+alexllcr01: raises 80 to 180
+Ayara555: folds 
+pipinoelbreve9: raises 320 to 500 and is all-in
+alexllcr01: calls 320 and is all-in
+*** FLOP *** [8c 4d 8d]
+*** TURN *** [8c 4d 8d] [7c]
+*** RIVER *** [8c 4d 8d 7c] [Qh]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ah Ad] (two pair, Aces and Eights)
+alexllcr01: shows [Js Jh] (two pair, Jacks and Eights)
+pipinoelbreve9 collected 1020 from pot
+alexllcr01 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [8c 4d 8d 7c Qh]
+Seat 1: Ayara555 (button) folded before Flop
+Seat 2: pipinoelbreve9 (small blind) showed [Ah Ad] and won (1020) with two pair, Aces and Eights
+Seat 3: alexllcr01 (big blind) showed [Js Jh] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #257492319147: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:23:24 CET [2025/08/26 9:23:24 ET]
+Table '3922279071 1' 3-max Seat #2 is the button
+Seat 1: Ayara555 (480 in chips) 
+Seat 2: pipinoelbreve9 (1020 in chips) 
+pipinoelbreve9: posts small blind 10
+Ayara555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Kc]
+pipinoelbreve9: calls 10
+Ayara555: checks 
+*** FLOP *** [Tc 2d 4c]
+Ayara555: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Tc 2d 4c] [Jc]
+Ayara555: bets 20
+pipinoelbreve9: calls 20
+*** RIVER *** [Tc 2d 4c Jc] [Qd]
+Ayara555: bets 80
+pipinoelbreve9: folds 
+Uncalled bet (80) returned to Ayara555
+Ayara555 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 2d 4c Jc Qd]
+Seat 1: Ayara555 (big blind) collected (80)
+Seat 2: pipinoelbreve9 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #257492321808: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:23:44 CET [2025/08/26 9:23:44 ET]
+Table '3922279071 1' 3-max Seat #1 is the button
+Seat 1: Ayara555 (520 in chips) 
+Seat 2: pipinoelbreve9 (980 in chips) 
+Ayara555: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 7d]
+Ayara555: calls 10
+pipinoelbreve9: raises 60 to 80
+Ayara555: calls 60
+*** FLOP *** [Qc 4h Ah]
+pipinoelbreve9: bets 100
+Ayara555: calls 100
+*** TURN *** [Qc 4h Ah] [7h]
+pipinoelbreve9: bets 20
+Ayara555: raises 60 to 80
+pipinoelbreve9: folds 
+Uncalled bet (60) returned to Ayara555
+Ayara555 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Qc 4h Ah 7h]
+Seat 1: Ayara555 (button) (small blind) collected (400)
+Seat 2: pipinoelbreve9 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257492325333: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:24:09 CET [2025/08/26 9:24:09 ET]
+Table '3922279071 1' 3-max Seat #2 is the button
+Seat 1: Ayara555 (720 in chips) 
+Seat 2: pipinoelbreve9 (780 in chips) 
+pipinoelbreve9: posts small blind 10
+Ayara555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh Th]
+pipinoelbreve9: raises 40 to 60
+Ayara555: calls 40
+*** FLOP *** [7c 8d Qh]
+Ayara555: checks 
+pipinoelbreve9: bets 60
+Ayara555: calls 60
+*** TURN *** [7c 8d Qh] [5d]
+Ayara555: bets 20
+pipinoelbreve9: calls 20
+*** RIVER *** [7c 8d Qh 5d] [7h]
+Ayara555: bets 20
+pipinoelbreve9: calls 20
+*** SHOW DOWN ***
+Ayara555: shows [5c 4c] (two pair, Sevens and Fives)
+pipinoelbreve9: mucks hand 
+Ayara555 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7c 8d Qh 5d 7h]
+Seat 1: Ayara555 (big blind) showed [5c 4c] and won (320) with two pair, Sevens and Fives
+Seat 2: pipinoelbreve9 (button) (small blind) mucked [Jh Th]
+
+
+
+PokerStars Hand #257492328858: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:24:35 CET [2025/08/26 9:24:35 ET]
+Table '3922279071 1' 3-max Seat #1 is the button
+Seat 1: Ayara555 (880 in chips) 
+Seat 2: pipinoelbreve9 (620 in chips) 
+Ayara555: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 2h]
+Ayara555: calls 10
+pipinoelbreve9: checks 
+*** FLOP *** [7h Ad 4c]
+pipinoelbreve9: checks 
+Ayara555: checks 
+*** TURN *** [7h Ad 4c] [Kc]
+pipinoelbreve9: checks 
+Ayara555: bets 20
+pipinoelbreve9: folds 
+Uncalled bet (20) returned to Ayara555
+Ayara555 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Ad 4c Kc]
+Seat 1: Ayara555 (button) (small blind) collected (40)
+Seat 2: pipinoelbreve9 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #257492330932: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level I (10/20) - 2025/08/26 15:24:50 CET [2025/08/26 9:24:50 ET]
+Table '3922279071 1' 3-max Seat #2 is the button
+Seat 1: Ayara555 (900 in chips) 
+Seat 2: pipinoelbreve9 (600 in chips) 
+pipinoelbreve9: posts small blind 10
+Ayara555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 8h]
+pipinoelbreve9: calls 10
+Ayara555: checks 
+*** FLOP *** [Td 2h Tc]
+Ayara555: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Td 2h Tc] [7d]
+Ayara555: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [Td 2h Tc 7d] [6c]
+Ayara555: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+Ayara555: shows [2d Ks] (two pair, Tens and Deuces)
+pipinoelbreve9: mucks hand 
+Ayara555 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 2h Tc 7d 6c]
+Seat 1: Ayara555 (big blind) showed [2d Ks] and won (40) with two pair, Tens and Deuces
+Seat 2: pipinoelbreve9 (button) (small blind) mucked [Jd 8h]
+
+
+
+PokerStars Hand #257492333356: Tournament #3922279071, €0.23+€0.02 EUR Hold'em No Limit - Level II (15/30) - 2025/08/26 15:25:08 CET [2025/08/26 9:25:08 ET]
+Table '3922279071 1' 3-max Seat #1 is the button
+Seat 1: Ayara555 (920 in chips) 
+Seat 2: pipinoelbreve9 (580 in chips) 
+Ayara555: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Kh]
+Ayara555: calls 15
+pipinoelbreve9: raises 120 to 150
+Ayara555: calls 120
+*** FLOP *** [Kc Td 5c]
+pipinoelbreve9: bets 150
+Ayara555: calls 150
+*** TURN *** [Kc Td 5c] [2h]
+pipinoelbreve9: bets 280 and is all-in
+Ayara555: calls 280
+*** RIVER *** [Kc Td 5c 2h] [Ac]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Qc Kh] (a pair of Kings)
+Ayara555: shows [9c Tc] (a flush, Ace high)
+Ayara555 collected 1160 from pot
+pipinoelbreve9 finished the tournament in 2nd place
+Ayara555 wins the tournament and receives €0.50 - congratulations!
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Kc Td 5c 2h Ac]
+Seat 1: Ayara555 (button) (small blind) showed [9c Tc] and won (1160) with a flush, Ace high
+Seat 2: pipinoelbreve9 (big blind) showed [Qc Kh] and lost with a pair of Kings
+
+
+

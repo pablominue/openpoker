@@ -1,0 +1,1406 @@
+﻿PokerStars Hand #257653266583: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 22:43:34 CET [2025/09/07 16:43:34 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: numero27m4 (15163 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (8900 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4979 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (4630 in chips, €0.45 bounty) 
+Seat 5: Bossjul (43861 in chips, €1.17 bounty) 
+numero27m4: posts the ante 21
+carlayou782: posts the ante 21
+pipinoelbreve9: posts the ante 21
+fz@conqueso: posts the ante 21
+Bossjul: posts the ante 21
+numero27m4: posts small blind 70
+carlayou782: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s 9d]
+pipinoelbreve9: folds 
+fz@conqueso: folds 
+Bossjul: calls 140
+numero27m4 has timed out
+numero27m4: folds 
+numero27m4 is sitting out
+numero27m4 has returned
+carlayou782: checks 
+*** FLOP *** [Jh Ad 5h]
+carlayou782: checks 
+Bossjul: bets 420
+carlayou782: calls 420
+*** TURN *** [Jh Ad 5h] [Ah]
+carlayou782: checks 
+Bossjul: bets 648
+carlayou782: calls 648
+*** RIVER *** [Jh Ad 5h Ah] [5d]
+carlayou782: checks 
+Bossjul: bets 1296
+carlayou782: calls 1296
+*** SHOW DOWN ***
+Bossjul: shows [6d Jd] (two pair, Aces and Jacks)
+carlayou782: mucks hand 
+Bossjul collected 5183 from pot
+*** SUMMARY ***
+Total pot 5183 | Rake 0 
+Board [Jh Ad 5h Ah 5d]
+Seat 1: numero27m4 (small blind) folded before Flop
+Seat 2: carlayou782 (big blind) mucked [3c Jc]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: fz@conqueso folded before Flop (didn't bet)
+Seat 5: Bossjul (button) showed [6d Jd] and won (5183) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #257653284658: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 22:44:31 CET [2025/09/07 16:44:31 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: numero27m4 (15072 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (6375 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4958 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (4609 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46519 in chips, €1.17 bounty) 
+numero27m4: posts the ante 21
+carlayou782: posts the ante 21
+pipinoelbreve9: posts the ante 21
+fz@conqueso: posts the ante 21
+Bossjul: posts the ante 21
+carlayou782: posts small blind 70
+pipinoelbreve9: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Qc]
+fz@conqueso: calls 140
+Bossjul: raises 46358 to 46498 and is all-in
+numero27m4: folds 
+carlayou782: folds 
+pipinoelbreve9: folds 
+fz@conqueso: folds 
+Uncalled bet (46358) returned to Bossjul
+Bossjul collected 595 from pot
+*** SUMMARY ***
+Total pot 595 | Rake 0 
+Seat 1: numero27m4 (button) folded before Flop (didn't bet)
+Seat 2: carlayou782 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: fz@conqueso folded before Flop
+Seat 5: Bossjul collected (595)
+
+
+
+PokerStars Hand #257653291007: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 22:44:52 CET [2025/09/07 16:44:52 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: numero27m4 (15051 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (6284 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4797 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (4448 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46953 in chips, €1.17 bounty) 
+numero27m4: posts the ante 21
+carlayou782: posts the ante 21
+pipinoelbreve9: posts the ante 21
+fz@conqueso: posts the ante 21
+Bossjul: posts the ante 21
+pipinoelbreve9: posts small blind 70
+fz@conqueso: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Ac]
+Bossjul: raises 140 to 280
+numero27m4 has timed out
+numero27m4: folds 
+numero27m4 is sitting out
+carlayou782: calls 280
+pipinoelbreve9: folds 
+fz@conqueso: calls 140
+*** FLOP *** [7c 8d Ks]
+fz@conqueso: checks 
+Bossjul: bets 420
+carlayou782: calls 420
+fz@conqueso: calls 420
+*** TURN *** [7c 8d Ks] [Jh]
+fz@conqueso: checks 
+Bossjul: bets 1138
+carlayou782: folds 
+fz@conqueso: folds 
+Uncalled bet (1138) returned to Bossjul
+Bossjul collected 2275 from pot
+*** SUMMARY ***
+Total pot 2275 | Rake 0 
+Board [7c 8d Ks Jh]
+Seat 1: numero27m4 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) folded on the Turn
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: fz@conqueso (big blind) folded on the Turn
+Seat 5: Bossjul collected (2275)
+
+
+
+PokerStars Hand #257653307123: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 22:45:42 CET [2025/09/07 16:45:42 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 1: numero27m4 (15030 in chips, €0.87 bounty) is sitting out
+Seat 2: carlayou782 (5563 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4706 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (3727 in chips, €0.45 bounty) 
+Seat 5: Bossjul (48507 in chips, €1.17 bounty) 
+Seat 6: arohamm (9982 in chips, €0.59 bounty) 
+numero27m4: posts the ante 21
+carlayou782: posts the ante 21
+pipinoelbreve9: posts the ante 21
+fz@conqueso: posts the ante 21
+Bossjul: posts the ante 21
+arohamm: posts the ante 21
+fz@conqueso: posts small blind 70
+Bossjul: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Qh]
+numero27m4 has returned
+arohamm: calls 140
+numero27m4: folds 
+carlayou782: calls 140
+pipinoelbreve9: calls 140
+fz@conqueso: folds 
+Bossjul: checks 
+*** FLOP *** [8d 3h 9s]
+Bossjul: checks 
+arohamm: bets 378
+carlayou782: calls 378
+pipinoelbreve9: folds 
+Bossjul: calls 378
+*** TURN *** [8d 3h 9s] [Kh]
+Bossjul: checks 
+arohamm: bets 140
+carlayou782: calls 140
+Bossjul: calls 140
+*** RIVER *** [8d 3h 9s Kh] [Js]
+Bossjul: checks 
+arohamm: bets 140
+carlayou782: folds 
+Bossjul: folds 
+Uncalled bet (140) returned to arohamm
+arohamm collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | Rake 0 
+Board [8d 3h 9s Kh Js]
+Seat 1: numero27m4 folded before Flop (didn't bet)
+Seat 2: carlayou782 folded on the River
+Seat 3: pipinoelbreve9 (button) folded on the Flop
+Seat 4: fz@conqueso (small blind) folded before Flop
+Seat 5: Bossjul (big blind) folded on the River
+Seat 6: arohamm collected (2310)
+
+
+
+PokerStars Hand #257653324623: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:46:39 CET [2025/09/07 16:46:39 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: numero27m4 (15009 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (4884 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4545 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (3636 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47828 in chips, €1.17 bounty) 
+Seat 6: arohamm (11613 in chips, €0.59 bounty) 
+numero27m4: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+fz@conqueso: posts the ante 24
+Bossjul: posts the ante 24
+arohamm: posts the ante 24
+Bossjul: posts small blind 80
+arohamm: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c Tc]
+numero27m4: raises 544 to 704
+carlayou782: folds 
+pipinoelbreve9: folds 
+fz@conqueso: folds 
+Bossjul: calls 624
+arohamm: folds 
+*** FLOP *** [As 5c Kh]
+Bossjul: checks 
+numero27m4: bets 1712
+Bossjul: folds 
+Uncalled bet (1712) returned to numero27m4
+numero27m4 collected 1712 from pot
+numero27m4: doesn't show hand 
+*** SUMMARY ***
+Total pot 1712 | Rake 0 
+Board [As 5c Kh]
+Seat 1: numero27m4 collected (1712)
+Seat 2: carlayou782 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: fz@conqueso (button) folded before Flop (didn't bet)
+Seat 5: Bossjul (small blind) folded on the Flop
+Seat 6: arohamm (big blind) folded before Flop
+
+
+
+PokerStars Hand #257653334093: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:47:09 CET [2025/09/07 16:47:09 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: numero27m4 (15993 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (4860 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4521 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (3612 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47100 in chips, €1.17 bounty) 
+Seat 6: arohamm (11429 in chips, €0.59 bounty) 
+numero27m4: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+fz@conqueso: posts the ante 24
+Bossjul: posts the ante 24
+arohamm: posts the ante 24
+arohamm: posts small blind 80
+numero27m4: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 2h]
+carlayou782: calls 160
+pipinoelbreve9: folds 
+fz@conqueso: folds 
+Bossjul: calls 160
+arohamm: calls 80
+numero27m4: checks 
+*** FLOP *** [Kc 9h 3d]
+arohamm: bets 160
+numero27m4: folds 
+carlayou782: calls 160
+Bossjul: folds 
+*** TURN *** [Kc 9h 3d] [2s]
+arohamm: bets 160
+carlayou782: calls 160
+*** RIVER *** [Kc 9h 3d 2s] [5c]
+arohamm: bets 160
+carlayou782: calls 160
+*** SHOW DOWN ***
+arohamm: shows [Qc Tc] (high card King)
+carlayou782: shows [Ac 9s] (a pair of Nines)
+carlayou782 collected 1744 from pot
+*** SUMMARY ***
+Total pot 1744 | Rake 0 
+Board [Kc 9h 3d 2s 5c]
+Seat 1: numero27m4 (big blind) folded on the Flop
+Seat 2: carlayou782 showed [Ac 9s] and won (1744) with a pair of Nines
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: fz@conqueso folded before Flop (didn't bet)
+Seat 5: Bossjul (button) folded on the Flop
+Seat 6: arohamm (small blind) showed [Qc Tc] and lost with high card King
+
+
+
+PokerStars Hand #257653346197: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:47:47 CET [2025/09/07 16:47:47 ET]
+Table '3926041994 6' 6-max Seat #6 is the button
+Seat 1: numero27m4 (15809 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (5940 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (4497 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (3588 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46916 in chips, €1.17 bounty) 
+Seat 6: arohamm (10765 in chips, €0.59 bounty) 
+numero27m4: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+fz@conqueso: posts the ante 24
+Bossjul: posts the ante 24
+arohamm: posts the ante 24
+numero27m4: posts small blind 80
+carlayou782: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 8h]
+pipinoelbreve9: raises 320 to 480
+fz@conqueso: folds 
+Bossjul: calls 480
+arohamm: folds 
+numero27m4: folds 
+carlayou782: folds 
+*** FLOP *** [7c 7h Qd]
+pipinoelbreve9: bets 512
+Bossjul: folds 
+Uncalled bet (512) returned to pipinoelbreve9
+pipinoelbreve9 collected 1344 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1344 | Rake 0 
+Board [7c 7h Qd]
+Seat 1: numero27m4 (small blind) folded before Flop
+Seat 2: carlayou782 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 collected (1344)
+Seat 4: fz@conqueso folded before Flop (didn't bet)
+Seat 5: Bossjul folded on the Flop
+Seat 6: arohamm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653353093: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:48:08 CET [2025/09/07 16:48:08 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: numero27m4 (15705 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (5756 in chips, €0.45 bounty) 
+Seat 3: pipinoelbreve9 (5337 in chips, €0.45 bounty) 
+Seat 4: fz@conqueso (3564 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46412 in chips, €1.17 bounty) 
+Seat 6: arohamm (10741 in chips, €0.59 bounty) 
+numero27m4: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+fz@conqueso: posts the ante 24
+Bossjul: posts the ante 24
+arohamm: posts the ante 24
+carlayou782: posts small blind 80
+pipinoelbreve9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d 8c]
+fz@conqueso: calls 160
+Bossjul: calls 160
+arohamm: calls 160
+numero27m4: folds 
+carlayou782: calls 80
+pipinoelbreve9: checks 
+*** FLOP *** [6d Tc Jh]
+carlayou782: checks 
+pipinoelbreve9: checks 
+fz@conqueso: bets 944
+Bossjul: folds 
+arohamm: calls 944
+carlayou782: raises 4628 to 5572 and is all-in
+pipinoelbreve9: folds 
+fz@conqueso: calls 2436 and is all-in
+arohamm: calls 4628
+*** TURN *** [6d Tc Jh] [8d]
+*** RIVER *** [6d Tc Jh 8d] [6s]
+*** SHOW DOWN ***
+carlayou782: shows [Ad Ac] (two pair, Aces and Sixes)
+arohamm: shows [9s Ks] (a pair of Sixes)
+carlayou782 collected 4384 from side pot
+fz@conqueso: shows [9c Jc] (two pair, Jacks and Sixes)
+carlayou782 collected 11084 from main pot
+carlayou782 wins €0.31 for eliminating fz@conqueso and their own bounty increases by €0.14 to €0.59
+fz@conqueso finished the tournament
+*** SUMMARY ***
+Total pot 15468 Main pot 11084. Side pot 4384. | Rake 0 
+Board [6d Tc Jh 8d 6s]
+Seat 1: numero27m4 (button) folded before Flop (didn't bet)
+Seat 2: carlayou782 (small blind) showed [Ad Ac] and won (15468) with two pair, Aces and Sixes
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: fz@conqueso showed [9c Jc] and lost with two pair, Jacks and Sixes
+Seat 5: Bossjul folded on the Flop
+Seat 6: arohamm showed [9s Ks] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #257653367418: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:48:54 CET [2025/09/07 16:48:54 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: numero27m4 (15681 in chips, €0.87 bounty) 
+Seat 2: carlayou782 (15468 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5153 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46228 in chips, €1.17 bounty) 
+Seat 6: arohamm (4985 in chips, €0.59 bounty) 
+numero27m4: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Bossjul: posts the ante 24
+arohamm: posts the ante 24
+pipinoelbreve9: posts small blind 80
+Bossjul: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 7h]
+arohamm: raises 4801 to 4961 and is all-in
+numero27m4: folds 
+carlayou782: folds 
+pipinoelbreve9: folds 
+Bossjul: calls 4801
+*** FLOP *** [5s 4d 8c]
+*** TURN *** [5s 4d 8c] [8h]
+*** RIVER *** [5s 4d 8c 8h] [9c]
+*** SHOW DOWN ***
+Bossjul: shows [6s 9h] (two pair, Nines and Eights)
+arohamm: shows [Tc Qd] (a pair of Eights)
+Bossjul collected 10122 from pot
+Bossjul wins €0.40 for eliminating arohamm and their own bounty increases by €0.19 to €1.36
+arohamm finished the tournament
+*** SUMMARY ***
+Total pot 10122 | Rake 0 
+Board [5s 4d 8c 8h 9c]
+Seat 1: numero27m4 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 5: Bossjul (big blind) showed [6s 9h] and won (10122) with two pair, Nines and Eights
+Seat 6: arohamm showed [Tc Qd] and lost with a pair of Eights
+
+
+
+PokerStars Hand #257653377185: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:49:25 CET [2025/09/07 16:49:25 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 2: carlayou782 (15444 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5049 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Bossjul (51365 in chips, €1.36 bounty) 
+joanaquare18 will be allowed to play after the button
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+Bossjul: posts the ante 24
+Bossjul: posts small blind 80
+carlayou782: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 2s]
+pipinoelbreve9: calls 160
+Bossjul: calls 80
+carlayou782: checks 
+*** FLOP *** [Jc Jh 3h]
+Bossjul: checks 
+carlayou782: checks 
+pipinoelbreve9: checks 
+*** TURN *** [Jc Jh 3h] [9d]
+Bossjul: bets 320
+carlayou782: folds 
+pipinoelbreve9: folds 
+Uncalled bet (320) returned to Bossjul
+Bossjul collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | Rake 0 
+Board [Jc Jh 3h 9d]
+Seat 2: carlayou782 (big blind) folded on the Turn
+Seat 3: pipinoelbreve9 (button) folded on the Turn
+Seat 5: Bossjul (small blind) collected (552)
+
+
+
+PokerStars Hand #257653386427: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:49:55 CET [2025/09/07 16:49:55 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: LAGOLOSA28 (4587 in chips) out of hand (moved from another table into small blind)
+Seat 2: carlayou782 (15260 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4865 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5000 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51733 in chips, €1.36 bounty) 
+LAGOLOSA28 will be allowed to play after the button
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+joanaquare18: posts the ante 24
+Bossjul: posts the ante 24
+carlayou782: posts small blind 80
+pipinoelbreve9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 3c]
+joanaquare18: folds 
+Bossjul: calls 160
+carlayou782: calls 80
+pipinoelbreve9: checks 
+*** FLOP *** [9c Qc 9h]
+carlayou782: checks 
+pipinoelbreve9: checks 
+Bossjul: bets 576
+carlayou782: folds 
+pipinoelbreve9: folds 
+Uncalled bet (576) returned to Bossjul
+Bossjul collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [9c Qc 9h]
+Seat 2: carlayou782 (small blind) folded on the Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: joanaquare18 folded before Flop (didn't bet)
+Seat 5: Bossjul (button) collected (576)
+
+
+
+PokerStars Hand #257653393615: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:50:17 CET [2025/09/07 16:50:17 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: LAGOLOSA28 (4587 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (15076 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4681 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4976 in chips, €0.45 bounty) 
+Seat 5: Bossjul (52125 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+joanaquare18: posts the ante 24
+Bossjul: posts the ante 24
+pipinoelbreve9: posts small blind 80
+joanaquare18: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 2s]
+Bossjul: calls 160
+LAGOLOSA28: folds 
+carlayou782: calls 160
+pipinoelbreve9: folds 
+joanaquare18: checks 
+*** FLOP *** [Ad 7h 3c]
+joanaquare18: checks 
+Bossjul: checks 
+carlayou782: checks 
+*** TURN *** [Ad 7h 3c] [9h]
+joanaquare18: checks 
+Bossjul: checks 
+carlayou782: checks 
+*** RIVER *** [Ad 7h 3c 9h] [9c]
+joanaquare18: checks 
+Bossjul: checks 
+carlayou782: checks 
+*** SHOW DOWN ***
+joanaquare18: shows [5d 6h] (a pair of Nines)
+Bossjul: shows [Th 6s] (a pair of Nines - Ace+Ten kicker)
+carlayou782: shows [3d Td] (two pair, Nines and Threes)
+carlayou782 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Ad 7h 3c 9h 9c]
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) showed [3d Td] and won (680) with two pair, Nines and Threes
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: joanaquare18 (big blind) showed [5d 6h] and lost with a pair of Nines
+Seat 5: Bossjul showed [Th 6s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #257653401681: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level VIII (80/160) - 2025/09/07 22:50:43 CET [2025/09/07 16:50:43 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 1: LAGOLOSA28 (4563 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (15572 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4577 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4792 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51941 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 24
+carlayou782: posts the ante 24
+pipinoelbreve9: posts the ante 24
+joanaquare18: posts the ante 24
+Bossjul: posts the ante 24
+joanaquare18: posts small blind 80
+Bossjul: posts big blind 160
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d 4c]
+LAGOLOSA28: folds 
+carlayou782: calls 160
+pipinoelbreve9: folds 
+joanaquare18: calls 80
+Bossjul: checks 
+*** FLOP *** [Td 9h 6c]
+joanaquare18: checks 
+Bossjul: checks 
+carlayou782: checks 
+*** TURN *** [Td 9h 6c] [7s]
+joanaquare18: checks 
+Bossjul: bets 320
+carlayou782: folds 
+joanaquare18: calls 320
+*** RIVER *** [Td 9h 6c 7s] [5d]
+joanaquare18: bets 4288 and is all-in
+Bossjul: folds 
+Uncalled bet (4288) returned to joanaquare18
+joanaquare18 collected 1240 from pot
+joanaquare18: doesn't show hand 
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Td 9h 6c 7s 5d]
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 folded on the Turn
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: joanaquare18 (small blind) collected (1240)
+Seat 5: Bossjul (big blind) folded on the River
+
+
+
+PokerStars Hand #257653413112: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:51:19 CET [2025/09/07 16:51:19 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: LAGOLOSA28 (4539 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (15388 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4553 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5528 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51437 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+Bossjul: posts small blind 90
+LAGOLOSA28: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6c 6s]
+carlayou782: calls 180
+pipinoelbreve9: raises 540 to 720
+joanaquare18: folds 
+Bossjul: calls 630
+LAGOLOSA28: folds 
+carlayou782: folds 
+*** FLOP *** [9c 9d 4s]
+Bossjul: bets 360
+pipinoelbreve9: calls 360
+*** TURN *** [9c 9d 4s] [5h]
+Bossjul: bets 360
+pipinoelbreve9: calls 360
+*** RIVER *** [9c 9d 4s 5h] [5d]
+Bossjul: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+Bossjul: shows [Jd Kh] (two pair, Nines and Fives)
+pipinoelbreve9: shows [6c 6s] (two pair, Nines and Sixes)
+pipinoelbreve9 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | Rake 0 
+Board [9c 9d 4s 5h 5d]
+Seat 1: LAGOLOSA28 (big blind) folded before Flop
+Seat 2: carlayou782 folded before Flop
+Seat 3: pipinoelbreve9 showed [6c 6s] and won (3375) with two pair, Nines and Sixes
+Seat 4: joanaquare18 (button) folded before Flop (didn't bet)
+Seat 5: Bossjul (small blind) showed [Jd Kh] and lost with two pair, Nines and Fives
+
+
+
+PokerStars Hand #257653422888: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:51:50 CET [2025/09/07 16:51:50 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: LAGOLOSA28 (4332 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (15181 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (6461 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5501 in chips, €0.45 bounty) 
+Seat 5: Bossjul (49970 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+LAGOLOSA28: posts small blind 90
+carlayou782: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 4c]
+pipinoelbreve9: folds 
+joanaquare18: calls 180
+Bossjul: calls 180
+LAGOLOSA28: raises 180 to 360
+carlayou782: folds 
+joanaquare18: calls 180
+Bossjul: raises 49583 to 49943 and is all-in
+LAGOLOSA28: calls 3945 and is all-in
+joanaquare18: folds 
+Uncalled bet (45638) returned to Bossjul
+*** FLOP *** [6d Ac Kd]
+*** TURN *** [6d Ac Kd] [8s]
+*** RIVER *** [6d Ac Kd 8s] [8h]
+*** SHOW DOWN ***
+LAGOLOSA28: shows [As Kc] (two pair, Aces and Kings)
+Bossjul: shows [3c 3s] (two pair, Eights and Threes)
+LAGOLOSA28 collected 9285 from pot
+*** SUMMARY ***
+Total pot 9285 | Rake 0 
+Board [6d Ac Kd 8s 8h]
+Seat 1: LAGOLOSA28 (small blind) showed [As Kc] and won (9285) with two pair, Aces and Kings
+Seat 2: carlayou782 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: joanaquare18 folded before Flop
+Seat 5: Bossjul (button) showed [3c 3s] and lost with two pair, Eights and Threes
+
+
+
+PokerStars Hand #257653432759: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:52:21 CET [2025/09/07 16:52:21 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: LAGOLOSA28 (9285 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (14974 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (6434 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5114 in chips, €0.45 bounty) 
+Seat 5: Bossjul (45638 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+carlayou782: posts small blind 90
+pipinoelbreve9: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h 6d]
+joanaquare18: folds 
+Bossjul: calls 180
+LAGOLOSA28: folds 
+carlayou782: calls 90
+pipinoelbreve9: checks 
+*** FLOP *** [Kh Ts 6c]
+carlayou782: checks 
+pipinoelbreve9: checks 
+Bossjul: checks 
+*** TURN *** [Kh Ts 6c] [Tc]
+carlayou782: checks 
+pipinoelbreve9: bets 338
+Bossjul: calls 338
+carlayou782: folds 
+*** RIVER *** [Kh Ts 6c Tc] [Jd]
+pipinoelbreve9: checks 
+Bossjul: bets 1351
+pipinoelbreve9: folds 
+Uncalled bet (1351) returned to Bossjul
+Bossjul collected 1351 from pot
+*** SUMMARY ***
+Total pot 1351 | Rake 0 
+Board [Kh Ts 6c Tc Jd]
+Seat 1: LAGOLOSA28 (button) folded before Flop (didn't bet)
+Seat 2: carlayou782 (small blind) folded on the Turn
+Seat 3: pipinoelbreve9 (big blind) folded on the River
+Seat 4: joanaquare18 folded before Flop (didn't bet)
+Seat 5: Bossjul collected (1351)
+
+
+
+PokerStars Hand #257653450364: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:53:18 CET [2025/09/07 16:53:18 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: LAGOLOSA28 (9258 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (14767 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5889 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5087 in chips, €0.45 bounty) 
+Seat 5: Bossjul (46444 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+pipinoelbreve9: posts small blind 90
+joanaquare18: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs 4s]
+Bossjul: calls 180
+LAGOLOSA28: folds 
+carlayou782: folds 
+pipinoelbreve9: calls 90
+joanaquare18: checks 
+*** FLOP *** [Jc 7c Ad]
+pipinoelbreve9: checks 
+joanaquare18: checks 
+Bossjul: checks 
+*** TURN *** [Jc 7c Ad] [2h]
+pipinoelbreve9: checks 
+joanaquare18: checks 
+Bossjul: bets 360
+pipinoelbreve9: folds 
+joanaquare18: calls 360
+*** RIVER *** [Jc 7c Ad 2h] [As]
+joanaquare18: checks 
+Dreyer385 is disconnected 
+Bossjul: bets 540
+joanaquare18: folds 
+Uncalled bet (540) returned to Bossjul
+Bossjul collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | Rake 0 
+Board [Jc 7c Ad 2h As]
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded on the Turn
+Seat 4: joanaquare18 (big blind) folded on the River
+Seat 5: Bossjul collected (1395)
+
+
+
+PokerStars Hand #257653461528: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:53:54 CET [2025/09/07 16:53:54 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 1: LAGOLOSA28 (9231 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (14740 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5682 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4520 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47272 in chips, €1.36 bounty) 
+Seat 6: Dreyer385 (5000 in chips, €0.45 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+Dreyer385: posts the ante 27
+joanaquare18: posts small blind 90
+Bossjul: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 8d]
+Dreyer385: folds 
+LAGOLOSA28: calls 180
+carlayou782: calls 180
+pipinoelbreve9: folds 
+joanaquare18: calls 90
+Bossjul: checks 
+*** FLOP *** [9c 2s Jd]
+joanaquare18: checks 
+Bossjul: checks 
+LAGOLOSA28: checks 
+carlayou782: checks 
+*** TURN *** [9c 2s Jd] [Js]
+joanaquare18: checks 
+Bossjul: checks 
+LAGOLOSA28: checks 
+carlayou782: checks 
+*** RIVER *** [9c 2s Jd Js] [Qc]
+joanaquare18: checks 
+Bossjul: bets 441
+LAGOLOSA28: folds 
+carlayou782: folds 
+joanaquare18: folds 
+Uncalled bet (441) returned to Bossjul
+Bossjul collected 882 from pot
+*** SUMMARY ***
+Total pot 882 | Rake 0 
+Board [9c 2s Jd Js Qc]
+Seat 1: LAGOLOSA28 folded on the River
+Seat 2: carlayou782 folded on the River
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: joanaquare18 (small blind) folded on the River
+Seat 5: Bossjul (big blind) collected (882)
+Seat 6: Dreyer385 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653484244: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 22:55:07 CET [2025/09/07 16:55:07 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: LAGOLOSA28 (9024 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (14533 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5655 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4313 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47947 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+Bossjul: posts small blind 90
+LAGOLOSA28: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 6c]
+carlayou782: calls 180
+pipinoelbreve9: calls 180
+joanaquare18: calls 180
+Bossjul: calls 90
+LAGOLOSA28: checks 
+*** FLOP *** [7c 9s Tc]
+Bossjul: checks 
+LAGOLOSA28: bets 180
+carlayou782: calls 180
+pipinoelbreve9: calls 180
+joanaquare18: calls 180
+Bossjul: calls 180
+*** TURN *** [7c 9s Tc] [Qs]
+Bossjul: checks 
+LAGOLOSA28: checks 
+carlayou782: checks 
+pipinoelbreve9: checks 
+joanaquare18: checks 
+*** RIVER *** [7c 9s Tc Qs] [2s]
+Bossjul: checks 
+LAGOLOSA28: bets 180
+carlayou782: folds 
+pipinoelbreve9: folds 
+joanaquare18: calls 180
+Bossjul: folds 
+*** SHOW DOWN ***
+LAGOLOSA28: shows [2h 6d] (a pair of Deuces)
+joanaquare18: shows [Jd Ts] (a pair of Tens)
+joanaquare18 collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | Rake 0 
+Board [7c 9s Tc Qs 2s]
+Seat 1: LAGOLOSA28 (big blind) showed [2h 6d] and lost with a pair of Deuces
+Seat 2: carlayou782 folded on the River
+Seat 3: pipinoelbreve9 folded on the River
+Seat 4: joanaquare18 (button) showed [Jd Ts] and won (2295) with a pair of Tens
+Seat 5: Bossjul (small blind) folded on the River
+
+
+
+PokerStars Hand #257653546911: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 23:01:14 CET [2025/09/07 17:01:14 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: LAGOLOSA28 (8457 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (14146 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5268 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6041 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47560 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+LAGOLOSA28: posts small blind 90
+carlayou782: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 6c]
+pipinoelbreve9: folds 
+joanaquare18: calls 180
+Bossjul: calls 180
+LAGOLOSA28: calls 90
+carlayou782: checks 
+*** FLOP *** [6h 3d Ac]
+LAGOLOSA28: checks 
+carlayou782: checks 
+joanaquare18: bets 540
+Bossjul: folds 
+LAGOLOSA28: folds 
+carlayou782: folds 
+Uncalled bet (540) returned to joanaquare18
+joanaquare18 collected 855 from pot
+joanaquare18: doesn't show hand 
+*** SUMMARY ***
+Total pot 855 | Rake 0 
+Board [6h 3d Ac]
+Seat 1: LAGOLOSA28 (small blind) folded on the Flop
+Seat 2: carlayou782 (big blind) folded on the Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: joanaquare18 collected (855)
+Seat 5: Bossjul (button) folded on the Flop
+
+
+
+PokerStars Hand #257653559086: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level IX (90/180) - 2025/09/07 23:02:03 CET [2025/09/07 17:02:03 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: LAGOLOSA28 (8250 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (13939 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5241 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6689 in chips, €0.45 bounty) 
+Seat 5: Bossjul (47353 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 27
+carlayou782: posts the ante 27
+pipinoelbreve9: posts the ante 27
+joanaquare18: posts the ante 27
+Bossjul: posts the ante 27
+carlayou782: posts small blind 90
+pipinoelbreve9: posts big blind 180
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Qh]
+joanaquare18: calls 180
+Bossjul: raises 360 to 540
+LAGOLOSA28: calls 540
+carlayou782: folds 
+pipinoelbreve9: folds 
+joanaquare18: calls 360
+*** FLOP *** [3h Ts 7c]
+joanaquare18: checks 
+MarcoDStar is disconnected 
+Bossjul: bets 540
+LAGOLOSA28: calls 540
+joanaquare18: calls 540
+*** TURN *** [3h Ts 7c] [Ac]
+joanaquare18: checks 
+Bossjul: bets 540
+LAGOLOSA28: calls 540
+joanaquare18: calls 540
+*** RIVER *** [3h Ts 7c Ac] [4c]
+joanaquare18: checks 
+Bossjul: bets 5265
+LAGOLOSA28: folds 
+joanaquare18: folds 
+Uncalled bet (5265) returned to Bossjul
+Bossjul collected 5265 from pot
+*** SUMMARY ***
+Total pot 5265 | Rake 0 
+Board [3h Ts 7c Ac 4c]
+Seat 1: LAGOLOSA28 (button) folded on the River
+Seat 2: carlayou782 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: joanaquare18 folded on the River
+Seat 5: Bossjul collected (5265)
+
+
+
+PokerStars Hand #257653573351: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:02:49 CET [2025/09/07 17:02:49 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: LAGOLOSA28 (6603 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (13822 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5034 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (5042 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50971 in chips, €1.36 bounty) 
+Seat 6: MarcoDStar (5000 in chips, €0.45 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+MarcoDStar: posts the ante 30
+pipinoelbreve9: posts small blind 100
+joanaquare18: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 4h]
+Bossjul: raises 50741 to 50941 and is all-in
+MarcoDStar: folds 
+LAGOLOSA28: folds 
+carlayou782: folds 
+pipinoelbreve9: folds 
+joanaquare18: folds 
+Uncalled bet (50741) returned to Bossjul
+Bossjul collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: joanaquare18 (big blind) folded before Flop
+Seat 5: Bossjul collected (680)
+Seat 6: MarcoDStar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653580098: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:03:12 CET [2025/09/07 17:03:12 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 1: LAGOLOSA28 (6573 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (13792 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4904 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4812 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51421 in chips, €1.36 bounty) 
+Seat 6: MarcoDStar (4970 in chips, €0.45 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+MarcoDStar: posts the ante 30
+joanaquare18: posts small blind 100
+Bossjul: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 9h]
+MarcoDStar: folds 
+LAGOLOSA28: calls 200
+carlayou782: calls 200
+pipinoelbreve9: folds 
+joanaquare18: calls 100
+Bossjul: checks 
+*** FLOP *** [5h Kc 4h]
+joanaquare18: checks 
+Bossjul: checks 
+LAGOLOSA28: bets 200
+carlayou782: calls 200
+joanaquare18: folds 
+Bossjul: calls 200
+*** TURN *** [5h Kc 4h] [2c]
+Bossjul: checks 
+LAGOLOSA28: bets 200
+carlayou782: calls 200
+Bossjul: calls 200
+*** RIVER *** [5h Kc 4h 2c] [Jh]
+Bossjul: checks 
+LAGOLOSA28: bets 200
+carlayou782: calls 200
+Bossjul: folds 
+*** SHOW DOWN ***
+LAGOLOSA28: shows [Ks 8c] (a pair of Kings)
+carlayou782: mucks hand 
+LAGOLOSA28 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | Rake 0 
+Board [5h Kc 4h 2c Jh]
+Seat 1: LAGOLOSA28 showed [Ks 8c] and won (2580) with a pair of Kings
+Seat 2: carlayou782 mucked [Jc 9c]
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: joanaquare18 (small blind) folded on the Flop
+Seat 5: Bossjul (big blind) folded on the River
+Seat 6: MarcoDStar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653600010: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:04:14 CET [2025/09/07 17:04:14 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: LAGOLOSA28 (8323 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (12962 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4874 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4582 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50791 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+Bossjul: posts small blind 100
+LAGOLOSA28: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 7c]
+carlayou782: calls 200
+pipinoelbreve9: calls 200
+joanaquare18: folds 
+Bossjul: calls 100
+LAGOLOSA28: raises 200 to 400
+carlayou782: calls 200
+pipinoelbreve9: calls 200
+Bossjul: calls 200
+*** FLOP *** [Ts 8c Td]
+Bossjul: checks 
+LAGOLOSA28: checks 
+carlayou782: checks 
+pipinoelbreve9: bets 4444 and is all-in
+Bossjul: folds 
+LAGOLOSA28: folds 
+carlayou782: folds 
+Uncalled bet (4444) returned to pipinoelbreve9
+pipinoelbreve9 collected 1750 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Board [Ts 8c Td]
+Seat 1: LAGOLOSA28 (big blind) folded on the Flop
+Seat 2: carlayou782 folded on the Flop
+Seat 3: pipinoelbreve9 collected (1750)
+Seat 4: joanaquare18 (button) folded before Flop (didn't bet)
+Seat 5: Bossjul (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257653615765: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:05:04 CET [2025/09/07 17:05:04 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: LAGOLOSA28 (7893 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (12532 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (6194 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4552 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50361 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+LAGOLOSA28: posts small blind 100
+carlayou782: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Qh]
+pipinoelbreve9: folds 
+joanaquare18: raises 4322 to 4522 and is all-in
+Bossjul: folds 
+LAGOLOSA28: folds 
+carlayou782: folds 
+Uncalled bet (4322) returned to joanaquare18
+joanaquare18 collected 650 from pot
+joanaquare18: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: LAGOLOSA28 (small blind) folded before Flop
+Seat 2: carlayou782 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: joanaquare18 collected (650)
+Seat 5: Bossjul (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257653620878: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:05:19 CET [2025/09/07 17:05:19 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: LAGOLOSA28 (7763 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (12302 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (6164 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4972 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50331 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+carlayou782: posts small blind 100
+pipinoelbreve9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Qh]
+joanaquare18: folds 
+Bossjul: raises 400 to 600
+LAGOLOSA28: folds 
+carlayou782: calls 500
+pipinoelbreve9: calls 400
+*** FLOP *** [6d Jd 4d]
+carlayou782: checks 
+pipinoelbreve9: checks 
+Bossjul: bets 400
+carlayou782: folds 
+pipinoelbreve9: calls 400
+*** TURN *** [6d Jd 4d] [Ks]
+pipinoelbreve9: checks 
+Bossjul: bets 800
+pipinoelbreve9: folds 
+Uncalled bet (800) returned to Bossjul
+Bossjul collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | Rake 0 
+Board [6d Jd 4d Ks]
+Seat 1: LAGOLOSA28 (button) folded before Flop (didn't bet)
+Seat 2: carlayou782 (small blind) folded on the Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Turn
+Seat 4: joanaquare18 folded before Flop (didn't bet)
+Seat 5: Bossjul collected (2750)
+
+
+
+PokerStars Hand #257653633697: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:05:59 CET [2025/09/07 17:05:59 ET]
+Table '3926041994 6' 6-max Seat #2 is the button
+Seat 1: LAGOLOSA28 (7733 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (11672 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5134 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (4942 in chips, €0.45 bounty) 
+Seat 5: Bossjul (52051 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+pipinoelbreve9: posts small blind 100
+joanaquare18: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd 2h]
+Bossjul: calls 200
+LAGOLOSA28: folds 
+carlayou782: folds 
+pipinoelbreve9: calls 100
+joanaquare18: checks 
+*** FLOP *** [7s 4s 2d]
+pipinoelbreve9: checks 
+joanaquare18: checks 
+Bossjul: bets 750
+pipinoelbreve9: folds 
+joanaquare18: calls 750
+*** TURN *** [7s 4s 2d] [7d]
+joanaquare18: checks 
+Bossjul: checks 
+*** RIVER *** [7s 4s 2d 7d] [8c]
+joanaquare18: bets 1400
+Bossjul: folds 
+Uncalled bet (1400) returned to joanaquare18
+joanaquare18 collected 2250 from pot
+joanaquare18: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [7s 4s 2d 7d 8c]
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded on the Flop
+Seat 4: joanaquare18 (big blind) collected (2250)
+Seat 5: Bossjul folded on the River
+
+
+
+PokerStars Hand #257653646282: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:06:38 CET [2025/09/07 17:06:38 ET]
+Table '3926041994 6' 6-max Seat #3 is the button
+Seat 1: LAGOLOSA28 (7703 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (11642 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (4904 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6212 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51071 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+joanaquare18: posts small blind 100
+Bossjul: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5h Ac]
+LAGOLOSA28: folds 
+carlayou782: calls 200
+pipinoelbreve9: raises 4674 to 4874 and is all-in
+joanaquare18: folds 
+Bossjul: folds 
+carlayou782: folds 
+Uncalled bet (4674) returned to pipinoelbreve9
+pipinoelbreve9 collected 850 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: LAGOLOSA28 folded before Flop (didn't bet)
+Seat 2: carlayou782 folded before Flop
+Seat 3: pipinoelbreve9 (button) collected (850)
+Seat 4: joanaquare18 (small blind) folded before Flop
+Seat 5: Bossjul (big blind) folded before Flop
+
+
+
+PokerStars Hand #257653655329: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level X (100/200) - 2025/09/07 23:07:07 CET [2025/09/07 17:07:07 ET]
+Table '3926041994 6' 6-max Seat #4 is the button
+Seat 1: LAGOLOSA28 (7673 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (11412 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5524 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6082 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50841 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 30
+carlayou782: posts the ante 30
+pipinoelbreve9: posts the ante 30
+joanaquare18: posts the ante 30
+Bossjul: posts the ante 30
+Bossjul: posts small blind 100
+LAGOLOSA28: posts big blind 200
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 4s]
+carlayou782: calls 200
+pipinoelbreve9: folds 
+joanaquare18: folds 
+Bossjul: calls 100
+LAGOLOSA28: raises 200 to 400
+carlayou782: calls 200
+Bossjul: calls 200
+*** FLOP *** [Th Jh Jd]
+Bossjul: checks 
+LAGOLOSA28: bets 200
+carlayou782: calls 200
+Bossjul: folds 
+*** TURN *** [Th Jh Jd] [5h]
+LAGOLOSA28: bets 200
+carlayou782: calls 200
+*** RIVER *** [Th Jh Jd 5h] [Kc]
+LAGOLOSA28: checks 
+carlayou782: checks 
+*** SHOW DOWN ***
+LAGOLOSA28: shows [Ac Qd] (a straight, Ten to Ace)
+carlayou782: mucks hand 
+LAGOLOSA28 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [Th Jh Jd 5h Kc]
+Seat 1: LAGOLOSA28 (big blind) showed [Ac Qd] and won (2150) with a straight, Ten to Ace
+Seat 2: carlayou782 mucked [7d Ah]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: joanaquare18 (button) folded before Flop (didn't bet)
+Seat 5: Bossjul (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257653672380: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 23:08:00 CET [2025/09/07 17:08:00 ET]
+Table '3926041994 6' 6-max Seat #5 is the button
+Seat 1: LAGOLOSA28 (8993 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (10582 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5494 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6052 in chips, €0.45 bounty) 
+Seat 5: Bossjul (50411 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 38
+carlayou782: posts the ante 38
+pipinoelbreve9: posts the ante 38
+joanaquare18: posts the ante 38
+Bossjul: posts the ante 38
+LAGOLOSA28: posts small blind 125
+carlayou782: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d Jh]
+pipinoelbreve9: calls 250
+joanaquare18: folds 
+Bossjul: raises 500 to 750
+LAGOLOSA28: folds 
+carlayou782: folds 
+pipinoelbreve9: folds 
+Uncalled bet (500) returned to Bossjul
+Bossjul collected 1065 from pot
+*** SUMMARY ***
+Total pot 1065 | Rake 0 
+Seat 1: LAGOLOSA28 (small blind) folded before Flop
+Seat 2: carlayou782 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop
+Seat 4: joanaquare18 folded before Flop (didn't bet)
+Seat 5: Bossjul (button) collected (1065)
+
+
+
+PokerStars Hand #257653677714: Tournament #3926041994, €0.00+€0.45+€0.05 EUR Hold'em No Limit - Level XI (125/250) - 2025/09/07 23:08:16 CET [2025/09/07 17:08:16 ET]
+Table '3926041994 6' 6-max Seat #1 is the button
+Seat 1: LAGOLOSA28 (8830 in chips, €0.45 bounty) 
+Seat 2: carlayou782 (10294 in chips, €0.59 bounty) 
+Seat 3: pipinoelbreve9 (5206 in chips, €0.45 bounty) 
+Seat 4: joanaquare18 (6014 in chips, €0.45 bounty) 
+Seat 5: Bossjul (51188 in chips, €1.36 bounty) 
+LAGOLOSA28: posts the ante 38
+carlayou782: posts the ante 38
+pipinoelbreve9: posts the ante 38
+joanaquare18: posts the ante 38
+Bossjul: posts the ante 38
+carlayou782: posts small blind 125
+pipinoelbreve9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 2c]
+joanaquare18: folds 
+Bossjul: calls 250
+LAGOLOSA28: folds 
+carlayou782: calls 125
+pipinoelbreve9: checks 
+*** FLOP *** [3d 9c 7s]
+carlayou782: checks 
+pipinoelbreve9: bets 4918 and is all-in
+Bossjul: folds 
+carlayou782: calls 4918
+*** TURN *** [3d 9c 7s] [6d]
+*** RIVER *** [3d 9c 7s 6d] [3c]
+*** SHOW DOWN ***
+carlayou782: shows [Qd Qs] (two pair, Queens and Threes)
+pipinoelbreve9: shows [8h 2c] (a pair of Threes)
+carlayou782 collected 10776 from pot
+carlayou782 wins €0.31 for eliminating pipinoelbreve9 and their own bounty increases by €0.14 to €0.73
+pipinoelbreve9 finished the tournament
+*** SUMMARY ***
+Total pot 10776 | Rake 0 
+Board [3d 9c 7s 6d 3c]
+Seat 1: LAGOLOSA28 (button) folded before Flop (didn't bet)
+Seat 2: carlayou782 (small blind) showed [Qd Qs] and won (10776) with two pair, Queens and Threes
+Seat 3: pipinoelbreve9 (big blind) showed [8h 2c] and lost with a pair of Threes
+Seat 4: joanaquare18 folded before Flop (didn't bet)
+Seat 5: Bossjul folded on the Flop
+
+
+

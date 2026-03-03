@@ -1,0 +1,297 @@
+﻿PokerStars Zoom Hand #257936987183:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:19:16 CET [2025/09/29 15:19:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: didiouze (€1.94 in chips) 
+Seat 2: eooooo (€7.05 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: Soulrei96 (€9.19 in chips) 
+eooooo: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Jd]
+Soulrei96: folds 
+didiouze: calls €0.05
+eooooo: folds 
+pipinoelbreve9: checks 
+*** FLOP *** [Ad 2h Ac]
+pipinoelbreve9: checks 
+didiouze: bets €0.05
+pipinoelbreve9: folds 
+Uncalled bet (€0.05) returned to didiouze
+didiouze collected €0.11 from pot
+didiouze: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [Ad 2h Ac]
+Seat 1: didiouze (button) collected (€0.11)
+Seat 2: eooooo (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: Soulrei96 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257936995519:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:19:45 CET [2025/09/29 15:19:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kastor59 (€5.90 in chips) 
+Seat 2: pipinoelbreve9 (€5 in chips) 
+Seat 3: pokerikb (€5 in chips) 
+Seat 4: fanaia76 (€5.70 in chips) 
+Seat 5: didiouze (€2 in chips) 
+Seat 6: futman112 (€7.66 in chips) 
+pipinoelbreve9: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad Jd]
+fanaia76: calls €0.05
+didiouze: folds 
+futman112: folds 
+kastor59: folds 
+pipinoelbreve9: raises €0.20 to €0.25
+pokerikb: calls €0.20
+fanaia76: folds 
+*** FLOP *** [8s Qc Kc]
+pipinoelbreve9: bets €0.16
+pokerikb: calls €0.16
+*** TURN *** [8s Qc Kc] [9d]
+pipinoelbreve9: bets €0.65
+pokerikb: calls €0.65
+*** RIVER *** [8s Qc Kc 9d] [Ac]
+pipinoelbreve9: checks 
+pokerikb: checks 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Ad Jd] (a pair of Aces)
+pokerikb: shows [Qd 8d] (two pair, Queens and Eights)
+pokerikb collected €2.06 from pot
+*** SUMMARY ***
+Total pot €2.17 | Rake €0.11 
+Board [8s Qc Kc 9d Ac]
+Seat 1: kastor59 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) showed [Ad Jd] and lost with a pair of Aces
+Seat 3: pokerikb (big blind) showed [Qd 8d] and won (€2.06) with two pair, Queens and Eights
+Seat 4: fanaia76 folded before Flop
+Seat 5: didiouze folded before Flop (didn't bet)
+Seat 6: futman112 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937015857:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:20:55 CET [2025/09/29 15:20:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Jack2Montf3 (€5.51 in chips) 
+Seat 2: eooooo (€6.86 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: akaTicoYT (€28.85 in chips) 
+eooooo: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5c Qs]
+akaTicoYT: folds 
+Jack2Montf3: raises €0.05 to €0.10
+eooooo: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.05) returned to Jack2Montf3
+Jack2Montf3 collected €0.12 from pot
+Jack2Montf3: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Jack2Montf3 (button) collected (€0.12)
+Seat 2: eooooo (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937017933:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:21:02 CET [2025/09/29 15:21:02 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: akaTicoYT (€14.18 in chips) 
+Seat 2: pipinoelbreve9 (€5 in chips) 
+Seat 3: pokerikb (€5.13 in chips) 
+Seat 4: futman112 (€7.57 in chips) 
+pipinoelbreve9: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As 7h]
+futman112: folds 
+akaTicoYT: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.03) returned to pokerikb
+pokerikb collected €0.04 from pot
+pokerikb: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: akaTicoYT (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: pokerikb (big blind) collected (€0.04)
+Seat 4: futman112 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937019964:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:21:09 CET [2025/09/29 15:21:09 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: konufo76 (€2.15 in chips) 
+Seat 3: akaTicoYT (€7.39 in chips) 
+Seat 4: eooooo (€6.84 in chips) 
+konufo76: posts small blind €0.02
+akaTicoYT: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s 7c]
+eooooo: raises €0.10 to €0.15
+pipinoelbreve9: folds 
+konufo76: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.10) returned to eooooo
+eooooo collected €0.12 from pot
+eooooo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: konufo76 (small blind) folded before Flop
+Seat 3: akaTicoYT (big blind) folded before Flop
+Seat 4: eooooo collected (€0.12)
+
+
+
+PokerStars Zoom Hand #257937021077:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:21:13 CET [2025/09/29 15:21:13 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: metod66 (€10.46 in chips) 
+Seat 2: pokerikb (€5.15 in chips) 
+Seat 3: didiouze (€2.05 in chips) 
+Seat 4: futman112 (€8.26 in chips) 
+Seat 5: pipinoelbreve9 (€5 in chips) 
+Seat 6: konufo76 (€2.13 in chips) 
+pokerikb: posts small blind €0.02
+didiouze: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc Ac]
+futman112: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+konufo76: folds 
+metod66: folds 
+pokerikb: folds 
+didiouze: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: metod66 (button) folded before Flop (didn't bet)
+Seat 2: pokerikb (small blind) folded before Flop
+Seat 3: didiouze (big blind) folded before Flop
+Seat 4: futman112 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 collected (€0.12)
+Seat 6: konufo76 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937024904:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:21:26 CET [2025/09/29 15:21:26 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: eooooo (€6.86 in chips) 
+Seat 2: pipinoelbreve9 (€5.07 in chips) 
+Seat 3: didiouze (€1.88 in chips) 
+Seat 4: futman112 (€8.24 in chips) 
+pipinoelbreve9: posts small blind €0.02
+didiouze: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 9h]
+futman112: folds 
+eooooo: folds 
+pipinoelbreve9: raises €0.10 to €0.15
+didiouze: raises €1.73 to €1.88 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (€1.73) returned to didiouze
+didiouze collected €0.30 from pot
+didiouze: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0 
+Seat 1: eooooo (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: didiouze (big blind) collected (€0.30)
+Seat 4: futman112 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937013843:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:20:48 CET [2025/09/29 15:20:48 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€5 in chips) 
+Seat 2: pokerikb (€6 in chips) 
+Seat 3: kastor59 (€5.90 in chips) 
+Seat 4: Jack2Montf3 (€5.51 in chips) 
+Seat 5: akaTicoYT (€15.58 in chips) 
+pokerikb: posts small blind €0.02
+kastor59: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 4s]
+Jack2Montf3: folds 
+akaTicoYT: folds 
+pipinoelbreve9: folds 
+pokerikb: raises €0.07 to €0.12
+kastor59: raises €0.38 to €0.50
+pokerikb: raises €0.55 to €1.05
+kastor59: raises €4.85 to €5.90 and is all-in
+pokerikb: folds 
+Uncalled bet (€4.85) returned to kastor59
+kastor59 collected €2.10 from pot
+kastor59: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.10 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: pokerikb (small blind) folded before Flop
+Seat 3: kastor59 (big blind) collected (€2.10)
+Seat 4: Jack2Montf3 folded before Flop (didn't bet)
+Seat 5: akaTicoYT folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937030474:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:21:45 CET [2025/09/29 15:21:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: futman112 (€7.50 in chips) 
+Seat 2: akaTicoYT (€15.58 in chips) 
+Seat 3: pipinoelbreve9 (€5 in chips) 
+Seat 4: didiouze (€2.03 in chips) 
+akaTicoYT: posts small blind €0.02
+pipinoelbreve9: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 5c]
+didiouze: folds 
+futman112: folds 
+akaTicoYT: folds 
+Uncalled bet (€0.03) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: futman112 (button) folded before Flop (didn't bet)
+Seat 2: akaTicoYT (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.04)
+Seat 4: didiouze folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257937034887:  Hold'em No Limit (€0.02/€0.05) - 2025/09/29 21:22:00 CET [2025/09/29 15:22:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: futman112 (€8.09 in chips) 
+Seat 2: metod66 (€10.36 in chips) 
+Seat 3: pokerikb (€4.95 in chips) 
+Seat 4: pipinoelbreve9 (€5.02 in chips) 
+Seat 5: calende9277 (€4.39 in chips) 
+metod66: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh Qh]
+pipinoelbreve9: raises €0.10 to €0.15
+calende9277: folds 
+futman112: folds 
+metod66: folds 
+pokerikb: folds 
+Uncalled bet (€0.10) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.12 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: futman112 (button) folded before Flop (didn't bet)
+Seat 2: metod66 (small blind) folded before Flop
+Seat 3: pokerikb (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.12)
+Seat 5: calende9277 folded before Flop (didn't bet)
+
+
+

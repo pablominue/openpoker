@@ -1,0 +1,137 @@
+﻿PokerStars Hand #257653712196: Tournament #3926058365, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 23:10:04 CET [2025/09/07 17:10:04 ET]
+Table '3926058365 7' 6-max Seat #3 is the button
+Seat 1: StarMike44 (41233 in chips, €0.61 bounty) 
+Seat 2: pipinoelbreve9 (5000 in chips, €0.17 bounty) 
+Seat 3: mathiaslp78 (22293 in chips, €0.32 bounty) 
+Seat 4: KOPER111 (3981 in chips, €0.17 bounty) 
+Seat 5: PMilk_80 (6829 in chips, €0.17 bounty) 
+StarMike44: posts the ante 21
+pipinoelbreve9: posts the ante 21
+mathiaslp78: posts the ante 21
+KOPER111: posts the ante 21
+PMilk_80: posts the ante 21
+KOPER111: posts small blind 70
+PMilk_80: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Qd]
+StarMike44: folds 
+pipinoelbreve9: calls 140
+mathiaslp78: raises 280 to 420
+KOPER111: folds 
+PMilk_80: calls 280
+pipinoelbreve9: calls 280
+*** FLOP *** [2d 3h As]
+PMilk_80: checks 
+pipinoelbreve9: checks 
+mathiaslp78: bets 420
+PMilk_80: calls 420
+pipinoelbreve9: folds 
+*** TURN *** [2d 3h As] [2h]
+PMilk_80: checks 
+mathiaslp78: checks 
+*** RIVER *** [2d 3h As 2h] [Qh]
+PMilk_80: checks 
+mathiaslp78: checks 
+*** SHOW DOWN ***
+PMilk_80: shows [3d 4d] (two pair, Threes and Deuces)
+mathiaslp78: shows [7h 3s] (two pair, Threes and Deuces)
+PMilk_80 collected 1138 from pot
+mathiaslp78 collected 1137 from pot
+*** SUMMARY ***
+Total pot 2275 | Rake 0 
+Board [2d 3h As 2h Qh]
+Seat 1: StarMike44 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded on the Flop
+Seat 3: mathiaslp78 (button) showed [7h 3s] and won (1137) with two pair, Threes and Deuces
+Seat 4: KOPER111 (small blind) folded before Flop
+Seat 5: PMilk_80 (big blind) showed [3d 4d] and won (1138) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #257653727892: Tournament #3926058365, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 23:10:53 CET [2025/09/07 17:10:53 ET]
+Table '3926058365 7' 6-max Seat #4 is the button
+Seat 1: StarMike44 (41212 in chips, €0.61 bounty) 
+Seat 2: pipinoelbreve9 (4559 in chips, €0.17 bounty) 
+Seat 3: mathiaslp78 (22569 in chips, €0.32 bounty) 
+Seat 4: KOPER111 (3890 in chips, €0.17 bounty) 
+Seat 5: PMilk_80 (7106 in chips, €0.17 bounty) 
+StarMike44: posts the ante 21
+pipinoelbreve9: posts the ante 21
+mathiaslp78: posts the ante 21
+KOPER111: posts the ante 21
+PMilk_80: posts the ante 21
+PMilk_80: posts small blind 70
+StarMike44: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 5d]
+pipinoelbreve9: folds 
+mathiaslp78: raises 140 to 280
+KOPER111: calls 280
+PMilk_80: calls 210
+StarMike44: calls 140
+*** FLOP *** [2c 5h Qs]
+PMilk_80: checks 
+StarMike44: checks 
+mathiaslp78: checks 
+KOPER111: checks 
+*** TURN *** [2c 5h Qs] [4d]
+PMilk_80: checks 
+StarMike44: checks 
+mathiaslp78: checks 
+KOPER111: checks 
+*** RIVER *** [2c 5h Qs 4d] [7d]
+PMilk_80: checks 
+StarMike44: checks 
+mathiaslp78: checks 
+KOPER111: checks 
+*** SHOW DOWN ***
+PMilk_80: shows [Kc 9s] (high card King)
+StarMike44: shows [Kd 2d] (a pair of Deuces)
+mathiaslp78: mucks hand 
+KOPER111: mucks hand 
+StarMike44 collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | Rake 0 
+Board [2c 5h Qs 4d 7d]
+Seat 1: StarMike44 (big blind) showed [Kd 2d] and won (1225) with a pair of Deuces
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: mathiaslp78 mucked [6s Ts]
+Seat 4: KOPER111 (button) mucked [8c Ac]
+Seat 5: PMilk_80 (small blind) showed [Kc 9s] and lost with high card King
+
+
+
+PokerStars Hand #257653738600: Tournament #3926058365, €0.05+€0.17+€0.03 EUR Hold'em No Limit - Level VII (70/140) - 2025/09/07 23:11:27 CET [2025/09/07 17:11:27 ET]
+Table '3926058365 7' 6-max Seat #5 is the button
+Seat 1: StarMike44 (42136 in chips, €0.61 bounty) 
+Seat 2: pipinoelbreve9 (4538 in chips, €0.17 bounty) 
+Seat 3: mathiaslp78 (22268 in chips, €0.32 bounty) 
+Seat 4: KOPER111 (3589 in chips, €0.17 bounty) 
+Seat 5: PMilk_80 (6805 in chips, €0.17 bounty) 
+StarMike44: posts the ante 21
+pipinoelbreve9: posts the ante 21
+mathiaslp78: posts the ante 21
+KOPER111: posts the ante 21
+PMilk_80: posts the ante 21
+StarMike44: posts small blind 70
+pipinoelbreve9: posts big blind 140
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 7d]
+mathiaslp78: raises 280 to 420
+KOPER111: folds 
+PMilk_80: folds 
+StarMike44: folds 
+pipinoelbreve9: folds 
+Uncalled bet (280) returned to mathiaslp78
+mathiaslp78 collected 455 from pot
+mathiaslp78: doesn't show hand 
+*** SUMMARY ***
+Total pot 455 | Rake 0 
+Seat 1: StarMike44 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded before Flop
+Seat 3: mathiaslp78 collected (455)
+Seat 4: KOPER111 folded before Flop (didn't bet)
+Seat 5: PMilk_80 (button) folded before Flop (didn't bet)
+
+
+

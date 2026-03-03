@@ -1,0 +1,131 @@
+﻿PokerStars Zoom Hand #258142912975:  Hold'em No Limit (€0.05/€0.10) - 2025/10/16 11:21:09 CET [2025/10/16 5:21:09 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: NuzPT (€9.80 in chips) 
+Seat 2: ricrosas (€9.46 in chips) 
+Seat 3: pipinoelbreve9 (€10 in chips) 
+Seat 4: Gonzalit00 (€10 in chips) 
+Seat 5: Jesusnpt1 (€14.08 in chips) 
+Seat 6: Axho_PijOh (€9.65 in chips) 
+ricrosas: posts small blind €0.05
+pipinoelbreve9: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 6h]
+Gonzalit00: folds 
+Jesusnpt1: folds 
+Axho_PijOh: folds 
+NuzPT: raises €0.20 to €0.30
+ricrosas: folds 
+pipinoelbreve9: calls €0.20
+*** FLOP *** [8h Kh 9s]
+pipinoelbreve9: checks 
+NuzPT: checks 
+*** TURN *** [8h Kh 9s] [4c]
+pipinoelbreve9: checks 
+NuzPT: checks 
+*** RIVER *** [8h Kh 9s 4c] [3d]
+pipinoelbreve9: checks 
+NuzPT: bets €0.31
+pipinoelbreve9: folds 
+Uncalled bet (€0.31) returned to NuzPT
+NuzPT collected €0.62 from pot
+NuzPT: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [8h Kh 9s 4c 3d]
+Seat 1: NuzPT (button) collected (€0.62)
+Seat 2: ricrosas (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the River
+Seat 4: Gonzalit00 folded before Flop (didn't bet)
+Seat 5: Jesusnpt1 folded before Flop (didn't bet)
+Seat 6: Axho_PijOh folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #258142915514:  Hold'em No Limit (€0.05/€0.10) - 2025/10/16 11:21:39 CET [2025/10/16 5:21:39 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€10 in chips) 
+Seat 2: Elistire (€10 in chips) 
+Seat 3: Gonzalit00 (€10 in chips) 
+Seat 4: Bavaria866 (€15.42 in chips) 
+Seat 5: ibic22 (€10 in chips) 
+Seat 6: I Grrrr l (€10.15 in chips) 
+Elistire: posts small blind €0.05
+Gonzalit00: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 7h]
+Bavaria866: raises €0.15 to €0.25
+ibic22: folds 
+I Grrrr l: folds 
+pipinoelbreve9: folds 
+Elistire: calls €0.20
+Gonzalit00: folds 
+*** FLOP *** [6h 2s Kh]
+Elistire: bets €0.57
+Bavaria866: calls €0.57
+*** TURN *** [6h 2s Kh] [6c]
+Elistire: bets €1.65
+Bavaria866: calls €1.65
+*** RIVER *** [6h 2s Kh 6c] [2h]
+Elistire: bets €2.40
+Bavaria866: calls €2.40
+*** SHOW DOWN ***
+Elistire: shows [Jd Kd] (two pair, Kings and Sixes)
+Bavaria866: shows [Qs Kc] (two pair, Kings and Sixes - Queen kicker)
+Bavaria866 collected €9.35 from pot
+*** SUMMARY ***
+Total pot €9.84 | Rake €0.49 
+Board [6h 2s Kh 6c 2h]
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: Elistire (small blind) showed [Jd Kd] and lost with two pair, Kings and Sixes
+Seat 3: Gonzalit00 (big blind) folded before Flop
+Seat 4: Bavaria866 showed [Qs Kc] and won (€9.35) with two pair, Kings and Sixes
+Seat 5: ibic22 folded before Flop (didn't bet)
+Seat 6: I Grrrr l folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #258142919556:  Hold'em No Limit (€0.05/€0.10) - 2025/10/16 11:22:24 CET [2025/10/16 5:22:24 ET]
+Table 'Caph' 6-max Seat #1 is the button
+Seat 1: Gonzalit00 (€10 in chips) 
+Seat 2: I Grrrr l (€10.05 in chips) 
+Seat 3: STEAKssss (€10 in chips) 
+Seat 4: TIMBRERO (€8.43 in chips) 
+Seat 5: leobcn9 (€10 in chips) 
+Seat 6: pipinoelbreve9 (€10 in chips) 
+I Grrrr l: posts small blind €0.05
+STEAKssss: posts big blind €0.10
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d Ad]
+TIMBRERO: folds 
+leobcn9: folds 
+pipinoelbreve9: raises €0.20 to €0.30
+Gonzalit00: folds 
+I Grrrr l: folds 
+STEAKssss: calls €0.20
+*** FLOP *** [Kd 2h 4d]
+STEAKssss: checks 
+pipinoelbreve9: bets €0.20
+STEAKssss: calls €0.20
+*** TURN *** [Kd 2h 4d] [3c]
+STEAKssss: checks 
+pipinoelbreve9: bets €0.66
+STEAKssss: calls €0.66
+*** RIVER *** [Kd 2h 4d 3c] [7d]
+STEAKssss: checks 
+pipinoelbreve9: bets €2.25
+STEAKssss: folds 
+Uncalled bet (€2.25) returned to pipinoelbreve9
+pipinoelbreve9 collected €2.25 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.37 | Rake €0.12 
+Board [Kd 2h 4d 3c 7d]
+Seat 1: Gonzalit00 (button) folded before Flop (didn't bet)
+Seat 2: I Grrrr l (small blind) folded before Flop
+Seat 3: STEAKssss (big blind) folded on the River
+Seat 4: TIMBRERO folded before Flop (didn't bet)
+Seat 5: leobcn9 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (€2.25)
+
+
+

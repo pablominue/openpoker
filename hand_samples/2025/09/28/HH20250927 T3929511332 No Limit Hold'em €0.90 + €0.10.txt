@@ -1,0 +1,4150 @@
+﻿PokerStars Hand #257904814491: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/27 12:12:18 CET [2025/09/27 6:12:18 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: david_vs05 (62227 in chips) 
+Seat 2: Torraie (71700 in chips) 
+Seat 3: pipinoelbreve9 (50000 in chips) 
+Seat 4: TheDoken (62646 in chips) 
+Seat 5: fotoeiro (215307 in chips) 
+Seat 6: cruz95v (63525 in chips) 
+david_vs05: posts the ante 250
+Torraie: posts the ante 250
+pipinoelbreve9: posts the ante 250
+TheDoken: posts the ante 250
+fotoeiro: posts the ante 250
+cruz95v: posts the ante 250
+fotoeiro: posts small blind 1000
+cruz95v: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Kd]
+david_vs05: folds 
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: calls 1000
+cruz95v: checks 
+*** FLOP *** [Jd Qc 6d]
+fotoeiro: checks 
+cruz95v: checks 
+*** TURN *** [Jd Qc 6d] [Th]
+fotoeiro has timed out
+fotoeiro: checks 
+cruz95v: checks 
+*** RIVER *** [Jd Qc 6d Th] [Jh]
+fotoeiro has timed out
+fotoeiro: checks 
+cruz95v: checks 
+*** SHOW DOWN ***
+fotoeiro: shows [Kc 2d] (a pair of Jacks)
+cruz95v: mucks hand 
+fotoeiro collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [Jd Qc 6d Th Jh]
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) showed [Kc 2d] and won (5500) with a pair of Jacks
+Seat 6: cruz95v (big blind) mucked [2h 9d]
+
+
+
+PokerStars Hand #257904823749: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/27 12:13:57 CET [2025/09/27 6:13:57 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: david_vs05 (61977 in chips) 
+Seat 2: Torraie (71450 in chips) 
+Seat 3: pipinoelbreve9 (49750 in chips) 
+Seat 4: TheDoken (62396 in chips) 
+Seat 5: fotoeiro (218557 in chips) 
+Seat 6: cruz95v (61275 in chips) 
+david_vs05: posts the ante 250
+Torraie: posts the ante 250
+pipinoelbreve9: posts the ante 250
+TheDoken: posts the ante 250
+fotoeiro: posts the ante 250
+cruz95v: posts the ante 250
+cruz95v: posts small blind 1000
+david_vs05: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Th]
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: calls 2000
+cruz95v: calls 1000
+david_vs05: checks 
+*** FLOP *** [Tc Qc 5c]
+cruz95v: checks 
+david_vs05 has timed out
+david_vs05: checks 
+fotoeiro: checks 
+*** TURN *** [Tc Qc 5c] [Kd]
+cruz95v: bets 2000
+david_vs05: folds 
+fotoeiro: calls 2000
+*** RIVER *** [Tc Qc 5c Kd] [As]
+cruz95v: bets 5750
+fotoeiro: calls 5750
+*** SHOW DOWN ***
+cruz95v: shows [Jh 9h] (a straight, Ten to Ace)
+fotoeiro: mucks hand 
+cruz95v collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | Rake 0 
+Board [Tc Qc 5c Kd As]
+Seat 1: david_vs05 (big blind) folded on the Turn
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) mucked [9s Ks]
+Seat 6: cruz95v (small blind) showed [Jh 9h] and won (23000) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #257904832669: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/27 12:15:33 CET [2025/09/27 6:15:33 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: david_vs05 (59727 in chips) 
+Seat 2: Torraie (71200 in chips) 
+Seat 3: pipinoelbreve9 (49500 in chips) 
+Seat 4: TheDoken (62146 in chips) 
+Seat 5: fotoeiro (208557 in chips) 
+Seat 6: cruz95v (74275 in chips) 
+david_vs05: posts the ante 250
+Torraie: posts the ante 250
+pipinoelbreve9: posts the ante 250
+TheDoken: posts the ante 250
+fotoeiro: posts the ante 250
+cruz95v: posts the ante 250
+david_vs05: posts small blind 1000
+Torraie: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Qh]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: calls 2000
+cruz95v: folds 
+david_vs05: folds 
+Torraie: checks 
+*** FLOP *** [5d Th 7h]
+Torraie: checks 
+fotoeiro has timed out
+fotoeiro: checks 
+*** TURN *** [5d Th 7h] [Qs]
+Torraie: checks 
+fotoeiro: bets 6500
+Torraie: folds 
+Uncalled bet (6500) returned to fotoeiro
+fotoeiro collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | Rake 0 
+Board [5d Th 7h Qs]
+Seat 1: david_vs05 (small blind) folded before Flop
+Seat 2: Torraie (big blind) folded on the Turn
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro collected (6500)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904844387: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XII (1000/2000) - 2025/09/27 12:17:40 CET [2025/09/27 6:17:40 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: david_vs05 (58477 in chips) 
+Seat 2: Torraie (68950 in chips) 
+Seat 3: pipinoelbreve9 (49250 in chips) 
+Seat 4: TheDoken (61896 in chips) 
+Seat 5: fotoeiro (212807 in chips) 
+Seat 6: cruz95v (74025 in chips) 
+david_vs05: posts the ante 250
+Torraie: posts the ante 250
+pipinoelbreve9: posts the ante 250
+TheDoken: posts the ante 250
+fotoeiro: posts the ante 250
+cruz95v: posts the ante 250
+Torraie: posts small blind 1000
+pipinoelbreve9: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d 3s]
+TheDoken: folds 
+fotoeiro: raises 2000 to 4000
+cruz95v: calls 4000
+david_vs05: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+pipinoelbreve9: calls 2000
+*** FLOP *** [8c 4d 8h]
+pipinoelbreve9: checks 
+Torraie has returned
+fotoeiro: checks 
+cruz95v: checks 
+*** TURN *** [8c 4d 8h] [Ts]
+pipinoelbreve9: checks 
+fotoeiro: bets 2000
+cruz95v: folds 
+pipinoelbreve9: folds 
+Uncalled bet (2000) returned to fotoeiro
+fotoeiro collected 14500 from pot
+*** SUMMARY ***
+Total pot 14500 | Rake 0 
+Board [8c 4d 8h Ts]
+Seat 1: david_vs05 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Turn
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro collected (14500)
+Seat 6: cruz95v folded on the Turn
+
+
+
+PokerStars Hand #257904854057: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/27 12:19:23 CET [2025/09/27 6:19:23 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: david_vs05 (58227 in chips) 
+Seat 2: Torraie (67700 in chips) 
+Seat 3: pipinoelbreve9 (45000 in chips) 
+Seat 4: TheDoken (61646 in chips) 
+Seat 5: fotoeiro (223057 in chips) 
+Seat 6: cruz95v (69775 in chips) 
+david_vs05: posts the ante 325
+Torraie: posts the ante 325
+pipinoelbreve9: posts the ante 325
+TheDoken: posts the ante 325
+fotoeiro: posts the ante 325
+cruz95v: posts the ante 325
+pipinoelbreve9: posts small blind 1250
+TheDoken: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d 9d]
+fotoeiro has timed out
+fotoeiro: folds 
+fotoeiro is sitting out
+cruz95v: folds 
+david_vs05: folds 
+fotoeiro has returned
+Torraie: folds 
+pipinoelbreve9: calls 1250
+TheDoken: checks 
+*** FLOP *** [7s As 6c]
+pipinoelbreve9: bets 2500
+TheDoken: calls 2500
+*** TURN *** [7s As 6c] [5c]
+pipinoelbreve9: bets 5975
+TheDoken: folds 
+Uncalled bet (5975) returned to pipinoelbreve9
+pipinoelbreve9 collected 11950 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 11950 | Rake 0 
+Board [7s As 6c 5c]
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) collected (11950)
+Seat 4: TheDoken (big blind) folded on the Turn
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904859772: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/27 12:20:24 CET [2025/09/27 6:20:24 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: david_vs05 (57902 in chips) 
+Seat 2: Torraie (67375 in chips) 
+Seat 3: pipinoelbreve9 (51625 in chips) 
+Seat 4: TheDoken (56321 in chips) 
+Seat 5: fotoeiro (222732 in chips) 
+Seat 6: cruz95v (69450 in chips) 
+david_vs05: posts the ante 325
+Torraie: posts the ante 325
+pipinoelbreve9: posts the ante 325
+TheDoken: posts the ante 325
+fotoeiro: posts the ante 325
+cruz95v: posts the ante 325
+TheDoken: posts small blind 1250
+fotoeiro: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 4d]
+cruz95v: folds 
+david_vs05: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+pipinoelbreve9: folds 
+Torraie has returned
+TheDoken: calls 1250
+fotoeiro: checks 
+*** FLOP *** [Kd 7h Js]
+TheDoken: checks 
+fotoeiro: bets 2500
+TheDoken: calls 2500
+*** TURN *** [Kd 7h Js] [9d]
+TheDoken: checks 
+fotoeiro has timed out
+fotoeiro: checks 
+*** RIVER *** [Kd 7h Js 9d] [6d]
+TheDoken: checks 
+fotoeiro has timed out
+fotoeiro: checks 
+*** SHOW DOWN ***
+TheDoken: shows [8s 9c] (a pair of Nines)
+fotoeiro: mucks hand 
+TheDoken collected 11950 from pot
+*** SUMMARY ***
+Total pot 11950 | Rake 0 
+Board [Kd 7h Js 9d 6d]
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: TheDoken (small blind) showed [8s 9c] and won (11950) with a pair of Nines
+Seat 5: fotoeiro (big blind) mucked [7c As]
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904871618: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/27 12:22:28 CET [2025/09/27 6:22:28 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: david_vs05 (57577 in chips) 
+Seat 2: Torraie (67050 in chips) 
+Seat 3: pipinoelbreve9 (51300 in chips) 
+Seat 4: TheDoken (62946 in chips) 
+Seat 5: fotoeiro (217407 in chips) 
+Seat 6: cruz95v (69125 in chips) 
+david_vs05: posts the ante 325
+Torraie: posts the ante 325
+pipinoelbreve9: posts the ante 325
+TheDoken: posts the ante 325
+fotoeiro: posts the ante 325
+cruz95v: posts the ante 325
+fotoeiro: posts small blind 1250
+cruz95v: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 5h]
+david_vs05: folds 
+Torraie: calls 2500
+pipinoelbreve9: folds 
+TheDoken: raises 60121 to 62621 and is all-in
+fotoeiro: calls 61371
+cruz95v: folds 
+Torraie: folds 
+*** FLOP *** [2d 8s 7h]
+*** TURN *** [2d 8s 7h] [7s]
+*** RIVER *** [2d 8s 7h 7s] [3s]
+*** SHOW DOWN ***
+fotoeiro: shows [5c Qc] (a pair of Sevens)
+TheDoken: shows [9c Ac] (a pair of Sevens - Ace kicker)
+TheDoken collected 132192 from pot
+*** SUMMARY ***
+Total pot 132192 | Rake 0 
+Board [2d 8s 7h 7s 3s]
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) showed [9c Ac] and won (132192) with a pair of Sevens
+Seat 5: fotoeiro (small blind) showed [5c Qc] and lost with a pair of Sevens
+Seat 6: cruz95v (big blind) folded before Flop
+
+
+
+PokerStars Hand #257904878609: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/27 12:23:41 CET [2025/09/27 6:23:41 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: david_vs05 (57252 in chips) 
+Seat 2: Torraie (64225 in chips) 
+Seat 3: pipinoelbreve9 (50975 in chips) 
+Seat 4: TheDoken (132192 in chips) 
+Seat 5: fotoeiro (154461 in chips) 
+Seat 6: cruz95v (66300 in chips) 
+david_vs05: posts the ante 325
+Torraie: posts the ante 325
+pipinoelbreve9: posts the ante 325
+TheDoken: posts the ante 325
+fotoeiro: posts the ante 325
+cruz95v: posts the ante 325
+cruz95v: posts small blind 1250
+david_vs05: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h Qs]
+Torraie: calls 2500
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro has timed out
+fotoeiro: folds 
+fotoeiro is sitting out
+cruz95v: calls 1250
+david_vs05: checks 
+*** FLOP *** [6c 2d 3d]
+cruz95v: checks 
+david_vs05 has timed out
+david_vs05: checks 
+Torraie: checks 
+*** TURN *** [6c 2d 3d] [4h]
+cruz95v: checks 
+david_vs05: checks 
+Torraie: checks 
+*** RIVER *** [6c 2d 3d 4h] [Th]
+cruz95v: checks 
+david_vs05: checks 
+Torraie: checks 
+*** SHOW DOWN ***
+cruz95v: shows [As Jc] (high card Ace)
+david_vs05: mucks hand 
+Torraie: mucks hand 
+cruz95v collected 9450 from pot
+*** SUMMARY ***
+Total pot 9450 | Rake 0 
+Board [6c 2d 3d 4h Th]
+Seat 1: david_vs05 (big blind) mucked [8s Ac]
+Seat 2: Torraie mucked [Qd Js]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) showed [As Jc] and won (9450) with high card Ace
+
+
+
+PokerStars Hand #257904890589: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIII (1250/2500) - 2025/09/27 12:25:48 CET [2025/09/27 6:25:48 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: david_vs05 (54427 in chips) 
+Seat 2: Torraie (61400 in chips) 
+Seat 3: pipinoelbreve9 (50650 in chips) 
+Seat 4: TheDoken (131867 in chips) 
+Seat 5: fotoeiro (154136 in chips) is sitting out
+Seat 6: cruz95v (72925 in chips) 
+david_vs05: posts the ante 325
+Torraie: posts the ante 325
+pipinoelbreve9: posts the ante 325
+TheDoken: posts the ante 325
+fotoeiro: posts the ante 325
+cruz95v: posts the ante 325
+david_vs05: posts small blind 1250
+Torraie: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh 8d]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: raises 2500 to 5000
+david_vs05: folds 
+Torraie: calls 2500
+*** FLOP *** [As Qc 7s]
+Torraie: checks 
+cruz95v: bets 6600
+Torraie: folds 
+Uncalled bet (6600) returned to cruz95v
+cruz95v collected 13200 from pot
+cruz95v: doesn't show hand 
+*** SUMMARY ***
+Total pot 13200 | Rake 0 
+Board [As Qc 7s]
+Seat 1: david_vs05 (small blind) folded before Flop
+Seat 2: Torraie (big blind) folded on the Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) collected (13200)
+
+
+
+PokerStars Hand #257904898718: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:27:13 CET [2025/09/27 6:27:13 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: david_vs05 (52852 in chips) 
+Seat 2: Torraie (56075 in chips) 
+Seat 3: pipinoelbreve9 (50325 in chips) 
+Seat 4: TheDoken (131542 in chips) 
+Seat 5: fotoeiro (153811 in chips) is sitting out
+Seat 6: cruz95v (80800 in chips) 
+david_vs05: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+Torraie: posts small blind 1500
+pipinoelbreve9: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 3c]
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+david_vs05: folds 
+Torraie: folds 
+Uncalled bet (1500) returned to pipinoelbreve9
+pipinoelbreve9 collected 5250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 5250 | Rake 0 
+Seat 1: david_vs05 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (5250)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904900829: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:27:35 CET [2025/09/27 6:27:35 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: david_vs05 (52477 in chips) 
+Seat 2: Torraie (54200 in chips) 
+Seat 3: pipinoelbreve9 (53700 in chips) 
+Seat 4: TheDoken (131167 in chips) 
+Seat 5: fotoeiro (153436 in chips) is sitting out
+Seat 6: cruz95v (80425 in chips) 
+david_vs05: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+pipinoelbreve9: posts small blind 1500
+TheDoken: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Tc]
+fotoeiro: folds 
+cruz95v: folds 
+fotoeiro has returned
+david_vs05: folds 
+Torraie: calls 3000
+pipinoelbreve9: folds 
+TheDoken: raises 127792 to 130792 and is all-in
+Torraie: folds 
+Uncalled bet (127792) returned to TheDoken
+TheDoken collected 9750 from pot
+*** SUMMARY ***
+Total pot 9750 | Rake 0 
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: TheDoken (big blind) collected (9750)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904905241: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:28:22 CET [2025/09/27 6:28:22 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: david_vs05 (52102 in chips) 
+Seat 2: Torraie (50825 in chips) 
+Seat 3: pipinoelbreve9 (51825 in chips) 
+Seat 4: TheDoken (137542 in chips) 
+Seat 5: fotoeiro (153061 in chips) 
+Seat 6: cruz95v (80050 in chips) 
+david_vs05: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+TheDoken: posts small blind 1500
+fotoeiro: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Tc 6c]
+cruz95v: folds 
+david_vs05: folds 
+Torraie: calls 3000
+pipinoelbreve9: raises 6000 to 9000
+TheDoken: folds 
+fotoeiro has timed out
+fotoeiro: folds 
+fotoeiro is sitting out
+Torraie: calls 6000
+*** FLOP *** [7d 9c 7c]
+Torraie: checks 
+pipinoelbreve9: bets 12375
+Torraie: folds 
+Uncalled bet (12375) returned to pipinoelbreve9
+pipinoelbreve9 collected 24750 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 24750 | Rake 0 
+Board [7d 9c 7c]
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie folded on the Flop
+Seat 3: pipinoelbreve9 (button) collected (24750)
+Seat 4: TheDoken (small blind) folded before Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904909977: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:29:13 CET [2025/09/27 6:29:13 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: david_vs05 (51727 in chips) 
+Seat 2: Torraie (41450 in chips) 
+Seat 3: pipinoelbreve9 (67200 in chips) 
+Seat 4: TheDoken (135667 in chips) 
+Seat 5: fotoeiro (149686 in chips) is sitting out
+Seat 6: cruz95v (79675 in chips) 
+david_vs05: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+fotoeiro: posts small blind 1500
+cruz95v: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Kd]
+david_vs05: folds 
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+Uncalled bet (1500) returned to cruz95v
+cruz95v collected 5250 from pot
+cruz95v: doesn't show hand 
+*** SUMMARY ***
+Total pot 5250 | Rake 0 
+Seat 1: david_vs05 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) collected (5250)
+
+
+
+PokerStars Hand #257904911435: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:29:29 CET [2025/09/27 6:29:29 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 2: Torraie (41075 in chips) 
+Seat 3: pipinoelbreve9 (66825 in chips) 
+Seat 4: TheDoken (135292 in chips) 
+Seat 5: fotoeiro (147811 in chips) is sitting out
+Seat 6: cruz95v (83050 in chips) 
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+cruz95v: posts small blind 1500
+Torraie: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Qh]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: raises 3000 to 6000
+Torraie: calls 3000
+*** FLOP *** [4s 8d Td]
+cruz95v: bets 3000
+Torraie: folds 
+Uncalled bet (3000) returned to cruz95v
+cruz95v collected 13875 from pot
+cruz95v: doesn't show hand 
+*** SUMMARY ***
+Total pot 13875 | Rake 0 
+Board [4s 8d Td]
+Seat 2: Torraie (big blind) folded on the Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) collected (13875)
+
+
+
+PokerStars Hand #257904913178: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:29:47 CET [2025/09/27 6:29:47 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 2: Torraie (34700 in chips) 
+Seat 3: pipinoelbreve9 (66450 in chips) 
+Seat 4: TheDoken (134917 in chips) 
+Seat 5: fotoeiro (147436 in chips) is sitting out
+Seat 6: cruz95v (90550 in chips) 
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+Torraie: posts small blind 1500
+pipinoelbreve9: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kd Th]
+TheDoken: raises 3000 to 6000
+fotoeiro: folds 
+cruz95v: folds 
+Torraie: folds 
+pipinoelbreve9: calls 3000
+*** FLOP *** [Qd 9d Td]
+pipinoelbreve9: checks 
+TheDoken: bets 7688
+pipinoelbreve9: raises 15376 to 23064
+TheDoken: folds 
+Uncalled bet (15376) returned to pipinoelbreve9
+pipinoelbreve9 collected 30751 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30751 | Rake 0 
+Board [Qd 9d Td]
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (30751)
+Seat 4: TheDoken folded on the Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904917610: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:30:34 CET [2025/09/27 6:30:34 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 2: Torraie (32825 in chips) 
+Seat 3: pipinoelbreve9 (83138 in chips) 
+Seat 4: TheDoken (120854 in chips) 
+Seat 5: fotoeiro (147061 in chips) is sitting out
+Seat 6: cruz95v (90175 in chips) 
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+pipinoelbreve9: posts small blind 1500
+TheDoken: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc 8s]
+fotoeiro: folds 
+cruz95v: folds 
+Torraie: folds 
+pipinoelbreve9: calls 1500
+TheDoken: checks 
+*** FLOP *** [Ac 7d 9s]
+pipinoelbreve9: checks 
+TheDoken: bets 3000
+pipinoelbreve9: calls 3000
+*** TURN *** [Ac 7d 9s] [8h]
+pipinoelbreve9: checks 
+TheDoken: checks 
+*** RIVER *** [Ac 7d 9s 8h] [As]
+pipinoelbreve9: bets 6938
+TheDoken: folds 
+Uncalled bet (6938) returned to pipinoelbreve9
+pipinoelbreve9 collected 13875 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 13875 | Rake 0 
+Board [Ac 7d 9s 8h As]
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) collected (13875)
+Seat 4: TheDoken (big blind) folded on the River
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904921423: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:31:15 CET [2025/09/27 6:31:15 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 2: Torraie (32450 in chips) 
+Seat 3: pipinoelbreve9 (90638 in chips) 
+Seat 4: TheDoken (114479 in chips) 
+Seat 5: fotoeiro (146686 in chips) is sitting out
+Seat 6: cruz95v (89800 in chips) 
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+TheDoken: posts small blind 1500
+fotoeiro: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d 3s]
+cruz95v: folds 
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: raises 3000 to 6000
+fotoeiro: folds 
+Uncalled bet (3000) returned to TheDoken
+TheDoken collected 7875 from pot
+*** SUMMARY ***
+Total pot 7875 | Rake 0 
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: TheDoken (small blind) collected (7875)
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904923166: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:31:34 CET [2025/09/27 6:31:34 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 2: Torraie (32075 in chips) 
+Seat 3: pipinoelbreve9 (90263 in chips) 
+Seat 4: TheDoken (118979 in chips) 
+Seat 5: fotoeiro (143311 in chips) is sitting out
+Seat 6: cruz95v (89425 in chips) 
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+fotoeiro: posts small blind 1500
+cruz95v: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 6c]
+Torraie: calls 3000
+pipinoelbreve9: raises 6000 to 9000
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: calls 6000
+Torraie: calls 6000
+*** FLOP *** [8h 4h 5c]
+cruz95v: checks 
+Torraie: checks 
+pipinoelbreve9: bets 21000
+cruz95v: folds 
+Torraie: folds 
+Uncalled bet (21000) returned to pipinoelbreve9
+pipinoelbreve9 collected 30375 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30375 | Rake 0 
+Board [8h 4h 5c]
+Seat 2: Torraie folded on the Flop
+Seat 3: pipinoelbreve9 collected (30375)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257904926133: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:32:05 CET [2025/09/27 6:32:05 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (115975 in chips) 
+Seat 2: Torraie (22700 in chips) 
+Seat 3: pipinoelbreve9 (111263 in chips) 
+Seat 4: TheDoken (118604 in chips) 
+Seat 5: fotoeiro (141436 in chips) is sitting out
+Seat 6: cruz95v (80050 in chips) 
+tristiano3: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+cruz95v: posts small blind 1500
+tristiano3: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8c 5s]
+Torraie: raises 19325 to 22325 and is all-in
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Uncalled bet (19325) returned to Torraie
+Torraie collected 9750 from pot
+*** SUMMARY ***
+Total pot 9750 | Rake 0 
+Seat 1: tristiano3 (big blind) folded before Flop
+Seat 2: Torraie collected (9750)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257904928777: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:32:33 CET [2025/09/27 6:32:33 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (112600 in chips) 
+Seat 2: Torraie (29075 in chips) 
+Seat 3: pipinoelbreve9 (110888 in chips) 
+Seat 4: TheDoken (118229 in chips) 
+Seat 5: fotoeiro (141061 in chips) is sitting out
+Seat 6: cruz95v (78175 in chips) 
+tristiano3: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+tristiano3: posts small blind 1500
+Torraie: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s Qs]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: raises 3000 to 6000
+tristiano3: folds 
+Torraie: calls 3000
+*** FLOP *** [Qh Qc 7c]
+Torraie: checks 
+cruz95v: checks 
+*** TURN *** [Qh Qc 7c] [Kc]
+Torraie: checks 
+cruz95v: checks 
+*** RIVER *** [Qh Qc 7c Kc] [Tc]
+Torraie: checks 
+cruz95v: checks 
+*** SHOW DOWN ***
+Torraie: shows [6s Ks] (two pair, Kings and Queens)
+cruz95v: mucks hand 
+Torraie collected 15750 from pot
+*** SUMMARY ***
+Total pot 15750 | Rake 0 
+Board [Qh Qc 7c Kc Tc]
+Seat 1: tristiano3 (small blind) folded before Flop
+Seat 2: Torraie (big blind) showed [6s Ks] and won (15750) with two pair, Kings and Queens
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) mucked [Ah 8s]
+
+
+
+PokerStars Hand #257904931915: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:33:05 CET [2025/09/27 6:33:05 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (110725 in chips) 
+Seat 2: Torraie (38450 in chips) 
+Seat 3: pipinoelbreve9 (110513 in chips) 
+Seat 4: TheDoken (117854 in chips) 
+Seat 5: fotoeiro (140686 in chips) is sitting out
+Seat 6: cruz95v (71800 in chips) 
+tristiano3: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+Torraie: posts small blind 1500
+pipinoelbreve9: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s 8h]
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: calls 3000
+tristiano3: raises 6000 to 9000
+Torraie: folds 
+pipinoelbreve9: folds 
+cruz95v: calls 6000
+*** FLOP *** [9c Ad 2c]
+cruz95v: checks 
+tristiano3: bets 9000
+cruz95v: folds 
+Uncalled bet (9000) returned to tristiano3
+tristiano3 collected 24750 from pot
+*** SUMMARY ***
+Total pot 24750 | Rake 0 
+Board [9c Ad 2c]
+Seat 1: tristiano3 (button) collected (24750)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded on the Flop
+
+
+
+PokerStars Hand #257904935569: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:33:42 CET [2025/09/27 6:33:42 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (126100 in chips) 
+Seat 2: Torraie (36575 in chips) 
+Seat 3: pipinoelbreve9 (107138 in chips) 
+Seat 4: TheDoken (117479 in chips) 
+Seat 5: fotoeiro (140311 in chips) is sitting out
+Seat 6: cruz95v (62425 in chips) 
+tristiano3: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+pipinoelbreve9: posts small blind 1500
+TheDoken: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qs Tc]
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+pipinoelbreve9: raises 6000 to 9000
+Torraie has returned
+TheDoken: calls 6000
+*** FLOP *** [6c 6d 3s]
+pipinoelbreve9: bets 7125
+TheDoken: folds 
+Uncalled bet (7125) returned to pipinoelbreve9
+pipinoelbreve9 collected 20250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Board [6c 6d 3s]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) collected (20250)
+Seat 4: TheDoken (big blind) folded on the Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904940380: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIV (1500/3000) - 2025/09/27 12:34:31 CET [2025/09/27 6:34:31 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (125725 in chips) 
+Seat 2: Torraie (36200 in chips) 
+Seat 3: pipinoelbreve9 (118013 in chips) 
+Seat 4: TheDoken (108104 in chips) 
+Seat 5: fotoeiro (139936 in chips) is sitting out
+Seat 6: cruz95v (62050 in chips) 
+tristiano3: posts the ante 375
+Torraie: posts the ante 375
+pipinoelbreve9: posts the ante 375
+TheDoken: posts the ante 375
+fotoeiro: posts the ante 375
+cruz95v: posts the ante 375
+TheDoken: posts small blind 1500
+fotoeiro: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Ad]
+cruz95v: folds 
+tristiano3: calls 3000
+Torraie: folds 
+pipinoelbreve9: raises 6000 to 9000
+TheDoken: calls 7500
+fotoeiro: folds 
+tristiano3: calls 6000
+*** FLOP *** [5d Jd 7c]
+TheDoken: checks 
+tristiano3: checks 
+Torraie is disconnected 
+pipinoelbreve9: bets 21000
+TheDoken: folds 
+Torraie is disconnected 
+tristiano3: folds 
+Uncalled bet (21000) returned to pipinoelbreve9
+pipinoelbreve9 collected 32250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 32250 | Rake 0 
+Board [5d Jd 7c]
+Seat 1: tristiano3 folded on the Flop
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) collected (32250)
+Seat 4: TheDoken (small blind) folded on the Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904949232: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:36:02 CET [2025/09/27 6:36:02 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (116350 in chips) 
+Seat 2: Torraie (35825 in chips) 
+Seat 3: pipinoelbreve9 (140888 in chips) 
+Seat 4: TheDoken (98729 in chips) 
+Seat 5: fotoeiro (136561 in chips) is sitting out
+Seat 6: cruz95v (61675 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+fotoeiro: posts small blind 1750
+cruz95v: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 7h]
+tristiano3: folds 
+Torraie: raises 31875 to 35375 and is all-in
+pipinoelbreve9: folds 
+TheDoken: raises 62904 to 98279 and is all-in
+fotoeiro: folds 
+cruz95v: folds 
+Uncalled bet (62904) returned to TheDoken
+*** FLOP *** [Th 7c 6h]
+*** TURN *** [Th 7c 6h] [3h]
+*** RIVER *** [Th 7c 6h 3h] [6d]
+*** SHOW DOWN ***
+Torraie: shows [9d 9s] (two pair, Nines and Sixes)
+TheDoken: shows [Ah Kc] (a pair of Sixes)
+Torraie collected 78700 from pot
+*** SUMMARY ***
+Total pot 78700 | Rake 0 
+Board [Th 7c 6h 3h 6d]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie showed [9d 9s] and won (78700) with two pair, Nines and Sixes
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) showed [Ah Kc] and lost with a pair of Sixes
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) folded before Flop
+
+
+
+PokerStars Hand #257904952419: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:36:34 CET [2025/09/27 6:36:34 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (115900 in chips) 
+Seat 2: Torraie (78700 in chips) 
+Seat 3: pipinoelbreve9 (140438 in chips) 
+Seat 4: TheDoken (62904 in chips) 
+Seat 5: fotoeiro (134361 in chips) is sitting out
+Seat 6: cruz95v (57725 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+cruz95v: posts small blind 1750
+tristiano3: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 4h]
+Torraie: folds 
+pipinoelbreve9: raises 7000 to 10500
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3 is disconnected 
+tristiano3 has timed out while disconnected
+tristiano3: folds 
+tristiano3 is sitting out
+Uncalled bet (7000) returned to pipinoelbreve9
+pipinoelbreve9 collected 11450 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 11450 | Rake 0 
+Seat 1: tristiano3 (big blind) folded before Flop
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 collected (11450)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257904959949: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:37:48 CET [2025/09/27 6:37:48 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (111950 in chips) is sitting out
+Seat 2: Torraie (78250 in chips) 
+Seat 3: pipinoelbreve9 (147938 in chips) 
+Seat 4: TheDoken (62454 in chips) 
+Seat 5: fotoeiro (133911 in chips) is sitting out
+Seat 6: cruz95v (55525 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+tristiano3: posts small blind 1750
+Torraie: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Jd]
+tristiano3 is disconnected 
+tristiano3 has returned
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 1750
+Torraie: checks 
+*** FLOP *** [3d 8s 2d]
+tristiano3: checks 
+Torraie: checks 
+*** TURN *** [3d 8s 2d] [Ah]
+tristiano3: checks 
+Torraie: checks 
+*** RIVER *** [3d 8s 2d Ah] [5d]
+tristiano3 has timed out
+tristiano3: checks 
+Torraie: checks 
+*** SHOW DOWN ***
+tristiano3: shows [Th 5h] (a pair of Fives)
+Torraie: mucks hand 
+tristiano3 collected 9700 from pot
+*** SUMMARY ***
+Total pot 9700 | Rake 0 
+Board [3d 8s 2d Ah 5d]
+Seat 1: tristiano3 (small blind) showed [Th 5h] and won (9700) with a pair of Fives
+Seat 2: Torraie (big blind) mucked [6c 3c]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904971457: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:39:42 CET [2025/09/27 6:39:42 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (117700 in chips) 
+Seat 2: Torraie (74300 in chips) 
+Seat 3: pipinoelbreve9 (147488 in chips) 
+Seat 4: TheDoken (62004 in chips) 
+Seat 5: fotoeiro (133461 in chips) is sitting out
+Seat 6: cruz95v (55075 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+Torraie: posts small blind 1750
+pipinoelbreve9: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ad 4h]
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Torraie: calls 1750
+pipinoelbreve9: raises 10500 to 14000
+Torraie: folds 
+Uncalled bet (10500) returned to pipinoelbreve9
+pipinoelbreve9 collected 9700 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 9700 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (9700)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904977238: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:40:39 CET [2025/09/27 6:40:39 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (117250 in chips) 
+Seat 2: Torraie (70350 in chips) 
+Seat 3: pipinoelbreve9 (153238 in chips) 
+Seat 4: TheDoken (61554 in chips) 
+Seat 5: fotoeiro (133011 in chips) is sitting out
+Seat 6: cruz95v (54625 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+pipinoelbreve9: posts small blind 1750
+TheDoken: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 6s]
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 3500
+Torraie: folds 
+pipinoelbreve9: calls 1750
+TheDoken: raises 57604 to 61104 and is all-in
+tristiano3: folds 
+pipinoelbreve9: folds 
+Uncalled bet (57604) returned to TheDoken
+TheDoken collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | Rake 0 
+Seat 1: tristiano3 folded before Flop
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: TheDoken (big blind) collected (13200)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257904982011: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:41:26 CET [2025/09/27 6:41:26 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (113300 in chips) 
+Seat 2: Torraie (69900 in chips) 
+Seat 3: pipinoelbreve9 (149288 in chips) 
+Seat 4: TheDoken (70804 in chips) 
+Seat 5: fotoeiro (132561 in chips) is sitting out
+Seat 6: cruz95v (54175 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+TheDoken: posts small blind 1750
+fotoeiro: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 5c]
+cruz95v: calls 3500
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: calls 1750
+fotoeiro: folds 
+*** FLOP *** [7c 6s Ac]
+TheDoken: checks 
+cruz95v: checks 
+*** TURN *** [7c 6s Ac] [7h]
+TheDoken: checks 
+cruz95v: checks 
+*** RIVER *** [7c 6s Ac 7h] [Tc]
+TheDoken: checks 
+cruz95v: checks 
+*** SHOW DOWN ***
+TheDoken: shows [Kh 5d] (a pair of Sevens)
+cruz95v: shows [2d 2c] (two pair, Sevens and Deuces)
+cruz95v collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | Rake 0 
+Board [7c 6s Ac 7h Tc]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: TheDoken (small blind) showed [Kh 5d] and lost with a pair of Sevens
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v showed [2d 2c] and won (13200) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #257904989500: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XV (1750/3500) - 2025/09/27 12:42:40 CET [2025/09/27 6:42:40 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (112850 in chips) 
+Seat 2: Torraie (69450 in chips) 
+Seat 3: pipinoelbreve9 (148838 in chips) 
+Seat 4: TheDoken (66854 in chips) 
+Seat 5: fotoeiro (128611 in chips) is sitting out
+Seat 6: cruz95v (63425 in chips) 
+tristiano3: posts the ante 450
+Torraie: posts the ante 450
+pipinoelbreve9: posts the ante 450
+TheDoken: posts the ante 450
+fotoeiro: posts the ante 450
+cruz95v: posts the ante 450
+fotoeiro: posts small blind 1750
+cruz95v: posts big blind 3500
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 9d]
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: raises 7000 to 10500
+TheDoken: calls 10500
+fotoeiro: folds 
+cruz95v: folds 
+*** FLOP *** [As 2h 5c]
+pipinoelbreve9: bets 10975
+TheDoken: raises 44929 to 55904 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (44929) returned to TheDoken
+TheDoken collected 50900 from pot
+*** SUMMARY ***
+Total pot 50900 | Rake 0 
+Board [As 2h 5c]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded on the Flop
+Seat 4: TheDoken (button) collected (50900)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) folded before Flop
+
+
+
+PokerStars Hand #257904997570: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (2000/4000) - 2025/09/27 12:44:01 CET [2025/09/27 6:44:01 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (112400 in chips) 
+Seat 2: Torraie (69000 in chips) 
+Seat 3: pipinoelbreve9 (126913 in chips) 
+Seat 4: TheDoken (95829 in chips) 
+Seat 5: fotoeiro (126411 in chips) is sitting out
+Seat 6: cruz95v (59475 in chips) 
+tristiano3: posts the ante 500
+Torraie: posts the ante 500
+pipinoelbreve9: posts the ante 500
+TheDoken: posts the ante 500
+fotoeiro: posts the ante 500
+cruz95v: posts the ante 500
+cruz95v: posts small blind 2000
+tristiano3: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h Ks]
+fotoeiro has returned
+Torraie: folds 
+pipinoelbreve9: calls 4000
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: checks 
+*** FLOP *** [Ts 2d 8d]
+tristiano3: checks 
+pipinoelbreve9: bets 6500
+tristiano3: calls 6500
+*** TURN *** [Ts 2d 8d] [Qd]
+tristiano3: checks 
+pipinoelbreve9: checks 
+*** RIVER *** [Ts 2d 8d Qd] [Tc]
+tristiano3: bets 18500
+pipinoelbreve9: calls 18500
+*** SHOW DOWN ***
+tristiano3: shows [Jd 6d] (a flush, Queen high)
+pipinoelbreve9: mucks hand 
+tristiano3 collected 63000 from pot
+*** SUMMARY ***
+Total pot 63000 | Rake 0 
+Board [Ts 2d 8d Qd Tc]
+Seat 1: tristiano3 (big blind) showed [Jd 6d] and won (63000) with a flush, Queen high
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 mucked [8h Ks]
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905005023: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (2000/4000) - 2025/09/27 12:45:15 CET [2025/09/27 6:45:15 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (145900 in chips) 
+Seat 2: Torraie (68500 in chips) 
+Seat 3: pipinoelbreve9 (97413 in chips) 
+Seat 4: TheDoken (95329 in chips) 
+Seat 5: fotoeiro (125911 in chips) 
+Seat 6: cruz95v (56975 in chips) 
+tristiano3: posts the ante 500
+Torraie: posts the ante 500
+pipinoelbreve9: posts the ante 500
+TheDoken: posts the ante 500
+fotoeiro: posts the ante 500
+cruz95v: posts the ante 500
+tristiano3: posts small blind 2000
+Torraie: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 2h]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: calls 4000
+cruz95v: folds 
+tristiano3: calls 2000
+Torraie: checks 
+*** FLOP *** [4h 6c 2s]
+tristiano3: checks 
+Torraie: checks 
+fotoeiro: bets 4000
+tristiano3: calls 4000
+Torraie: calls 4000
+*** TURN *** [4h 6c 2s] [Ah]
+tristiano3: checks 
+Torraie: checks 
+fotoeiro: bets 4000
+tristiano3 has timed out
+tristiano3: folds 
+tristiano3 is sitting out
+tristiano3 has returned
+Torraie: calls 4000
+*** RIVER *** [4h 6c 2s Ah] [9d]
+Torraie: checks 
+fotoeiro has timed out
+fotoeiro: checks 
+*** SHOW DOWN ***
+Torraie: shows [Td 6d] (a pair of Sixes)
+fotoeiro: mucks hand 
+Torraie collected 35000 from pot
+*** SUMMARY ***
+Total pot 35000 | Rake 0 
+Board [4h 6c 2s Ah 9d]
+Seat 1: tristiano3 (small blind) folded on the Turn
+Seat 2: Torraie (big blind) showed [Td 6d] and won (35000) with a pair of Sixes
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro mucked [6s 5d]
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905027230: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (2000/4000) - 2025/09/27 12:48:56 CET [2025/09/27 6:48:56 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (137400 in chips) 
+Seat 2: Torraie (91000 in chips) 
+Seat 3: pipinoelbreve9 (96913 in chips) 
+Seat 4: TheDoken (94829 in chips) 
+Seat 5: fotoeiro (113411 in chips) 
+Seat 6: cruz95v (56475 in chips) 
+tristiano3: posts the ante 500
+Torraie: posts the ante 500
+pipinoelbreve9: posts the ante 500
+TheDoken: posts the ante 500
+fotoeiro: posts the ante 500
+cruz95v: posts the ante 500
+Torraie: posts small blind 2000
+pipinoelbreve9: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 3d]
+TheDoken: folds 
+fotoeiro has timed out
+fotoeiro: folds 
+fotoeiro is sitting out
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+Uncalled bet (2000) returned to pipinoelbreve9
+pipinoelbreve9 collected 7000 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (7000)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905032907: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVI (2000/4000) - 2025/09/27 12:49:52 CET [2025/09/27 6:49:52 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (136900 in chips) 
+Seat 2: Torraie (88500 in chips) 
+Seat 3: pipinoelbreve9 (101413 in chips) 
+Seat 4: TheDoken (94329 in chips) 
+Seat 5: fotoeiro (112911 in chips) is sitting out
+Seat 6: cruz95v (55975 in chips) 
+tristiano3: posts the ante 500
+Torraie: posts the ante 500
+pipinoelbreve9: posts the ante 500
+TheDoken: posts the ante 500
+fotoeiro: posts the ante 500
+cruz95v: posts the ante 500
+pipinoelbreve9: posts small blind 2000
+TheDoken: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 5s]
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: calls 2000
+TheDoken: checks 
+*** FLOP *** [4s Th Ad]
+pipinoelbreve9: checks 
+TheDoken: checks 
+*** TURN *** [4s Th Ad] [7c]
+pipinoelbreve9: bets 4000
+TheDoken: calls 4000
+*** RIVER *** [4s Th Ad 7c] [8s]
+pipinoelbreve9: bets 19000
+TheDoken: calls 19000
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9c 5s] (high card Ace)
+TheDoken: shows [6d 5c] (a straight, Four to Eight)
+TheDoken collected 57000 from pot
+*** SUMMARY ***
+Total pot 57000 | Rake 0 
+Board [4s Th Ad 7c 8s]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) showed [9c 5s] and lost with high card Ace
+Seat 4: TheDoken (big blind) showed [6d 5c] and won (57000) with a straight, Four to Eight
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905040534: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 12:51:08 CET [2025/09/27 6:51:08 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (136400 in chips) 
+Seat 2: Torraie (88000 in chips) 
+Seat 3: pipinoelbreve9 (73913 in chips) 
+Seat 4: TheDoken (123829 in chips) 
+Seat 5: fotoeiro (112411 in chips) is sitting out
+Seat 6: cruz95v (55475 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+TheDoken: posts small blind 2500
+fotoeiro: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Ac]
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: raises 10000 to 15000
+TheDoken: folds 
+fotoeiro: folds 
+Uncalled bet (10000) returned to pipinoelbreve9
+pipinoelbreve9 collected 16250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) collected (16250)
+Seat 4: TheDoken (small blind) folded before Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905044445: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 12:51:47 CET [2025/09/27 6:51:47 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (135775 in chips) 
+Seat 2: Torraie (87375 in chips) 
+Seat 3: pipinoelbreve9 (84538 in chips) 
+Seat 4: TheDoken (120704 in chips) 
+Seat 5: fotoeiro (106786 in chips) is sitting out
+Seat 6: cruz95v (54850 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+fotoeiro: posts small blind 2500
+cruz95v: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Kh]
+tristiano3: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+Torraie has returned
+pipinoelbreve9: raises 10000 to 15000
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+Uncalled bet (10000) returned to pipinoelbreve9
+pipinoelbreve9 collected 16250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 collected (16250)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) folded before Flop
+
+
+
+PokerStars Hand #257905048032: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 12:52:23 CET [2025/09/27 6:52:23 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (135150 in chips) 
+Seat 2: Torraie (86750 in chips) 
+Seat 3: pipinoelbreve9 (95163 in chips) 
+Seat 4: TheDoken (120079 in chips) 
+Seat 5: fotoeiro (103661 in chips) is sitting out
+Seat 6: cruz95v (49225 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+cruz95v: posts small blind 2500
+tristiano3: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 6c]
+Torraie: calls 5000
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: checks 
+*** FLOP *** [Js 5d 4d]
+tristiano3: checks 
+Torraie: checks 
+*** TURN *** [Js 5d 4d] [5s]
+tristiano3 has timed out
+tristiano3: checks 
+Torraie: checks 
+*** RIVER *** [Js 5d 4d 5s] [2s]
+tristiano3: checks 
+Torraie: checks 
+*** SHOW DOWN ***
+tristiano3: shows [3h 8s] (a pair of Fives)
+Torraie: shows [Qd Kd] (a pair of Fives - King kicker)
+Torraie collected 16250 from pot
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Board [Js 5d 4d 5s 2s]
+Seat 1: tristiano3 (big blind) showed [3h 8s] and lost with a pair of Fives
+Seat 2: Torraie showed [Qd Kd] and won (16250) with a pair of Fives
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905058993: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 12:54:14 CET [2025/09/27 6:54:14 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (129525 in chips) 
+Seat 2: Torraie (97375 in chips) 
+Seat 3: pipinoelbreve9 (94538 in chips) 
+Seat 4: TheDoken (119454 in chips) 
+Seat 5: fotoeiro (103036 in chips) is sitting out
+Seat 6: cruz95v (46100 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+tristiano3: posts small blind 2500
+Torraie: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 4c]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 2500
+Torraie: checks 
+*** FLOP *** [5h Ah 8c]
+tristiano3: checks 
+Torraie: checks 
+*** TURN *** [5h Ah 8c] [3h]
+tristiano3 has timed out
+tristiano3: checks 
+Torraie: checks 
+*** RIVER *** [5h Ah 8c 3h] [Qc]
+tristiano3: checks 
+Torraie: checks 
+*** SHOW DOWN ***
+tristiano3: shows [Ks Tc] (high card Ace)
+Torraie: shows [6c Qd] (a pair of Queens)
+Torraie collected 13750 from pot
+*** SUMMARY ***
+Total pot 13750 | Rake 0 
+Board [5h Ah 8c 3h Qc]
+Seat 1: tristiano3 (small blind) showed [Ks Tc] and lost with high card Ace
+Seat 2: Torraie (big blind) showed [6c Qd] and won (13750) with a pair of Queens
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905098583: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 13:01:45 CET [2025/09/27 7:01:45 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (123900 in chips) 
+Seat 2: Torraie (105500 in chips) 
+Seat 3: pipinoelbreve9 (93913 in chips) 
+Seat 4: TheDoken (118829 in chips) 
+Seat 5: fotoeiro (102411 in chips) is sitting out
+Seat 6: cruz95v (45475 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+Torraie: posts small blind 2500
+pipinoelbreve9: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2d Ts]
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3 has timed out while disconnected
+tristiano3: folds 
+tristiano3 is sitting out
+Torraie: folds 
+Uncalled bet (2500) returned to pipinoelbreve9
+pipinoelbreve9 collected 8750 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 8750 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (8750)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905102230: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 13:02:23 CET [2025/09/27 7:02:23 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (123275 in chips) is sitting out
+Seat 2: Torraie (102375 in chips) 
+Seat 3: pipinoelbreve9 (99538 in chips) 
+Seat 4: TheDoken (118204 in chips) 
+Seat 5: fotoeiro (101786 in chips) is sitting out
+Seat 6: cruz95v (44850 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+pipinoelbreve9: posts small blind 2500
+TheDoken: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d As]
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: raises 10000 to 15000
+TheDoken: folds 
+Uncalled bet (10000) returned to pipinoelbreve9
+pipinoelbreve9 collected 13750 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 13750 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) collected (13750)
+Seat 4: TheDoken (big blind) folded before Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905106255: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 13:03:04 CET [2025/09/27 7:03:04 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (122650 in chips) is sitting out
+Seat 2: Torraie (101750 in chips) 
+Seat 3: pipinoelbreve9 (107663 in chips) 
+Seat 4: TheDoken (112579 in chips) 
+Seat 5: fotoeiro (101161 in chips) is sitting out
+Seat 6: cruz95v (44225 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+TheDoken: posts small blind 2500
+fotoeiro: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9d 6h]
+cruz95v: folds 
+tristiano3: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+pipinoelbreve9: calls 5000
+TheDoken: calls 2500
+fotoeiro: folds 
+*** FLOP *** [3s 3d As]
+Torraie has returned
+TheDoken: bets 5000
+pipinoelbreve9: folds 
+Uncalled bet (5000) returned to TheDoken
+tristiano3 is disconnected 
+TheDoken collected 18750 from pot
+*** SUMMARY ***
+Total pot 18750 | Rake 0 
+Board [3s 3d As]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded on the Flop
+Seat 4: TheDoken (small blind) collected (18750)
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905111979: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 13:04:00 CET [2025/09/27 7:04:00 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (122025 in chips) 
+Seat 2: Torraie (101125 in chips) 
+Seat 3: pipinoelbreve9 (102038 in chips) 
+Seat 4: TheDoken (125704 in chips) 
+Seat 5: fotoeiro (95536 in chips) is sitting out
+Seat 6: cruz95v (43600 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+fotoeiro: posts small blind 2500
+cruz95v: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h 8d]
+tristiano3: folds 
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+pipinoelbreve9: folds 
+Torraie has returned
+TheDoken: calls 5000
+fotoeiro: folds 
+cruz95v: checks 
+*** FLOP *** [Jc Td 3s]
+cruz95v: checks 
+TheDoken: bets 5000
+cruz95v: folds 
+Uncalled bet (5000) returned to TheDoken
+TheDoken collected 16250 from pot
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Board [Jc Td 3s]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) collected (16250)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257905119188: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVII (2500/5000) - 2025/09/27 13:05:11 CET [2025/09/27 7:05:11 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (121400 in chips) 
+Seat 2: Torraie (100500 in chips) 
+Seat 3: pipinoelbreve9 (101413 in chips) 
+Seat 4: TheDoken (136329 in chips) 
+Seat 5: fotoeiro (92411 in chips) is sitting out
+Seat 6: cruz95v (37975 in chips) 
+tristiano3: posts the ante 625
+Torraie: posts the ante 625
+pipinoelbreve9: posts the ante 625
+TheDoken: posts the ante 625
+fotoeiro: posts the ante 625
+cruz95v: posts the ante 625
+cruz95v: posts small blind 2500
+tristiano3: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 7h]
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+Torraie has returned
+pipinoelbreve9: raises 10000 to 15000
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Uncalled bet (10000) returned to pipinoelbreve9
+pipinoelbreve9 collected 16250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Seat 1: tristiano3 (big blind) folded before Flop
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 collected (16250)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905125266: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:06:10 CET [2025/09/27 7:06:10 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (115775 in chips) 
+Seat 2: Torraie (99875 in chips) 
+Seat 3: pipinoelbreve9 (112038 in chips) 
+Seat 4: TheDoken (135704 in chips) 
+Seat 5: fotoeiro (91786 in chips) is sitting out
+Seat 6: cruz95v (34850 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+tristiano3: posts small blind 3000
+Torraie: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c Qs]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 3000
+Torraie: checks 
+*** FLOP *** [2d 6d 5c]
+tristiano3: checks 
+Torraie: checks 
+*** TURN *** [2d 6d 5c] [Qh]
+fotoeiro is disconnected 
+tristiano3: checks 
+Torraie: checks 
+*** RIVER *** [2d 6d 5c Qh] [Kh]
+tristiano3: bets 8250
+Torraie: folds 
+Uncalled bet (8250) returned to tristiano3
+tristiano3 collected 16500 from pot
+*** SUMMARY ***
+Total pot 16500 | Rake 0 
+Board [2d 6d 5c Qh Kh]
+Seat 1: tristiano3 (small blind) collected (16500)
+Seat 2: Torraie (big blind) folded on the River
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905137671: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:08:09 CET [2025/09/27 7:08:09 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (125525 in chips) 
+Seat 2: Torraie (93125 in chips) 
+Seat 3: pipinoelbreve9 (111288 in chips) 
+Seat 4: TheDoken (134954 in chips) 
+Seat 5: fotoeiro (91036 in chips) is sitting out
+Seat 6: cruz95v (34100 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+Torraie: posts small blind 3000
+pipinoelbreve9: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d Tc]
+TheDoken: raises 6000 to 12000
+fotoeiro: folds 
+cruz95v: calls 12000
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: calls 6000
+*** FLOP *** [9c 6d Qh]
+pipinoelbreve9: checks 
+TheDoken: bets 21750
+cruz95v: folds 
+pipinoelbreve9: folds 
+Uncalled bet (21750) returned to TheDoken
+TheDoken collected 43500 from pot
+*** SUMMARY ***
+Total pot 43500 | Rake 0 
+Board [9c 6d Qh]
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: TheDoken collected (43500)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded on the Flop
+
+
+
+PokerStars Hand #257905143996: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:09:10 CET [2025/09/27 7:09:10 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (124775 in chips) 
+Seat 2: Torraie (89375 in chips) 
+Seat 3: pipinoelbreve9 (98538 in chips) 
+Seat 4: TheDoken (165704 in chips) 
+Seat 5: fotoeiro (90286 in chips) is sitting out
+Seat 6: cruz95v (21350 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+pipinoelbreve9: posts small blind 3000
+TheDoken: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th 2c]
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 6000
+Torraie: folds 
+pipinoelbreve9: folds 
+TheDoken: checks 
+*** FLOP *** [4s 9h 6d]
+TheDoken: bets 6000
+tristiano3: calls 6000
+*** TURN *** [4s 9h 6d] [2h]
+TheDoken: bets 12000
+tristiano3: folds 
+Uncalled bet (12000) returned to TheDoken
+TheDoken collected 31500 from pot
+*** SUMMARY ***
+Total pot 31500 | Rake 0 
+Board [4s 9h 6d 2h]
+Seat 1: tristiano3 folded on the Turn
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: TheDoken (big blind) collected (31500)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905150723: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:10:15 CET [2025/09/27 7:10:15 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (112025 in chips) 
+Seat 2: Torraie (88625 in chips) 
+Seat 3: pipinoelbreve9 (94788 in chips) 
+Seat 4: TheDoken (184454 in chips) 
+Seat 5: fotoeiro (89536 in chips) is sitting out
+Seat 6: cruz95v (20600 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+TheDoken: posts small blind 3000
+fotoeiro: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 4h]
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: raises 12000 to 18000
+TheDoken: folds 
+fotoeiro: folds 
+Uncalled bet (12000) returned to pipinoelbreve9
+pipinoelbreve9 collected 19500 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 19500 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) collected (19500)
+Seat 4: TheDoken (small blind) folded before Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905155188: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:10:58 CET [2025/09/27 7:10:58 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (111275 in chips) 
+Seat 2: Torraie (87875 in chips) 
+Seat 3: pipinoelbreve9 (107538 in chips) 
+Seat 4: TheDoken (180704 in chips) 
+Seat 5: fotoeiro (82786 in chips) is sitting out
+Seat 6: cruz95v (19850 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+fotoeiro: posts small blind 3000
+cruz95v: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c Ah]
+tristiano3: calls 6000
+Torraie: folds 
+pipinoelbreve9: raises 12000 to 18000
+TheDoken: calls 18000
+fotoeiro: folds 
+cruz95v: raises 1100 to 19100 and is all-in
+tristiano3: folds 
+pipinoelbreve9: calls 1100
+TheDoken: calls 1100
+*** FLOP *** [Ts Qd Jh]
+pipinoelbreve9: bets 35400
+TheDoken: folds 
+Uncalled bet (35400) returned to pipinoelbreve9
+*** TURN *** [Ts Qd Jh] [7d]
+*** RIVER *** [Ts Qd Jh 7d] [8c]
+*** SHOW DOWN ***
+cruz95v: shows [Jd Ac] (a pair of Jacks)
+pipinoelbreve9: shows [7c Ah] (a pair of Sevens)
+cruz95v collected 70800 from pot
+*** SUMMARY ***
+Total pot 70800 | Rake 0 
+Board [Ts Qd Jh 7d 8c]
+Seat 1: tristiano3 folded before Flop
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 showed [7c Ah] and lost with a pair of Sevens
+Seat 4: TheDoken (button) folded on the Flop
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: cruz95v (big blind) showed [Jd Ac] and won (70800) with a pair of Jacks
+
+
+
+PokerStars Hand #257905160600: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:11:51 CET [2025/09/27 7:11:51 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (104525 in chips) 
+Seat 2: Torraie (87125 in chips) 
+Seat 3: pipinoelbreve9 (87688 in chips) 
+Seat 4: TheDoken (160854 in chips) 
+Seat 5: fotoeiro (79036 in chips) is sitting out
+Seat 6: cruz95v (70800 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+cruz95v: posts small blind 3000
+tristiano3: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 3s]
+Torraie has timed out
+Torraie: folds 
+Torraie is sitting out
+Torraie has returned
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+Uncalled bet (3000) returned to tristiano3
+tristiano3 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Seat 1: tristiano3 (big blind) collected (10500)
+Seat 2: Torraie folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: cruz95v (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905164297: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XVIII (3000/6000) - 2025/09/27 13:12:28 CET [2025/09/27 7:12:28 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (111275 in chips) 
+Seat 2: Torraie (86375 in chips) 
+Seat 3: pipinoelbreve9 (86938 in chips) 
+Seat 4: TheDoken (160104 in chips) 
+Seat 5: fotoeiro (78286 in chips) is sitting out
+Seat 6: cruz95v (67050 in chips) 
+tristiano3: posts the ante 750
+Torraie: posts the ante 750
+pipinoelbreve9: posts the ante 750
+TheDoken: posts the ante 750
+fotoeiro: posts the ante 750
+cruz95v: posts the ante 750
+tristiano3: posts small blind 3000
+Torraie: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Jc]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: calls 3000
+Torraie: checks 
+*** FLOP *** [7h Qs 4d]
+tristiano3: checks 
+Torraie: checks 
+*** TURN *** [7h Qs 4d] [5d]
+tristiano3: bets 11525
+Torraie: folds 
+Uncalled bet (11525) returned to tristiano3
+tristiano3 collected 16500 from pot
+*** SUMMARY ***
+Total pot 16500 | Rake 0 
+Board [7h Qs 4d 5d]
+Seat 1: tristiano3 (small blind) collected (16500)
+Seat 2: Torraie (big blind) folded on the Turn
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905174604: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:14:08 CET [2025/09/27 7:14:08 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (121025 in chips) 
+Seat 2: Torraie (79625 in chips) 
+Seat 3: pipinoelbreve9 (86188 in chips) 
+Seat 4: TheDoken (159354 in chips) 
+Seat 5: fotoeiro (77536 in chips) is sitting out
+Seat 6: cruz95v (66300 in chips) 
+tristiano3: posts the ante 875
+Torraie: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+cruz95v: posts the ante 875
+Torraie: posts small blind 3500
+pipinoelbreve9: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 7d]
+TheDoken: folds 
+fotoeiro: folds 
+cruz95v: folds 
+tristiano3: folds 
+Torraie: folds 
+Uncalled bet (3500) returned to pipinoelbreve9
+pipinoelbreve9 collected 12250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 12250 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: Torraie (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (12250)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905177156: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:14:33 CET [2025/09/27 7:14:33 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (120150 in chips) 
+Seat 2: Torraie (75250 in chips) 
+Seat 3: pipinoelbreve9 (94063 in chips) 
+Seat 4: TheDoken (158479 in chips) 
+Seat 5: fotoeiro (76661 in chips) is sitting out
+Seat 6: cruz95v (65425 in chips) 
+tristiano3: posts the ante 875
+Torraie: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+cruz95v: posts the ante 875
+pipinoelbreve9: posts small blind 3500
+TheDoken: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd Js]
+fotoeiro: folds 
+cruz95v: raises 7000 to 14000
+tristiano3: folds 
+Torraie: folds 
+pipinoelbreve9: raises 79188 to 93188 and is all-in
+TheDoken: folds 
+cruz95v: calls 50550 and is all-in
+Uncalled bet (28638) returned to pipinoelbreve9
+*** FLOP *** [Jc Kh Ad]
+*** TURN *** [Jc Kh Ad] [Qh]
+*** RIVER *** [Jc Kh Ad Qh] [6h]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [Jd Js] (three of a kind, Jacks)
+cruz95v: shows [5h 5c] (a pair of Fives)
+pipinoelbreve9 collected 141350 from pot
+*** SUMMARY ***
+Total pot 141350 | Rake 0 
+Board [Jc Kh Ad Qh 6h]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) showed [Jd Js] and won (141350) with three of a kind, Jacks
+Seat 4: TheDoken (big blind) folded before Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: cruz95v showed [5h 5c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #257905183796: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:15:38 CET [2025/09/27 7:15:38 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (119275 in chips) 
+Seat 2: Torraie (74375 in chips) 
+Seat 3: pipinoelbreve9 (169988 in chips) 
+Seat 4: TheDoken (150604 in chips) 
+Seat 5: fotoeiro (75786 in chips) is sitting out
+tristiano3: posts the ante 875
+Torraie: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+TheDoken: posts small blind 3500
+fotoeiro: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Kc]
+tristiano3: folds 
+Torraie: raises 7000 to 14000
+pipinoelbreve9: raises 35000 to 49000
+TheDoken: folds 
+fotoeiro: folds 
+Torraie: calls 35000
+*** FLOP *** [Kd 2h Td]
+Torraie: bets 24500 and is all-in
+pipinoelbreve9: calls 24500
+*** TURN *** [Kd 2h Td] [Qd]
+*** RIVER *** [Kd 2h Td Qd] [3h]
+*** SHOW DOWN ***
+Torraie: shows [Ks As] (a pair of Kings)
+pipinoelbreve9: shows [Qc Kc] (two pair, Kings and Queens)
+pipinoelbreve9 collected 161875 from pot
+Torraie finished the tournament in 59th place and received €1.57.
+*** SUMMARY ***
+Total pot 161875 | Rake 0 
+Board [Kd 2h Td Qd 3h]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: Torraie showed [Ks As] and lost with a pair of Kings
+Seat 3: pipinoelbreve9 (button) showed [Qc Kc] and won (161875) with two pair, Kings and Queens
+Seat 4: TheDoken (small blind) folded before Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+
+
+
+PokerStars Hand #257905187780: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:16:17 CET [2025/09/27 7:16:17 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (118400 in chips) 
+Seat 3: pipinoelbreve9 (257488 in chips) 
+Seat 4: TheDoken (146229 in chips) 
+Seat 5: fotoeiro (67911 in chips) is sitting out
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+fotoeiro: posts small blind 3500
+tristiano3: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Ac]
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+Uncalled bet (3500) returned to tristiano3
+tristiano3 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Seat 1: tristiano3 (big blind) collected (10500)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905188869: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:16:27 CET [2025/09/27 7:16:27 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (124525 in chips) 
+Seat 3: pipinoelbreve9 (256613 in chips) 
+Seat 4: TheDoken (145354 in chips) 
+Seat 5: fotoeiro (63536 in chips) is sitting out
+Seat 6: Juliocpl86 (312283 in chips) out of hand (moved from another table into small blind)
+Juliocpl86 will be allowed to play after the button
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+tristiano3: posts small blind 3500
+pipinoelbreve9: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Jc]
+TheDoken: folds 
+fotoeiro: folds 
+tristiano3: calls 3500
+pipinoelbreve9: checks 
+*** FLOP *** [Ah 9d 4h]
+tristiano3: checks 
+pipinoelbreve9: bets 7000
+tristiano3: folds 
+Uncalled bet (7000) returned to pipinoelbreve9
+pipinoelbreve9 collected 17500 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Board [Ah 9d 4h]
+Seat 1: tristiano3 (small blind) folded on the Flop
+Seat 3: pipinoelbreve9 (big blind) collected (17500)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905193546: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:17:12 CET [2025/09/27 7:17:12 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (116650 in chips) 
+Seat 3: pipinoelbreve9 (266238 in chips) 
+Seat 4: TheDoken (144479 in chips) 
+Seat 5: fotoeiro (62661 in chips) is sitting out
+Seat 6: Juliocpl86 (312283 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+pipinoelbreve9: posts small blind 3500
+TheDoken: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5d Jh]
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: calls 7000
+pipinoelbreve9: calls 3500
+TheDoken: checks 
+*** FLOP *** [3d Qs Qh]
+pipinoelbreve9: checks 
+TheDoken: checks 
+tristiano3: checks 
+*** TURN *** [3d Qs Qh] [Ks]
+pipinoelbreve9: checks 
+TheDoken: checks 
+tristiano3: checks 
+*** RIVER *** [3d Qs Qh Ks] [5h]
+pipinoelbreve9: bets 7000
+TheDoken: calls 7000
+tristiano3: folds 
+*** SHOW DOWN ***
+pipinoelbreve9: shows [5d Jh] (two pair, Queens and Fives)
+TheDoken: shows [7c 5c] (two pair, Queens and Fives)
+pipinoelbreve9 collected 19688 from pot
+TheDoken collected 19687 from pot
+*** SUMMARY ***
+Total pot 39375 | Rake 0 
+Board [3d Qs Qh Ks 5h]
+Seat 1: tristiano3 (button) folded on the River
+Seat 3: pipinoelbreve9 (small blind) showed [5d Jh] and won (19688) with two pair, Queens and Fives
+Seat 4: TheDoken (big blind) showed [7c 5c] and won (19687) with two pair, Queens and Fives
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905200699: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:18:22 CET [2025/09/27 7:18:22 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (108775 in chips) 
+Seat 3: pipinoelbreve9 (271051 in chips) 
+Seat 4: TheDoken (149291 in chips) 
+Seat 5: fotoeiro (61786 in chips) is sitting out
+Seat 6: Juliocpl86 (311408 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+TheDoken: posts small blind 3500
+fotoeiro: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 3d]
+Juliocpl86: folds 
+tristiano3: calls 7000
+pipinoelbreve9: folds 
+TheDoken: calls 3500
+fotoeiro: folds 
+*** FLOP *** [4h Kd Jd]
+TheDoken: checks 
+tristiano3: checks 
+*** TURN *** [4h Kd Jd] [4d]
+TheDoken: bets 12688
+tristiano3: folds 
+Uncalled bet (12688) returned to TheDoken
+TheDoken collected 25375 from pot
+*** SUMMARY ***
+Total pot 25375 | Rake 0 
+Board [4h Kd Jd 4d]
+Seat 1: tristiano3 folded on the Turn
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: TheDoken (small blind) collected (25375)
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905205371: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:19:08 CET [2025/09/27 7:19:08 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (100900 in chips) 
+Seat 3: pipinoelbreve9 (270176 in chips) 
+Seat 4: TheDoken (166791 in chips) 
+Seat 5: fotoeiro (53911 in chips) is sitting out
+Seat 6: Juliocpl86 (310533 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+fotoeiro: posts small blind 3500
+Juliocpl86: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7s 6s]
+tristiano3: calls 7000
+pipinoelbreve9: raises 28000 to 35000
+TheDoken: folds 
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+Uncalled bet (28000) returned to pipinoelbreve9
+pipinoelbreve9 collected 28875 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 28875 | Rake 0 
+Seat 1: tristiano3 folded before Flop
+Seat 3: pipinoelbreve9 collected (28875)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: Juliocpl86 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257905208455: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:19:39 CET [2025/09/27 7:19:39 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (93025 in chips) 
+Seat 3: pipinoelbreve9 (291176 in chips) 
+Seat 4: TheDoken (165916 in chips) 
+Seat 5: fotoeiro (49536 in chips) is sitting out
+Seat 6: Juliocpl86 (302658 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+Juliocpl86: posts small blind 3500
+tristiano3: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh Tc]
+pipinoelbreve9: raises 14000 to 21000
+TheDoken: folds 
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: calls 14000
+*** FLOP *** [6s 4s Qc]
+tristiano3: checks 
+pipinoelbreve9: bets 31938
+tristiano3: calls 31938
+*** TURN *** [6s 4s Qc] [Jc]
+tristiano3: checks 
+pipinoelbreve9: bets 39200
+tristiano3: raises 12 to 39212 and is all-in
+pipinoelbreve9: calls 12
+*** RIVER *** [6s 4s Qc Jc] [As]
+*** SHOW DOWN ***
+tristiano3: shows [Kh Qd] (a pair of Queens)
+pipinoelbreve9: shows [Qh Tc] (a pair of Queens - lower kicker)
+tristiano3 collected 192175 from pot
+*** SUMMARY ***
+Total pot 192175 | Rake 0 
+Board [6s 4s Qc Jc As]
+Seat 1: tristiano3 (big blind) showed [Kh Qd] and won (192175) with a pair of Queens
+Seat 3: pipinoelbreve9 showed [Qh Tc] and lost with a pair of Queens
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905212848: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:20:21 CET [2025/09/27 7:20:21 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (192175 in chips) 
+Seat 3: pipinoelbreve9 (198151 in chips) 
+Seat 4: TheDoken (165041 in chips) 
+Seat 5: fotoeiro (48661 in chips) is sitting out
+Seat 6: Juliocpl86 (298283 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+tristiano3: posts small blind 3500
+pipinoelbreve9: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Qs]
+TheDoken: folds 
+fotoeiro: folds 
+Juliocpl86: raises 7000 to 14000
+tristiano3: folds 
+pipinoelbreve9: raises 183276 to 197276 and is all-in
+Juliocpl86: folds 
+Uncalled bet (183276) returned to pipinoelbreve9
+pipinoelbreve9 collected 35875 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 35875 | Rake 0 
+Seat 1: tristiano3 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (35875)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (button) folded before Flop
+
+
+
+PokerStars Hand #257905215567: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:20:49 CET [2025/09/27 7:20:49 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (187800 in chips) 
+Seat 3: pipinoelbreve9 (219151 in chips) 
+Seat 4: TheDoken (164166 in chips) 
+Seat 5: fotoeiro (47786 in chips) is sitting out
+Seat 6: Juliocpl86 (283408 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+pipinoelbreve9: posts small blind 3500
+TheDoken: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 5s]
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: raises 14000 to 21000
+pipinoelbreve9: folds 
+TheDoken: folds 
+Uncalled bet (14000) returned to tristiano3
+tristiano3 collected 21875 from pot
+*** SUMMARY ***
+Total pot 21875 | Rake 0 
+Seat 1: tristiano3 (button) collected (21875)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: TheDoken (big blind) folded before Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905217160: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XIX (3500/7000) - 2025/09/27 13:21:04 CET [2025/09/27 7:21:04 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (201800 in chips) 
+Seat 3: pipinoelbreve9 (214776 in chips) 
+Seat 4: TheDoken (156291 in chips) 
+Seat 5: fotoeiro (46911 in chips) is sitting out
+Seat 6: Juliocpl86 (282533 in chips) 
+tristiano3: posts the ante 875
+pipinoelbreve9: posts the ante 875
+TheDoken: posts the ante 875
+fotoeiro: posts the ante 875
+Juliocpl86: posts the ante 875
+TheDoken: posts small blind 3500
+fotoeiro: posts big blind 7000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc Qs]
+Juliocpl86: folds 
+tristiano3: folds 
+pipinoelbreve9: raises 14000 to 21000
+TheDoken: folds 
+fotoeiro: folds 
+Uncalled bet (14000) returned to pipinoelbreve9
+pipinoelbreve9 collected 21875 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 21875 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) collected (21875)
+Seat 4: TheDoken (small blind) folded before Flop
+Seat 5: fotoeiro (big blind) folded before Flop
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905219494: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:21:27 CET [2025/09/27 7:21:27 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (200925 in chips) 
+Seat 2: leocg22 (601415 in chips) 
+Seat 3: pipinoelbreve9 (228776 in chips) 
+Seat 4: TheDoken (151916 in chips) 
+Seat 5: fotoeiro (39036 in chips) is sitting out
+Seat 6: Juliocpl86 (281658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+fotoeiro: posts small blind 4000
+Juliocpl86: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9s 6s]
+tristiano3: folds 
+leocg22: calls 8000
+pipinoelbreve9: folds 
+TheDoken: folds 
+fotoeiro: folds 
+Juliocpl86: checks 
+*** FLOP *** [Kc Kh 3s]
+Juliocpl86: checks 
+leocg22: checks 
+*** TURN *** [Kc Kh 3s] [Qd]
+Juliocpl86: bets 16000
+leocg22: calls 16000
+*** RIVER *** [Kc Kh 3s Qd] [7s]
+Juliocpl86: checks 
+leocg22: checks 
+*** SHOW DOWN ***
+Juliocpl86: shows [Jc 5c] (a pair of Kings)
+leocg22: shows [Qh Jd] (two pair, Kings and Queens)
+leocg22 collected 58000 from pot
+*** SUMMARY ***
+Total pot 58000 | Rake 0 
+Board [Kc Kh 3s Qd 7s]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 showed [Qh Jd] and won (58000) with two pair, Kings and Queens
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) folded before Flop (didn't bet)
+Seat 5: fotoeiro (small blind) folded before Flop
+Seat 6: Juliocpl86 (big blind) showed [Jc 5c] and lost with a pair of Kings
+
+
+
+PokerStars Hand #257905222622: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:21:57 CET [2025/09/27 7:21:57 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (199925 in chips) 
+Seat 2: leocg22 (634415 in chips) 
+Seat 3: pipinoelbreve9 (227776 in chips) 
+Seat 4: TheDoken (150916 in chips) 
+Seat 5: fotoeiro (34036 in chips) is sitting out
+Seat 6: Juliocpl86 (256658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+Juliocpl86: posts small blind 4000
+tristiano3: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jd 3d]
+leocg22: calls 8000
+pipinoelbreve9: folds 
+TheDoken: calls 8000
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: checks 
+*** FLOP *** [7d 6h Ks]
+tristiano3: checks 
+leocg22: checks 
+TheDoken: bets 17000
+tristiano3: folds 
+leocg22: raises 79000 to 96000
+TheDoken: folds 
+Uncalled bet (79000) returned to leocg22
+leocg22 collected 68000 from pot
+*** SUMMARY ***
+Total pot 68000 | Rake 0 
+Board [7d 6h Ks]
+Seat 1: tristiano3 (big blind) folded on the Flop
+Seat 2: leocg22 collected (68000)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded on the Flop
+Seat 5: fotoeiro (button) folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905228909: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:22:58 CET [2025/09/27 7:22:58 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (190925 in chips) 
+Seat 2: leocg22 (676415 in chips) 
+Seat 3: pipinoelbreve9 (226776 in chips) 
+Seat 4: TheDoken (124916 in chips) 
+Seat 5: fotoeiro (33036 in chips) is sitting out
+Seat 6: Juliocpl86 (251658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+tristiano3: posts small blind 4000
+leocg22: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 5c]
+pipinoelbreve9: folds 
+TheDoken: calls 8000
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: raises 16000 to 24000
+leocg22: folds 
+TheDoken: folds 
+Uncalled bet (16000) returned to tristiano3
+tristiano3 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | Rake 0 
+Seat 1: tristiano3 (small blind) collected (30000)
+Seat 2: leocg22 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905231892: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:23:27 CET [2025/09/27 7:23:27 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (211925 in chips) 
+Seat 2: leocg22 (667415 in chips) 
+Seat 3: pipinoelbreve9 (225776 in chips) 
+Seat 4: TheDoken (115916 in chips) 
+Seat 5: fotoeiro (32036 in chips) is sitting out
+Seat 6: Juliocpl86 (250658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+leocg22: posts small blind 4000
+pipinoelbreve9: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jh 7h]
+TheDoken: raises 8000 to 16000
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: calls 12000
+pipinoelbreve9: calls 8000
+*** FLOP *** [Qd Js As]
+leocg22: checks 
+pipinoelbreve9: checks 
+TheDoken: bets 98916 and is all-in
+leocg22: calls 98916
+pipinoelbreve9: folds 
+*** TURN *** [Qd Js As] [9s]
+*** RIVER *** [Qd Js As 9s] [Kc]
+*** SHOW DOWN ***
+leocg22: shows [Td Kh] (a straight, Ten to Ace)
+TheDoken: shows [Tc Ks] (a straight, Ten to Ace)
+leocg22 collected 125916 from pot
+TheDoken collected 125916 from pot
+*** SUMMARY ***
+Total pot 251832 | Rake 0 
+Board [Qd Js As 9s Kc]
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: leocg22 (small blind) showed [Td Kh] and won (125916) with a straight, Ten to Ace
+Seat 3: pipinoelbreve9 (big blind) folded on the Flop
+Seat 4: TheDoken showed [Tc Ks] and won (125916) with a straight, Ten to Ace
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905236602: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:24:13 CET [2025/09/27 7:24:13 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (210925 in chips) 
+Seat 2: leocg22 (677415 in chips) 
+Seat 3: pipinoelbreve9 (208776 in chips) 
+Seat 4: TheDoken (125916 in chips) 
+Seat 5: fotoeiro (31036 in chips) is sitting out
+Seat 6: Juliocpl86 (249658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+pipinoelbreve9: posts small blind 4000
+TheDoken: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [5s Kd]
+fotoeiro: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: calls 8000
+pipinoelbreve9: calls 4000
+TheDoken: checks 
+*** FLOP *** [Tc Ad Js]
+pipinoelbreve9: bets 8000
+fotoeiro has returned
+TheDoken: calls 8000
+leocg22: calls 8000
+*** TURN *** [Tc Ad Js] [9h]
+pipinoelbreve9: bets 27000
+TheDoken: folds 
+leocg22: calls 27000
+*** RIVER *** [Tc Ad Js 9h] [Qh]
+pipinoelbreve9: bets 164776 and is all-in
+leocg22: calls 164776
+*** SHOW DOWN ***
+pipinoelbreve9: shows [5s Kd] (a straight, Ten to Ace)
+leocg22: shows [Kh Th] (a straight, Ten to Ace)
+pipinoelbreve9 collected 218776 from pot
+leocg22 collected 218776 from pot
+*** SUMMARY ***
+Total pot 437552 | Rake 0 
+Board [Tc Ad Js 9h Qh]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 (button) showed [Kh Th] and won (218776) with a straight, Ten to Ace
+Seat 3: pipinoelbreve9 (small blind) showed [5s Kd] and won (218776) with a straight, Ten to Ace
+Seat 4: TheDoken (big blind) folded on the Turn
+Seat 5: fotoeiro folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905242026: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:25:05 CET [2025/09/27 7:25:05 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (209925 in chips) 
+Seat 2: leocg22 (687415 in chips) 
+Seat 3: pipinoelbreve9 (218776 in chips) 
+Seat 4: TheDoken (108916 in chips) 
+Seat 5: fotoeiro (30036 in chips) 
+Seat 6: Juliocpl86 (248658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+TheDoken: posts small blind 4000
+fotoeiro: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Th Kc]
+Juliocpl86: folds 
+tristiano3: calls 8000
+leocg22: calls 8000
+pipinoelbreve9: calls 8000
+TheDoken: calls 4000
+fotoeiro: checks 
+*** FLOP *** [2h Qd 8h]
+TheDoken: checks 
+fotoeiro: checks 
+tristiano3: checks 
+leocg22: checks 
+pipinoelbreve9: checks 
+*** TURN *** [2h Qd 8h] [6s]
+TheDoken: checks 
+fotoeiro: bets 8000
+tristiano3: folds 
+leocg22: calls 8000
+pipinoelbreve9: folds 
+TheDoken: calls 8000
+*** RIVER *** [2h Qd 8h 6s] [2d]
+TheDoken: checks 
+fotoeiro: bets 8000
+leocg22: folds 
+TheDoken: raises 8000 to 16000
+fotoeiro: folds 
+Uncalled bet (8000) returned to TheDoken
+TheDoken collected 86000 from pot
+*** SUMMARY ***
+Total pot 86000 | Rake 0 
+Board [2h Qd 8h 6s 2d]
+Seat 1: tristiano3 folded on the Turn
+Seat 2: leocg22 folded on the River
+Seat 3: pipinoelbreve9 (button) folded on the Turn
+Seat 4: TheDoken (small blind) collected (86000)
+Seat 5: fotoeiro (big blind) folded on the River
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905251199: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:26:33 CET [2025/09/27 7:26:33 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (200925 in chips) 
+Seat 2: leocg22 (670415 in chips) 
+Seat 3: pipinoelbreve9 (209776 in chips) 
+Seat 4: TheDoken (169916 in chips) 
+Seat 5: fotoeiro (5036 in chips) 
+Seat 6: Juliocpl86 (247658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+fotoeiro: posts the ante 1000
+Juliocpl86: posts the ante 1000
+fotoeiro: posts small blind 4000
+Juliocpl86: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 4c]
+tristiano3 has timed out
+tristiano3: folds 
+tristiano3 is sitting out
+leocg22: folds 
+pipinoelbreve9: folds 
+tristiano3 has returned
+TheDoken: calls 8000
+fotoeiro: calls 36 and is all-in
+Juliocpl86: checks 
+*** FLOP *** [6s 3s 3c]
+Juliocpl86: checks 
+TheDoken: bets 8000
+Juliocpl86: folds 
+Uncalled bet (8000) returned to TheDoken
+*** TURN *** [6s 3s 3c] [Qh]
+*** RIVER *** [6s 3s 3c Qh] [Qc]
+*** SHOW DOWN ***
+TheDoken: shows [Ad Tc] (two pair, Queens and Threes)
+TheDoken collected 7928 from side pot
+fotoeiro: shows [4s 7d] (two pair, Queens and Threes - lower kicker)
+TheDoken collected 18108 from main pot
+fotoeiro finished the tournament in 51st place and received €1.57.
+*** SUMMARY ***
+Total pot 26036 Main pot 18108. Side pot 7928. | Rake 0 
+Board [6s 3s 3c Qh Qc]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) showed [Ad Tc] and won (26036) with two pair, Queens and Threes
+Seat 5: fotoeiro (small blind) showed [4s 7d] and lost with two pair, Queens and Threes
+Seat 6: Juliocpl86 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257905256794: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:27:27 CET [2025/09/27 7:27:27 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (199925 in chips) 
+Seat 2: leocg22 (669415 in chips) 
+Seat 3: pipinoelbreve9 (208776 in chips) 
+Seat 4: TheDoken (186952 in chips) 
+Seat 6: Juliocpl86 (238658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+Juliocpl86: posts the ante 1000
+tristiano3: posts small blind 4000
+leocg22: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c 8d]
+pipinoelbreve9: folds 
+TheDoken: folds 
+Juliocpl86: raises 8000 to 16000
+tristiano3: folds 
+leocg22: calls 8000
+*** FLOP *** [Kc 8c 4s]
+leocg22: checks 
+Juliocpl86: bets 16000
+leocg22: calls 16000
+*** TURN *** [Kc 8c 4s] [As]
+leocg22: checks 
+Juliocpl86: checks 
+*** RIVER *** [Kc 8c 4s As] [3h]
+leocg22: checks 
+Juliocpl86: checks 
+*** SHOW DOWN ***
+leocg22: shows [4d Ad] (two pair, Aces and Fours)
+Juliocpl86: mucks hand 
+leocg22 collected 73000 from pot
+*** SUMMARY ***
+Total pot 73000 | Rake 0 
+Board [Kc 8c 4s As 3h]
+Seat 1: tristiano3 (small blind) folded before Flop
+Seat 2: leocg22 (big blind) showed [4d Ad] and won (73000) with two pair, Aces and Fours
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (button) mucked [9c 9h]
+
+
+
+PokerStars Hand #257905260821: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:28:06 CET [2025/09/27 7:28:06 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (194925 in chips) 
+Seat 2: leocg22 (709415 in chips) 
+Seat 3: pipinoelbreve9 (207776 in chips) 
+Seat 4: TheDoken (185952 in chips) 
+Seat 6: Juliocpl86 (205658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+Juliocpl86: posts the ante 1000
+leocg22: posts small blind 4000
+pipinoelbreve9: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc As]
+TheDoken: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: calls 4000
+pipinoelbreve9: raises 32000 to 40000
+leocg22: folds 
+Uncalled bet (32000) returned to pipinoelbreve9
+pipinoelbreve9 collected 21000 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: leocg22 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (21000)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905265293: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XX (4000/8000) - 2025/09/27 13:28:48 CET [2025/09/27 7:28:48 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (193925 in chips) 
+Seat 2: leocg22 (700415 in chips) 
+Seat 3: pipinoelbreve9 (219776 in chips) 
+Seat 4: TheDoken (184952 in chips) 
+Seat 6: Juliocpl86 (204658 in chips) 
+tristiano3: posts the ante 1000
+leocg22: posts the ante 1000
+pipinoelbreve9: posts the ante 1000
+TheDoken: posts the ante 1000
+Juliocpl86: posts the ante 1000
+pipinoelbreve9: posts small blind 4000
+TheDoken: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4d Js]
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: calls 8000
+pipinoelbreve9: folds 
+xtilted is disconnected 
+TheDoken: checks 
+*** FLOP *** [7s Td 7h]
+TheDoken: checks 
+leocg22: checks 
+*** TURN *** [7s Td 7h] [8c]
+TheDoken: checks 
+leocg22: checks 
+*** RIVER *** [7s Td 7h 8c] [9d]
+TheDoken: bets 12500
+leocg22: raises 20500 to 33000
+TheDoken: folds 
+Uncalled bet (20500) returned to leocg22
+leocg22 collected 50000 from pot
+*** SUMMARY ***
+Total pot 50000 | Rake 0 
+Board [7s Td 7h 8c 9d]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 (button) collected (50000)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: TheDoken (big blind) folded on the River
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905271971: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:29:50 CET [2025/09/27 7:29:50 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (192925 in chips) 
+Seat 2: leocg22 (728915 in chips) 
+Seat 3: pipinoelbreve9 (214776 in chips) 
+Seat 4: TheDoken (163452 in chips) 
+Seat 5: xtilted (253293 in chips) 
+Seat 6: Juliocpl86 (203658 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+TheDoken: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+TheDoken: posts small blind 5000
+xtilted: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 3c]
+Juliocpl86: calls 10000
+tristiano3 has timed out
+tristiano3: folds 
+tristiano3 is sitting out
+leocg22: folds 
+pipinoelbreve9: folds 
+tristiano3 has returned
+TheDoken: calls 5000
+xtilted: checks 
+*** FLOP *** [Ts Th 3s]
+TheDoken: bets 18750
+xtilted: calls 18750
+Juliocpl86: folds 
+*** TURN *** [Ts Th 3s] [Jh]
+TheDoken: bets 37500
+xtilted: calls 37500
+*** RIVER *** [Ts Th 3s Jh] [9s]
+TheDoken: checks 
+xtilted: bets 100000
+TheDoken: folds 
+Uncalled bet (100000) returned to xtilted
+xtilted collected 150000 from pot
+xtilted: doesn't show hand 
+*** SUMMARY ***
+Total pot 150000 | Rake 0 
+Board [Ts Th 3s Jh 9s]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: TheDoken (small blind) folded on the River
+Seat 5: xtilted (big blind) collected (150000)
+Seat 6: Juliocpl86 folded on the Flop
+
+
+
+PokerStars Hand #257905281196: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:31:17 CET [2025/09/27 7:31:17 ET]
+Table '3929511332 8' 6-max Seat #4 is the button
+Seat 1: tristiano3 (191675 in chips) 
+Seat 2: leocg22 (727665 in chips) 
+Seat 3: pipinoelbreve9 (213526 in chips) 
+Seat 4: TheDoken (95952 in chips) 
+Seat 5: xtilted (335793 in chips) 
+Seat 6: Juliocpl86 (192408 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+TheDoken: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+xtilted: posts small blind 5000
+Juliocpl86: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 8h]
+tristiano3: folds 
+leocg22: calls 10000
+pipinoelbreve9: folds 
+TheDoken: calls 10000
+xtilted: folds 
+Juliocpl86: checks 
+*** FLOP *** [5c 6h Qd]
+Juliocpl86: checks 
+leocg22: checks 
+TheDoken: checks 
+*** TURN *** [5c 6h Qd] [Qs]
+Juliocpl86: bets 20000
+leocg22: calls 20000
+TheDoken: folds 
+*** RIVER *** [5c 6h Qd Qs] [5d]
+Juliocpl86: checks 
+leocg22: bets 30000
+Juliocpl86: folds 
+Uncalled bet (30000) returned to leocg22
+leocg22 collected 82500 from pot
+*** SUMMARY ***
+Total pot 82500 | Rake 0 
+Board [5c 6h Qd Qs 5d]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 collected (82500)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken (button) folded on the Turn
+Seat 5: xtilted (small blind) folded before Flop
+Seat 6: Juliocpl86 (big blind) folded on the River
+
+
+
+PokerStars Hand #257905291536: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:32:53 CET [2025/09/27 7:32:53 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (190425 in chips) 
+Seat 2: leocg22 (778915 in chips) 
+Seat 3: pipinoelbreve9 (212276 in chips) 
+Seat 4: TheDoken (84702 in chips) 
+Seat 5: xtilted (329543 in chips) 
+Seat 6: Juliocpl86 (161158 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+TheDoken: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+Juliocpl86: posts small blind 5000
+tristiano3: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4c 7d]
+leocg22: calls 10000
+pipinoelbreve9: folds 
+TheDoken: folds 
+xtilted: folds 
+Juliocpl86: folds 
+tristiano3: checks 
+*** FLOP *** [Ts 8h 7s]
+tristiano3: checks 
+leocg22: bets 10000
+tristiano3: calls 10000
+*** TURN *** [Ts 8h 7s] [Qd]
+tristiano3: checks 
+leocg22: bets 20000
+tristiano3: folds 
+Uncalled bet (20000) returned to leocg22
+leocg22 collected 52500 from pot
+*** SUMMARY ***
+Total pot 52500 | Rake 0 
+Board [Ts 8h 7s Qd]
+Seat 1: tristiano3 (big blind) folded on the Turn
+Seat 2: leocg22 collected (52500)
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 4: TheDoken folded before Flop (didn't bet)
+Seat 5: xtilted (button) folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905295504: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:33:30 CET [2025/09/27 7:33:30 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (169175 in chips) 
+Seat 2: leocg22 (810165 in chips) 
+Seat 3: pipinoelbreve9 (211026 in chips) 
+Seat 4: TheDoken (83452 in chips) 
+Seat 5: xtilted (328293 in chips) 
+Seat 6: Juliocpl86 (154908 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+TheDoken: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+tristiano3: posts small blind 5000
+leocg22: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d Ac]
+pipinoelbreve9: raises 20000 to 30000
+TheDoken: raises 52202 to 82202 and is all-in
+xtilted: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: folds 
+pipinoelbreve9: calls 52202
+*** FLOP *** [Th 9c 2h]
+*** TURN *** [Th 9c 2h] [5s]
+*** RIVER *** [Th 9c 2h 5s] [5d]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [7d Ac] (a pair of Fives)
+TheDoken: shows [Js Qc] (a pair of Fives - lower kicker)
+pipinoelbreve9 collected 186904 from pot
+TheDoken finished the tournament in 42nd place and received €1.57.
+*** SUMMARY ***
+Total pot 186904 | Rake 0 
+Board [Th 9c 2h 5s 5d]
+Seat 1: tristiano3 (small blind) folded before Flop
+Seat 2: leocg22 (big blind) folded before Flop
+Seat 3: pipinoelbreve9 showed [7d Ac] and won (186904) with a pair of Fives
+Seat 4: TheDoken showed [Js Qc] and lost with a pair of Fives
+Seat 5: xtilted folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905298633: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:33:59 CET [2025/09/27 7:33:59 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (162925 in chips) 
+Seat 2: leocg22 (798915 in chips) 
+Seat 3: pipinoelbreve9 (314478 in chips) 
+Seat 5: xtilted (327043 in chips) 
+Seat 6: Juliocpl86 (153658 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+leocg22: posts small blind 5000
+pipinoelbreve9: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8h 7s]
+xtilted: folds 
+Juliocpl86: raises 20000 to 30000
+tristiano3: folds 
+leocg22: folds 
+pipinoelbreve9: folds 
+Uncalled bet (20000) returned to Juliocpl86
+Juliocpl86 collected 31250 from pot
+*** SUMMARY ***
+Total pot 31250 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: leocg22 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 5: xtilted folded before Flop (didn't bet)
+Seat 6: Juliocpl86 collected (31250)
+
+
+
+PokerStars Hand #257905300889: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:34:20 CET [2025/09/27 7:34:20 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (161675 in chips) 
+Seat 2: leocg22 (792665 in chips) 
+Seat 3: pipinoelbreve9 (303228 in chips) 
+Seat 5: xtilted (325793 in chips) 
+Seat 6: Juliocpl86 (173658 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+pipinoelbreve9: posts small blind 5000
+xtilted: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 2s]
+Juliocpl86: folds 
+tristiano3: raises 10000 to 20000
+leocg22: folds 
+pipinoelbreve9: folds 
+xtilted: folds 
+Uncalled bet (10000) returned to tristiano3
+tristiano3 collected 31250 from pot
+*** SUMMARY ***
+Total pot 31250 | Rake 0 
+Seat 1: tristiano3 collected (31250)
+Seat 2: leocg22 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 5: xtilted (big blind) folded before Flop
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905302566: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:34:36 CET [2025/09/27 7:34:36 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (181675 in chips) 
+Seat 2: leocg22 (791415 in chips) 
+Seat 3: pipinoelbreve9 (296978 in chips) 
+Seat 5: xtilted (314543 in chips) 
+Seat 6: Juliocpl86 (172408 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+xtilted: posts small blind 5000
+Juliocpl86: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd Ah]
+tristiano3: folds 
+leocg22: folds 
+pipinoelbreve9: raises 20000 to 30000
+xtilted: folds 
+Juliocpl86: folds 
+Uncalled bet (20000) returned to pipinoelbreve9
+pipinoelbreve9 collected 31250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 31250 | Rake 0 
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) collected (31250)
+Seat 5: xtilted (small blind) folded before Flop
+Seat 6: Juliocpl86 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257905304481: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:34:54 CET [2025/09/27 7:34:54 ET]
+Table '3929511332 8' 6-max Seat #5 is the button
+Seat 1: tristiano3 (180425 in chips) 
+Seat 2: leocg22 (790165 in chips) 
+Seat 3: pipinoelbreve9 (316978 in chips) 
+Seat 5: xtilted (308293 in chips) 
+Seat 6: Juliocpl86 (161158 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+xtilted: posts the ante 1250
+Juliocpl86: posts the ante 1250
+Juliocpl86: posts small blind 5000
+tristiano3: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Td 3h]
+leocg22: calls 10000
+pipinoelbreve9: folds 
+xtilted: raises 45000 to 55000
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: calls 45000
+*** FLOP *** [Js 7d 8d]
+leocg22: checks 
+xtilted: bets 85313
+leocg22: raises 85313 to 170626
+xtilted: raises 81417 to 252043 and is all-in
+leocg22: calls 81417
+*** TURN *** [Js 7d 8d] [Kh]
+*** RIVER *** [Js 7d 8d Kh] [Jc]
+*** SHOW DOWN ***
+leocg22: shows [9s Th] (a straight, Seven to Jack)
+xtilted: shows [Kd Ad] (two pair, Kings and Jacks)
+leocg22 collected 635336 from pot
+xtilted finished the tournament in 39th place and received €1.57.
+*** SUMMARY ***
+Total pot 635336 | Rake 0 
+Board [Js 7d 8d Kh Jc]
+Seat 1: tristiano3 (big blind) folded before Flop
+Seat 2: leocg22 showed [9s Th] and won (635336) with a straight, Seven to Jack
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 5: xtilted (button) showed [Kd Ad] and lost with two pair, Kings and Jacks
+Seat 6: Juliocpl86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257905311597: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:36:01 CET [2025/09/27 7:36:01 ET]
+Table '3929511332 8' 6-max Seat #6 is the button
+Seat 1: tristiano3 (169175 in chips) 
+Seat 2: leocg22 (1117208 in chips) 
+Seat 3: pipinoelbreve9 (315728 in chips) 
+Seat 6: Juliocpl86 (154908 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+Juliocpl86: posts the ante 1250
+tristiano3: posts small blind 5000
+leocg22: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kc 5s]
+pipinoelbreve9: folds 
+Juliocpl86: folds 
+marco18190 is disconnected 
+tristiano3: calls 5000
+leocg22: checks 
+*** FLOP *** [Ks 8c 2h]
+tristiano3: checks 
+leocg22: bets 10000
+tristiano3: calls 10000
+*** TURN *** [Ks 8c 2h] [9d]
+tristiano3: checks 
+leocg22: bets 20000
+tristiano3: calls 20000
+*** RIVER *** [Ks 8c 2h 9d] [7c]
+tristiano3: checks 
+leocg22: checks 
+*** SHOW DOWN ***
+tristiano3: shows [5d 8d] (a pair of Eights)
+leocg22: mucks hand 
+tristiano3 collected 85000 from pot
+*** SUMMARY ***
+Total pot 85000 | Rake 0 
+Board [Ks 8c 2h 9d 7c]
+Seat 1: tristiano3 (small blind) showed [5d 8d] and won (85000) with a pair of Eights
+Seat 2: leocg22 (big blind) mucked [Ad 3c]
+Seat 3: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Juliocpl86 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905315668: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:36:38 CET [2025/09/27 7:36:38 ET]
+Table '3929511332 8' 6-max Seat #1 is the button
+Seat 1: tristiano3 (212925 in chips) 
+Seat 2: leocg22 (1075958 in chips) 
+Seat 3: pipinoelbreve9 (314478 in chips) 
+Seat 4: marco18190 (592125 in chips) 
+Seat 6: Juliocpl86 (153658 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+marco18190: posts the ante 1250
+Juliocpl86: posts the ante 1250
+leocg22: posts small blind 5000
+pipinoelbreve9: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 6d]
+marco18190: folds 
+Juliocpl86: folds 
+tristiano3: folds 
+leocg22: folds 
+Uncalled bet (5000) returned to pipinoelbreve9
+pipinoelbreve9 collected 16250 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 16250 | Rake 0 
+Seat 1: tristiano3 (button) folded before Flop (didn't bet)
+Seat 2: leocg22 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (16250)
+Seat 4: marco18190 folded before Flop (didn't bet)
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905317335: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXI (5000/10000) - 2025/09/27 13:36:54 CET [2025/09/27 7:36:54 ET]
+Table '3929511332 8' 6-max Seat #2 is the button
+Seat 1: tristiano3 (211675 in chips) 
+Seat 2: leocg22 (1069708 in chips) 
+Seat 3: pipinoelbreve9 (324478 in chips) 
+Seat 4: marco18190 (590875 in chips) 
+Seat 6: Juliocpl86 (152408 in chips) 
+tristiano3: posts the ante 1250
+leocg22: posts the ante 1250
+pipinoelbreve9: posts the ante 1250
+marco18190: posts the ante 1250
+Juliocpl86: posts the ante 1250
+pipinoelbreve9: posts small blind 5000
+marco18190: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 7d]
+Juliocpl86: calls 10000
+tristiano3: folds 
+leocg22: calls 10000
+pipinoelbreve9: folds 
+marco18190: checks 
+*** FLOP *** [6c 6h 3c]
+marco18190: checks 
+Juliocpl86: checks 
+leocg22: checks 
+*** TURN *** [6c 6h 3c] [Ah]
+marco18190: checks 
+Juliocpl86: checks 
+leocg22: checks 
+*** RIVER *** [6c 6h 3c Ah] [6d]
+marco18190: checks 
+Juliocpl86: checks 
+leocg22: checks 
+*** SHOW DOWN ***
+marco18190: shows [Qc Ks] (three of a kind, Sixes)
+Juliocpl86: mucks hand 
+leocg22: shows [9h Kc] (three of a kind, Sixes)
+marco18190 collected 20625 from pot
+leocg22 collected 20625 from pot
+*** SUMMARY ***
+Total pot 41250 | Rake 0 
+Board [6c 6h 3c Ah 6d]
+Seat 1: tristiano3 folded before Flop (didn't bet)
+Seat 2: leocg22 (button) showed [9h Kc] and won (20625) with three of a kind, Sixes
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+Seat 4: marco18190 (big blind) showed [Qc Ks] and won (20625) with three of a kind, Sixes
+Seat 6: Juliocpl86 mucked [Qh Jd]
+
+
+
+PokerStars Hand #257905321019: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:37:27 CET [2025/09/27 7:37:27 ET]
+Table '3929511332 8' 6-max Seat #3 is the button
+Seat 1: tristiano3 (210425 in chips) 
+Seat 2: leocg22 (1079083 in chips) 
+Seat 3: pipinoelbreve9 (318228 in chips) 
+Seat 4: marco18190 (600250 in chips) 
+Seat 5: ninja7342 (668952 in chips) 
+Seat 6: Juliocpl86 (141158 in chips) 
+tristiano3: posts the ante 1500
+leocg22: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+marco18190: posts the ante 1500
+ninja7342: posts the ante 1500
+Juliocpl86: posts the ante 1500
+marco18190: posts small blind 6000
+ninja7342: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2s Qc]
+Juliocpl86: folds 
+tristiano3: calls 12000
+leocg22: folds 
+pipinoelbreve9: folds 
+marco18190: calls 6000
+ninja7342: checks 
+*** FLOP *** [6c Th 6h]
+marco18190: checks 
+ninja7342: checks 
+tristiano3: checks 
+*** TURN *** [6c Th 6h] [Ah]
+marco18190: checks 
+ninja7342: checks 
+tristiano3: checks 
+*** RIVER *** [6c Th 6h Ah] [Kc]
+marco18190: checks 
+ninja7342: checks 
+tristiano3: checks 
+*** SHOW DOWN ***
+marco18190: shows [2h Ac] (two pair, Aces and Sixes)
+ninja7342: mucks hand 
+tristiano3: mucks hand 
+marco18190 collected 45000 from pot
+*** SUMMARY ***
+Total pot 45000 | Rake 0 
+Board [6c Th 6h Ah Kc]
+Seat 1: tristiano3 mucked [4d 3d]
+Seat 2: leocg22 folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 4: marco18190 (small blind) showed [2h Ac] and won (45000) with two pair, Aces and Sixes
+Seat 5: ninja7342 (big blind) mucked [2c 4c]
+Seat 6: Juliocpl86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905332207: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:39:12 CET [2025/09/27 7:39:12 ET]
+Table '3929511332 19' 6-max Seat #3 is the button
+Seat 1: DEGhoto48 (662717 in chips) 
+Seat 2: pipinoelbreve9 (316728 in chips) 
+Seat 3: RoyWose (826272 in chips) 
+Seat 4: vincepicus29 (447369 in chips) 
+Seat 6: Fendetestas76 (972238 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+vincepicus29: posts small blind 6000
+Fendetestas76: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Jd]
+DEGhoto48: folds 
+pipinoelbreve9: raises 24000 to 36000
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: calls 24000
+*** FLOP *** [2d Ad Kh]
+Fendetestas76: checks 
+pipinoelbreve9: bets 42750
+Fendetestas76: folds 
+Uncalled bet (42750) returned to pipinoelbreve9
+pipinoelbreve9 collected 85500 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 85500 | Rake 0 
+Board [2d Ad Kh]
+Seat 1: DEGhoto48 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 collected (85500)
+Seat 3: RoyWose (button) folded before Flop (didn't bet)
+Seat 4: vincepicus29 (small blind) folded before Flop
+Seat 6: Fendetestas76 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257905335468: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:39:40 CET [2025/09/27 7:39:40 ET]
+Table '3929511332 19' 6-max Seat #4 is the button
+Seat 1: DEGhoto48 (661217 in chips) 
+Seat 2: pipinoelbreve9 (364728 in chips) 
+Seat 3: RoyWose (824772 in chips) 
+Seat 4: vincepicus29 (439869 in chips) 
+Seat 6: Fendetestas76 (934738 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+Fendetestas76: posts small blind 6000
+DEGhoto48: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Js]
+pipinoelbreve9: folds 
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: raises 12000 to 24000
+DEGhoto48: calls 12000
+*** FLOP *** [Th Kh 9s]
+Fendetestas76: bets 12000
+DEGhoto48: folds 
+Uncalled bet (12000) returned to Fendetestas76
+Fendetestas76 collected 55500 from pot
+*** SUMMARY ***
+Total pot 55500 | Rake 0 
+Board [Th Kh 9s]
+Seat 1: DEGhoto48 (big blind) folded on the Flop
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: RoyWose folded before Flop (didn't bet)
+Seat 4: vincepicus29 (button) folded before Flop (didn't bet)
+Seat 6: Fendetestas76 (small blind) collected (55500)
+
+
+
+PokerStars Hand #257905340467: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:40:27 CET [2025/09/27 7:40:27 ET]
+Table '3929511332 19' 6-max Seat #6 is the button
+Seat 1: DEGhoto48 (635717 in chips) 
+Seat 2: pipinoelbreve9 (363228 in chips) 
+Seat 3: RoyWose (823272 in chips) 
+Seat 4: vincepicus29 (438369 in chips) 
+Seat 6: Fendetestas76 (964738 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+DEGhoto48: posts small blind 6000
+pipinoelbreve9: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac 4s]
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: raises 12000 to 24000
+DEGhoto48: folds 
+pipinoelbreve9: calls 12000
+*** FLOP *** [2c 7s 8c]
+pipinoelbreve9: checks 
+Fendetestas76: bets 84000
+pipinoelbreve9: folds 
+Uncalled bet (84000) returned to Fendetestas76
+Fendetestas76 collected 61500 from pot
+*** SUMMARY ***
+Total pot 61500 | Rake 0 
+Board [2c 7s 8c]
+Seat 1: DEGhoto48 (small blind) folded before Flop
+Seat 2: pipinoelbreve9 (big blind) folded on the Flop
+Seat 3: RoyWose folded before Flop (didn't bet)
+Seat 4: vincepicus29 folded before Flop (didn't bet)
+Seat 6: Fendetestas76 (button) collected (61500)
+
+
+
+PokerStars Hand #257905343919: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:40:58 CET [2025/09/27 7:40:58 ET]
+Table '3929511332 19' 6-max Seat #1 is the button
+Seat 1: DEGhoto48 (628217 in chips) 
+Seat 2: pipinoelbreve9 (337728 in chips) 
+Seat 3: RoyWose (821772 in chips) 
+Seat 4: vincepicus29 (436869 in chips) 
+Seat 6: Fendetestas76 (1000738 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+pipinoelbreve9: posts small blind 6000
+RoyWose: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3s Ah]
+vincepicus29: folds 
+Fendetestas76: raises 12000 to 24000
+DEGhoto48: calls 24000
+pipinoelbreve9: folds 
+RoyWose: calls 12000
+*** FLOP *** [Qc Td Jh]
+RoyWose: checks 
+Fendetestas76: bets 24000
+DEGhoto48: calls 24000
+RoyWose: raises 51975 to 75975
+Fendetestas76: calls 51975
+DEGhoto48: folds 
+*** TURN *** [Qc Td Jh] [9s]
+RoyWose: bets 358186
+Fendetestas76: folds 
+Uncalled bet (358186) returned to RoyWose
+RoyWose collected 261450 from pot
+RoyWose: doesn't show hand 
+*** SUMMARY ***
+Total pot 261450 | Rake 0 
+Board [Qc Td Jh 9s]
+Seat 1: DEGhoto48 (button) folded on the Flop
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: RoyWose (big blind) collected (261450)
+Seat 4: vincepicus29 folded before Flop (didn't bet)
+Seat 6: Fendetestas76 folded on the Turn
+
+
+
+PokerStars Hand #257905351726: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:42:09 CET [2025/09/27 7:42:09 ET]
+Table '3929511332 19' 6-max Seat #2 is the button
+Seat 1: DEGhoto48 (578717 in chips) 
+Seat 2: pipinoelbreve9 (330228 in chips) 
+Seat 3: RoyWose (981747 in chips) 
+Seat 4: vincepicus29 (435369 in chips) 
+Seat 6: Fendetestas76 (899263 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+RoyWose: posts small blind 6000
+vincepicus29: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 7c]
+Fendetestas76: calls 12000
+DEGhoto48: folds 
+pipinoelbreve9: folds 
+RoyWose: raises 968247 to 980247 and is all-in
+vincepicus29: folds 
+Fendetestas76: folds 
+Uncalled bet (968247) returned to RoyWose
+RoyWose collected 43500 from pot
+RoyWose: doesn't show hand 
+*** SUMMARY ***
+Total pot 43500 | Rake 0 
+Seat 1: DEGhoto48 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 3: RoyWose (small blind) collected (43500)
+Seat 4: vincepicus29 (big blind) folded before Flop
+Seat 6: Fendetestas76 folded before Flop
+
+
+
+PokerStars Hand #257905353269: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:42:23 CET [2025/09/27 7:42:23 ET]
+Table '3929511332 19' 6-max Seat #3 is the button
+Seat 1: DEGhoto48 (577217 in chips) 
+Seat 2: pipinoelbreve9 (328728 in chips) 
+Seat 3: RoyWose (1011747 in chips) 
+Seat 4: vincepicus29 (421869 in chips) 
+Seat 6: Fendetestas76 (885763 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+vincepicus29: posts small blind 6000
+Fendetestas76: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3h Tc]
+DEGhoto48: folds 
+pipinoelbreve9: folds 
+RoyWose: calls 12000
+vincepicus29: calls 6000
+Fendetestas76: checks 
+*** FLOP *** [8h 9c Kc]
+vincepicus29: checks 
+Fendetestas76: checks 
+RoyWose: checks 
+*** TURN *** [8h 9c Kc] [6c]
+vincepicus29: checks 
+Fendetestas76: bets 12000
+RoyWose: calls 12000
+vincepicus29: folds 
+*** RIVER *** [8h 9c Kc 6c] [2c]
+Fendetestas76: bets 60000
+RoyWose: folds 
+Uncalled bet (60000) returned to Fendetestas76
+Fendetestas76 collected 67500 from pot
+*** SUMMARY ***
+Total pot 67500 | Rake 0 
+Board [8h 9c Kc 6c 2c]
+Seat 1: DEGhoto48 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: RoyWose (button) folded on the River
+Seat 4: vincepicus29 (small blind) folded on the Turn
+Seat 6: Fendetestas76 (big blind) collected (67500)
+
+
+
+PokerStars Hand #257905359634: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:43:22 CET [2025/09/27 7:43:22 ET]
+Table '3929511332 19' 6-max Seat #4 is the button
+Seat 1: DEGhoto48 (575717 in chips) 
+Seat 2: pipinoelbreve9 (327228 in chips) 
+Seat 3: RoyWose (986247 in chips) 
+Seat 4: vincepicus29 (408369 in chips) 
+Seat 6: Fendetestas76 (927763 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+Fendetestas76: posts small blind 6000
+DEGhoto48: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 7d]
+pipinoelbreve9: folds 
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: calls 6000
+DEGhoto48: checks 
+*** FLOP *** [3c 4h 3s]
+Fendetestas76: bets 12000
+DEGhoto48: calls 12000
+*** TURN *** [3c 4h 3s] [4c]
+Fendetestas76: bets 24000
+DEGhoto48: raises 526217 to 550217 and is all-in
+Fendetestas76: folds 
+Uncalled bet (526217) returned to DEGhoto48
+DEGhoto48 collected 103500 from pot
+*** SUMMARY ***
+Total pot 103500 | Rake 0 
+Board [3c 4h 3s 4c]
+Seat 1: DEGhoto48 (big blind) collected (103500)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: RoyWose folded before Flop (didn't bet)
+Seat 4: vincepicus29 (button) folded before Flop (didn't bet)
+Seat 6: Fendetestas76 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #257905363705: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:43:58 CET [2025/09/27 7:43:58 ET]
+Table '3929511332 19' 6-max Seat #6 is the button
+Seat 1: DEGhoto48 (629717 in chips) 
+Seat 2: pipinoelbreve9 (325728 in chips) 
+Seat 3: RoyWose (984747 in chips) 
+Seat 4: vincepicus29 (406869 in chips) 
+Seat 6: Fendetestas76 (878263 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+DEGhoto48: posts small blind 6000
+pipinoelbreve9: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h Jd]
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: folds 
+DEGhoto48: calls 6000
+pipinoelbreve9: checks 
+*** FLOP *** [9d Kc 5h]
+DEGhoto48: bets 31500
+pipinoelbreve9: raises 31500 to 63000
+DEGhoto48: calls 31500
+*** TURN *** [9d Kc 5h] [4h]
+DEGhoto48: checks 
+pipinoelbreve9: bets 78750
+DEGhoto48: calls 78750
+*** RIVER *** [9d Kc 5h 4h] [Ts]
+DEGhoto48: checks 
+pipinoelbreve9: checks 
+*** SHOW DOWN ***
+DEGhoto48: shows [Kd Jh] (a pair of Kings)
+pipinoelbreve9: mucks hand 
+DEGhoto48 collected 315000 from pot
+*** SUMMARY ***
+Total pot 315000 | Rake 0 
+Board [9d Kc 5h 4h Ts]
+Seat 1: DEGhoto48 (small blind) showed [Kd Jh] and won (315000) with a pair of Kings
+Seat 2: pipinoelbreve9 (big blind) mucked [9h Jd]
+Seat 3: RoyWose folded before Flop (didn't bet)
+Seat 4: vincepicus29 folded before Flop (didn't bet)
+Seat 6: Fendetestas76 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905367900: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:44:36 CET [2025/09/27 7:44:36 ET]
+Table '3929511332 19' 6-max Seat #1 is the button
+Seat 1: DEGhoto48 (789467 in chips) 
+Seat 2: pipinoelbreve9 (170478 in chips) 
+Seat 3: RoyWose (983247 in chips) 
+Seat 4: vincepicus29 (405369 in chips) 
+Seat 6: Fendetestas76 (876763 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+pipinoelbreve9: posts small blind 6000
+RoyWose: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [3c Jd]
+vincepicus29: folds 
+Fendetestas76: folds 
+DEGhoto48: folds 
+pipinoelbreve9: folds 
+Uncalled bet (6000) returned to RoyWose
+RoyWose collected 19500 from pot
+RoyWose: doesn't show hand 
+*** SUMMARY ***
+Total pot 19500 | Rake 0 
+Seat 1: DEGhoto48 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: RoyWose (big blind) collected (19500)
+Seat 4: vincepicus29 folded before Flop (didn't bet)
+Seat 6: Fendetestas76 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257905370027: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:44:55 CET [2025/09/27 7:44:55 ET]
+Table '3929511332 19' 6-max Seat #2 is the button
+Seat 1: DEGhoto48 (787967 in chips) 
+Seat 2: pipinoelbreve9 (162978 in chips) 
+Seat 3: RoyWose (995247 in chips) 
+Seat 4: vincepicus29 (403869 in chips) 
+Seat 6: Fendetestas76 (875263 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+RoyWose: posts small blind 6000
+vincepicus29: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 9c]
+Fendetestas76: calls 12000
+DEGhoto48: folds 
+pipinoelbreve9: raises 149478 to 161478 and is all-in
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: folds 
+Uncalled bet (149478) returned to pipinoelbreve9
+pipinoelbreve9 collected 49500 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 49500 | Rake 0 
+Seat 1: DEGhoto48 folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (button) collected (49500)
+Seat 3: RoyWose (small blind) folded before Flop
+Seat 4: vincepicus29 (big blind) folded before Flop
+Seat 6: Fendetestas76 folded before Flop
+
+
+
+PokerStars Hand #257905372126: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXII (6000/12000) - 2025/09/27 13:45:13 CET [2025/09/27 7:45:13 ET]
+Table '3929511332 19' 6-max Seat #3 is the button
+Seat 1: DEGhoto48 (786467 in chips) 
+Seat 2: pipinoelbreve9 (198978 in chips) 
+Seat 3: RoyWose (987747 in chips) 
+Seat 4: vincepicus29 (390369 in chips) 
+Seat 6: Fendetestas76 (861763 in chips) 
+DEGhoto48: posts the ante 1500
+pipinoelbreve9: posts the ante 1500
+RoyWose: posts the ante 1500
+vincepicus29: posts the ante 1500
+Fendetestas76: posts the ante 1500
+vincepicus29: posts small blind 6000
+Fendetestas76: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7c 5h]
+DEGhoto48: calls 12000
+pipinoelbreve9: folds 
+RoyWose: folds 
+vincepicus29: calls 6000
+Fendetestas76: checks 
+*** FLOP *** [8s 3d Ad]
+vincepicus29: checks 
+Fendetestas76: checks 
+DEGhoto48: bets 43500
+vincepicus29: folds 
+Fendetestas76: folds 
+Uncalled bet (43500) returned to DEGhoto48
+DEGhoto48 collected 43500 from pot
+*** SUMMARY ***
+Total pot 43500 | Rake 0 
+Board [8s 3d Ad]
+Seat 1: DEGhoto48 collected (43500)
+Seat 2: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 3: RoyWose (button) folded before Flop (didn't bet)
+Seat 4: vincepicus29 (small blind) folded on the Flop
+Seat 6: Fendetestas76 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #257905374896: Tournament #3929511332, €0.90+€0.10 EUR Hold'em No Limit - Level XXIII (7000/14000) - 2025/09/27 13:45:38 CET [2025/09/27 7:45:38 ET]
+Table '3929511332 19' 6-max Seat #4 is the button
+Seat 1: DEGhoto48 (816467 in chips) 
+Seat 2: pipinoelbreve9 (197478 in chips) 
+Seat 3: RoyWose (986247 in chips) 
+Seat 4: vincepicus29 (376869 in chips) 
+Seat 6: Fendetestas76 (848263 in chips) 
+DEGhoto48: posts the ante 1750
+pipinoelbreve9: posts the ante 1750
+RoyWose: posts the ante 1750
+vincepicus29: posts the ante 1750
+Fendetestas76: posts the ante 1750
+Fendetestas76: posts small blind 7000
+DEGhoto48: posts big blind 14000
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Js 9s]
+pipinoelbreve9: raises 28000 to 42000
+RoyWose: folds 
+vincepicus29: folds 
+Fendetestas76: calls 35000
+DEGhoto48: folds 
+*** FLOP *** [Kh 8c Qc]
+Fendetestas76: bets 14000
+pipinoelbreve9: raises 139728 to 153728 and is all-in
+Fendetestas76: calls 139728
+*** TURN *** [Kh 8c Qc] [7s]
+*** RIVER *** [Kh 8c Qc 7s] [5h]
+*** SHOW DOWN ***
+Fendetestas76: shows [6h Ac] (high card Ace)
+pipinoelbreve9: shows [Js 9s] (high card King)
+Fendetestas76 collected 414206 from pot
+pipinoelbreve9 finished the tournament in 31st place and received €2.41.
+*** SUMMARY ***
+Total pot 414206 | Rake 0 
+Board [Kh 8c Qc 7s 5h]
+Seat 1: DEGhoto48 (big blind) folded before Flop
+Seat 2: pipinoelbreve9 showed [Js 9s] and lost with high card King
+Seat 3: RoyWose folded before Flop (didn't bet)
+Seat 4: vincepicus29 (button) folded before Flop (didn't bet)
+Seat 6: Fendetestas76 (small blind) showed [6h Ac] and won (414206) with high card Ace
+
+
+

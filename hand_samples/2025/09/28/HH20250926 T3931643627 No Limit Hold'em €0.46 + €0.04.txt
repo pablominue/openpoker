@@ -1,0 +1,237 @@
+﻿PokerStars Hand #257895360404: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:11:48 CET [2025/09/26 12:11:48 ET]
+Table '3931643627 1' 3-max Seat #1 is the button
+Seat 1: lexadu44 (500 in chips) 
+Seat 2: Chaisedejardin1 (500 in chips) 
+Seat 3: pipinoelbreve9 (500 in chips) 
+Chaisedejardin1: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ah 8d]
+lexadu44: calls 20
+Chaisedejardin1: raises 480 to 500 and is all-in
+pipinoelbreve9: folds 
+lexadu44: folds 
+Uncalled bet (480) returned to Chaisedejardin1
+Chaisedejardin1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lexadu44 (button) folded before Flop
+Seat 2: Chaisedejardin1 (small blind) collected (60)
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257895363378: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:12:05 CET [2025/09/26 12:12:05 ET]
+Table '3931643627 1' 3-max Seat #2 is the button
+Seat 1: lexadu44 (480 in chips) 
+Seat 2: Chaisedejardin1 (540 in chips) 
+Seat 3: pipinoelbreve9 (480 in chips) 
+pipinoelbreve9: posts small blind 10
+lexadu44: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 6c]
+Chaisedejardin1: raises 520 to 540 and is all-in
+pipinoelbreve9: folds 
+lexadu44: folds 
+Uncalled bet (520) returned to Chaisedejardin1
+Chaisedejardin1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: lexadu44 (big blind) folded before Flop
+Seat 2: Chaisedejardin1 (button) collected (50)
+Seat 3: pipinoelbreve9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #257895364999: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:12:15 CET [2025/09/26 12:12:15 ET]
+Table '3931643627 1' 3-max Seat #3 is the button
+Seat 1: lexadu44 (460 in chips) 
+Seat 2: Chaisedejardin1 (570 in chips) 
+Seat 3: pipinoelbreve9 (470 in chips) 
+lexadu44: posts small blind 10
+Chaisedejardin1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7h 4s]
+pipinoelbreve9: folds 
+lexadu44: folds 
+Uncalled bet (10) returned to Chaisedejardin1
+Chaisedejardin1 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: lexadu44 (small blind) folded before Flop
+Seat 2: Chaisedejardin1 (big blind) collected (20)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257895367086: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:12:27 CET [2025/09/26 12:12:27 ET]
+Table '3931643627 1' 3-max Seat #1 is the button
+Seat 1: lexadu44 (450 in chips) 
+Seat 2: Chaisedejardin1 (580 in chips) 
+Seat 3: pipinoelbreve9 (470 in chips) 
+Chaisedejardin1: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ac Jh]
+lexadu44: folds 
+Chaisedejardin1: raises 560 to 580 and is all-in
+pipinoelbreve9: calls 450 and is all-in
+Uncalled bet (110) returned to Chaisedejardin1
+*** FLOP *** [5c 2h Kh]
+*** TURN *** [5c 2h Kh] [7c]
+*** RIVER *** [5c 2h Kh 7c] [6h]
+*** SHOW DOWN ***
+Chaisedejardin1: shows [9d Jc] (high card King)
+pipinoelbreve9: shows [Ac Jh] (high card Ace)
+pipinoelbreve9 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [5c 2h Kh 7c 6h]
+Seat 1: lexadu44 (button) folded before Flop (didn't bet)
+Seat 2: Chaisedejardin1 (small blind) showed [9d Jc] and lost with high card King
+Seat 3: pipinoelbreve9 (big blind) showed [Ac Jh] and won (940) with high card Ace
+
+
+
+PokerStars Hand #257895370002: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:12:44 CET [2025/09/26 12:12:44 ET]
+Table '3931643627 1' 3-max Seat #2 is the button
+Seat 1: lexadu44 (450 in chips) 
+Seat 2: Chaisedejardin1 (110 in chips) 
+Seat 3: pipinoelbreve9 (940 in chips) 
+pipinoelbreve9: posts small blind 10
+lexadu44: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [7d 3d]
+Chaisedejardin1 has timed out
+Chaisedejardin1: folds 
+Chaisedejardin1 is sitting out
+pipinoelbreve9: raises 40 to 60
+Chaisedejardin1 has returned
+lexadu44: calls 40
+*** FLOP *** [5c 2h Td]
+pipinoelbreve9: checks 
+lexadu44: checks 
+*** TURN *** [5c 2h Td] [2s]
+pipinoelbreve9: bets 60
+lexadu44: folds 
+Uncalled bet (60) returned to pipinoelbreve9
+pipinoelbreve9 collected 120 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 2h Td 2s]
+Seat 1: lexadu44 (big blind) folded on the Turn
+Seat 2: Chaisedejardin1 (button) folded before Flop (didn't bet)
+Seat 3: pipinoelbreve9 (small blind) collected (120)
+
+
+
+PokerStars Hand #257895377129: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:13:25 CET [2025/09/26 12:13:25 ET]
+Table '3931643627 1' 3-max Seat #3 is the button
+Seat 1: lexadu44 (390 in chips) 
+Seat 2: Chaisedejardin1 (110 in chips) 
+Seat 3: pipinoelbreve9 (1000 in chips) 
+lexadu44: posts small blind 10
+Chaisedejardin1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c 8s]
+pipinoelbreve9: folds 
+lexadu44: calls 10
+Chaisedejardin1: raises 90 to 110 and is all-in
+lexadu44: folds 
+Uncalled bet (90) returned to Chaisedejardin1
+Chaisedejardin1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lexadu44 (small blind) folded before Flop
+Seat 2: Chaisedejardin1 (big blind) collected (40)
+Seat 3: pipinoelbreve9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #257895379600: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2025/09/26 18:13:39 CET [2025/09/26 12:13:39 ET]
+Table '3931643627 1' 3-max Seat #1 is the button
+Seat 1: lexadu44 (370 in chips) 
+Seat 2: Chaisedejardin1 (130 in chips) 
+Seat 3: pipinoelbreve9 (1000 in chips) 
+Chaisedejardin1: posts small blind 10
+pipinoelbreve9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9h 6d]
+lexadu44: calls 20
+Chaisedejardin1: raises 110 to 130 and is all-in
+pipinoelbreve9: folds 
+lexadu44: calls 110
+*** FLOP *** [5c Jc Tc]
+*** TURN *** [5c Jc Tc] [3s]
+*** RIVER *** [5c Jc Tc 3s] [9d]
+*** SHOW DOWN ***
+Chaisedejardin1: shows [Ks 8s] (high card King)
+lexadu44: shows [Qd Ah] (high card Ace)
+lexadu44 collected 280 from pot
+Chaisedejardin1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [5c Jc Tc 3s 9d]
+Seat 1: lexadu44 (button) showed [Qd Ah] and won (280) with high card Ace
+Seat 2: Chaisedejardin1 (small blind) showed [Ks 8s] and lost with high card King
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #257895383939: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 18:14:04 CET [2025/09/26 12:14:04 ET]
+Table '3931643627 1' 3-max Seat #3 is the button
+Seat 1: lexadu44 (520 in chips) 
+Seat 3: pipinoelbreve9 (980 in chips) 
+pipinoelbreve9: posts small blind 15
+lexadu44: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2h 2d]
+pipinoelbreve9: raises 60 to 90
+lexadu44: calls 60
+*** FLOP *** [Jh Qc Ad]
+lexadu44: checks 
+pipinoelbreve9: bets 150
+lexadu44: raises 280 to 430 and is all-in
+pipinoelbreve9: folds 
+Uncalled bet (280) returned to lexadu44
+lexadu44 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Jh Qc Ad]
+Seat 1: lexadu44 (big blind) collected (480)
+Seat 3: pipinoelbreve9 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #257895388427: Tournament #3931643627, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2025/09/26 18:14:30 CET [2025/09/26 12:14:30 ET]
+Table '3931643627 1' 3-max Seat #1 is the button
+Seat 1: lexadu44 (760 in chips) 
+Seat 3: pipinoelbreve9 (740 in chips) 
+lexadu44: posts small blind 15
+pipinoelbreve9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [9c Kc]
+lexadu44: calls 15
+pipinoelbreve9: raises 90 to 120
+lexadu44: raises 640 to 760 and is all-in
+pipinoelbreve9: calls 620 and is all-in
+Uncalled bet (20) returned to lexadu44
+*** FLOP *** [4d Th 8h]
+*** TURN *** [4d Th 8h] [8d]
+*** RIVER *** [4d Th 8h 8d] [Qc]
+*** SHOW DOWN ***
+pipinoelbreve9: shows [9c Kc] (a pair of Eights)
+lexadu44: shows [Ad Kh] (a pair of Eights - Ace kicker)
+lexadu44 collected 1480 from pot
+pipinoelbreve9 finished the tournament in 2nd place
+lexadu44 wins the tournament - congratulations!
+lexadu44 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [4d Th 8h 8d Qc]
+Seat 1: lexadu44 (button) (small blind) showed [Ad Kh] and won (1480) with a pair of Eights
+Seat 3: pipinoelbreve9 (big blind) showed [9c Kc] and lost with a pair of Eights
+
+
+

@@ -1,0 +1,559 @@
+﻿PokerStars Zoom Hand #257504324529:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:08:32 CET [2025/08/27 8:08:32 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: burgoa89 (€2.04 in chips) 
+Seat 2: Utusuchaz (€2.16 in chips) 
+Seat 3: pipinoelbreve9 (€2.09 in chips) 
+Seat 4: drunkens (€2.16 in chips) 
+Seat 5: guitimsa (€2.28 in chips) 
+Seat 6: tostakyn (€1 in chips) 
+Utusuchaz: posts small blind €0.01
+pipinoelbreve9: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ts 3h]
+drunkens: folds 
+guitimsa: folds 
+tostakyn: folds 
+burgoa89: raises €0.04 to €0.06
+Utusuchaz: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.04) returned to burgoa89
+burgoa89 collected €0.05 from pot
+burgoa89: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: burgoa89 (button) collected (€0.05)
+Seat 2: Utusuchaz (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: drunkens folded before Flop (didn't bet)
+Seat 5: guitimsa folded before Flop (didn't bet)
+Seat 6: tostakyn folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504325763:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:08:42 CET [2025/08/27 8:08:42 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: sintemblar (€2.54 in chips) 
+Seat 2: Gortrak (€1.74 in chips) 
+Seat 3: drunkens (€2.21 in chips) 
+Seat 4: tostakyn (€1.10 in chips) 
+Seat 5: Grilo9 (€2 in chips) 
+Seat 6: pipinoelbreve9 (€2.07 in chips) 
+Gortrak: posts small blind €0.01
+drunkens: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [As Ad]
+tostakyn: folds 
+Grilo9: folds 
+pipinoelbreve9: raises €0.04 to €0.06
+sintemblar: folds 
+Gortrak: folds 
+drunkens: folds 
+Uncalled bet (€0.04) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.05 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: sintemblar (button) folded before Flop (didn't bet)
+Seat 2: Gortrak (small blind) folded before Flop
+Seat 3: drunkens (big blind) folded before Flop
+Seat 4: tostakyn folded before Flop (didn't bet)
+Seat 5: Grilo9 folded before Flop (didn't bet)
+Seat 6: pipinoelbreve9 collected (€0.05)
+
+
+
+PokerStars Zoom Hand #257504327361:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:08:55 CET [2025/08/27 8:08:55 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: rejo1965 (€1.18 in chips) 
+Seat 2: pipinoelbreve9 (€2.10 in chips) 
+Seat 3: thenry03 (€2.42 in chips) 
+Seat 4: Gortrak (€1.73 in chips) 
+Seat 5: Grilo9 (€2 in chips) 
+Seat 6: ledecrypteur (€2.91 in chips) 
+pipinoelbreve9: posts small blind €0.01
+thenry03: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [2c Ah]
+Gortrak: raises €0.03 to €0.05
+Grilo9: folds 
+ledecrypteur: folds 
+rejo1965: folds 
+pipinoelbreve9: folds 
+thenry03: folds 
+Uncalled bet (€0.03) returned to Gortrak
+Gortrak collected €0.05 from pot
+Gortrak: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: rejo1965 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: thenry03 (big blind) folded before Flop
+Seat 4: Gortrak collected (€0.05)
+Seat 5: Grilo9 folded before Flop (didn't bet)
+Seat 6: ledecrypteur folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504328546:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:09:05 CET [2025/08/27 8:09:05 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: guitimsa (€2.27 in chips) 
+Seat 2: tostakyn (€1.08 in chips) 
+Seat 3: criissttiian2 (€1.85 in chips) 
+Seat 4: Grilo9 (€2 in chips) 
+Seat 5: pipinoelbreve9 (€2.09 in chips) 
+Seat 6: Asci00 (€2 in chips) 
+tostakyn: posts small blind €0.01
+criissttiian2: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6h Ks]
+Grilo9: folds 
+pipinoelbreve9: folds 
+Asci00: raises €0.02 to €0.04
+guitimsa: folds 
+tostakyn: folds 
+criissttiian2: calls €0.02
+*** FLOP *** [9s Jc 3s]
+criissttiian2: checks 
+Asci00: bets €0.05
+criissttiian2: calls €0.05
+*** TURN *** [9s Jc 3s] [8h]
+criissttiian2: checks 
+Asci00: checks 
+*** RIVER *** [9s Jc 3s 8h] [4s]
+criissttiian2: checks 
+Asci00: bets €0.09
+criissttiian2: folds 
+Uncalled bet (€0.09) returned to Asci00
+Asci00 collected €0.18 from pot
+Asci00: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.19 | Rake €0.01 
+Board [9s Jc 3s 8h 4s]
+Seat 1: guitimsa (button) folded before Flop (didn't bet)
+Seat 2: tostakyn (small blind) folded before Flop
+Seat 3: criissttiian2 (big blind) folded on the River
+Seat 4: Grilo9 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: Asci00 collected (€0.18)
+
+
+
+PokerStars Zoom Hand #257504329418:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:09:12 CET [2025/08/27 8:09:12 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: tostakyn (€1.07 in chips) 
+Seat 2: pereiramario (€1.05 in chips) 
+Seat 3: 13ROS13 (€2.56 in chips) 
+Seat 4: pipinoelbreve9 (€2.09 in chips) 
+Seat 5: kombei63 (€3.07 in chips) 
+Seat 6: sintemblar (€2.47 in chips) 
+pereiramario: posts small blind €0.01
+13ROS13: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Ks 8s]
+pipinoelbreve9: raises €0.04 to €0.06
+kombei63: raises €0.18 to €0.24
+sintemblar: folds 
+tostakyn: folds 
+pereiramario: calls €0.23
+13ROS13: folds 
+pipinoelbreve9: folds 
+*** FLOP *** [4s 9d 8d]
+pereiramario: checks 
+kombei63: bets €0.40
+pereiramario: folds 
+Uncalled bet (€0.40) returned to kombei63
+kombei63 collected €0.53 from pot
+kombei63: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.56 | Rake €0.03 
+Board [4s 9d 8d]
+Seat 1: tostakyn (button) folded before Flop (didn't bet)
+Seat 2: pereiramario (small blind) folded on the Flop
+Seat 3: 13ROS13 (big blind) folded before Flop
+Seat 4: pipinoelbreve9 folded before Flop
+Seat 5: kombei63 collected (€0.53)
+Seat 6: sintemblar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504330813:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 14:09:24 CET [2025/08/27 8:09:24 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€2.03 in chips) 
+Seat 2: burgoa89 (€2.04 in chips) 
+Seat 3: rejo1965 (€1.18 in chips) 
+Seat 4: JR.EWING433 (€2.86 in chips) 
+Seat 5: Ab5tract10n (€0.88 in chips) 
+Seat 6: ana paula900 (€1.98 in chips) 
+burgoa89: posts small blind €0.01
+rejo1965: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 8h]
+JR.EWING433: calls €0.02
+Ab5tract10n: folds 
+ana paula900: folds 
+pipinoelbreve9: raises €0.06 to €0.08
+burgoa89: folds 
+rejo1965: folds 
+JR.EWING433: calls €0.06
+*** FLOP *** [8s 3c 3s]
+JR.EWING433: checks 
+pipinoelbreve9: bets €0.13
+JR.EWING433: folds 
+Uncalled bet (€0.13) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.18 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.19 | Rake €0.01 
+Board [8s 3c 3s]
+Seat 1: pipinoelbreve9 (button) collected (€0.18)
+Seat 2: burgoa89 (small blind) folded before Flop
+Seat 3: rejo1965 (big blind) folded before Flop
+Seat 4: JR.EWING433 folded on the Flop
+Seat 5: Ab5tract10n folded before Flop (didn't bet)
+Seat 6: ana paula900 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504819978:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:14:00 CET [2025/08/27 9:14:00 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: PulpitoBluff (€2.21 in chips) 
+Seat 2: marcooliveira99 (€0.92 in chips) 
+Seat 3: pipinoelbreve9 (€2 in chips) 
+Seat 4: FranciscoEvoraa (€1.94 in chips) 
+Seat 5: 2tortosa (€2.15 in chips) 
+Seat 6: danielpinto00 (€2.94 in chips) 
+marcooliveira99: posts small blind €0.01
+pipinoelbreve9: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6d Jc]
+FranciscoEvoraa: folds 
+2tortosa: folds 
+danielpinto00: folds 
+PulpitoBluff: folds 
+marcooliveira99: folds 
+Uncalled bet (€0.01) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.02 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 1: PulpitoBluff (button) folded before Flop (didn't bet)
+Seat 2: marcooliveira99 (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) collected (€0.02)
+Seat 4: FranciscoEvoraa folded before Flop (didn't bet)
+Seat 5: 2tortosa folded before Flop (didn't bet)
+Seat 6: danielpinto00 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504821568:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:14:11 CET [2025/08/27 9:14:11 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: caroleli10 (€2 in chips) 
+Seat 2: GamerVidal (€2.20 in chips) 
+Seat 3: FranciscoEvoraa (€1.93 in chips) 
+Seat 4: 77samuel33 (€2.24 in chips) 
+Seat 5: pipinoelbreve9 (€2.01 in chips) 
+Seat 6: 2tortosa (€2.23 in chips) 
+GamerVidal: posts small blind €0.01
+FranciscoEvoraa: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8s 6s]
+77samuel33: folds 
+pipinoelbreve9: folds 
+2tortosa: folds 
+caroleli10: folds 
+GamerVidal: raises €0.05 to €0.07
+FranciscoEvoraa: folds 
+Uncalled bet (€0.05) returned to GamerVidal
+GamerVidal collected €0.04 from pot
+GamerVidal: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: caroleli10 (button) folded before Flop (didn't bet)
+Seat 2: GamerVidal (small blind) collected (€0.04)
+Seat 3: FranciscoEvoraa (big blind) folded before Flop
+Seat 4: 77samuel33 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: 2tortosa folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504823304:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:14:24 CET [2025/08/27 9:14:24 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: SFT17 (€2 in chips) 
+Seat 2: pipinoelbreve9 (€2.01 in chips) 
+Seat 3: dreamer11111 (€4.38 in chips) 
+Seat 4: tiotios (€2 in chips) 
+Seat 5: FELIPE439 (€3.93 in chips) 
+Seat 6: ledecrypteur (€2.79 in chips) 
+pipinoelbreve9: posts small blind €0.01
+dreamer11111: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qc 9s]
+tiotios: folds 
+FELIPE439: raises €0.04 to €0.06
+ledecrypteur: folds 
+SFT17: folds 
+pipinoelbreve9: folds 
+dreamer11111: folds 
+Uncalled bet (€0.04) returned to FELIPE439
+FELIPE439 collected €0.05 from pot
+FELIPE439: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: SFT17 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) folded before Flop
+Seat 3: dreamer11111 (big blind) folded before Flop
+Seat 4: tiotios folded before Flop (didn't bet)
+Seat 5: FELIPE439 collected (€0.05)
+Seat 6: ledecrypteur folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504825589:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:14:42 CET [2025/08/27 9:14:42 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€2 in chips) 
+Seat 2: FELIPE439 (€2.71 in chips) 
+Seat 3: ripvppt (€1.35 in chips) 
+Seat 4: SFT17 (€2.05 in chips) 
+Seat 5: FranciscoEvoraa (€1.99 in chips) 
+Seat 6: Dude23323 (€1.99 in chips) 
+FELIPE439: posts small blind €0.01
+ripvppt: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [6s 7h]
+SFT17: folds 
+FranciscoEvoraa: folds 
+Dude23323: folds 
+pipinoelbreve9: raises €0.04 to €0.06
+FELIPE439: folds 
+ripvppt: folds 
+Uncalled bet (€0.04) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.05 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: pipinoelbreve9 (button) collected (€0.05)
+Seat 2: FELIPE439 (small blind) folded before Flop
+Seat 3: ripvppt (big blind) folded before Flop
+Seat 4: SFT17 folded before Flop (didn't bet)
+Seat 5: FranciscoEvoraa folded before Flop (didn't bet)
+Seat 6: Dude23323 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504828570:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:15:03 CET [2025/08/27 9:15:03 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: SFT17 (€2.06 in chips) 
+Seat 2: Skiiird (€2.10 in chips) 
+Seat 3: ledecrypteur (€2.75 in chips) 
+Seat 4: Utusuchaz (€6.40 in chips) 
+Seat 5: ma6as (€4.05 in chips) 
+Seat 6: pipinoelbreve9 (€2.03 in chips) 
+Skiiird: posts small blind €0.01
+ledecrypteur: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Jc Qs]
+Utusuchaz: folds 
+ma6as: raises €0.03 to €0.05
+pipinoelbreve9: calls €0.05
+SFT17: folds 
+Skiiird: calls €0.04
+ledecrypteur: folds 
+*** FLOP *** [6h 4c 2h]
+Skiiird: checks 
+ma6as: bets €0.11
+pipinoelbreve9: folds 
+Skiiird: folds 
+Uncalled bet (€0.11) returned to ma6as
+ma6as collected €0.16 from pot
+ma6as: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.17 | Rake €0.01 
+Board [6h 4c 2h]
+Seat 1: SFT17 (button) folded before Flop (didn't bet)
+Seat 2: Skiiird (small blind) folded on the Flop
+Seat 3: ledecrypteur (big blind) folded before Flop
+Seat 4: Utusuchaz folded before Flop (didn't bet)
+Seat 5: ma6as collected (€0.16)
+Seat 6: pipinoelbreve9 folded on the Flop
+
+
+
+PokerStars Zoom Hand #257504833048:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:15:36 CET [2025/08/27 9:15:36 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: pipinoelbreve9 (€2 in chips) 
+Seat 2: tiotios (€2.62 in chips) 
+Seat 3: lck.smfa (€1 in chips) 
+Seat 4: Utusuchaz (€5.10 in chips) 
+Seat 5: gelotes (€1.29 in chips) 
+Seat 6: 77samuel33 (€2.43 in chips) 
+tiotios: posts small blind €0.01
+lck.smfa: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [8d 5s]
+Utusuchaz: folds 
+gelotes: calls €0.02
+77samuel33: raises €0.09 to €0.11
+pipinoelbreve9: folds 
+tiotios: folds 
+lck.smfa: folds 
+gelotes: raises €1.18 to €1.29 and is all-in
+77samuel33: folds 
+Uncalled bet (€1.18) returned to gelotes
+gelotes collected €0.25 from pot
+gelotes: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: pipinoelbreve9 (button) folded before Flop (didn't bet)
+Seat 2: tiotios (small blind) folded before Flop
+Seat 3: lck.smfa (big blind) folded before Flop
+Seat 4: Utusuchaz folded before Flop (didn't bet)
+Seat 5: gelotes collected (€0.25)
+Seat 6: 77samuel33 folded before Flop
+
+
+
+PokerStars Zoom Hand #257504834616:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:15:48 CET [2025/08/27 9:15:48 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: GamerVidal (€3.10 in chips) 
+Seat 2: ma6as (€4.14 in chips) 
+Seat 3: pipinoelbreve9 (€2 in chips) 
+Seat 4: FELIPE439 (€2.56 in chips) 
+Seat 5: 13theNinja (€3.23 in chips) 
+Seat 6: FranciscoEvoraa (€2.05 in chips) 
+ma6as: posts small blind €0.01
+pipinoelbreve9: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [4s 6h]
+FELIPE439: folds 
+13theNinja: folds 
+FranciscoEvoraa: folds 
+GamerVidal: raises €0.04 to €0.06
+ma6as: folds 
+pipinoelbreve9: folds 
+Uncalled bet (€0.04) returned to GamerVidal
+GamerVidal collected €0.05 from pot
+GamerVidal: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: GamerVidal (button) collected (€0.05)
+Seat 2: ma6as (small blind) folded before Flop
+Seat 3: pipinoelbreve9 (big blind) folded before Flop
+Seat 4: FELIPE439 folded before Flop (didn't bet)
+Seat 5: 13theNinja folded before Flop (didn't bet)
+Seat 6: FranciscoEvoraa folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504833684:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:15:41 CET [2025/08/27 9:15:41 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: cris1966564 (€1.33 in chips) 
+Seat 2: ecuinas (€1.92 in chips) 
+Seat 3: tiotios (€2.61 in chips) 
+Seat 4: FELIPE439 (€3.95 in chips) 
+Seat 5: pipinoelbreve9 (€2 in chips) 
+Seat 6: ripvppt (€1.99 in chips) 
+ecuinas: posts small blind €0.01
+tiotios: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qd 5c]
+FELIPE439: folds 
+pipinoelbreve9: folds 
+ripvppt: raises €0.03 to €0.05
+cris1966564: calls €0.05
+ecuinas: calls €0.04
+tiotios: folds 
+*** FLOP *** [Ks 9c 4d]
+ecuinas: checks 
+ripvppt: checks 
+cris1966564: checks 
+*** TURN *** [Ks 9c 4d] [6c]
+ecuinas: bets €0.06
+ripvppt: folds 
+cris1966564: calls €0.06
+*** RIVER *** [Ks 9c 4d 6c] [6d]
+ecuinas: bets €0.18
+cris1966564: folds 
+Uncalled bet (€0.18) returned to ecuinas
+ecuinas collected €0.28 from pot
+ecuinas: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.01 
+Board [Ks 9c 4d 6c 6d]
+Seat 1: cris1966564 (button) folded on the River
+Seat 2: ecuinas (small blind) collected (€0.28)
+Seat 3: tiotios (big blind) folded before Flop
+Seat 4: FELIPE439 folded before Flop (didn't bet)
+Seat 5: pipinoelbreve9 folded before Flop (didn't bet)
+Seat 6: ripvppt folded on the Turn
+
+
+
+PokerStars Zoom Hand #257504836525:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:16:01 CET [2025/08/27 9:16:01 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: currutaca69 (€3.18 in chips) 
+Seat 2: pipinoelbreve9 (€2 in chips) 
+Seat 3: marcel13013 (€1.56 in chips) 
+Seat 4: FELIPE439 (€2.08 in chips) 
+Seat 5: SFT17 (€2.70 in chips) 
+Seat 6: burgoa89 (€1.95 in chips) 
+pipinoelbreve9: posts small blind €0.01
+marcel13013: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Qh 7c]
+FELIPE439: folds 
+SFT17: folds 
+burgoa89: folds 
+currutaca69: folds 
+pipinoelbreve9: raises €0.04 to €0.06
+marcel13013: folds 
+Uncalled bet (€0.04) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.04 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: currutaca69 (button) folded before Flop (didn't bet)
+Seat 2: pipinoelbreve9 (small blind) collected (€0.04)
+Seat 3: marcel13013 (big blind) folded before Flop
+Seat 4: FELIPE439 folded before Flop (didn't bet)
+Seat 5: SFT17 folded before Flop (didn't bet)
+Seat 6: burgoa89 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #257504839909:  Hold'em No Limit (€0.01/€0.02) - 2025/08/27 15:16:26 CET [2025/08/27 9:16:26 ET]
+Table 'Arneb' 6-max Seat #1 is the button
+Seat 1: 77samuel33 (€2.33 in chips) 
+Seat 2: tallesbertann (€4.33 in chips) 
+Seat 3: ma6as (€4.13 in chips) 
+Seat 4: pipinoelbreve9 (€2.02 in chips) 
+Seat 5: FELIPE439 (€2.54 in chips) 
+Seat 6: m.p.a.55 (€0.77 in chips) 
+tallesbertann: posts small blind €0.01
+ma6as: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to pipinoelbreve9 [Kh As]
+pipinoelbreve9: raises €0.04 to €0.06
+FELIPE439: folds 
+m.p.a.55: folds 
+77samuel33: calls €0.06
+tallesbertann: folds 
+ma6as: folds 
+*** FLOP *** [Ad 2d 4h]
+pipinoelbreve9: bets €0.04
+77samuel33: folds 
+Uncalled bet (€0.04) returned to pipinoelbreve9
+pipinoelbreve9 collected €0.14 from pot
+pipinoelbreve9: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0.01 
+Board [Ad 2d 4h]
+Seat 1: 77samuel33 (button) folded on the Flop
+Seat 2: tallesbertann (small blind) folded before Flop
+Seat 3: ma6as (big blind) folded before Flop
+Seat 4: pipinoelbreve9 collected (€0.14)
+Seat 5: FELIPE439 folded before Flop (didn't bet)
+Seat 6: m.p.a.55 folded before Flop (didn't bet)
+
+
+
